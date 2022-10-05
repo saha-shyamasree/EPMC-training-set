@@ -1,0 +1,8 @@
+id,group_id,source,exact,prefix,suffix,anno_type,position_type,start,end,tags,all,origin_tags,comment,user,title,created
+bq7SLLKgEemOrXdOWv_4xA,jgraPEon,https://europepmc.org/articles/PMC4964887/,dep,"h the deposition temperature (T
+","), tracer exposure temperature (",TextQuoteSelector,TextPositionSelector,14060,14063,WT_GP,yes,[WT_GP][ALL],,acct:farheen.s@hypothes.is,Apparent Oxygen Uphill Diffusion in La0.8Sr0.2MnO3 Thin Films upon Cathodic Polarization.,2019-07-30T08:02:53.103851+00:00
+aV7BarKgEem7c8_EWzt_Ug,jgraPEon,https://europepmc.org/articles/PMC4964887/,El1,"
+I/A [Acm−2]
+18O fraction in YSZ","600600300/2819.00×10−4
+0.010El26",TextQuoteSelector,TextPositionSelector,14519,14522,WT_GP,yes,[WT_GP][ALL],,acct:farheen.s@hypothes.is,Apparent Oxygen Uphill Diffusion in La0.8Sr0.2MnO3 Thin Films upon Cathodic Polarization.,2019-07-30T08:02:43.997912+00:00
+X5XNBLKgEem1o6dv9W_yyA,jgraPEon,https://europepmc.org/articles/PMC4964887/,defect ,sport but also the relevance of ,concentration gradients for oxyg,TextQuoteSelector,TextPositionSelector,11468,11475,WT_DS,yes,[WT_DS][ALL],,acct:farheen.s@hypothes.is,Apparent Oxygen Uphill Diffusion in La0.8Sr0.2MnO3 Thin Films upon Cathodic Polarization.,2019-07-30T08:02:27.670645+00:00

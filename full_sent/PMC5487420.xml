@@ -1,0 +1,675 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v2.3 20070202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing.dtd?><?SourceDTD.Version 2.3?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Front Mol Neurosci</journal-id><journal-id journal-id-type="iso-abbrev">Front Mol Neurosci</journal-id><journal-id journal-id-type="publisher-id">Front. Mol. Neurosci.</journal-id><journal-title-group><journal-title>Frontiers in Molecular Neuroscience</journal-title></journal-title-group><issn pub-type="epub">1662-5099</issn><publisher><publisher-name>Frontiers Media S.A.</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5487420</article-id><article-id pub-id-type="doi">10.3389/fnmol.2017.00201</article-id><article-categories><subj-group subj-group-type="heading"><subject>Neuroscience</subject><subj-group><subject>Original Research</subject></subj-group></subj-group></article-categories><title-group><article-title><SecTag type="TITLE"><text><SENT sid="0" pm="."><plain>Striatal Transcriptome and Interactome Analysis of Shank3-overexpressing Mice Reveals the Connectivity between Shank3 and mTORC1 Signaling </plain></SENT>
+</text></SecTag></article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Lee</surname><given-names>Yeunkum</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="aff" rid="aff2"><sup>2</sup></xref><uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/286138/overview"/></contrib><contrib contrib-type="author"><name><surname>Kim</surname><given-names>Sun Gyun</given-names></name><xref ref-type="aff" rid="aff3"><sup>3</sup></xref></contrib><contrib contrib-type="author"><name><surname>Lee</surname><given-names>Bokyoung</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/425819/overview"/></contrib><contrib contrib-type="author"><name><surname>Zhang</surname><given-names>Yinhua</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="aff" rid="aff2"><sup>2</sup></xref><uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/416090/overview"/></contrib><contrib contrib-type="author"><name><surname>Kim</surname><given-names>Yoonhee</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Kim</surname><given-names>Shinhyun</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib><contrib contrib-type="author"><name><surname>Kim</surname><given-names>Eunjoon</given-names></name><xref ref-type="aff" rid="aff3"><sup>3</sup></xref><xref ref-type="aff" rid="aff4"><sup>4</sup></xref><uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/953/overview"/></contrib><contrib contrib-type="author"><name><surname>Kang</surname><given-names>Hyojin</given-names></name><xref ref-type="aff" rid="aff5"><sup>5</sup></xref><xref ref-type="author-notes" rid="fn001"><sup>*</sup></xref><uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/394507/overview"/></contrib><contrib contrib-type="author"><name><surname>Han</surname><given-names>Kihoon</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="aff" rid="aff2"><sup>2</sup></xref><xref ref-type="author-notes" rid="fn001"><sup>*</sup></xref><uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/214498/overview"/></contrib></contrib-group><aff id="aff1"><sup>1</sup><institution>Department of Neuroscience, College of Medicine, Korea University</institution><country>Seoul, South Korea</country></aff><aff id="aff2"><sup>2</sup><institution>Department of Biomedical Sciences, College of Medicine, Korea University</institution><country>Seoul, South Korea</country></aff><aff id="aff3"><sup>3</sup><institution>Center for Synaptic Brain Dysfunctions, Institute for Basic Science (IBS)</institution><country>Daejeon, South Korea</country></aff><aff id="aff4"><sup>4</sup><institution>Department of Biological Sciences, Korea Advanced Institute of Science and Technology (KAIST)</institution><country>Daejeon, South Korea</country></aff><aff id="aff5"><sup>5</sup><institution>HPC-enabled Convergence Technology Research Division, Korea Institute of Science and Technology Information</institution><country>Daejeon, South Korea</country></aff><author-notes><fn fn-type="edited-by"><p><text><SENT sid="1" pm="."><plain>Edited by: Michael R. </plain></SENT>
+<SENT sid="2" pm="."><plain>Kreutz, Leibniz Institute for Neurobiology, Germany </plain></SENT>
+</text></p></fn><fn fn-type="edited-by"><p><text><SENT sid="3" pm="."><plain>Reviewed by: Andreas Martin Grabrucker, University of Limerick, Ireland; Michael J. </plain></SENT>
+<SENT sid="4" pm="."><plain>Schmeisser, Otto-von-Guericke University Magdeburg, Germany; Chiara Verpelli, Istituto di Neuroscienze (CNR), Italy </plain></SENT>
+</text></p></fn><corresp id="fn001">*Correspondence: Hyojin Kang <email xlink:type="simple">hjkang.kr@gmail.com</email> Kihoon Han <email xlink:type="simple">neurohan@korea.ac.kr</email></corresp></author-notes><pub-date pub-type="epub"><day>28</day><month>6</month><year>2017</year></pub-date><pub-date pub-type="collection"><year>2017</year></pub-date><volume>10</volume><elocation-id>201</elocation-id><history><date date-type="received"><day>26</day><month>4</month><year>2017</year></date><date date-type="accepted"><day>08</day><month>6</month><year>2017</year></date></history><permissions><copyright-statement>Copyright © 2017 Lee, Kim, Lee, Zhang, Kim, Kim, Kim, Kang and Han.</copyright-statement><copyright-year>2017</copyright-year><copyright-holder>Lee, Kim, Lee, Zhang, Kim, Kim, Kim, Kang and Han</copyright-holder><license xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p></license></permissions><abstract><p><SecTag type="ABS"><text><SENT sid="5" pm="."><plain>Mania causes symptoms of hyperactivity, impulsivity, elevated mood, reduced anxiety and decreased need for sleep, which suggests that the dysfunction of the striatum, a critical component of the brain motor and reward system, can be causally associated with mania. </plain></SENT>
+<SENT sid="6" pm="."><plain>However, detailed molecular pathophysiology underlying the striatal dysfunction in mania remains largely unknown. </plain></SENT>
+<SENT sid="7" pm="."><plain>In this study, we aimed to identify the molecular pathways showing alterations in the striatum of SH3 and multiple ankyrin repeat domains 3 (Shank3)-overexpressing transgenic (TG) mice that display manic-like behaviors. </plain></SENT>
+<SENT sid="8" pm="."><plain>The results of transcriptome analysis suggested that mammalian target of rapamycin complex 1 (mTORC1) signaling may be the primary molecular signature altered in the Shank3 TG striatum. </plain></SENT>
+<SENT sid="9" pm="."><plain>Indeed, we found that striatal mTORC1 activity, as measured by mTOR S2448 phosphorylation, was significantly decreased in the Shank3 TG mice compared to wild-type (WT) mice. </plain></SENT>
+<SENT sid="10" pm="."><plain>To elucidate the potential underlying mechanism, we re-analyzed previously reported protein interactomes, and detected a high connectivity between Shank3 and several upstream regulators of mTORC1, such as tuberous sclerosis 1 (TSC1), TSC2 and Ras homolog enriched in striatum (Rhes), via 94 common interactors that we denominated “Shank3-mTORC1 interactome”. </plain></SENT>
+<SENT sid="11" pm="."><plain>We noticed that, among the 94 common interactors, 11 proteins were related to actin filaments, the level of which was increased in the dorsal striatum of Shank3 TG mice. </plain></SENT>
+<SENT sid="12" pm="."><plain>Furthermore, we could co-immunoprecipitate Shank3, Rhes and Wiskott-Aldrich syndrome protein family verprolin-homologous protein 1 (WAVE1) proteins from the striatal lysate of Shank3 TG mice. </plain></SENT>
+<SENT sid="13" pm="."><plain>By comparing with the gene sets of psychiatric disorders, we also observed that the 94 proteins of Shank3-mTORC1 interactome were significantly associated with bipolar disorder (BD). </plain></SENT>
+<SENT sid="14" pm="."><plain>Altogether, our results suggest a protein interaction-mediated connectivity between Shank3 and certain upstream regulators of mTORC1 that might contribute to the abnormal striatal mTORC1 activity and to the manic-like behaviors of Shank3 TG mice. </plain></SENT>
+</text></SecTag></p></abstract><SecTag type="KEYWORD"><kwd-group><kwd><italic>Shank3</italic></kwd><kwd>mTORC1</kwd><kwd>striatum</kwd><kwd>mania</kwd><kwd>Rhes</kwd></kwd-group></SecTag><funding-group><award-group><funding-source id="cn001">National Research Foundation of Korea<named-content content-type="fundref-id">10.13039/501100003725</named-content></funding-source><award-id rid="cn001">NRF-2015R1C1A1A01052794, NRF-2015M3C7A1028790</award-id></award-group><award-group><funding-source id="cn002">Korea Health Industry Development Institute<named-content content-type="fundref-id">10.13039/501100003710</named-content></funding-source><award-id rid="cn002">HI16C0090</award-id></award-group><award-group><funding-source id="cn003">Korea Institute of Science and Technology Information<named-content content-type="fundref-id">10.13039/501100003708</named-content></funding-source><award-id rid="cn003">K-17-L03-C02-S01</award-id></award-group></funding-group><counts><fig-count count="4"/><table-count count="0"/><equation-count count="0"/><ref-count count="87"/><page-count count="14"/><word-count count="11016"/></counts></article-meta></front><body><SecTag type="INTRO"><sec sec-type="introduction" id="s1"><title><text><SENT sid="15" pm="."><plain>Introduction </plain></SENT>
+</text></title><p><text><SENT sid="16" pm="."><plain>Bipolar disorder (BD), characterized by recurrent mood swings between depression and mania, is a highly heritable and chronic mental illness that affects approximately 2.5% of the population worldwide (Merikangas et al., 2011). </plain></SENT>
+<SENT sid="17" pm="."><plain>Manic episodes are the defining feature of BD, and manic symptoms include hyperactivity, impulsivity, elevated mood, reduced anxiety and decreased need for sleep (Grande et al., 2016). </plain></SENT>
+<SENT sid="18" pm="."><plain>These core symptoms suggest that a dysfunction of the striatum, the key component of the brain motor and reward systems, may be involved in the pathogenesis of manic disorder. </plain></SENT>
+<SENT sid="19" pm="."><plain>This hypothesis is supported by structural and functional abnormalities observed in the striatum of the patients with BD (Strakowski et al., 1999; Blumberg et al., 2003; Wessa et al., 2007). </plain></SENT>
+<SENT sid="20" pm="."><plain>However, the detailed molecular pathophysiology underlying striatal dysfunction in mania remains largely unknown. </plain></SENT>
+</text></p><p><text><SENT sid="21" pm="."><plain>The mammalian target of rapamycin (mTOR) pathway integrates various external signals and controls diverse cellular processes including translation, apoptosis, autophagy and energy metabolism (Laplante and Sabatini, 2012). </plain></SENT>
+<SENT sid="22" pm="."><plain>The serine/threonine kinase mTOR forms two protein complexes, mTOR complex 1 (mTORC1) and mTORC2, which have different subunit compositions and cellular functions. </plain></SENT>
+<SENT sid="23" pm="."><plain>The heterodimeric complex of tuberous sclerosis 1 (TSC1) and TSC2 is a critical upstream regulator of mTORC1 that functions as a guanosine triphosphatase (GTPase)-activating protein (GAP) for the small GTPase Ras homolog enriched in brain (Rheb; Huang and Manning, 2008). </plain></SENT>
+<SENT sid="24" pm="."><plain>As the active (GTP-bound) form of Rheb directly binds and activates mTORC1, TSC1/TSC2 complex is a negative regulator of mTORC1 pathway. </plain></SENT>
+<SENT sid="25" pm="."><plain>In the striatum, Ras homolog enriched in striatum (Rhes, encoded by Rasd2 gene), a small GTPase highly enriched in the striatal medium spiny neurons (MSNs), has roles similar to Rheb in directly binding and activating mTORC1 in a GTP-dependent manner (Subramaniam et al., 2011). </plain></SENT>
+<SENT sid="26" pm="."><plain>The activity of Rhes is regulated by Ras guanyl releasing protein 1 (RasGRP1), a guanine nucleotide exchange factor (GEF), in the striatum (Shahani et al., 2016). </plain></SENT>
+</text></p><p><text><SENT sid="27" pm="."><plain>In the brain, the mTOR pathway is involved in various aspects of neuronal development and function including dendrite formation, axonal elongation and synapse formation and plasticity (Hoeffer and Klann, 2010; Takei and Nawa, 2014). </plain></SENT>
+<SENT sid="28" pm="."><plain>This pathway has critical roles in normal brain function, as abnormalities in the expression and/or activity of its upstream and downstream components have been identified in numerous neurodevelopmental and neuropsychiatric disorders, including autism spectrum disorders (ASDs), drug addiction, intellectual disability (ID), major depressive disorder (MDD), and schizophrenia (SCZ; Costa-Mattioli and Monteggia, 2013). </plain></SENT>
+<SENT sid="29" pm="."><plain>Specifically, it has been shown that mTORC1 pathway is compromised in the prefrontal cortex of patients with MDD (Jernigan et al., 2011). </plain></SENT>
+<SENT sid="30" pm="."><plain>Furthermore, the therapeutic efficacy of a fast-acting antidepressant ketamine is dependent on the activation of mTORC1 pathway that increases the synthesis of excitatory synaptic proteins (such as PSD-95 and glutamate receptors) and the number of dendritic spines in the prefrontal cortex (Li et al., 2010; Abdallah et al., 2015). </plain></SENT>
+<SENT sid="31" pm="."><plain>However, potential alterations of the mTOR pathway in the striatum of the patients with mania have been scarcely investigated. </plain></SENT>
+</text></p><p><text><SENT sid="32" pm="."><plain>Several pharmacological and genetic rodent models of mania have been generated and characterized, and these, even with some limitations, have provided important insights towards understanding the pathogenic mechanisms in mania (Chen G. et al., 2010; Kato et al., 2016; Logan and McClung, 2016). </plain></SENT>
+<SENT sid="33" pm="."><plain>We recently reported that EGFP-Shank3 (SH3 and multiple ankyrin repeat domains 3)-overexpressing transgenic (TG) mice display manic-like behaviors at the adult stage (8 to 12-week-old), such as locomotor hyperactivity, hypersensitivity to amphetamine, increased acoustic startle response, reduced prepulse inhibition and abnormal circadian rhythms. </plain></SENT>
+<SENT sid="34" pm="."><plain>Although some of the behavioral abnormalities of Shank3 TG mice could also be observed in mice modeling other disorders such as ASDs and SCZ, the Shank3 TG mice responded to valproic acid, a Food and Drug Administration (FDA)-approved drug for the treatment of manic or mixed episodes in BD (Han et al., 2013b). </plain></SENT>
+<SENT sid="35" pm="."><plain>The Shank3 TG mice mildly overexpress Shank3 proteins (by approximately 50%) compared to wild-type (WT) mice, and thus, could potentially model human patients with SHANK3 gene duplications who usually have an additional copy of SHANK3 gene. </plain></SENT>
+<SENT sid="36" pm="."><plain>Indeed, we could also identify several patients with SHANK3 gene duplications who were diagnosed with mania-like hyperkinetic disorders (Han et al., 2013b). </plain></SENT>
+<SENT sid="37" pm="."><plain>These results altogether support the construct, face and predictive validity (Nestler and Hyman, 2010) of Shank3 TG mice to model human mania. </plain></SENT>
+<SENT sid="38" pm="."><plain>However, importantly, it needs to be validated whether the SHANK3 duplication patients with mania-like hyperkinetic disorders indeed express higher Shank3 protein levels. </plain></SENT>
+<SENT sid="39" pm="."><plain>It is also notable that SHANK3 duplications have been identified in patients with some other disorders including Asperger’s syndrome, SCZ, and attention deficit hyperactivity disorder (ADHD; Durand et al., 2007; Failla et al., 2007; Moessner et al., 2007). </plain></SENT>
+<SENT sid="40" pm="."><plain>In addition to the behavioral phenotypes, we also showed abnormalities of synaptic actin cytoskeleton and dendritic spines in the hippocampus of Shank3 TG mice (Han et al., 2013b). </plain></SENT>
+<SENT sid="41" pm="."><plain>Nevertheless, the hippocampus might not be the primary brain region mediating manic-like behaviors of Shank3 TG mice, especially considering that Shank3 is enriched in the striatum compared to other brain regions (Peça et al., 2011; Monteiro and Feng, 2017). </plain></SENT>
+<SENT sid="42" pm="."><plain>Moreover, the identity of downstream signaling pathways that may be affected by altered synaptic actin cytoskeleton in Shank3 TG mice remains uninvestigated. </plain></SENT>
+</text></p><p><text><SENT sid="43" pm="."><plain>SHANK3 (also called ProSAP2 for proline-rich synapse-associated protein 2) gene encodes a core scaffold protein organizing the macromolecular protein complex of the neuronal excitatory postsynapse (Sheng and Kim, 2000; Dosemeci et al., 2016). </plain></SENT>
+<SENT sid="44" pm="."><plain>In addition to duplications, deletions and various point mutations of SHANK3 gene have been causally associated with ASDs, ID and SCZ (Durand et al., 2007; Gauthier et al., 2010; Grabrucker et al., 2011; Jiang and Ehlers, 2013; Guilmatre et al., 2014; Leblond et al., 2014; Choi et al., 2015; Monteiro and Feng, 2017). </plain></SENT>
+<SENT sid="45" pm="."><plain>Notably, several studies investigating Shank3 knock-out (KO) mice and Shank3 knock-down in neurons revealed that the loss of Shank3 expression results in changes of specific signaling pathways such as metabotropic glutamate receptor 5 (mGluR5) signaling (Verpelli et al., 2011; Wang et al., 2016; Vicidomini et al., 2017), and protein kinase B (PKB/Akt)-mTOR signaling (Bidinosti et al., 2016). </plain></SENT>
+<SENT sid="46" pm="."><plain>Moreover, pharmacological treatments (mGluR5 modulators, insulin-like growth factor 1 (IGF1), or Cdc2-like kinase 2 (CLK2) inhibitor) targeting these pathways recued both synaptic and behavioral abnormalities caused by the loss of Shank3 expression (Bozdagi et al., 2013; Shcheglovitov et al., 2013; Bidinosti et al., 2016; Wang et al., 2016; Vicidomini et al., 2017). </plain></SENT>
+<SENT sid="47" pm="."><plain>Therefore, it is conceivable that such signaling pathways might also be altered especially in the striatum of Shank3 TG mice, which could potentially provide an insight into the molecular pathophysiology underlying the striatal dysfunction in manic-like behaviors. </plain></SENT>
+</text></p><p><text><SENT sid="48" pm="."><plain>To address this issue, in this study, we performed a transcriptome (RNA sequencing) analysis on the striatal tissue of adult WT and Shank3 TG mice, the results of which suggested mTORC1 signaling as the primary molecular signature affected by Shank3 overexpression. </plain></SENT>
+<SENT sid="49" pm="."><plain>Based on the transcriptome analysis, we examined mTORC1 activity in the striatum of Shank3 TG mice and found that it was decreased compared to that in WT mice. </plain></SENT>
+<SENT sid="50" pm="."><plain>To understand the potential underlying mechanisms, we re-analyzed the previously reported protein interactome data, which revealed that 94 interactors were shared between Shank3 and upstream regulators of mTORC1 (TSC1, TSC2 and Rhes). </plain></SENT>
+<SENT sid="51" pm="."><plain>Moreover, we found that several of the 94 common interactors were involved in regulating actin filaments (F-actin), the amount of which was increased in the dorsal striatum of Shank3 TG mice. </plain></SENT>
+<SENT sid="52" pm="."><plain>By performing a comparison with the disease-associated gene sets, we found that these 94 common interactors were significantly associated with BD and SCZ, but not ASDs. </plain></SENT>
+<SENT sid="53" pm="."><plain>Altogether, our results suggest a protein interaction-mediated connectivity between Shank3 and certain upstream regulators of mTORC1 that might contribute to the abnormal striatal mTORC1 activity and, at least in part, to the manic-like behaviors of Shank3 TG mice. </plain></SENT>
+</text></p></sec></SecTag><SecTag type="METHODS"><sec sec-type="materials and methods" id="s2"><title><text><SENT sid="54" pm="."><plain>Materials and Methods </plain></SENT>
+</text></title><sec id="s2-1"><title><text><SENT sid="55" pm="."><plain>Mice </plain></SENT>
+</text></title><p><text><SENT sid="56" pm="."><plain>The enhanced green fluorescent protein (EGFP)-Shank3 TG mice used in this study have been described previously (Han et al., 2013b; Lee B. et al., 2017; Lee Y. et al., 2017). </plain></SENT>
+<SENT sid="57" pm="."><plain>The WT and Shank3 TG mice were bred and maintained on a C57BL/6J background according to the Korea University College of Medicine Research Requirements, and all procedures were approved by the Committees on Animal Research at Korea University College of Medicine (KOREA-2016-0096). </plain></SENT>
+<SENT sid="58" pm="."><plain>The mice were fed ad libitum and housed under a 12-h light-dark cycle. </plain></SENT>
+</text></p></sec><sec id="s2-2"><title><text><SENT sid="59" pm="."><plain>RNA Sequencing and Analysis </plain></SENT>
+</text></title><p><text><SENT sid="60" pm="."><plain>The mice (12-week-old male WT and Shank3 TG, three mice per genotype) were deeply anesthetized with isoflurane and decapitated. </plain></SENT>
+<SENT sid="61" pm="."><plain>The striatum was dissected from each brain using a brain matrix, immediately placed in RNAlater solution (Ambion), and stored at 4°C overnight. </plain></SENT>
+<SENT sid="62" pm="."><plain>RNA extraction, library preparation, cluster generation, and sequencing were performed by Macrogen Inc. </plain></SENT>
+<SENT sid="63" pm="."><plain>(Seoul, Korea). </plain></SENT>
+<SENT sid="64" pm="."><plain>RNA samples for sequencing were prepared using a TruSeq RNA Sample Prep Kit v2 (Illumina) according to the manufacturer’s instructions. </plain></SENT>
+<SENT sid="65" pm="."><plain>An Illumina’s HiSeq 2000 was used for sequencing to generate 101-bp paired-end reads (Supplementary Table S1). </plain></SENT>
+<SENT sid="66" pm="."><plain>Raw data were submitted to the Gene Expression Omnibus (GEO) repository with accession GSE97544. </plain></SENT>
+</text></p><p><text><SENT sid="67" pm="."><plain>Pre-processing of raw reads was carried out using Trimmomatic (Bolger et al., 2014) (version 0.35, options: LEADING:3 TRAILING:3 MAXINFO:80:0.4 MINLEN:36), and the trimmed reads were mapped to the Mus musculus genome (GRCm38) using TopHat2 (Kim D. et al., 2013; version 2.1.0, default options). </plain></SENT>
+<SENT sid="68" pm="."><plain>The gene-level read counts were calculated from the aligned reads using HTSeq Python package (Anders et al., 2015). </plain></SENT>
+<SENT sid="69" pm="."><plain>Differential gene expression analysis was performed using DEseq2 package in R/Bioconductor (Love et al., 2014). </plain></SENT>
+<SENT sid="70" pm="."><plain>Normalized read counts were computed by dividing the raw read counts by size factors and fitted to a negative binomial distribution. </plain></SENT>
+<SENT sid="71" pm="."><plain>The P values were first corrected by applying an empirical estimation of the null distribution using the R fdrtool (v.1.2.15) package and then adjusted for multiple testing with the Benjamini–Hochberg correction. </plain></SENT>
+<SENT sid="72" pm="."><plain>Genes with an adjusted P value of less than 0.05 were considered as differentially expressed. </plain></SENT>
+</text></p><p><text><SENT sid="73" pm="."><plain>Gene Set Enrichment Analysis (GSEA1; Subramanian et al., 2005) was used to determine whether a priori-defined gene sets would show statistically significant differences in expression between Shank3 TG and WT mice. </plain></SENT>
+<SENT sid="74" pm="."><plain>Enrichment analysis was performed using GSEAPreranked (gsea2-2.2.2.jar) module on gene set collections H (Hallmark gene sets; 50 gene sets) downloaded from Molecular Signature Database (MSigDB) v5.12. </plain></SENT>
+<SENT sid="75" pm="."><plain>Additionally, GSEA analysis was performed by using the sets of genes associated with psychiatric disease from the Psychiatric disorders Gene association NETwork (PsyGeNET) database (last update: Sept., 2016; Gutierrez-Sacristan et al., 2015). </plain></SENT>
+<SENT sid="76" pm="."><plain>GSEAPreranked was applied using the list of all genes expressed, ranked by the fold change and multiplied by the inverse of the P value with recommended default settings (1000 permutations and a classic scoring scheme). </plain></SENT>
+<SENT sid="77" pm="."><plain>The False Discovery Rate (FDR) was estimated to control the false positive finding of a given Normalized Enrichment Score (NES) by comparing the tails of the observed and null distributions derived from 1000 gene set permutations. </plain></SENT>
+<SENT sid="78" pm="."><plain>The gene sets with an FDR of less than 0.05 were considered as significantly enriched. </plain></SENT>
+</text></p></sec><sec id="s2-3"><title><text><SENT sid="79" pm="."><plain>Construction of Interactome Network </plain></SENT>
+</text></title><p><text><SENT sid="80" pm="."><plain>To build an interaction network, the sets of Shank3 (Han et al., 2013b), TSC1/TSC2 (Sakai et al., 2011) and Rhes (Shahani et al., 2016) interactomes were adopted. </plain></SENT>
+<SENT sid="81" pm="."><plain>The network graphics were generated using Cytoscape (Shannon et al., 2003). </plain></SENT>
+<SENT sid="82" pm="."><plain>To simplify the network, orphan nodes, defined as the nodes connecting with only one of the hub proteins (Shank3, TSC1/TSC2 and Rhes), were excluded from the graphics. </plain></SENT>
+</text></p></sec><sec id="s2-4"><title><text><SENT sid="83" pm="."><plain>Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) Pathway Analysis </plain></SENT>
+</text></title><p><text><SENT sid="84" pm="."><plain>The Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway analyses were performed using DAVID software (version 6.8; Huang Da et al., 2009). </plain></SENT>
+<SENT sid="85" pm="."><plain>The set of 94 genes from Shank3-mTORC1 interactome was tested against a customized background of the entire mouse genome. </plain></SENT>
+<SENT sid="86" pm="."><plain>Mouse gene names were converted to human homologs using the Mouse Genome Informatics (MGI) database3. </plain></SENT>
+</text></p></sec><sec id="s2-5"><title><text><SENT sid="87" pm="."><plain>Disease Association Analysis </plain></SENT>
+</text></title><p><text><SENT sid="88" pm="."><plain>Gene-disease association data were retrieved from the PsyGeNET (Gutierrez-Sacristan et al., 2015) and Disease gene association NETwork (DisGeNET) databases (Piñero et al., 2015; last update: Sept., 2016). </plain></SENT>
+<SENT sid="89" pm="."><plain>PsyGeNET database contains information relevant to psychiatric diseases and their associated genes integrated from the DisGeNET (Piñero et al., 2017) database, and data extracted from the literature by text mining, and further curated by the experts in the domain. </plain></SENT>
+<SENT sid="90" pm="."><plain>Additionally, the genes associated with the risk for ASD were obtained from the Simons Foundation Autism Research Initiative (SFARI) database (syndromic and category 3 or above4). </plain></SENT>
+<SENT sid="91" pm="."><plain>The enrichment of disease-associated genes was tested using the hypergeometric distribution test. </plain></SENT>
+<SENT sid="92" pm="."><plain>Hypergeometric P values were calculated using the phyper (q: overlapped genes-1, m: Shank3-mTORC1 interactome, n: protein-coding genes in The HUGO Gene Nomenclature Committee (HGNC)—m, k: disease associated genes) function in R package, and were adjusted for multiple testing with the Benjamini and Hochberg test, as implemented in the Bioconductor’s q value package. </plain></SENT>
+<SENT sid="93" pm="."><plain>Diseases with adjusted P values of less than 0.05 were considered as statistically significantly enriched. </plain></SENT>
+</text></p></sec><sec id="s2-6"><title><text><SENT sid="94" pm="."><plain>RNA Purification and qRT-PCR </plain></SENT>
+</text></title><p><text><SENT sid="95" pm="."><plain>Real-time quantitative reverse transcription PCR (qRT-PCR) was performed as described previously (Han et al., 2013a; Kim et al., 2016; Lee B. et al., 2017). </plain></SENT>
+<SENT sid="96" pm="."><plain>Briefly, total RNA was extracted from the striatum of 12-week-old mice using a miRNeasy minikit (Qiagen) according to the manufacturer’s instructions. </plain></SENT>
+<SENT sid="97" pm="."><plain>Two micrograms of total RNA were used for cDNA synthesis using iScriptTM cDNA Synthesis Kit (Bio-Rad). </plain></SENT>
+<SENT sid="98" pm="."><plain>Target mRNAs were detected and quantified by a real-time PCR instrument (CFX96 Touch, Bio-Rad) using SYBR Green master mix (Bio-Rad). </plain></SENT>
+<SENT sid="99" pm="."><plain>The results were analyzed using the comparative Ct method normalized against the housekeeping gene Gapdh. </plain></SENT>
+<SENT sid="100" pm="."><plain>The primer sequences for real-time PCR are as follows: Mouse Shank3 forward 5′ TGGTTGGCAAGAGATCCAT 3′,   reverse 5′ TTGGCCCCATAGAACAAAAG 3′Mouse Gpr85 forward 5′ ATGCAGCCGACAACATTTTGC 3′,   reverse 5′ CAGGTGGAGCCATTTTTGACA 3′Mouse Clic6 forward 5′ CTCTGGGTTAGACTCTCAGGG 3′,   reverse 5′ GGTGCCTCTGTGTCCATGTT 3′Mouse Plk5 forward 5′ CGGCACCCTTGTCAGAGATG 3′,   reverse 5′ TGGGGGAAAGGCAAACACAG 3′Mouse Gapdh forward 5′ GGCATTGCTCTCAATGACAA 3′,   reverse 5′ CCCTGTTGCTGTAGCCGTAT 3′ </plain></SENT>
+</text></p></sec><sec id="s2-7"><title><text><SENT sid="101" pm="."><plain>Biochemistry and Antibodies for Western Blotting </plain></SENT>
+</text></title><p><text><SENT sid="102" pm="."><plain>Whole lysates of the mouse brain were prepared as described previously (Han et al., 2009, 2015). </plain></SENT>
+<SENT sid="103" pm="."><plain>Briefly, the striatum and hippocampus of 12-week-old mice were homogenized in RIPA buffer (50 mM Tris-HCl pH 8.0, 150 mM NaCl, 0.1% SDS, 1% Triton X-100, 0.5% sodium deoxycholate) with freshly added protease and phosphatase inhibitors (Roche). </plain></SENT>
+<SENT sid="104" pm="."><plain>Protein concentration was measured using Bradford Protein Assay (Bio-Rad). </plain></SENT>
+<SENT sid="105" pm="."><plain>Brain lysates were heated in 1x NuPAGE LDS sample buffer (Invitrogen) containing a 1x NuPAGE reducing agent (Invitrogen). </plain></SENT>
+<SENT sid="106" pm="."><plain>From each sample, 10~20 μg of proteins were loaded for Western blotting. </plain></SENT>
+<SENT sid="107" pm="."><plain>Immunoprecipitation (IP) was performed as described previously (Han et al., 2013b; Lee Y. et al., 2017). </plain></SENT>
+<SENT sid="108" pm="."><plain>The GFP-Trap beads (ChromoTek) were used to pull down EGFP-Shank3 proteins and their interactors. </plain></SENT>
+<SENT sid="109" pm="."><plain>The antibodies used for Western blotting were Gapdh (Cell Signaling, #2118), GFP (NeuroMAb, #75-131), Homer1b/c (Santa Cruz, sc-20807), Rhes (Millipore, ABN31), Shank3 (Santa Cruz Biotechnology, sc-30193), phospho-mTOR (S2448, Cell Signaling, #2971), mTOR (Cell Signaling, #2983), and WAVE1 (NeuroMab, 75-048). </plain></SENT>
+<SENT sid="110" pm="."><plain>Western blot images were acquired by ChemiDoc Touch Imaging System (Bio-Rad) and quantified using ImageJ software. </plain></SENT>
+</text></p></sec><sec id="s2-8"><title><text><SENT sid="111" pm="."><plain>Immunohistochemistry and Image Analysis </plain></SENT>
+</text></title><p><text><SENT sid="112" pm="."><plain>For each immunohistochemistry (IHC) experiment, 5–7 pairs of 12-week-old WT and Shank3 TG mice from at least three different litters were used. </plain></SENT>
+<SENT sid="113" pm="."><plain>The mice were deeply anesthetized with isoflurane and transcardially perfused with heparinized (20 units/ml) phosphate-buffered saline (PBS) followed by 4% paraformaldehyde (PFA) in PBS. </plain></SENT>
+<SENT sid="114" pm="."><plain>Brains were extracted and post-fixed in 4% PFA overnight. </plain></SENT>
+<SENT sid="115" pm="."><plain>After post-fixation, the brains were washed with PBS and cryoprotected with 30% sucrose in PBS for 48 h. </plain></SENT>
+<SENT sid="116" pm="."><plain>Brains were frozen in O.C.T compound (SAKURA Tissue-Tek, 4583) and sectioned (60 μm) using a cryostat microtome (Leica, CM3050S). </plain></SENT>
+<SENT sid="117" pm="."><plain>For each staining set, two sections were randomly selected from each mouse at a similar anterior posterior level. </plain></SENT>
+<SENT sid="118" pm="."><plain>The following antibodies were used: GFP (Abcam, ab290, 1:500), neuronal nuclei (NeuN; Millipore, MAB377, 1:1000), rhodamine phalloidin (Molecular Probes, R415, 1 unit/200 μl), and Alexa Fluor-conjugated secondary antibodies (Jackson Immunoresearch, 111-585-003 and 115-585-003, 1:500). </plain></SENT>
+<SENT sid="119" pm="."><plain>Confocal microscopy (Zeiss, LSM800) was used to acquire images (10× objective and 0.6× digital zoom) of the striatum (Bregma 0.13–1.7) from coronal sections. </plain></SENT>
+<SENT sid="120" pm="."><plain>Whole regions were obtained by tile scanning and each frame was taken in Z-stacks of 5–10 slices (in total 45–55 μm thickness). </plain></SENT>
+<SENT sid="121" pm="."><plain>Tiled Z-projection images were aligned and converted into a single flattened image using ZEN software from Zeiss. </plain></SENT>
+<SENT sid="122" pm="."><plain>From each tiled image, randomly selected two regions of interests (ROIs) were analyzed for the dorsolateral (DL), dorsomedial (DM), and dorsoventral (DV; ventral part of the dorsal striatum) striatum using ImageJ software. </plain></SENT>
+<SENT sid="123" pm="."><plain>All quantifications were carried out by operators blinded to the genotype. </plain></SENT>
+</text></p></sec><sec id="s2-9"><title><text><SENT sid="124" pm="."><plain>Quantification and Statistical Analysis </plain></SENT>
+</text></title><p><text><SENT sid="125" pm="."><plain>Values from at least three independent experiments using were used for quantification and statistical analysis. </plain></SENT>
+<SENT sid="126" pm="."><plain>This means that we performed at least three independent technical experiments, and we used different biological samples for each technical experiment. P values were calculated by two-tailed unpaired Student’s t-test unless otherwise specified, using GraphPad Prism 6 software. </plain></SENT>
+<SENT sid="127" pm="."><plain>All data are presented as mean ± SEM. *P &lt; 0.05; **P &lt; 0.01; ***P &lt; 0.001. </plain></SENT>
+</text></p></sec></sec></SecTag><SecTag type="RESULTS"><sec sec-type="results" id="s3"><title><text><SENT sid="128" pm="."><plain>Results </plain></SENT>
+</text></title><sec id="s3-1"><title><text><SENT sid="129" pm="."><plain>Striatal Transcriptome Analysis of Shank3 TG Mice </plain></SENT>
+</text></title><p><text><SENT sid="130" pm="."><plain>To identify which signaling pathways were altered in the striatum of Shank3 TG mice, we performed transcriptome (RNA sequencing, RNA-seq) analysis with the striatal tissue from 12-week-old WT and Shank3 TG mice. </plain></SENT>
+<SENT sid="131" pm="."><plain>Although most Shank3 proteins function at the excitatory postsynapse, and thus, are less likely to directly regulate broad gene transcription, we reasoned that this unbiased approach might (indirectly) reflect major signaling pathways affected by mild Shank3 overexpression. </plain></SENT>
+<SENT sid="132" pm="."><plain>As expected, the overall changes in gene expression were mild in the striatum of Shank3 TG mice compared to that of WT mice (Figure 1A and Supplementary Table S2). </plain></SENT>
+<SENT sid="133" pm="."><plain>After applying adjusted P values (&lt;0.05, Benjamini–Hochberg correction), we could identify 22 up-regulated and 17 down-regulated genes in the Shank3 TG striatum (Supplementary Table S3); Shank3 (1.77 fold), G protein-coupled receptor 85 (Gpr85, 1.23 fold), and Chloride intracellular channel 6 (Clic6, 1.16 fold) were the top three up-regulated genes, while Polo like kinase 5 (Plk5, −1.28 fold), Immunoglobulin-like and fibronectin type III domain containing 1 (Igfn1, −1.19 fold), and Inhibitor of DNA binding 3 (Id3, −1.16 fold) were the top three down-regulated genes (Figure 1B), some of which were validated by qRT-PCR (Supplementary Table S3 and Supplementary Figure S1). </plain></SENT>
+</text></p><SecTag type="FIG"><fig id="F1" position="float"><label>Figure 1</label><caption><p><text><SENT sid="134" pm="."><plain>RNA-seq analyses and measurements of mammalian target of rapamycin complex 1 (mTORC1) activity in the SH3 and multiple ankyrin repeat domains 3 (Shank3) transgenic (TG) striatum. (A) Volcano plot for the striatal RNA-seq analysis of Shank3 TG mice. </plain></SENT>
+<SENT sid="135" pm="."><plain>Differentially expressed genes (DEGs), defined by false discovery rate (FDR) &lt; 0.05, are shown as blue (down-regulated) and red (up-regulated) circles. </plain></SENT>
+<SENT sid="136" pm="."><plain>FC, fold change. </plain></SENT>
+<SENT sid="137" pm="."><plain>The complete lists of RNA-seq analysis and DEGs are provided in the Supplementary Tables S2, S3. (B) List of top 10 up-regulated and down-regulated DEGs (based on the fold changes) from the striatal RNA-seq analysis of Shank3 TG mice. (C) The bar graph shows normalized enrichment scores (NES) of gene set enrichment analysis (GSEA) on the Hallmark gene sets for the striatal RNA-seq analysis of Shank3 TG mice. </plain></SENT>
+<SENT sid="138" pm="."><plain>Asterisks indicate the gene sets with an FDR of less than 0.05. </plain></SENT>
+<SENT sid="139" pm="."><plain>The complete list that contains the results of GSEA analysis is provided in Supplementary Table S4. (D) The enrichment plot of striatal RNA-seq analysis of Shank3 TG mice on the mTORC1 signaling gene set. </plain></SENT>
+<SENT sid="140" pm="."><plain>The complete list of mTORC1 signaling genes within the Shank3 TG RNA-seq analysis is provided in Supplementary Table S5. (E) Representative Western blot images and quantifications show that mTORC1 activity measured by mTOR S2448 phosphorylation is decreased in the striatum of Shank3 TG mice. </plain></SENT>
+<SENT sid="141" pm="."><plain>The total mTOR expression level is not significantly different between wild-type (WT) and Shank3 TG striatum. </plain></SENT>
+<SENT sid="142" pm="."><plain>Data are presented as mean ± SEM (n = 10 animals per genotype; **P &lt; 0.01, unpaired two-tailed Student’s t-test). (F) Normal mTORC1 activity and total mTOR protein levels in the hippocampus of Shank3 TG mice (n = 6 animals per genotype). </plain></SENT>
+</text></p></caption><graphic xlink:href="fnmol-10-00201-g0001"/></fig></SecTag><p><text><SENT sid="143" pm="."><plain>Next, we performed GSEA to identify biologically meaningful signatures in the Shank3 TG mice striatal RNA-seq data. </plain></SENT>
+<SENT sid="144" pm="."><plain>We found that several biological pathways including “mTORC1 signaling”, “protein secretion”, “Myc targets V1”, “unfolded protein response (UPR)”, and “oxidative phosphorylation” were represented by the genes up-regulated in Shank3 TG striatum (Figure 1C and Supplementary Table S4). </plain></SENT>
+<SENT sid="145" pm="."><plain>Among them, “mTORC1 signaling” was the top ranked pathway based on the NES (Figures 1C,D and Supplementary Tables S4, S5). </plain></SENT>
+<SENT sid="146" pm="."><plain>Moreover, protein secretion, UPR, and oxidative phosphorylation are the cellular processes tightly coupled with mTORC1 signaling (Narita et al., 2011; Appenzeller-Herzog and Hall, 2012; Morita et al., 2013), which further supports the hypothesis that mTORC1 signaling may be the primary molecular signature in the RNA-seq analysis of Shank3 TG striatum. </plain></SENT>
+<SENT sid="147" pm="."><plain>In contrast to the up-regulated genes, the genes down-regulated in Shank3 TG striatum depicted no significant enrichment in any specific biological pathways (Figure 1C and Supplementary Table S4). </plain></SENT>
+</text></p><p><text><SENT sid="148" pm="."><plain>Based on the results from GSEA, we directly investigated the striatal mTORC1 activity in Shank3 TG mice by measuring the phosphorylation level of mTOR S2448 residue. </plain></SENT>
+<SENT sid="149" pm="."><plain>The phosphorylation of mTOR S2448 is predominantly associated with mTORC1 (Copp et al., 2009), and reflects its activation as S6 kinase, a downstream target of mTORC1, phosphorylates the residue in a feedback loop (Chiang and Abraham, 2005). </plain></SENT>
+<SENT sid="150" pm="."><plain>We found that the phosphorylation level of mTOR S2448 normalized to total mTOR expression was significantly decreased by approximately 15% in the striatum of Shank3 TG mice compared to that of WT mice (Figure 1E). </plain></SENT>
+<SENT sid="151" pm="."><plain>The total expression level of mTOR protein was not significantly altered in the striatum of Shank3 TG mice (Figure 1E). </plain></SENT>
+<SENT sid="152" pm="."><plain>In contrast to the striatum, neither phospho nor total mTOR protein was altered in the hippocampus of Shank3 TG mice (Figure 1F). </plain></SENT>
+<SENT sid="153" pm="."><plain>Altogether, these results suggest that mild overexpression of Shank3 decreases mTORC1 activity in the striatum of Shank3 TG mice. </plain></SENT>
+</text></p></sec><sec id="s3-2"><title><text><SENT sid="154" pm="."><plain>Protein Interactome Analysis of Shank3 with the Upstream Regulators of mTORC1 </plain></SENT>
+</text></title><p><text><SENT sid="155" pm="?"><plain>What could be the mechanism underlying decreased mTORC1 activity in the striatum of Shank3 TG mice? </plain></SENT>
+<SENT sid="156" pm="."><plain>The serine/threonine kinase PKB/Akt is a key positive upstream regulator of mTORC1 that directly phosphorylates and inhibits the TSC1/TSC2 complex (Laplante and Sabatini, 2012). </plain></SENT>
+<SENT sid="157" pm="."><plain>However, in our original report describing the Shank3 TG mice, we showed that the activities of PKB/Akt and one of its downstream targets, glycogen synthase kinase 3 (GSK3), were normal in the striatum of Shank3 TG mice (Han et al., 2013b). </plain></SENT>
+<SENT sid="158" pm="."><plain>Therefore, we decided to explore alternative targets. </plain></SENT>
+</text></p><p><text><SENT sid="159" pm="."><plain>We have previously generated a comprehensive Shank3 protein interactome consisting of about 400 proteins, by combining the results from yeast two-hybrid (Y2H) screening (Sakai et al., 2011) and in vivo IP followed by mass spectrometry analysis of the mixed hippocampal and striatal tissue isolated from Shank3 TG mice (Han et al., 2013b). </plain></SENT>
+<SENT sid="160" pm="."><plain>As Shank3 is a core scaffold protein containing multiple protein-protein interaction (PPI) domains, it is possible that the functions of Shank3 in neurons could be largely mediated by the interacting proteins (Lee Y. et al., 2017). </plain></SENT>
+<SENT sid="161" pm="."><plain>Notably, Sakai et al. (2011) have previously provided evidence supporting the PPI-mediated connectivity between Shank3 and mTORC1 pathway. </plain></SENT>
+<SENT sid="162" pm="."><plain>Specifically, they showed that Shank3 and TSC1/TSC2 complex are highly connected by many interacting proteins identified by Y2H screening, and that Shank3 and TSC1 indeed form an in vivo protein complex in the mouse brain. </plain></SENT>
+<SENT sid="163" pm="."><plain>In addition, Shahani et al. (2016) recently published a striatal in vivo protein interactome of Rhes, another upstream regulator of mTORC1, (“Rhesactome”) where Shank3 was identified as a Rhes interactor in the striatum. </plain></SENT>
+<SENT sid="164" pm="."><plain>Therefore, we re-analyzed these interactomes (Shank3 in vivo + Y2H, TSC1 and TSC2 Y2H, and Rhes in vivo) side by side to elucidate the identity and the number of proteins interacting both with Shank3 and the upstream regulators of mTORC1. </plain></SENT>
+<SENT sid="165" pm="."><plain>Notably, we found an overlap consisting of 94 proteins (about 24%) between the Shank3 interactome and either TSC1, TSC2, or Rhes interactome (Figures 2A–C and Supplementary Table S6). </plain></SENT>
+<SENT sid="166" pm="."><plain>Among the 94 proteins, four interactors including Dynactin 2 (encoded by Dctn2), Ankyrin repeat domain 35 (Ankrd35), Pleckstrin homology like domain family B member 1 (Phldb1), and Protein interacting with C kinase 1 (Pick1) were shared by three proteins (either Shank3/TSC1/TSC2 or Shank3/TSC1/Rhes), and one interactor, α-actinin 2 (encoded by Actn2), was shared by all four proteins (Figures 2B,C). </plain></SENT>
+</text></p><SecTag type="FIG"><fig id="F2" position="float"><label>Figure 2</label><caption><p><text><SENT sid="167" pm="."><plain>Protein interaction-mediated connectivity between Shank3 and upstream regulators of mTORC1. (A) The diagram shows a summary of protein interaction-mediated connectivity between Shank3 and the upstream regulators of mTORC1 (tuberous sclerosis 1, TSC1/TSC2 and Ras homolog enriched in striatum, Rhes). (B) The Venn diagram shows the number of interactors shared by Shank3, TSC1, TSC2 and Rhes proteins. </plain></SENT>
+<SENT sid="168" pm="."><plain>The actin filament bundling protein, α-actinin 2 (ACTN2), is the only common interactor for all four proteins. (C) The interactome network of Shank3, TSC1/TSC2 and Rhes. </plain></SENT>
+<SENT sid="169" pm="."><plain>To simplify the network, the orphan nodes, defined as nodes connected with only one of the hub proteins (Shank3, TSC1/TSC2 and Rhes), are excluded from the graphics. </plain></SENT>
+<SENT sid="170" pm="."><plain>The nodes for 94 proteins of Shank3-mTORC1 interactome are colored in red. </plain></SENT>
+<SENT sid="171" pm="."><plain>The complete list of interactomes for Shank3, TSC1, TSC2 and Rhes is provided in Supplementary Table S6. (D) Gene ontology (GO) and kyoto encyclopedia of genes and genomes (KEGG) pathway analyses of the 94 proteins of Shank3-mTORC1 interactome. </plain></SENT>
+<SENT sid="172" pm="."><plain>Significant terms (Benjamini adjusted P value &lt; 0.05) are in bold red. </plain></SENT>
+<SENT sid="173" pm="."><plain>The complete list of analyses is provided in Supplementary Table S7. </plain></SENT>
+</text></p></caption><graphic xlink:href="fnmol-10-00201-g0002"/></fig></SecTag><p><text><SENT sid="174" pm="."><plain>To understand the representative biological functions or pathways of the 94 common interactors, we performed GO and KEGG pathway analysis. </plain></SENT>
+<SENT sid="175" pm="."><plain>We found that terms including “gene expression” in the biological process category, “protein binding”, “poly(A) RNA binding”, “ion channel binding”, and “actin filament binding” in the molecular function category, and “cytosol”, “postsynaptic density”, “neuronal projection”, and “dendritic spine” in the cellular component category, and “carbon metabolism” in the KEGG pathway were significantly associated with these interactors (Figure 2D and Supplementary Table S7). </plain></SENT>
+<SENT sid="176" pm="."><plain>Together, these results suggest a high connectivity between Shank3 and the upstream regulators of mTORC1, mediated by 94 common interacting proteins involved in defined biological pathways (for simplicity, we will refer to these 94 proteins as “Shank3-mTORC1 interactome”). </plain></SENT>
+</text></p></sec><sec id="s3-3"><title><text><SENT sid="177" pm="."><plain>Actin-Related Proteins in the Shank3-mTORC1 Interactome </plain></SENT>
+</text></title><p><text><SENT sid="178" pm="."><plain>From the GO and KEGG pathway analysis, we could identify several molecular/biological functions of the 94 proteins from Shank3-mTORC1 interactome. </plain></SENT>
+<SENT sid="179" pm="."><plain>Among them, we hypothesized that actin regulatory pathway might be important, because ACTN2, an actin filament bundling protein (Djinovic-Carugo et al., 1999), was identified as the only common interactor for Shank3, TSC1/TSC2, and Rhes. </plain></SENT>
+<SENT sid="180" pm="."><plain>Moreover, PICK1, a common interactor for Shank3 and TSC1/TSC2, is also involved in regulating actin cytoskeleton by inhibiting the actin-nucleating Arp2/3 complex (Rocca et al., 2008). </plain></SENT>
+<SENT sid="181" pm="."><plain>Previously, we generated a subnetwork of Shank3 interactome consisting of only 38 actin-related proteins from the original Shank3 interactome (Han et al., 2013b). </plain></SENT>
+<SENT sid="182" pm="."><plain>We found that among the 38 actin-related interactors of Shank3, 11 proteins (approximately 29%) were shared with the Shank3-mTORC1 interactome (Figure 3A). </plain></SENT>
+<SENT sid="183" pm="."><plain>Specifically, we noticed that the Wiskott-Aldrich syndrome protein family verprolin-homologous protein 1 (WAVE1, encoded by WASF1) and Abelson-interacting protein 1 (Abi1) proteins, the critical components of the WAVE regulatory complex (WRC), and Ras-related C3 botulinum toxin substrate 1 (Rac1), the upstream regulator of the WRC, were among these 11 proteins (Figure 3A). </plain></SENT>
+<SENT sid="184" pm="."><plain>The WRC is an approximately 400 kDa heteropentameric protein complex that consists of WAVE, Abi, Cytoplasmic FMR1-interacting protein (Cyfip), Nck-associated protein (Nap) and Hematopoietic stem progenitor cell 300 (HSPC300) and activates the Arp2/3 complex to initiate actin polymerization and branching (Takenawa and Suetsugu, 2007; Chen Z. et al., 2010; Han et al., 2015). </plain></SENT>
+</text></p><SecTag type="FIG"><fig id="F3" position="float"><label>Figure 3</label><caption><p><text><SENT sid="185" pm="."><plain>Actin-related proteins in the Shank3-mTORC1 interactome, and increased F-actin levels in the Shank3 TG striatum. (A) The actin-related subnetwork of Shank3 interactome where the 11 proteins shared by the Shank3-mTORC1 interactome are colored in red. </plain></SENT>
+<SENT sid="186" pm="."><plain>The edges of the network are colored depending on the type of interactions (direct or indirect interaction). </plain></SENT>
+<SENT sid="187" pm="."><plain>The red dotted circle indicates the components of wave regulatory complex (WRC; WASF1; Abelson-interacting protein 1 (ABI1), ABI2 and Cytoplasmic FMR1-interacting protein 2 (CYFIP2) and Ras-related C3 botulinum toxin substrate 1 (RAC1)). (B) The diagrams show the atlas of mouse brain coronal sections for the striatum, and the coordinates of the exact areas where immunohistochemistry (IHC) experiments were performed (left panel). </plain></SENT>
+<SENT sid="188" pm="."><plain>The green boxes indicate regions of interests (ROIs). </plain></SENT>
+<SENT sid="189" pm="."><plain>Representative IHC images show expression of the EGFP-Shank3 proteins in the dorsal striatum of Shank3 TG, but not WT, mice (right panel). </plain></SENT>
+<SENT sid="190" pm="."><plain>DL, dorsolateral; DM, dorsomedial; DV, dorsoventral. </plain></SENT>
+<SENT sid="191" pm="."><plain>Scale bar, 500 μm. (C) Representative IHC images and quantification show increased levels of F-actin in the DV, but not DM and DL, compartments of Shank3 TG striatum. </plain></SENT>
+<SENT sid="192" pm="."><plain>Scale bar, 500 μm. </plain></SENT>
+<SENT sid="193" pm="."><plain>Data are presented as mean ± SEM (n = 7 animals per genotype; *P &lt; 0.05, unpaired two-tailed Student’s t-test). (D) Western blot images show co-immunoprecipitation (IP) of EGFP-Shank3, Rhes, WAVE1, and Homer1b/c proteins from the Shank3 TG, but not WT, synaptosomal lysate. </plain></SENT>
+<SENT sid="194" pm="."><plain>For input and flow-through (F/T) lanes, 0.5% of total proteins were loaded. </plain></SENT>
+</text></p></caption><graphic xlink:href="fnmol-10-00201-g0003"/></fig></SecTag><p><text><SENT sid="195" pm="."><plain>This result prompted us to test whether the levels of polymerized actin (actin filament or F-actin) were increased in the striatum of Shank3 TG mice. </plain></SENT>
+<SENT sid="196" pm="."><plain>We previously showed that synaptic F-actin levels were increased in the cultured hippocampal neurons of Shank3 TG mice (Han et al., 2013b). </plain></SENT>
+<SENT sid="197" pm="."><plain>However, this has not been validated in vivo, especially in the striatum where Shank3 is enriched compared to other brain regions. </plain></SENT>
+<SENT sid="198" pm="."><plain>For the analysis, we focused on the dorsal striatum, the area in which the functional and morphological changes of striatal synapses in the Shank3 KO mice have been mainly characterized (Peça et al., 2011; Peixoto et al., 2016; Wang et al., 2016; Jaramillo et al., 2017). </plain></SENT>
+<SENT sid="199" pm="."><plain>In addition, the dorsal striatum is closely associated with motor and executive functions (Balleine and O’Doherty, 2010) both of which are defective in mania (Marvel and Paradiso, 2004). </plain></SENT>
+<SENT sid="200" pm="."><plain>Nevertheless, to more precisely characterize F-actin changes, we subdivided the dorsal striatum into three subareas; DL, DM and DV compartments, characterized by distinct cellular compositions, synaptic inputs/outputs, and functional roles in controlling behavior (Steiner and Tseng, 2010; Ito and Doya, 2015; Matamales et al., 2016; Figure 3B). </plain></SENT>
+</text></p><p><text><SENT sid="201" pm="."><plain>First, we carefully set the scanning parameters for fluorescent confocal microscopy, because Shank3 TG mice express EGFP-tagged Shank3 proteins. </plain></SENT>
+<SENT sid="202" pm="."><plain>Indeed, we found that under the scanning condition for Alexa Fluor 488, significant amount of signal was detected from the striatum of Shank3 TG, but not WT, mice (Supplementary Figure S2). </plain></SENT>
+<SENT sid="203" pm="."><plain>Therefore, we decided to use Alexa Fluor 594 and rhodamine for IHC experiments. </plain></SENT>
+<SENT sid="204" pm="."><plain>Next, we confirmed that the EGFP-Shank3 proteins from the transgene were expressed in all three striatal subareas of Shank3 TG mice (Figure 3B). </plain></SENT>
+<SENT sid="205" pm="."><plain>Lastly, we measured F-actin levels by staining the striatal sections with rhodamine-conjugated phalloidin, and found that F-actin levels were significantly increased by approximately 23% in the DV compartment of Shank3 TG mice (Figure 3C). </plain></SENT>
+<SENT sid="206" pm="."><plain>Trends for an increase were also observed in DL (P = 0.14) and DM (P = 0.06) compartments, but the differences were not statistically significant. </plain></SENT>
+<SENT sid="207" pm="."><plain>As a control, the intensity of NeuN staining in the three subareas of the dorsal striatum in Shank3 TG mice was comparable to that in WT mice, suggesting a normal neuronal density in the Shank3 TG striatum (Supplementary Figure S3). </plain></SENT>
+</text></p><p><text><SENT sid="208" pm="."><plain>Previously, Sakai et al. (2011) validated the in vivo interactions of Shank3, TSC1 and α-actinin using mouse brain lysates. </plain></SENT>
+<SENT sid="209" pm="."><plain>Therefore, we also tested for the existence of the in vivo protein complex consisting of Shank3, Rhes and WAVE1 in the synaptosomal lysate from Shank3 TG mice. </plain></SENT>
+<SENT sid="210" pm="."><plain>We performed IP using the GFP-Trap beads to pull down EGFP-Shank3 and its interacting proteins from Shank3 TG mice, as described previously (Han et al., 2013b; Lee Y. et al., 2017), and found that Shank3, Rhes, WAVE1 and Homer1b/c (a known interactor of Shank3) proteins were pulled down together (Figure 3D). </plain></SENT>
+<SENT sid="211" pm="."><plain>This result is consistent with the previous study of “Rhesactome”, in which the authors performed IP using Rhes antibodies to pull down endogenous Rhes proteins from the striatal lysate of WT mice, and identified Shank3 and WAVE1 proteins in the complex using mass spectrometry analysis (Shahani et al., 2016). </plain></SENT>
+<SENT sid="212" pm="."><plain>Together, these results suggest that certain actin-related proteins may be involved in connecting Shank3 and the upstream regulators of mTORC1. </plain></SENT>
+</text></p></sec><sec id="s3-4"><title><text><SENT sid="213" pm="."><plain>Associations of the Shank3-mTORC1 Interactome and Shank3 TG Transcriptome with the Disease </plain></SENT>
+</text></title><p><text><SENT sid="214" pm="."><plain>Recent studies have shown that the genes mutated in neurodevelopmental and neuropsychiatric disorders such as ASD or SCZ might also be highly interconnected at the protein level (De Rubeis et al., 2014; Fromer et al., 2014). </plain></SENT>
+<SENT sid="215" pm="."><plain>In this regard, we reasoned that neuropsychiatric disorders affected by pathological Shank3-mTORC1 interactions might be identified as those significantly associated with the 94 proteins connecting Shank3 and the upstream regulators of mTORC1. </plain></SENT>
+<SENT sid="216" pm="."><plain>We selected three established disease-associated gene sets; psychiatric disorder-associated PsyGeNET gene sets (Gutierrez-Sacristan et al., 2015), ASD-associated Simons Foundation Autism Research Initiative (SFARI) gene set5, and broad human disease-associated DisGeNET gene sets (Piñero et al., 2017) and compared these gene sets with the 94 genes of Shank3-mTORC1 interactome. </plain></SENT>
+</text></p><p><text><SENT sid="217" pm="."><plain>We found that among the eight major classes of psychiatric disorders in the PsyGeNET, “BDs and related disorders” and “SCZ spectrum and other psychiatric disorders” were significantly associated with the 94 genes of Shank3-mTORC1 interactome (adjusted P = 0.000186 for both, hypergeometric test; Figures 4A,B and Supplementary Table S8). </plain></SENT>
+<SENT sid="218" pm="."><plain>Moreover, when compared with the entire subclasses (117 psychiatric disorders) of PsyGeNET, only four disorders including “SCZ”, “BD”, “manic” and “manic mood” were significantly associated with the 94 genes (Supplementary Table S8). </plain></SENT>
+<SENT sid="219" pm="."><plain>It is considered that BD and SCZ have many aspects in common, such as risk genes, molecular and neuronal pathophysiology, and clinical symptoms (Berrettini, 2000; Benes and Berretta, 2001; Moskvina et al., 2009). </plain></SENT>
+<SENT sid="220" pm="."><plain>In contrast to BD and SCZ, the association between ASDs (SFARI genes) and the 94 genes was not statistically significant (Figure 4A). </plain></SENT>
+<SENT sid="221" pm="."><plain>Lastly, among the disease classes of DisGeNET, “SCZ”, “Down syndrome”, “Alzheimer’s disease”, “seizures” and “BD” were among the top disorders significantly associated with the 94 genes of Shank3-mTORC1 interactome (Figure 4A and Supplementary Table S9). </plain></SENT>
+</text></p><SecTag type="FIG"><fig id="F4" position="float"><label>Figure 4</label><caption><p><text><SENT sid="222" pm="."><plain>Associations of the Shank3-mTORC1 interactome and Shank3 TG striatal transcriptome with the disease. (A) Disease association analysis for the 94 genes in Shank3-mTORC1 interactome. </plain></SENT>
+<SENT sid="223" pm="."><plain>Significant disease terms (Benjamini adjusted P value &lt; 0.05) are in bold red. </plain></SENT>
+<SENT sid="224" pm="."><plain>The complete analyses are provided in Supplementary Tables S8, S9. (B) The Shank3-mTORC1 interactome network with bipolar disorder (BD)- and schizophrenia (SCZ)-associated proteins from Psychiatric disorders Gene association NETwork (PsyGeNET) database colored in red. (C) The bar graph shows the Normalized Enrichment Scores (NESs) of GSEA on the PsyGeNET gene sets for the striatal RNA-seq analysis of Shank3 TG mice. </plain></SENT>
+<SENT sid="225" pm="."><plain>Significant disease terms are in bold red. </plain></SENT>
+<SENT sid="226" pm="."><plain>The complete list of GSEA is provided in Supplementary Table S10. (D) The enrichment plots showing the striatal RNA-seq analysis of Shank3 TG mice on the PsyGeNET gene sets of “depressive disorders” (left panel) and “BD and related disorders” (right panel). </plain></SENT>
+</text></p></caption><graphic xlink:href="fnmol-10-00201-g0004"/></fig></SecTag><p><text><SENT sid="227" pm="."><plain>The above mentioned result showing a significant association between Shank3-mTORC1 interactome and BD prompted us to test whether the overall transcriptomic change in the Shank3 TG striatum might also be associated with BD or other psychiatric disorders. </plain></SENT>
+<SENT sid="228" pm="."><plain>We therefore preformed GSEA of the Shank3 TG RNA-seq results with the PsyGeNET gene sets. </plain></SENT>
+<SENT sid="229" pm="."><plain>We found that more PsyGeNET gene sets were significantly associated with the RNA-seq results than with the Shank3-mTORC1 interactome. </plain></SENT>
+<SENT sid="230" pm="."><plain>In addition to SCZ and BD, “depressive disorders”, “alcohol use disorders”, and “cocaine use disorders” gene sets were significantly represented by the genes up-regulated in the Shank3 TG striatum (Figures 4C,D and Supplementary Table S10). </plain></SENT>
+<SENT sid="231" pm="."><plain>Together, these results suggest that both Shank3-mTORC1 interactome and striatal transcriptome of Shank3 TG mice may be associated with BD. </plain></SENT>
+</text></p></sec></sec></SecTag><SecTag type="DISCUSS"><sec sec-type="discussion" id="s4"><title><text><SENT sid="232" pm="."><plain>Discussion </plain></SENT>
+</text></title><p><text><SENT sid="233" pm="."><plain>The aim of this study was to elucidate the molecular pathophysiology underlying striatal dysfunction in mania. </plain></SENT>
+<SENT sid="234" pm="."><plain>We performed striatal RNA-seq analysis of Shank3-overexpressing manic mouse model and identified mTORC1 signaling as the primary molecular signature. </plain></SENT>
+<SENT sid="235" pm="."><plain>Based on the RNA-seq analysis, we examined mTORC1 activity and found that it was decreased in the striatum of Shank3 TG mice. </plain></SENT>
+<SENT sid="236" pm="."><plain>Although the RNA-seq analysis revealed altered mTORC1 activity, we consider that the gene expression changes related to mTORC1 signaling could be a secondary or compensatory effect of decreased mTORC1 activity for several reasons. </plain></SENT>
+<SENT sid="237" pm="."><plain>First, the GSEA revealed that mTORC1 signaling was depicted by the genes up-regulated in Shank3 TG striatum, which is opposite to the change of striatal mTORC1 activity. </plain></SENT>
+<SENT sid="238" pm="."><plain>Second, Shank3 proteins mainly function at the excitatory postsynapse, and are thus less likely to directly regulate a group of genes specifically related to mTORC1 signaling. </plain></SENT>
+<SENT sid="239" pm="."><plain>Notably, it was recently reported that Shank3 proteins can undergo synapse-to-nucleus shuttling in an activity-dependent manner, and that Shank3 localized in the nucleus may regulate the expression of several genes such as leucine rich repeat transmembrane neuronal 1 (Lrrtm1), synaptotagmin I (Syt1), and cystic fibrosis transmembrane conductance regulator homolog (Cftr; Grabrucker et al., 2014). </plain></SENT>
+<SENT sid="240" pm="."><plain>However, none of these potential “Shank3 target genes” was listed among mTORC1 signaling-related genes from our RNA-seq analysis (Supplementary Table S5), suggesting that mTORC1 signaling-related genes in the striatum of Shank3 TG mice were not directly up-regulated by nuclear Shank3 proteins. </plain></SENT>
+</text></p><p><text><SENT sid="241" pm="."><plain>Although we did not characterize them in details, there were several interesting differentially expressed genes (DEGs) from the striatal RNA-seq analysis of Shank3 TG mice. </plain></SENT>
+<SENT sid="242" pm="."><plain>For example, an up-regulated GPR85 (also called SREB2 for super-conserved receptor expressed in brain) gene, encoding a highly conserved G protein-coupled receptor, has been associated with SCZ (Matsumoto et al., 2008; Radulescu et al., 2013). </plain></SENT>
+<SENT sid="243" pm="."><plain>Notably, the Gpr85 TG mice mildly overexpressing GPR85 proteins display some abnormal behaviors including impaired prepulse inhibition and decreased social interaction (Matsumoto et al., 2008), which were also seen in the Shank3 TG mice (Han et al., 2013b). </plain></SENT>
+<SENT sid="244" pm="."><plain>Therefore, the effects from DEGs, together with decreased mTORC1 activity, might contribute to the behavioral phenotypes of Shank3 TG mice. </plain></SENT>
+</text></p><p><text><SENT sid="245" pm="."><plain>To understand the detailed mechanism underlying decreased mTORC1 activity in the Shank3 TG striatum, we re-analyzed the Shank3, TSC1/TSC2 and Rhes protein interactomes side by side. </plain></SENT>
+<SENT sid="246" pm="."><plain>This was based on the previous reports showing the PPI-mediated connectivity between Shank3 and TSC1/TSC2 (Sakai et al., 2011), and the striatal in vivo Rhes protein complex (“Rhesactome”) containing Shank3 and several Shank3-interacting proteins (Shahani et al., 2016). </plain></SENT>
+<SENT sid="247" pm="."><plain>Indeed, we could identify 94 proteins connecting Shank3 and the upstream regulators of mTORC1 (Shank3-mTORC1 interactome). </plain></SENT>
+<SENT sid="248" pm="."><plain>However, one of the limitations of this interactome is not being strict enough to fully represent the in vivo connections among Shank3, TSC1/TSC2 and Rhes, because some of the interactions, especially those for TSC1/TSC2, were identified based only on in vitro Y2H screening. </plain></SENT>
+<SENT sid="249" pm="."><plain>Nevertheless, Shank3-TSC1 (Sakai et al., 2011) and Shank3-Rhes (Figure 3D) interactions were validated in the mouse brain lysates, indicating the existence of protein complexes containing Shank3, TSC1/TSC2 and Rhes in vivo. </plain></SENT>
+</text></p><p><text><SENT sid="250" pm="."><plain>The mechanism underlying the decrease in mTORC1 activity in response to interactions between Shank3 and the upstream regulators of mTORC1 in the Shank3 TG striatum remains unclear. </plain></SENT>
+<SENT sid="251" pm="."><plain>One possibility is that Shank3 overexpression might shift or sequester TSC1/TSC2 and Rhes proteins from mTORC1 regulatory complex to actin filaments-related complex and thereby disturb the maintenance of normal mTORC1 activity. </plain></SENT>
+<SENT sid="252" pm="."><plain>In support of this hypothesis, we found that 11 of the 94 proteins from Shank3-mTORC1 interactome, including ACTN2, WAVE1, Abi and Rac1, were associated with actin filaments, and that levels of F-actin were increased in the dorsal striatum of Shank3 TG mice. </plain></SENT>
+<SENT sid="253" pm="."><plain>Similarly, it was recently shown that, in the mouse striatum, RasGRP1 suppresses the inhibitory role of Rhes in amphetamine-induced dopamine receptor signaling, by promoting Rhes to form a specific protein complex (Shahani et al., 2016). </plain></SENT>
+<SENT sid="254" pm="."><plain>Further biochemical and/or imaging analyses are necessary to fully understand the functional significance of Shank3-mTORC1 interactome in the regulation of the striatal mTORC1 activity. </plain></SENT>
+<SENT sid="255" pm="."><plain>Moreover, we cannot exclude the possibility that altered mTORC1 activity might contribute to the increased F-actin levels in the striatum of Shank3 TG mice. </plain></SENT>
+<SENT sid="256" pm="."><plain>It has been shown that mTORC1 and mTORC2 regulate motility and metastasis of colorectal cancer cells via modulating Ras homolog gene family, member A (RhoA) and Rac1 signaling (Gulhati et al., 2011). </plain></SENT>
+</text></p><p><text><SENT sid="257" pm="."><plain>It is notable that mTORC1 activity is also decreased in the neurons with reduced Shank3 expression, due to increased steady-state levels of CLK2 (Bidinosti et al., 2016). </plain></SENT>
+<SENT sid="258" pm="."><plain>The CLK2 phosphorylates and activates the regulatory subunit of protein phosphatase 2A (PP2A) which in turn inactivates Akt, a positive regulator of mTORC1. </plain></SENT>
+<SENT sid="259" pm="."><plain>However, this mechanism could not explain the decrease in mTORC1 activity in the striatum of Shank3 TG mice, where Akt activity was found to be normal (Han et al., 2013b). </plain></SENT>
+<SENT sid="260" pm="."><plain>Thus, either loss or gain of Shank3 expression can induce a decrease in mTORC1 activity, most likely, via different mechanisms, the details of which will be an interesting topic for future research. </plain></SENT>
+<SENT sid="261" pm="."><plain>Despite normal Akt activity in the Shank3 TG striatum, however, treatments with certain molecules that increase Akt activity such as IGF1, might possibly rescue the decreased striatal mTORC1 activity and some behavioral abnormalities in the Shank3 TG mice. </plain></SENT>
+<SENT sid="262" pm="."><plain>Importantly, the treatment with IGF1 has already been shown as a promising potential therapeutic approach for the disorders caused by SHANK3 deficiency in model system studies and a pilot clinical trial (Bozdagi et al., 2013; Shcheglovitov et al., 2013; Kolevzon et al., 2014; Bidinosti et al., 2016). </plain></SENT>
+</text></p><p><text><SENT sid="263" pm="."><plain>By performing Western blot experiments, we found a mild (approximately 15%) decrease of mTORC1 activity in the striatum of Shank3 TG mice. </plain></SENT>
+<SENT sid="264" pm="."><plain>While several types of neurons can be found in the striatum, MSNs, the GABAergic output neurons of the striatum, account for the majority (&gt;90%) of the population. </plain></SENT>
+<SENT sid="265" pm="."><plain>The MSNs can be further classified into D1 and D2-type neurons based on the type of dopamine receptor expressed and projection pathway (striatonigral direct pathway and striatopallidal indirect pathway, respectively; Calabresi et al., 2014). </plain></SENT>
+<SENT sid="266" pm="."><plain>It has been reported that the excitatory synapses of MSNs in Shank3 KO mice show morphological and functional abnormalities (Peça et al., 2011; Peixoto et al., 2016; Wang et al., 2016; Jaramillo et al., 2017). </plain></SENT>
+<SENT sid="267" pm="."><plain>However, these studies did not address whether D1 and D2-type MSNs could be differentially affected by the loss of Shank3 expression. </plain></SENT>
+<SENT sid="268" pm="."><plain>Importantly, Wang et al. (2017) recently showed that several striatal synaptic functions are selectively impaired in the striatopallidal D2-type MSNs in a line of Shank3 KO (Shank3B KO) mice. </plain></SENT>
+<SENT sid="269" pm="."><plain>In the same regard, the striatal mTORC1 activity of Shank3 TG mice may be preferentially, or even specifically, decreased in the D1 or D2-type MSNs, but this decrease may be masked by normal mTORC1 activity of the remaining neuronal populations. </plain></SENT>
+<SENT sid="270" pm="."><plain>More comprehensive analyses regarding the activities of mTORC1 in different neuronal populations of the striatum of both Shank3 KO and TG mice will be important, especially considering that D1 and D2-type MSNs of the striatum have distinct, or even opposite, roles in controlling behavior (Kravitz et al., 2010). </plain></SENT>
+</text></p><p><text><SENT sid="271" pm="."><plain>Another important remaining issue is whether decreased striatal mTORC1 activity is causally associated with manic-like behaviors in Shank3 TG mice. </plain></SENT>
+<SENT sid="272" pm="."><plain>This issue could be addressed by testing the effects of drugs, such as IGF1, that can increase mTORC1 activity on the manic-like behaviors of Shank3 TG mice. </plain></SENT>
+<SENT sid="273" pm="."><plain>In this case, however, treatment during the development may be critical given the possibility that the decrease in mTORC1 activity starts during early development and chronically affects the striatum to finally result in an adult onset of manic-like behaviors. </plain></SENT>
+<SENT sid="274" pm="."><plain>This is possible because at least Shank3 expression itself is increased starting at juvenile (approximately 3-week-old) stage in the Shank3 TG mice compared to WT mice (Han et al., 2013b). </plain></SENT>
+</text></p><p><text><SENT sid="275" pm="."><plain>We found that, unlike in the striatum, mTORC1 activity was normal in the hippocampus of Shank3 TG mice. </plain></SENT>
+<SENT sid="276" pm="."><plain>However, we cannot exclude the possibility that mTORC1 activities in other brain regions, such as frontal cortex and cerebellum, could be altered and contribute to manic-like behaviors of Shank3 TG mice. </plain></SENT>
+<SENT sid="277" pm="."><plain>Interestingly, it has been shown that intracerebroventricular injection of ouabain, an inhibitor of Na/K-ATPase, increases Akt and mTORC1 activities in the frontal cortex and causes manic-like behaviors in rats (Yu et al., 2010; Kim S. </plain></SENT>
+<SENT sid="278" pm="."><plain>H. et al., 2013). </plain></SENT>
+<SENT sid="279" pm="."><plain>Therefore, mTORC1 activities of different brain regions might have distinct, or even opposite, roles in causing manic-like behaviors. </plain></SENT>
+<SENT sid="280" pm="."><plain>Even with these remaining issues, our bioinformatic analysis showed that both the genes belonging to Shank3-mTORC1 interactome and the up-regulated transcriptome of Shank3 TG striatum were significantly associated with the PsyGeNET BD genes (Figure 4). </plain></SENT>
+<SENT sid="281" pm="."><plain>Therefore, investigating the role of these Shank3-related BD genes, together with mTORC1 signaling, in Shank3 TG mice might enable us to fully understand the molecular mechanisms of manic-like behaviors in these mice. </plain></SENT>
+</text></p><p><text><SENT sid="282" pm="."><plain>In conclusion, our results suggest a decrease in mTORC1 activity in the striatum of Shank3 TG mice that may be potentially mediated by the PPI-dependent connectivity between Shank3 and several upstream regulators of mTORC1. </plain></SENT>
+<SENT sid="283" pm="."><plain>Decreased striatal mTORC1 activity might contribute to manic-like behaviors in Shank3 TG mice, but further investigation is needed to validate such hypothesis. </plain></SENT>
+<SENT sid="284" pm="."><plain>Since both Shank3 and mTORC1 signaling are implicated in a broad spectrum of neurodevelopmental and neuropsychiatric disorders, the connectivity between these two proteins may be an important converging pathophysiological pathway as well as a potential therapeutic target for the treatment of various brain disorders. </plain></SENT>
+</text></p></sec></SecTag><SecTag type="AUTH_CONT"><sec id="s5"><title><text><SENT sid="285" pm="."><plain>Author Contributions </plain></SENT>
+</text></title><p><text><SENT sid="286" pm="."><plain>YL, SGK, BL, YZ, YK, SK and KH designed and performed the experiments. </plain></SENT>
+<SENT sid="287" pm="."><plain>HK and KH analyzed and interpreted the data. </plain></SENT>
+<SENT sid="288" pm="."><plain>EK discussed the project and provided reagents. </plain></SENT>
+<SENT sid="289" pm="."><plain>YL, HK and KH wrote the article. </plain></SENT>
+<SENT sid="290" pm="."><plain>All authors read and approved the manuscript. </plain></SENT>
+</text></p></sec></SecTag><SecTag type="COMP_INT"><sec id="s6"><title><text><SENT sid="291" pm="."><plain>Conflict of Interest Statement </plain></SENT>
+</text></title><p><text><SENT sid="292" pm="."><plain>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest. </plain></SENT>
+</text></p></sec></SecTag></body><back><fn-group><SecTag type="ACK_FUND"><fn fn-type="financial-disclosure"><p><text4fund><text><SENT sid="293" pm="."><plain>Funding. This work was supported by the National Research Foundation of Korea (NRF) grant funded by the Korea Government Ministry of Science, ICT and Future Planning (MISP) (NRF-2015R1C1A1A01052794), by the Brain Research Program through the NRF funded by the MISP (NRF-2015M3C7A1028790), by the grant of the Korea Health Technology R&amp;D Project through the Korea Health Industry Development Institute (KHIDI) funded by the Ministry of Health and Welfare, South Korea (HI16C0090), and by the Korea Institute of Science and Technology Information (K-17-L03-C02-S01). </plain></SENT>
+</text></text4fund></p></fn></SecTag></fn-group><fn-group><fn id="fn0001"><p><text><SENT sid="294" pm="."><plain>1<ext-link ext-link-type="uri" xlink:href="http://software.broadinstitute.org/gsea">http://software.broadinstitute.org/gsea</ext-link> </plain></SENT>
+</text></p></fn><fn id="fn0002"><p><text><SENT sid="295" pm="."><plain>2<ext-link ext-link-type="uri" xlink:href="http://software.broadinstitute.org/gsea/msigdb">http://software.broadinstitute.org/gsea/msigdb</ext-link> </plain></SENT>
+</text></p></fn><fn id="fn0003"><p><text><SENT sid="296" pm="."><plain>3<ext-link ext-link-type="uri" xlink:href="http://www.informatics.jax.org/homology.shtml">http://www.informatics.jax.org/homology.shtml</ext-link> </plain></SENT>
+</text></p></fn><fn id="fn0004"><p><text><SENT sid="297" pm="."><plain>4<ext-link ext-link-type="uri" xlink:href="https://gene.sfari.org/autdb/GS_Home.do">https://gene.sfari.org/autdb/GS_Home.do</ext-link> </plain></SENT>
+</text></p></fn><fn id="fn0005"><p><text><SENT sid="298" pm="."><plain>5<ext-link ext-link-type="uri" xlink:href="https://gene.sfari.org/autdb/GS_Home.do">https://gene.sfari.org/autdb/GS_Home.do</ext-link> </plain></SENT>
+</text></p></fn></fn-group><SecTag type="SUPPL"><sec sec-type="supplementary material" id="s7"><title>Supplementary Material</title><p>The Supplementary Material for this article can be found online at: <ext-link ext-link-type="uri" xlink:href="http://journal.frontiersin.org/article/10.3389/fnmol.2017.00201/full#supplementary-material">http://journal.frontiersin.org/article/10.3389/fnmol.2017.00201/full#supplementary-material</ext-link></p><supplementary-material content-type="local-data" id="SM1"><media xlink:href="Table_1.xlsx"><caption><p><text><SENT sid="299" pm="."><plain>Click here for additional data file. </plain></SENT>
+</text></p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="SM2"><label>FIGURE S1</label><caption><p><text><SENT sid="300" pm="."><plain>Validation of differentially expressed genes in the striatum of Shank3 TG mice. </plain></SENT>
+<SENT sid="301" pm="."><plain>The graph shows the results of qRT-PCR experiments validating an increase in the expression of Shank3, Gpr85 and Clic6, and a decrease in the expression of Plk5 in the striatum of Shank3 TG mice compared to WT mice. </plain></SENT>
+<SENT sid="302" pm="."><plain>Data are presented as mean ± SEM (n = 4–6 animals per genotype; *P &lt; 0.05, ***P &lt; 0.001, unpaired two-tailed Student’s t-test). </plain></SENT>
+</text></p></caption><media xlink:href="Image_1.jpeg"><caption><p><text><SENT sid="303" pm="."><plain>Click here for additional data file. </plain></SENT>
+</text></p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="SM3"><label>FIGURE S2</label><caption><p><text><SENT sid="304" pm="."><plain>Detection of EGFP signal from the striatum of Shank3 TG mice. </plain></SENT>
+<SENT sid="305" pm="."><plain>To test whether there was any background signal from the striatal sections of WT and Shank3 TG mice, we performed IHC experiments only with the secondary antibodies (Alexa Fluor 488 and 555). </plain></SENT>
+<SENT sid="306" pm="."><plain>Under the scanning condition for Alexa Fluor 488, significant amount of signal (potentially from the EGFP-Shank3 proteins) was detected from the striatum of Shank3 TG, but not WT, mice. </plain></SENT>
+<SENT sid="307" pm="."><plain>Meanwhile, no signal was detected for Alexa Fluor 555 from both WT and TG striatum. </plain></SENT>
+<SENT sid="308" pm="."><plain>DIC, differential interference contrast. </plain></SENT>
+</text></p></caption><media xlink:href="Image_2.jpeg"><caption><p><text><SENT sid="309" pm="."><plain>Click here for additional data file. </plain></SENT>
+</text></p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="SM4"><label>FIGURE S3</label><caption><p><text><SENT sid="310" pm="."><plain>Normal NeuN intensity in the dorsal striatum of Shank3 TG mice. </plain></SENT>
+<SENT sid="311" pm="."><plain>Representative IHC images and quantification show normal NeuN intensity in the DM, DL and DV compartments of Shank3 TG striatum. </plain></SENT>
+<SENT sid="312" pm="."><plain>Scale bar, 500 μm. </plain></SENT>
+<SENT sid="313" pm="."><plain>DL, dorsolateral; DM, dorsomedial; DV, dorsoventral. </plain></SENT>
+<SENT sid="314" pm="."><plain>Data are presented as mean ± SEM (n = 5 animals per genotype; P &gt; 0.05, unpaired two-tailed Student’s t-test). </plain></SENT>
+</text></p></caption><media xlink:href="Image_3.jpeg"><caption><p><text><SENT sid="315" pm="."><plain>Click here for additional data file. </plain></SENT>
+</text></p></caption></media></supplementary-material></sec></SecTag><SecTag type="REF"><ref-list><title>References</title><ref id="B1"><text><SENT sid="316" pm="."><plain>AbdallahC. </plain></SENT>
+<SENT sid="317" pm="."><plain>G.SanacoraG.DumanR. </plain></SENT>
+<SENT sid="318" pm="."><plain>S.KrystalJ. </plain></SENT>
+<SENT sid="319" pm="."><plain>H. (2015). Ketamine and rapid-acting antidepressants: a window into a new neurobiology for mood disorder therapeutics. Annu. </plain></SENT>
+<SENT sid="320" pm="."><plain>Rev. </plain></SENT>
+<SENT sid="321" pm="."><plain>Med. 66, 509–523. 10.1146/annurev-med-053013-062946<?supplied-pmid 25341010?>25341010 </plain></SENT>
+</text></ref><ref id="B2"><text><SENT sid="322" pm="."><plain>AndersS.PylP. </plain></SENT>
+<SENT sid="323" pm="."><plain>T.HuberW. (2015). HTSeq—a Python framework to work with high-throughput sequencing data. Bioinformatics 31, 166–169. 10.1093/bioinformatics/btu638<?supplied-pmid 25260700?>25260700 </plain></SENT>
+</text></ref><ref id="B3"><text><SENT sid="324" pm="."><plain>Appenzeller-HerzogC.HallM. </plain></SENT>
+<SENT sid="325" pm="."><plain>N. (2012). Bidirectional crosstalk between endoplasmic reticulum stress and mTOR signaling. Trends Cell Biol. 22, 274–282. 10.1016/j.tcb.2012.02.006<?supplied-pmid 22444729?>22444729 </plain></SENT>
+</text></ref><ref id="B4"><text><SENT sid="326" pm="."><plain>BalleineB. </plain></SENT>
+<SENT sid="327" pm="."><plain>W.O’DohertyJ. </plain></SENT>
+<SENT sid="328" pm="."><plain>P. (2010). Human and rodent homologies in action control: corticostriatal determinants of goal-directed and habitual action. Neuropsychopharmacology 35, 48–69. 10.1038/npp.2009.131<?supplied-pmid 19776734?>19776734 </plain></SENT>
+</text></ref><ref id="B5"><text><SENT sid="329" pm="."><plain>BenesF. </plain></SENT>
+<SENT sid="330" pm="."><plain>M.BerrettaS. (2001). GABAergic interneurons: implications for understanding schizophrenia and bipolar disorder. Neuropsychopharmacology 25, 1–27. 10.1016/S0893-133X(01)00225-1<?supplied-pmid 11377916?>11377916 </plain></SENT>
+</text></ref><ref id="B6"><text><SENT sid="331" pm="."><plain>BerrettiniW. </plain></SENT>
+<SENT sid="332" pm="?"><plain>H. (2000). Are schizophrenic and bipolar disorders related? </plain></SENT>
+<SENT sid="333" pm="."><plain>A review of family and molecular studies. Biol. </plain></SENT>
+<SENT sid="334" pm="."><plain>Psychiatry 48, 531–538. 10.1016/s0006-3223(00)00883-0<?supplied-pmid 11018225?>11018225 </plain></SENT>
+</text></ref><ref id="B7"><text><SENT sid="335" pm="."><plain>BidinostiM.BottaP.KruttnerS.ProencaC. </plain></SENT>
+<SENT sid="336" pm="."><plain>C.StoehrN.BernhardM.. </plain></SENT>
+<SENT sid="337" pm="."><plain>(2016). CLK2 inhibition ameliorates autistic features associated with SHANK3 deficiency. Science 351, 1199–1203. 10.1126/science.aad5487<?supplied-pmid 26847545?>26847545 </plain></SENT>
+</text></ref><ref id="B8"><text><SENT sid="338" pm="."><plain>BlumbergH. </plain></SENT>
+<SENT sid="339" pm="."><plain>P.MartinA.KaufmanJ.LeungH. </plain></SENT>
+<SENT sid="340" pm="."><plain>C.SkudlarskiP.LacadieC.. </plain></SENT>
+<SENT sid="341" pm="."><plain>(2003). Frontostriatal abnormalities in adolescents with bipolar disorder: preliminary observations from functional MRI. Am. </plain></SENT>
+<SENT sid="342" pm="."><plain>J. </plain></SENT>
+<SENT sid="343" pm="."><plain>Psychiatry 160, 1345–1347. 10.1176/appi.ajp.160.7.1345<?supplied-pmid 12832254?>12832254 </plain></SENT>
+</text></ref><ref id="B9"><text><SENT sid="344" pm="."><plain>BolgerA. </plain></SENT>
+<SENT sid="345" pm="."><plain>M.LohseM.UsadelB. (2014). Trimmomatic: a flexible trimmer for Illumina sequence data. Bioinformatics 30, 2114–2120. 10.1093/bioinformatics/btu170<?supplied-pmid 24695404?>24695404 </plain></SENT>
+</text></ref><ref id="B10"><text><SENT sid="346" pm="."><plain>BozdagiO.TavassoliT.BuxbaumJ. </plain></SENT>
+<SENT sid="347" pm="."><plain>D. (2013). Insulin-like growth factor-1 rescues synaptic and motor deficits in a mouse model of autism and developmental delay. Mol. </plain></SENT>
+<SENT sid="348" pm="."><plain>Autism 4:9. 10.1186/2040-2392-4-9<?supplied-pmid 23621888?>23621888 </plain></SENT>
+</text></ref><ref id="B11"><text><SENT sid="349" pm="."><plain>CalabresiP.PicconiB.TozziA.GhiglieriV.Di FilippoM. (2014). Direct and indirect pathways of basal ganglia: a critical reappraisal. Nat. </plain></SENT>
+<SENT sid="350" pm="."><plain>Neurosci. 17, 1022–1030. 10.1038/nn.3743<?supplied-pmid 25065439?>25065439 </plain></SENT>
+</text></ref><ref id="B13"><text><SENT sid="351" pm="."><plain>ChenZ.BorekD.PadrickS. </plain></SENT>
+<SENT sid="352" pm="."><plain>B.GomezT. </plain></SENT>
+<SENT sid="353" pm="."><plain>S.MetlagelZ.IsmailA. </plain></SENT>
+<SENT sid="354" pm="."><plain>M.. </plain></SENT>
+<SENT sid="355" pm="."><plain>(2010). Structure and control of the actin regulatory WAVE complex. Nature 468, 533–538. 10.1038/nature09623<?supplied-pmid 21107423?>21107423 </plain></SENT>
+</text></ref><ref id="B12"><text><SENT sid="356" pm="."><plain>ChenG.HenterI. </plain></SENT>
+<SENT sid="357" pm="."><plain>D.ManjiH. </plain></SENT>
+<SENT sid="358" pm="."><plain>K. (2010). Translational research in bipolar disorder: emerging insights from genetically based models. Mol. </plain></SENT>
+<SENT sid="359" pm="."><plain>Psychiatry 15, 883–895. 10.1038/mp.2010.3<?supplied-pmid 20142820?>20142820 </plain></SENT>
+</text></ref><ref id="B14"><text><SENT sid="360" pm="."><plain>ChiangG. </plain></SENT>
+<SENT sid="361" pm="."><plain>G.AbrahamR. </plain></SENT>
+<SENT sid="362" pm="."><plain>T. (2005). Phosphorylation of mammalian target of rapamycin (mTOR) at Ser-2448 is mediated by p70S6 kinase. J. </plain></SENT>
+<SENT sid="363" pm="."><plain>Biol. </plain></SENT>
+<SENT sid="364" pm="."><plain>Chem. 280, 25485–25490. 10.1074/jbc.m501707200<?supplied-pmid 15899889?>15899889 </plain></SENT>
+</text></ref><ref id="B15"><text><SENT sid="365" pm="."><plain>ChoiS. </plain></SENT>
+<SENT sid="366" pm="."><plain>Y.PangK.KimJ. </plain></SENT>
+<SENT sid="367" pm="."><plain>Y.RyuJ. </plain></SENT>
+<SENT sid="368" pm="."><plain>R.KangH.LiuZ.. </plain></SENT>
+<SENT sid="369" pm="."><plain>(2015). Post-transcriptional regulation of SHANK3 expression by microRNAs related to multiple neuropsychiatric disorders. Mol. </plain></SENT>
+<SENT sid="370" pm="."><plain>Brain 8:74. 10.1186/s13041-015-0165-3<?supplied-pmid 26572867?>26572867 </plain></SENT>
+</text></ref><ref id="B16"><text><SENT sid="371" pm="."><plain>CoppJ.ManningG.HunterT. (2009). TORC-specific phosphorylation of mammalian target of rapamycin (mTOR): phospho-Ser2481 is a marker for intact mTOR signaling complex 2. Cancer Res. 69, 1821–1827. 10.1158/0008-5472.can-08-3014<?supplied-pmid 19244117?>19244117 </plain></SENT>
+</text></ref><ref id="B17"><text><SENT sid="372" pm="."><plain>Costa-MattioliM.MonteggiaL. </plain></SENT>
+<SENT sid="373" pm="."><plain>M. (2013). mTOR complexes in neurodevelopmental and neuropsychiatric disorders. Nat. </plain></SENT>
+<SENT sid="374" pm="."><plain>Neurosci. 16, 1537–1543. 10.1038/nn.3546<?supplied-pmid 24165680?>24165680 </plain></SENT>
+</text></ref><ref id="B18"><text><SENT sid="375" pm="."><plain>De RubeisS.HeX.GoldbergA. </plain></SENT>
+<SENT sid="376" pm="."><plain>P.PoultneyC. </plain></SENT>
+<SENT sid="377" pm="."><plain>S.SamochaK.CicekA. </plain></SENT>
+<SENT sid="378" pm="."><plain>E.. </plain></SENT>
+<SENT sid="379" pm="."><plain>(2014). Synaptic, transcriptional and chromatin genes disrupted in autism. Nature 515, 209–215. 10.1038/nature13772<?supplied-pmid 25363760?>25363760 </plain></SENT>
+</text></ref><ref id="B19"><text><SENT sid="380" pm="."><plain>Djinovic-CarugoK.YoungP.GautelM.SarasteM. (1999). Molecular basis for cross-linking of actin filaments: structure of the α-actinin rod. Cell 98, 537–546. 10.1016/s0092-8674(00)81981-9<?supplied-pmid 10481917?>10481917 </plain></SENT>
+</text></ref><ref id="B20"><text><SENT sid="381" pm="."><plain>DosemeciA.WeinbergR. </plain></SENT>
+<SENT sid="382" pm="."><plain>J.ReeseT. </plain></SENT>
+<SENT sid="383" pm="."><plain>S.Tao-ChengJ. </plain></SENT>
+<SENT sid="384" pm="."><plain>H. (2016). The postsynaptic density: there is more than meets the eye. Front. </plain></SENT>
+<SENT sid="385" pm="."><plain>Synaptic Neurosci. 8:23. 10.3389/fnsyn.2016.00023<?supplied-pmid 27594834?>27594834 </plain></SENT>
+</text></ref><ref id="B21"><text><SENT sid="386" pm="."><plain>DurandC. </plain></SENT>
+<SENT sid="387" pm="."><plain>M.BetancurC.BoeckersT. </plain></SENT>
+<SENT sid="388" pm="."><plain>M.BockmannJ.ChasteP.FauchereauF.. </plain></SENT>
+<SENT sid="389" pm="."><plain>(2007). Mutations in the gene encoding the synaptic scaffolding protein SHANK3 are associated with autism spectrum disorders. Nat. </plain></SENT>
+<SENT sid="390" pm="."><plain>Genet. 39, 25–27. 10.1038/ng1933<?supplied-pmid 17173049?>17173049 </plain></SENT>
+</text></ref><ref id="B22"><text><SENT sid="391" pm="."><plain>FaillaP.RomanoC.AlbertiA.VastaA.BuonoS.CastigliaL.. </plain></SENT>
+<SENT sid="392" pm="."><plain>(2007). Schizophrenia in a patient with subtelomeric duplication of chromosome 22q. Clin. </plain></SENT>
+<SENT sid="393" pm="."><plain>Genet. 71, 599–601. 10.1111/j.1399-0004.2007.00819.x<?supplied-pmid 17539913?>17539913 </plain></SENT>
+</text></ref><ref id="B23"><text><SENT sid="394" pm="."><plain>FromerM.PocklingtonA. </plain></SENT>
+<SENT sid="395" pm="."><plain>J.KavanaghD. </plain></SENT>
+<SENT sid="396" pm="."><plain>H.WilliamsH. </plain></SENT>
+<SENT sid="397" pm="."><plain>J.DwyerS.GormleyP.. </plain></SENT>
+<SENT sid="398" pm="."><plain>(2014). De novo mutations in schizophrenia implicate synaptic networks. Nature 506, 179–184. 10.1038/nature12929<?supplied-pmid 24463507?>24463507 </plain></SENT>
+</text></ref><ref id="B24"><text><SENT sid="399" pm="."><plain>GauthierJ.ChampagneN.LafreniereR. </plain></SENT>
+<SENT sid="400" pm="."><plain>G.XiongL.SpiegelmanD.BrusteinE.. </plain></SENT>
+<SENT sid="401" pm="."><plain>(2010). De novo mutations in the gene encoding the synaptic scaffolding protein SHANK3 in patients ascertained for schizophrenia. Proc. </plain></SENT>
+<SENT sid="402" pm="."><plain>Natl. </plain></SENT>
+<SENT sid="403" pm="."><plain>Acad. </plain></SENT>
+<SENT sid="404" pm="."><plain>Sci. </plain></SENT>
+<SENT sid="405" pm="."><plain>U S A 107, 7863–7868. 10.1073/pnas.0906232107<?supplied-pmid 20385823?>20385823 </plain></SENT>
+</text></ref><ref id="B26"><text><SENT sid="406" pm="."><plain>GrabruckerS.ProepperC.MangusK.EckertM.ChhabraR.SchmeisserM. </plain></SENT>
+<SENT sid="407" pm="."><plain>J.. </plain></SENT>
+<SENT sid="408" pm="."><plain>(2014). The PSD protein ProSAP2/Shank3 displays synapto-nuclear shuttling which is deregulated in a schizophrenia-associated mutation. Exp. </plain></SENT>
+<SENT sid="409" pm="."><plain>Neurol. 253, 126–137. 10.1016/j.expneurol.2013.12.015<?supplied-pmid 24382453?>24382453 </plain></SENT>
+</text></ref><ref id="B25"><text><SENT sid="410" pm="."><plain>GrabruckerA. </plain></SENT>
+<SENT sid="411" pm="."><plain>M.SchmeisserM. </plain></SENT>
+<SENT sid="412" pm="."><plain>J.SchoenM.BoeckersT. </plain></SENT>
+<SENT sid="413" pm="."><plain>M. (2011). Postsynaptic ProSAP/Shank scaffolds in the cross-hair of synaptopathies. Trends Cell Biol. 21, 594–603. 10.1016/j.tcb.2011.07.003<?supplied-pmid 21840719?>21840719 </plain></SENT>
+</text></ref><ref id="B27"><text><SENT sid="414" pm="."><plain>GrandeI.BerkM.BirmaherB.VietaE. (2016). Bipolar disorder. Lancet 387, 1561–1572. 10.1016/S0140-6736(15)00241-X<?supplied-pmid 26388529?>26388529 </plain></SENT>
+</text></ref><ref id="B28"><text><SENT sid="415" pm="."><plain>GuilmatreA.HuguetG.DelormeR.BourgeronT. (2014). The emerging role of SHANK genes in neuropsychiatric disorders. Dev. </plain></SENT>
+<SENT sid="416" pm="."><plain>Neurobiol. 74, 113–122. 10.1002/dneu.22128<?supplied-pmid 24124131?>24124131 </plain></SENT>
+</text></ref><ref id="B29"><text><SENT sid="417" pm="."><plain>GulhatiP.BowenK. </plain></SENT>
+<SENT sid="418" pm="."><plain>A.LiuJ.StevensP. </plain></SENT>
+<SENT sid="419" pm="."><plain>D.RychahouP. </plain></SENT>
+<SENT sid="420" pm="."><plain>G.ChenM.. </plain></SENT>
+<SENT sid="421" pm="."><plain>(2011). mTORC1 and mTORC2 regulate EMT, motility and metastasis of colorectal cancer via RhoA and Rac1 signaling pathways. Cancer Res. 71, 3246–3256. 10.1158/0008-5472.CAN-10-4058<?supplied-pmid 21430067?>21430067 </plain></SENT>
+</text></ref><ref id="B30"><text><SENT sid="422" pm="."><plain>Gutierrez-SacristanA.GrosdidierS.ValverdeO.TorrensM.BravoA.PineroJ.. </plain></SENT>
+<SENT sid="423" pm="."><plain>(2015). PsyGeNET: a knowledge platform on psychiatric disorders and their genes. Bioinformatics 31, 3075–3077. 10.1093/bioinformatics/btv301<?supplied-pmid 25964630?>25964630 </plain></SENT>
+</text></ref><ref id="B31"><text><SENT sid="424" pm="."><plain>HanK.ChenH.GennarinoV. </plain></SENT>
+<SENT sid="425" pm="."><plain>A.RichmanR.LuH. </plain></SENT>
+<SENT sid="426" pm="."><plain>C.ZoghbiH. </plain></SENT>
+<SENT sid="427" pm="."><plain>Y. (2015). Fragile X-like behaviors and abnormal cortical dendritic spines in Cytoplasmic FMR1-interacting protein 2-mutant mice. Hum. </plain></SENT>
+<SENT sid="428" pm="."><plain>Mol. </plain></SENT>
+<SENT sid="429" pm="."><plain>Genet. 24, 1813–1823. 10.1093/hmg/ddu595<?supplied-pmid 25432536?>25432536 </plain></SENT>
+</text></ref><ref id="B32"><text><SENT sid="430" pm="."><plain>HanK.GennarinoV. </plain></SENT>
+<SENT sid="431" pm="."><plain>A.LeeY.PangK.Hashimoto-ToriiK.ChoufaniS.. </plain></SENT>
+<SENT sid="432" pm="."><plain>(2013a). Human-specific regulation of MeCP2 levels in fetal brains by microRNA miR-483–5p. Genes Dev. 27, 485–490. 10.1101/gad.207456.112<?supplied-pmid 23431031?>23431031 </plain></SENT>
+</text></ref><ref id="B33"><text><SENT sid="433" pm="."><plain>HanK.HolderJ. </plain></SENT>
+<SENT sid="434" pm="."><plain>L.Jr.SchaafC. </plain></SENT>
+<SENT sid="435" pm="."><plain>P.LuH.ChenH.KangH.. </plain></SENT>
+<SENT sid="436" pm="."><plain>(2013b). SHANK3 overexpression causes manic-like behaviour with unique pharmacogenetic properties. Nature 503, 72–77. 10.1038/nature12630<?supplied-pmid 24153177?>24153177 </plain></SENT>
+</text></ref><ref id="B34"><text><SENT sid="437" pm="."><plain>HanK.KimM. </plain></SENT>
+<SENT sid="438" pm="."><plain>H.SeeburgD.SeoJ.VerpelliC.HanS.. </plain></SENT>
+<SENT sid="439" pm="."><plain>(2009). Regulated RalBP1 binding to RalA and PSD-95 controls AMPA receptor endocytosis and LTD. PLoS Biol. 7:e1000187. 10.1371/journal.pbio.1000187<?supplied-pmid 19823667?>19823667 </plain></SENT>
+</text></ref><ref id="B35"><text><SENT sid="440" pm="."><plain>HoefferC. </plain></SENT>
+<SENT sid="441" pm="."><plain>A.KlannE. (2010). mTOR signaling: at the crossroads of plasticity, memory and disease. Trends Neurosci. 33, 67–75. 10.1016/j.tins.2009.11.003<?supplied-pmid 19963289?>19963289 </plain></SENT>
+</text></ref><ref id="B37"><text><SENT sid="442" pm="."><plain>HuangJ.ManningB. </plain></SENT>
+<SENT sid="443" pm="."><plain>D. (2008). The TSC1-TSC2 complex: a molecular switchboard controlling cell growth. Biochem J. 412, 179–190. 10.1042/bj20080281<?supplied-pmid 18466115?>18466115 </plain></SENT>
+</text></ref><ref id="B36"><text><SENT sid="444" pm="."><plain>Huang DaW.ShermanB. </plain></SENT>
+<SENT sid="445" pm="."><plain>T.LempickiR. </plain></SENT>
+<SENT sid="446" pm="."><plain>A. (2009). Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources. Nat. </plain></SENT>
+<SENT sid="447" pm="."><plain>Protoc. 4, 44–57. 10.1038/nprot.2008.211<?supplied-pmid 19131956?>19131956 </plain></SENT>
+</text></ref><ref id="B38"><text><SENT sid="448" pm="."><plain>ItoM.DoyaK. (2015). Distinct neural representation in the dorsolateral, dorsomedial and ventral parts of the striatum during fixed- and free-choice tasks. J. </plain></SENT>
+<SENT sid="449" pm="."><plain>Neurosci. 35, 3499–3514. 10.1523/jneurosci.1962-14.2015<?supplied-pmid 25716849?>25716849 </plain></SENT>
+</text></ref><ref id="B39"><text><SENT sid="450" pm="."><plain>JaramilloT. </plain></SENT>
+<SENT sid="451" pm="."><plain>C.SpeedH. </plain></SENT>
+<SENT sid="452" pm="."><plain>E.XuanZ.ReimersJ. </plain></SENT>
+<SENT sid="453" pm="."><plain>M.EscamillaC. </plain></SENT>
+<SENT sid="454" pm="."><plain>O.WeaverT. </plain></SENT>
+<SENT sid="455" pm="."><plain>P.. </plain></SENT>
+<SENT sid="456" pm="."><plain>(2017). Novel Shank3 mutant exhibits behaviors with face validity for autism and altered striatal and hippocampal function. Autism Res. 10, 42–65. 10.1002/aur.1664<?supplied-pmid 27492494?>27492494 </plain></SENT>
+</text></ref><ref id="B40"><text><SENT sid="457" pm="."><plain>JerniganC. </plain></SENT>
+<SENT sid="458" pm="."><plain>S.GoswamiD. </plain></SENT>
+<SENT sid="459" pm="."><plain>B.AustinM. </plain></SENT>
+<SENT sid="460" pm="."><plain>C.IyoA. </plain></SENT>
+<SENT sid="461" pm="."><plain>H.ChandranA.StockmeierC. </plain></SENT>
+<SENT sid="462" pm="."><plain>A.. </plain></SENT>
+<SENT sid="463" pm="."><plain>(2011). The mTOR signaling pathway in the prefrontal cortex is compromised in major depressive disorder. Prog. </plain></SENT>
+<SENT sid="464" pm="."><plain>Neuropsychopharmacol. </plain></SENT>
+<SENT sid="465" pm="."><plain>Biol. </plain></SENT>
+<SENT sid="466" pm="."><plain>Psychiatry 35, 1774–1779. 10.1016/j.pnpbp.2011.05.010<?supplied-pmid 21635931?>21635931 </plain></SENT>
+</text></ref><ref id="B41"><text><SENT sid="467" pm="."><plain>JiangY. </plain></SENT>
+<SENT sid="468" pm="."><plain>H.EhlersM. </plain></SENT>
+<SENT sid="469" pm="."><plain>D. (2013). Modeling autism by SHANK gene mutations in mice. Neuron 78, 8–27. 10.1016/j.neuron.2013.03.016<?supplied-pmid 23583105?>23583105 </plain></SENT>
+</text></ref><ref id="B42"><text><SENT sid="470" pm="."><plain>KatoT.KasaharaT.Kubota-SakashitaM.KatoT. </plain></SENT>
+<SENT sid="471" pm="."><plain>M.NakajimaK. (2016). Animal models of recurrent or bipolar depression. Neuroscience 321, 189–196. 10.1016/j.neuroscience.2015.08.016<?supplied-pmid 26265551?>26265551 </plain></SENT>
+</text></ref><ref id="B43"><text><SENT sid="472" pm="."><plain>KimD.PerteaG.TrapnellC.PimentelH.KelleyR.SalzbergS. </plain></SENT>
+<SENT sid="473" pm="."><plain>L. (2013). TopHat2: accurate alignment of transcriptomes in the presence of insertions, deletions and gene fusions. Genome Biol. 14:R36. 10.1186/gb-2013-14-4-r36<?supplied-pmid 23618408?>23618408 </plain></SENT>
+</text></ref><ref id="B44"><text><SENT sid="474" pm="."><plain>KimS. </plain></SENT>
+<SENT sid="475" pm="."><plain>H.YuH. </plain></SENT>
+<SENT sid="476" pm="."><plain>S.ParkH. </plain></SENT>
+<SENT sid="477" pm="."><plain>G.HaK.KimY. </plain></SENT>
+<SENT sid="478" pm="."><plain>S.ShinS. </plain></SENT>
+<SENT sid="479" pm="."><plain>Y.. </plain></SENT>
+<SENT sid="480" pm="."><plain>(2013). Intracerebroventricular administration of ouabain, a Na/K-ATPase inhibitor, activates mTOR signal pathways and protein translation in the rat frontal cortex. Prog. </plain></SENT>
+<SENT sid="481" pm="."><plain>Neuropsychopharmacol. </plain></SENT>
+<SENT sid="482" pm="."><plain>Biol. </plain></SENT>
+<SENT sid="483" pm="."><plain>Psychiatry 45, 73–82. 10.1016/j.pnpbp.2013.04.018<?supplied-pmid 23643758?>23643758 </plain></SENT>
+</text></ref><ref id="B45"><text><SENT sid="484" pm="."><plain>KimY.ZhangY.PangK.KangH.ParkH.LeeY.. </plain></SENT>
+<SENT sid="485" pm="."><plain>(2016). Bipolar disorder associated microRNA, miR-1908–5p, regulates the expression of genes functioning in neuronal glutamatergic synapses. Exp. </plain></SENT>
+<SENT sid="486" pm="."><plain>Neurobiol. 25, 296–306. 10.5607/en.2016.25.6.296<?supplied-pmid 28035180?>28035180 </plain></SENT>
+</text></ref><ref id="B46"><text><SENT sid="487" pm="."><plain>KolevzonA.BushL.WangA. </plain></SENT>
+<SENT sid="488" pm="."><plain>T.HalpernD.FrankY.GrodbergD.. </plain></SENT>
+<SENT sid="489" pm="."><plain>(2014). A pilot controlled trial of insulin-like growth factor-1 in children with Phelan-McDermid syndrome. Mol. </plain></SENT>
+<SENT sid="490" pm="."><plain>Autism 5:54. 10.1186/2040-2392-5-54<?supplied-pmid 25685306?>25685306 </plain></SENT>
+</text></ref><ref id="B47"><text><SENT sid="491" pm="."><plain>KravitzA. </plain></SENT>
+<SENT sid="492" pm="."><plain>V.FreezeB. </plain></SENT>
+<SENT sid="493" pm="."><plain>S.ParkerP. </plain></SENT>
+<SENT sid="494" pm="."><plain>R.KayK.ThwinM. </plain></SENT>
+<SENT sid="495" pm="."><plain>T.DeisserothK.. </plain></SENT>
+<SENT sid="496" pm="."><plain>(2010). Regulation of parkinsonian motor behaviours by optogenetic control of basal ganglia circuitry. Nature 466, 622–626. 10.1038/nature09159<?supplied-pmid 20613723?>20613723 </plain></SENT>
+</text></ref><ref id="B48"><text><SENT sid="497" pm="."><plain>LaplanteM.SabatiniD. </plain></SENT>
+<SENT sid="498" pm="."><plain>M. (2012). mTOR signaling in growth control and disease. Cell 149, 274–293. 10.1016/j.cell.2012.03.017<?supplied-pmid 22500797?>22500797 </plain></SENT>
+</text></ref><ref id="B49"><text><SENT sid="499" pm="."><plain>LeblondC. </plain></SENT>
+<SENT sid="500" pm="."><plain>S.NavaC.PolgeA.GauthierJ.HuguetG.LumbrosoS.. </plain></SENT>
+<SENT sid="501" pm="."><plain>(2014). Meta-analysis of SHANK mutations in autism spectrum disorders: a gradient of severity in cognitive impairments. PLoS Genet. 10:e1004580. 10.1371/journal.pgen.1004580<?supplied-pmid 25188300?>25188300 </plain></SENT>
+</text></ref><ref id="B51"><text><SENT sid="502" pm="."><plain>LeeY.KangH.LeeB.ZhangY.KimY.KimS.. </plain></SENT>
+<SENT sid="503" pm="."><plain>(2017). Integrative analysis of brain region-specific Shank3 interactomes for understanding the heterogeneity of neuronal pathophysiology related to SHANK3 mutations. Front. </plain></SENT>
+<SENT sid="504" pm="."><plain>Mol. </plain></SENT>
+<SENT sid="505" pm="."><plain>Neurosci. 10:110. 10.3389/fnmol.2017.00110<?supplied-pmid 28469556?>28469556 </plain></SENT>
+</text></ref><ref id="B50"><text><SENT sid="506" pm="."><plain>LeeB.ZhangY.KimY.KimS.LeeY.HanK. (2017). Age-dependent decrease of GAD65/67 mRNAs but normal densities of GABAergic interneurons in the brain regions of Shank3-overexpressing manic mouse model. Neurosci. </plain></SENT>
+<SENT sid="507" pm="."><plain>Lett. 649, 48–54. 10.1016/j.neulet.2017.04.016<?supplied-pmid 28400125?>28400125 </plain></SENT>
+</text></ref><ref id="B52"><text><SENT sid="508" pm="."><plain>LiN.LeeB.LiuR. </plain></SENT>
+<SENT sid="509" pm="."><plain>J.BanasrM.DwyerJ. </plain></SENT>
+<SENT sid="510" pm="."><plain>M.IwataM.. </plain></SENT>
+<SENT sid="511" pm="."><plain>(2010). mTOR-dependent synapse formation underlies the rapid antidepressant effects of NMDA antagonists. Science 329, 959–964. 10.1126/science.1190287<?supplied-pmid 20724638?>20724638 </plain></SENT>
+</text></ref><ref id="B53"><text><SENT sid="512" pm="."><plain>LoganR. </plain></SENT>
+<SENT sid="513" pm="."><plain>W.McClungC. </plain></SENT>
+<SENT sid="514" pm="."><plain>A. (2016). Animal models of bipolar mania: the past, present and future. Neuroscience 321, 163–188. 10.1016/j.neuroscience.2015.08.041<?supplied-pmid 26314632?>26314632 </plain></SENT>
+</text></ref><ref id="B54"><text><SENT sid="515" pm="."><plain>LoveM. </plain></SENT>
+<SENT sid="516" pm="."><plain>I.HuberW.AndersS. (2014). Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. Genome Biol. 15:550. 10.1101/002832<?supplied-pmid 25516281?>25516281 </plain></SENT>
+</text></ref><ref id="B55"><text><SENT sid="517" pm="."><plain>MarvelC. </plain></SENT>
+<SENT sid="518" pm="."><plain>L.ParadisoS. (2004). Cognitive and neurological impairment in mood disorders. Psychiatr. </plain></SENT>
+<SENT sid="519" pm="."><plain>Clin. </plain></SENT>
+<SENT sid="520" pm="."><plain>North Am. 27, 19–36, vii–viii. 10.1016/s0193-953x(03)00106-0<?supplied-pmid 15062628?>15062628 </plain></SENT>
+</text></ref><ref id="B56"><text><SENT sid="521" pm="."><plain>MatamalesM.GötzJ.Bertran-GonzalezJ. (2016). Quantitative imaging of cholinergic interneurons reveals a distinctive spatial organization and a functional gradient across the mouse striatum. PLoS One 11:e0157682. 10.1371/journal.pone.0157682<?supplied-pmid 27314496?>27314496 </plain></SENT>
+</text></ref><ref id="B57"><text><SENT sid="522" pm="."><plain>MatsumotoM.StraubR. </plain></SENT>
+<SENT sid="523" pm="."><plain>E.MarencoS.NicodemusK. </plain></SENT>
+<SENT sid="524" pm="."><plain>K.MatsumotoS.FujikawaA.. </plain></SENT>
+<SENT sid="525" pm="."><plain>(2008). The evolutionarily conserved G protein-coupled receptor SREB2/GPR85 influences brain size, behavior and vulnerability to schizophrenia. Proc. </plain></SENT>
+<SENT sid="526" pm="."><plain>Natl. </plain></SENT>
+<SENT sid="527" pm="."><plain>Acad. </plain></SENT>
+<SENT sid="528" pm="."><plain>Sci. </plain></SENT>
+<SENT sid="529" pm="."><plain>U S A 105, 6133–6138. 10.1073/pnas.0710717105<?supplied-pmid 18413613?>18413613 </plain></SENT>
+</text></ref><ref id="B58"><text><SENT sid="530" pm="."><plain>MerikangasK. </plain></SENT>
+<SENT sid="531" pm="."><plain>R.JinR.HeJ. </plain></SENT>
+<SENT sid="532" pm="."><plain>P.KesslerR. </plain></SENT>
+<SENT sid="533" pm="."><plain>C.LeeS.SampsonN. </plain></SENT>
+<SENT sid="534" pm="."><plain>A.. </plain></SENT>
+<SENT sid="535" pm="."><plain>(2011). Prevalence and correlates of bipolar spectrum disorder in the world mental health survey initiative. Arch. </plain></SENT>
+<SENT sid="536" pm="."><plain>Gen. </plain></SENT>
+<SENT sid="537" pm="."><plain>Psychiatry 68, 241–251. 10.1001/archgenpsychiatry.2011.12<?supplied-pmid 21383262?>21383262 </plain></SENT>
+</text></ref><ref id="B59"><text><SENT sid="538" pm="."><plain>MoessnerR.MarshallC. </plain></SENT>
+<SENT sid="539" pm="."><plain>R.SutcliffeJ. </plain></SENT>
+<SENT sid="540" pm="."><plain>S.SkaugJ.PintoD.VincentJ.. </plain></SENT>
+<SENT sid="541" pm="."><plain>(2007). Contribution of SHANK3 mutations to autism spectrum disorder. Am. </plain></SENT>
+<SENT sid="542" pm="."><plain>J. </plain></SENT>
+<SENT sid="543" pm="."><plain>Hum. </plain></SENT>
+<SENT sid="544" pm="."><plain>Genet. 81, 1289–1297. 10.1086/522590<?supplied-pmid 17999366?>17999366 </plain></SENT>
+</text></ref><ref id="B60"><text><SENT sid="545" pm="."><plain>MonteiroP.FengG. (2017). SHANK proteins: roles at the synapse and in autism spectrum disorder. Nat. </plain></SENT>
+<SENT sid="546" pm="."><plain>Rev. </plain></SENT>
+<SENT sid="547" pm="."><plain>Neurosci. 18, 147–157. 10.1038/nrn.2016.183<?supplied-pmid 28179641?>28179641 </plain></SENT>
+</text></ref><ref id="B61"><text><SENT sid="548" pm="."><plain>MoritaM.GravelS. </plain></SENT>
+<SENT sid="549" pm="."><plain>P.ChenardV.SikströmK.ZhengL.AlainT.. </plain></SENT>
+<SENT sid="550" pm="."><plain>(2013). mTORC1 controls mitochondrial activity and biogenesis through 4E-BP-dependent translational regulation. Cell Metab. 18, 698–711. 10.1016/j.cmet.2013.10.001<?supplied-pmid 24206664?>24206664 </plain></SENT>
+</text></ref><ref id="B62"><text><SENT sid="551" pm="."><plain>MoskvinaV.CraddockN.HolmansP.NikolovI.PahwaJ. </plain></SENT>
+<SENT sid="552" pm="."><plain>S.GreenE.. </plain></SENT>
+<SENT sid="553" pm="."><plain>(2009). Gene-wide analyses of genome-wide association data sets: evidence for multiple common risk alleles for schizophrenia and bipolar disorder and for overlap in genetic risk. Mol. </plain></SENT>
+<SENT sid="554" pm="."><plain>Psychiatry 14, 252–260. 10.1038/mp.2008.133<?supplied-pmid 19065143?>19065143 </plain></SENT>
+</text></ref><ref id="B63"><text><SENT sid="555" pm="."><plain>NaritaM.YoungA. </plain></SENT>
+<SENT sid="556" pm="."><plain>R.ArakawaS.SamarajiwaS. </plain></SENT>
+<SENT sid="557" pm="."><plain>A.NakashimaT.YoshidaS.. </plain></SENT>
+<SENT sid="558" pm="."><plain>(2011). Spatial coupling of mTOR and autophagy augments secretory phenotypes. Science 332, 966–970. 10.1126/science.1205407<?supplied-pmid 21512002?>21512002 </plain></SENT>
+</text></ref><ref id="B64"><text><SENT sid="559" pm="."><plain>NestlerE. </plain></SENT>
+<SENT sid="560" pm="."><plain>J.HymanS. </plain></SENT>
+<SENT sid="561" pm="."><plain>E. (2010). Animal models of neuropsychiatric disorders. Nat. </plain></SENT>
+<SENT sid="562" pm="."><plain>Neurosci. 13, 1161–1169. 10.1038/nn.2647<?supplied-pmid 20877280?>20877280 </plain></SENT>
+</text></ref><ref id="B65"><text><SENT sid="563" pm="."><plain>PeçaJ.FelicianoC.TingJ. </plain></SENT>
+<SENT sid="564" pm="."><plain>T.WangW.WellsM. </plain></SENT>
+<SENT sid="565" pm="."><plain>F.VenkatramanT. </plain></SENT>
+<SENT sid="566" pm="."><plain>N.. </plain></SENT>
+<SENT sid="567" pm="."><plain>(2011). Shank3 mutant mice display autistic-like behaviours and striatal dysfunction. Nature 472, 437–442. 10.1038/nature09965<?supplied-pmid 21423165?>21423165 </plain></SENT>
+</text></ref><ref id="B66"><text><SENT sid="568" pm="."><plain>PeixotoR. </plain></SENT>
+<SENT sid="569" pm="."><plain>T.WangW.CroneyD. </plain></SENT>
+<SENT sid="570" pm="."><plain>M.KozorovitskiyY.SabatiniB. </plain></SENT>
+<SENT sid="571" pm="."><plain>L. (2016). Early hyperactivity and precocious maturation of corticostriatal circuits in Shank3B−/− mice. Nat. </plain></SENT>
+<SENT sid="572" pm="."><plain>Neurosci. 19, 716–724. 10.1038/nn.4260<?supplied-pmid 26928064?>26928064 </plain></SENT>
+</text></ref><ref id="B67"><text><SENT sid="573" pm="."><plain>PiñeroJ.BravoÀ.Queralt-RosinachN.Gutiérrez-SacristánA.Deu-PonsJ.CentenoE.. </plain></SENT>
+<SENT sid="574" pm="."><plain>(2017). DisGeNET: a comprehensive platform integrating information on human disease-associated genes and variants. Nucleic Acids Res. 45, D833–D839. 10.1093/nar/gkw943<?supplied-pmid 27924018?>27924018 </plain></SENT>
+</text></ref><ref id="B68"><text><SENT sid="575" pm="."><plain>PiñeroJ.Queralt-RosinachN.BravoÀ.Deu-PonsJ.Bauer-MehrenA.BaronM.. </plain></SENT>
+<SENT sid="576" pm="."><plain>(2015). DisGeNET: a discovery platform for the dynamical exploration of human diseases and their genes. Database (Oxford) 2015:bav028. 10.1093/database/bav028<?supplied-pmid 25877637?>25877637 </plain></SENT>
+</text></ref><ref id="B69"><text><SENT sid="577" pm="."><plain>RadulescuE.SambataroF.MattayV. </plain></SENT>
+<SENT sid="578" pm="."><plain>S.CallicottJ. </plain></SENT>
+<SENT sid="579" pm="."><plain>H.StraubR. </plain></SENT>
+<SENT sid="580" pm="."><plain>E.MatsumotoM.. </plain></SENT>
+<SENT sid="581" pm="."><plain>(2013). Effect of schizophrenia risk-associated alleles in SREB2 (GPR85) on functional MRI phenotypes in healthy volunteers. Neuropsychopharmacology 38, 341–349. 10.1038/npp.2012.184<?supplied-pmid 22968816?>22968816 </plain></SENT>
+</text></ref><ref id="B70"><text><SENT sid="582" pm="."><plain>RoccaD. </plain></SENT>
+<SENT sid="583" pm="."><plain>L.MartinS.JenkinsE. </plain></SENT>
+<SENT sid="584" pm="."><plain>L.HanleyJ. </plain></SENT>
+<SENT sid="585" pm="."><plain>G. (2008). Inhibition of Arp2/3-mediated actin polymerization by PICK1 regulates neuronal morphology and AMPA receptor endocytosis. Nat. </plain></SENT>
+<SENT sid="586" pm="."><plain>Cell Biol. 10, 259–271. 10.1038/ncb1688<?supplied-pmid 18297063?>18297063 </plain></SENT>
+</text></ref><ref id="B71"><text><SENT sid="587" pm="."><plain>SakaiY.ShawC. </plain></SENT>
+<SENT sid="588" pm="."><plain>A.DawsonB. </plain></SENT>
+<SENT sid="589" pm="."><plain>C.DugasD. </plain></SENT>
+<SENT sid="590" pm="."><plain>V.Al-MohtasebZ.HillD. </plain></SENT>
+<SENT sid="591" pm="."><plain>E.. </plain></SENT>
+<SENT sid="592" pm="."><plain>(2011). Protein interactome reveals converging molecular pathways among autism disorders. Sci. </plain></SENT>
+<SENT sid="593" pm="."><plain>Transl. </plain></SENT>
+<SENT sid="594" pm="."><plain>Med. 3:86ra49. 10.1126/scitranslmed.3002166<?supplied-pmid 21653829?>21653829 </plain></SENT>
+</text></ref><ref id="B72"><text><SENT sid="595" pm="."><plain>ShahaniN.SwarnkarS.GiovinazzoV.MorgenweckJ.BohnL. </plain></SENT>
+<SENT sid="596" pm="."><plain>M.Scharager-TapiaC.. </plain></SENT>
+<SENT sid="597" pm="."><plain>(2016). RasGRP1 promotes amphetamine-induced motor behavior through a Rhes interaction network (“Rhesactome”) in the striatum. Sci. </plain></SENT>
+<SENT sid="598" pm="."><plain>Signal. 9:ra111. 10.1126/scisignal.aaf6670<?supplied-pmid 27902448?>27902448 </plain></SENT>
+</text></ref><ref id="B73"><text><SENT sid="599" pm="."><plain>ShannonP.MarkielA.OzierO.BaligaN. </plain></SENT>
+<SENT sid="600" pm="."><plain>S.WangJ. </plain></SENT>
+<SENT sid="601" pm="."><plain>T.RamageD.. </plain></SENT>
+<SENT sid="602" pm="."><plain>(2003). Cytoscape: a software environment for integrated models of biomolecular interaction networks. Genome Res. 13, 2498–2504. 10.1101/gr.1239303<?supplied-pmid 14597658?>14597658 </plain></SENT>
+</text></ref><ref id="B74"><text><SENT sid="603" pm="."><plain>ShcheglovitovA.ShcheglovitovaO.YazawaM.PortmannT.ShuR.SebastianoV.. </plain></SENT>
+<SENT sid="604" pm="."><plain>(2013). SHANK3 and IGF1 restore synaptic deficits in neurons from 22q13 deletion syndrome patients. Nature 503, 267–271. 10.1038/nature12618<?supplied-pmid 24132240?>24132240 </plain></SENT>
+</text></ref><ref id="B75"><text><SENT sid="605" pm="."><plain>ShengM.KimE. (2000). The Shank family of scaffold proteins. J. </plain></SENT>
+<SENT sid="606" pm="."><plain>Cell Sci. 113, 1851–1856. <?supplied-pmid 10806096?>10806096 </plain></SENT>
+</text></ref><ref id="B76"><text><SENT sid="607" pm="."><plain>SteinerH.TsengK.-Y. (Eds). </plain></SENT>
+<SENT sid="608" pm="."><plain>(2010). Handbook of Basal Ganglia Structure and Function: A Decade of Progress San Diego/Amsterdam: Elsevier/Academic Press. </plain></SENT>
+</text></ref><ref id="B77"><text><SENT sid="609" pm="."><plain>StrakowskiS. </plain></SENT>
+<SENT sid="610" pm="."><plain>M.DelbelloM. </plain></SENT>
+<SENT sid="611" pm="."><plain>P.SaxK. </plain></SENT>
+<SENT sid="612" pm="."><plain>W.ZimmermanM. </plain></SENT>
+<SENT sid="613" pm="."><plain>E.ShearP. </plain></SENT>
+<SENT sid="614" pm="."><plain>K.HawkinsJ. </plain></SENT>
+<SENT sid="615" pm="."><plain>M.. </plain></SENT>
+<SENT sid="616" pm="."><plain>(1999). Brain magnetic resonance imaging of structural abnormalities in bipolar disorder. Arch. </plain></SENT>
+<SENT sid="617" pm="."><plain>Gen. </plain></SENT>
+<SENT sid="618" pm="."><plain>Psychiatry 56, 254–260. 10.1001/archpsyc.56.3.254<?supplied-pmid 10078503?>10078503 </plain></SENT>
+</text></ref><ref id="B78"><text><SENT sid="619" pm="."><plain>SubramaniamS.NapolitanoF.MealerR. </plain></SENT>
+<SENT sid="620" pm="."><plain>G.KimS.ErricoF.BarrowR.. </plain></SENT>
+<SENT sid="621" pm="."><plain>(2011). Rhes, a striatal-enriched small G protein, mediates mTOR signaling and L-DOPA-induced dyskinesia. Nat. </plain></SENT>
+<SENT sid="622" pm="."><plain>Neurosci. 15, 191–193. 10.1038/nn.2994<?supplied-pmid 22179112?>22179112 </plain></SENT>
+</text></ref><ref id="B79"><text><SENT sid="623" pm="."><plain>SubramanianA.TamayoP.MoothaV. </plain></SENT>
+<SENT sid="624" pm="."><plain>K.MukherjeeS.EbertB. </plain></SENT>
+<SENT sid="625" pm="."><plain>L.GilletteM. </plain></SENT>
+<SENT sid="626" pm="."><plain>A.. </plain></SENT>
+<SENT sid="627" pm="."><plain>(2005). Gene set enrichment analysis: a knowledge-based approach for interpreting genome-wide expression profiles. Proc. </plain></SENT>
+<SENT sid="628" pm="."><plain>Natl. </plain></SENT>
+<SENT sid="629" pm="."><plain>Acad. </plain></SENT>
+<SENT sid="630" pm="."><plain>Sci. </plain></SENT>
+<SENT sid="631" pm="."><plain>U S A 102, 15545–15550. 10.1073/pnas.0506580102<?supplied-pmid 16199517?>16199517 </plain></SENT>
+</text></ref><ref id="B80"><text><SENT sid="632" pm="."><plain>TakeiN.NawaH. (2014). mTOR signaling and its roles in normal and abnormal brain development. Front. </plain></SENT>
+<SENT sid="633" pm="."><plain>Mol. </plain></SENT>
+<SENT sid="634" pm="."><plain>Neurosci. 7:28. 10.3389/fnmol.2014.00028<?supplied-pmid 24795562?>24795562 </plain></SENT>
+</text></ref><ref id="B81"><text><SENT sid="635" pm="."><plain>TakenawaT.SuetsuguS. (2007). The WASP-WAVE protein network: connecting the membrane to the cytoskeleton. Nat. </plain></SENT>
+<SENT sid="636" pm="."><plain>Rev. </plain></SENT>
+<SENT sid="637" pm="."><plain>Mol. </plain></SENT>
+<SENT sid="638" pm="."><plain>Cell Biol. 8, 37–48. 10.1038/nrm2069<?supplied-pmid 17183359?>17183359 </plain></SENT>
+</text></ref><ref id="B82"><text><SENT sid="639" pm="."><plain>VerpelliC.DvoretskovaE.VicidominiC.RossiF.ChiappaloneM.SchoenM.. </plain></SENT>
+<SENT sid="640" pm="."><plain>(2011). Importance of Shank3 protein in regulating metabotropic glutamate receptor 5 (mGluR5) expression and signaling at synapses. J. </plain></SENT>
+<SENT sid="641" pm="."><plain>Biol. </plain></SENT>
+<SENT sid="642" pm="."><plain>Chem. 286, 34839–34850. 10.1074/jbc.M111.258384<?supplied-pmid 21795692?>21795692 </plain></SENT>
+</text></ref><ref id="B83"><text><SENT sid="643" pm="."><plain>VicidominiC.PonzoniL.LimD.SchmeisserM. </plain></SENT>
+<SENT sid="644" pm="."><plain>J.ReimD.MorelloN.. </plain></SENT>
+<SENT sid="645" pm="."><plain>(2017). Pharmacological enhancement of mGlu5 receptors rescues behavioral deficits in SHANK3 knock-out mice. Mol. </plain></SENT>
+<SENT sid="646" pm="."><plain>Psychiatry 22:784. 10.1038/mp.2016.70<?supplied-pmid 27113996?>27113996 </plain></SENT>
+</text></ref><ref id="B85"><text><SENT sid="647" pm="."><plain>WangX.BeyA. </plain></SENT>
+<SENT sid="648" pm="."><plain>L.KatzB. </plain></SENT>
+<SENT sid="649" pm="."><plain>M.BadeaA.KimN.DavidL. </plain></SENT>
+<SENT sid="650" pm="."><plain>K.. </plain></SENT>
+<SENT sid="651" pm="."><plain>(2016). Altered mGluR5-Homer scaffolds and corticostriatal connectivity in a Shank3 complete knockout model of autism. Nat. </plain></SENT>
+<SENT sid="652" pm="."><plain>Commun. 7:11459. 10.1038/ncomms11459<?supplied-pmid 27161151?>27161151 </plain></SENT>
+</text></ref><ref id="B84"><text><SENT sid="653" pm="."><plain>WangW.LiC.ChenQ.van der GoesM. </plain></SENT>
+<SENT sid="654" pm="."><plain>S.HawrotJ.YaoA. </plain></SENT>
+<SENT sid="655" pm="."><plain>Y.. </plain></SENT>
+<SENT sid="656" pm="."><plain>(2017). Striatopallidal dysfunction underlies repetitive behavior in Shank3-deficient model of autism. J. </plain></SENT>
+<SENT sid="657" pm="."><plain>Clin. </plain></SENT>
+<SENT sid="658" pm="."><plain>Invest. 127, 1978–1990. 10.1172/JCI87997<?supplied-pmid 28414301?>28414301 </plain></SENT>
+</text></ref><ref id="B86"><text><SENT sid="659" pm="."><plain>WessaM.HouenouJ.Paillère-MartinotM. </plain></SENT>
+<SENT sid="660" pm="."><plain>L.BerthozS.ArtigesE.LeboyerM.. </plain></SENT>
+<SENT sid="661" pm="."><plain>(2007). Fronto-striatal overactivation in euthymic bipolar patients during an emotional go/nogo task. Am. </plain></SENT>
+<SENT sid="662" pm="."><plain>J. </plain></SENT>
+<SENT sid="663" pm="."><plain>Psychiatry 164, 638–646. 10.1176/appi.ajp.164.4.638<?supplied-pmid 17403978?>17403978 </plain></SENT>
+</text></ref><ref id="B87"><text><SENT sid="664" pm="."><plain>YuH. </plain></SENT>
+<SENT sid="665" pm="."><plain>S.KimS. </plain></SENT>
+<SENT sid="666" pm="."><plain>H.ParkH. </plain></SENT>
+<SENT sid="667" pm="."><plain>G.KimY. </plain></SENT>
+<SENT sid="668" pm="."><plain>S.AhnY. </plain></SENT>
+<SENT sid="669" pm="."><plain>M. (2010). Activation of Akt signaling in rat brain by intracerebroventricular injection of ouabain: a rat model for mania. Prog. </plain></SENT>
+<SENT sid="670" pm="."><plain>Neuropsychopharmacol. </plain></SENT>
+<SENT sid="671" pm="."><plain>Biol. </plain></SENT>
+<SENT sid="672" pm="."><plain>Psychiatry 34, 888–894. 10.1016/j.pnpbp.2010.04.010<?supplied-pmid 20403403?>20403403 </plain></SENT>
+</text></ref></ref-list></SecTag></back></article>

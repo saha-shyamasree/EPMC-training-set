@@ -1,0 +1,563 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?DTDIdentifier.IdentifierValue -//NPG//DTD XML Article//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName NPG_XML_Article.dtd?><?SourceDTD.Version 2.7.10?><?ConverterInfo.XSLTName nature2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Nat Commun</journal-id><journal-id journal-id-type="iso-abbrev">Nat Commun</journal-id><journal-title-group><journal-title>Nature Communications</journal-title></journal-title-group><issn pub-type="epub">2041-1723</issn><publisher><publisher-name>Nature Publishing Group</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5376652</article-id><article-id pub-id-type="pii">ncomms14771</article-id><article-id pub-id-type="doi">10.1038/ncomms14771</article-id><article-id pub-id-type="pmid">28332494</article-id><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title><SecTag type="TITLE"><text><SENT sid="0" pm="."><plain>PTENβ is an alternatively translated isoform of PTEN that regulates rDNA transcription </plain></SENT>
+</text></SecTag></article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Liang</surname><given-names>Hui</given-names></name><xref ref-type="aff" rid="a1">1</xref><xref ref-type="author-notes" rid="n1">*</xref></contrib><contrib contrib-type="author"><name><surname>Chen</surname><given-names>Xi</given-names></name><xref ref-type="aff" rid="a1">1</xref><xref ref-type="author-notes" rid="n1">*</xref></contrib><contrib contrib-type="author"><name><surname>Yin</surname><given-names>Qi</given-names></name><xref ref-type="aff" rid="a1">1</xref></contrib><contrib contrib-type="author"><name><surname>Ruan</surname><given-names>Danhui</given-names></name><xref ref-type="aff" rid="a1">1</xref></contrib><contrib contrib-type="author"><name><surname>Zhao</surname><given-names>Xuyang</given-names></name><xref ref-type="aff" rid="a1">1</xref></contrib><contrib contrib-type="author"><name><surname>Zhang</surname><given-names>Cong</given-names></name><xref ref-type="aff" rid="a1">1</xref></contrib><contrib contrib-type="author"><name><surname>McNutt</surname><given-names>Michael A.</given-names></name><xref ref-type="aff" rid="a1">1</xref></contrib><contrib contrib-type="author"><name><surname>Yin</surname><given-names>Yuxin</given-names></name><xref ref-type="corresp" rid="c1">a</xref><xref ref-type="aff" rid="a1">1</xref></contrib><aff id="a1"><label>1</label><institution>Institute of Systems Biomedicine, Department of Pathology, School of Basic Medicine, Beijing Key Laboratory of Tumor Systems Biology, Peking-Tsinghua Center of Life Sciences, Peking University Health Science Center</institution>, Beijing 100191, <country>China</country></aff></contrib-group><author-notes><corresp id="c1"><label>a</label><email>yinyuxin@hsc.pku.edu.cn</email></corresp><fn id="n1"><label>*</label><p><text><SENT sid="1" pm="."><plain>These authors contributed equally to this work </plain></SENT>
+</text></p></fn></author-notes><pub-date pub-type="epub"><day>23</day><month>03</month><year>2017</year></pub-date><pub-date pub-type="collection"><year>2017</year></pub-date><volume>8</volume><elocation-id>14771</elocation-id><history><date date-type="received"><day>08</day><month>07</month><year>2016</year></date><date date-type="accepted"><day>27</day><month>01</month><year>2017</year></date></history><permissions><copyright-statement>Copyright © 2017, The Author(s)</copyright-statement><copyright-year>2017</copyright-year><copyright-holder>The Author(s)</copyright-holder><license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article's Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link></license-p></license></permissions><abstract><p><SecTag type="ABS"><text><SENT sid="2" pm="."><plain>PTEN is a critical tumour suppressor that is frequently mutated in human cancer. </plain></SENT>
+<SENT sid="3" pm="."><plain>We have previously identified a CUG initiated PTEN isoform designated PTENα, which functions in mitochondrial bioenergetics. </plain></SENT>
+<SENT sid="4" pm="."><plain>Here we report the identification of another N-terminal extended PTEN isoform, designated PTENβ. </plain></SENT>
+<SENT sid="5" pm="."><plain>PTENβ translation is initiated from an AUU codon upstream of and in-frame with the AUG initiation sequence for canonical PTEN. </plain></SENT>
+<SENT sid="6" pm="."><plain>We show that the Kozak context and a downstream hairpin structure are critical for this alternative initiation. </plain></SENT>
+<SENT sid="7" pm="."><plain>PTENβ localizes predominantly in the nucleolus, and physically associates with and dephosphorylates nucleolin, which is a multifunctional nucleolar phosphoprotein. </plain></SENT>
+<SENT sid="8" pm="."><plain>Disruption of PTENβ alters rDNA transcription and promotes ribosomal biogenesis, and this effect can be reversed by re-introduction of PTENβ. </plain></SENT>
+<SENT sid="9" pm="."><plain>Our data show that PTENβ regulates pre-rRNA synthesis and cellular proliferation. </plain></SENT>
+<SENT sid="10" pm="."><plain>These results demonstrate the complexity of the PTEN protein family and the diversity of its functions. </plain></SENT>
+</text></SecTag></p></abstract><abstract abstract-type="web-summary"><p><SecTag type="ABS"><text><SENT sid="11" pm="."><plain>PTEN is a potent tumour suppressor involved in cell growth, proliferation and survival. </plain></SENT>
+<SENT sid="12" pm="."><plain>Here the authors identify an N-terminal extended isoform of PTEN, termed PTENβ that negatively regulates ribosomal DNA transcription and cell proliferation, expanding the pleiotropic functions of the PTEN family. </plain></SENT>
+</text></SecTag></p></abstract></article-meta></front><body><p><text><SENT sid="13" pm="."><plain>The PTEN gene was first identified and cloned in 1997, and PTEN protein has proved to be a powerful tumour suppressor12. </plain></SENT>
+<SENT sid="14" pm="."><plain>It is one of the most frequently mutated or deleted genes in cancer, including cancer of the brain, breast, prostate, pancreas and ovary3. </plain></SENT>
+<SENT sid="15" pm="."><plain>Germline mutations of the PTEN gene lead to inherited autosomal dominant hamartoma tumour syndromes, including Bannayan–Zonana syndrome4 and Cowden disease5. </plain></SENT>
+<SENT sid="16" pm="."><plain>Heterozygous Pten deletion leads to multiple tumours in mice, while the homozygote is embryonically lethal67. </plain></SENT>
+<SENT sid="17" pm="."><plain>In the cytoplasm, PTEN antagonizes the PI3K-AKT-mTOR pathway by dephosphorylation of phosphoinositide-3,4,5-triphosphate (PIP3)8. </plain></SENT>
+<SENT sid="18" pm="."><plain>Loss of PTEN function leads to uncontrolled activation of the PI3K/AKT pathway, which stimulates cell growth, cell proliferation and cell survival, and inhibits apoptosis. </plain></SENT>
+<SENT sid="19" pm="."><plain>PTEN also accumulates in the cell nucleus through passive diffusion, Ran-MVP-mediated transport and mono-ubiquitination-regulated mechanisms9. </plain></SENT>
+<SENT sid="20" pm="."><plain>In the nucleus, PTEN maintains genome integrity and regulates the process of DNA replication through regulation of RPA1, MCM2 and TOP2A (refs 10, 11, 12, 13). </plain></SENT>
+<SENT sid="21" pm="."><plain>In addition to its tumour suppressor function, PTEN is also involved in embryonic development, lipid metabolism1415, Alzheimer's disease16 and antiviral innate immunity17. </plain></SENT>
+<SENT sid="22" pm="."><plain>However, the current concepts of PTEN function do not fully explain the multifarious activity of this protein. </plain></SENT>
+</text></p><p><text><SENT sid="23" pm="."><plain>In eukaryotes, the translation initiation codon is generally recognized and selected by the 5′cap structure dependent ribosomal scanning mechanism, as well as by 5′cap structure independent internal ribosome entry sites. </plain></SENT>
+<SENT sid="24" pm="."><plain>This scanning complex rigorously controls the fidelity of initiation through recognition of the correct AUG triplet in the optimum context GCC(A/G)CCAUGG, referred to as the Kozak sequence, which includes a purine at the −3 and a G at the +4 position (relative to the A of the AUG codon, which is designated +1) (refs 18, 19). </plain></SENT>
+</text></p><p><text><SENT sid="25" pm="."><plain>Triplets that differ from AUG by only one nucleotide can also direct initiation of polypeptide chain synthesis in mammalian cells in an optimum context20. </plain></SENT>
+<SENT sid="26" pm="."><plain>It is also reported that recognition of non-AUG codons is strongly stimulated by a downstream stem-loop (hairpin) structure that is separated from the preceding initiation codon by about 14 nucleotides21. </plain></SENT>
+<SENT sid="27" pm="."><plain>Isoforms initiated from non-AUG codons are frequently endowed with functions additional to and differing from the canonical form of a given protein2223. </plain></SENT>
+</text></p><p><text><SENT sid="28" pm="."><plain>Previously, we and others reported that a CUG codon in the 5′ untranslated region (5′ UTR) of PTEN mRNA initiates an N-terminal extended isoform of PTEN now known as PTENα (refs 24, 25). </plain></SENT>
+<SENT sid="29" pm="."><plain>In the current study we describe another PTEN isoform designated PTENβ, which comprises an extended N-terminal extension of 146 amino acids (Homo sapiens) as compared with canonical PTEN protein. </plain></SENT>
+<SENT sid="30" pm="."><plain>Our data show PTENβ localizes specifically in the nucleolus and negatively regulates rDNA transcription. </plain></SENT>
+<SENT sid="31" pm="."><plain>Disruption of PTENβ leads to an abnormal increase in pre-rRNA synthesis and results in promotion of cellular proliferation. </plain></SENT>
+<SENT sid="32" pm="."><plain>These findings characterize an N-terminal extended PTEN isoform with distinct localization and function, which results from alternative AUU translation initiation. </plain></SENT>
+<SENT sid="33" pm="."><plain>Identification of PTENβ further reveals the diversity of PTEN protein family function, and the correspondence of protein function with isoform subtype. </plain></SENT>
+</text></p><SecTag type="RESULTS"><sec disp-level="1"><title><text><SENT sid="34" pm="."><plain>Results </plain></SENT>
+</text></title><sec disp-level="2"><title><text><SENT sid="35" pm="."><plain>An unidentified protein is recognized by a PTENα antibody </plain></SENT>
+</text></title><p><text><SENT sid="36" pm="."><plain>The protein PTENα functions in mitochondrial metabolism, and structurally distinct compounds such as acriflavin and aurin tricarboxylic acid (ATA) yield different results in regulation of PTENα synthesis initiated by a CUG start codon25. </plain></SENT>
+<SENT sid="37" pm="."><plain>The CUG inhibitor acriflavin reduces PTENα expression in a dose-dependent manner without affecting canonical PTEN expression. </plain></SENT>
+<SENT sid="38" pm="."><plain>We observed that a full length PTEN antibody reacted with an unidentified protein of molecular weight lower than PTENα (around 70 kDa), and expression of this protein showed dose dependent variation under acriflavin treatment parallel to that of PTENα (Fig. 1a). </plain></SENT>
+<SENT sid="39" pm="."><plain>A panel of cancer cell lines was examined to determine whether differences in PTEN status affect this unidentified PTEN-like protein, and the protein was undetectable in PTEN-null PC3 cells (Fig. 1b). </plain></SENT>
+<SENT sid="40" pm="."><plain>This protein was also recognized by a monoclonal antibody against the PTEN C-terminal domain, suggesting its C-terminal region is similar to or identical with canonical PTEN. </plain></SENT>
+<SENT sid="41" pm="."><plain>In order to confirm this, we examined cancer cell lines with an anti-PTENα antibody raised in our laboratory by immunization with purified recombinant protein composed of the 173 N-terminal amino acids of PTENα (ref. 25). </plain></SENT>
+<SENT sid="42" pm="."><plain>This unidentified protein was recognized by this anti-PTENα antibody (Fig. 1c), indicating that it was most likely another N-terminally extended PTEN variant generated by initiation at an in-frame initiation codon within the PTEN mRNA 5′ leader. </plain></SENT>
+<SENT sid="43" pm="."><plain>We designated this PTEN-like protein PTENβ. </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="44" pm="."><plain>Alternative initiation of PTENβ translation from AUU594 </plain></SENT>
+</text></title><p><text><SENT sid="45" pm="."><plain>Evaluation of the 5′ UTR of human PTEN mRNA for alternative translation start sites in frame with the AUG1032 start codon revealed a total of four non-AUG alternative initiation codons in favourable Kozak contexts (Fig. 2a). </plain></SENT>
+<SENT sid="46" pm="."><plain>Translation from AUU594 or UUG621 is expected to encode larger forms of PTEN of 549 or 540 amino acids respectively, with predicted molecular weights of 61.6–62.9 kDa. </plain></SENT>
+<SENT sid="47" pm="."><plain>A protein of this size should migrate under gel electrophoresis at around 70 kDa, matching the observed PTENβ band. </plain></SENT>
+</text></p><p><text><SENT sid="48" pm="."><plain>To determine whether one of these non-AUG codons initiates translation of this putative PTENβ protein with upstream extension of the open reading frame (ORF), the coding sequence of PTENα was cloned into a plasmid with a C-terminal GFP tag (Fig. 2b, upper panel). </plain></SENT>
+<SENT sid="49" pm="."><plain>As expected, the CUG513 initiated PTENα ORF was translated into three distinct proteins with masses of 120+ kDa (PTENα-GFP), 120 kDa (PTENβ-GFP) and 90 kDa (PTEN-GFP) (Fig. 2b, lower panel). </plain></SENT>
+<SENT sid="50" pm="."><plain>This suggested that PTENβ is translated from a new ORF in the 5′ UTR of PTEN mRNA upstream of the canonical AUG start codon. </plain></SENT>
+</text></p><p><text><SENT sid="51" pm="."><plain>To identify PTENβ translation initiation sites, a plasmid was constructed to express CUG513-initiated PTENα with a C-terminal GFP tag, and mutations were created in this plasmid to determine which non-AUG codon is critical for PTENβ expression (Fig. 2c). </plain></SENT>
+<SENT sid="52" pm="."><plain>Mutation of CUG513 into a non-initiating CUC triplet led only to disappearance of the most slowly migrating proteoform PTENα, thus excluding the possibility that PTENβ is a cleavage product (Fig. 2d, lane 4). </plain></SENT>
+<SENT sid="53" pm="."><plain>On the basis of CUG513 mutation, potential non-AUG codons (AUU594, UUG621) were mutated separately to a non-initiating CUC triplet. </plain></SENT>
+<SENT sid="54" pm="."><plain>Anti-GFP immunoblots from these transfected lysates revealed that mutation of AUU594 abolishes PTENβ, whereas mutation of UUG621 has no such effect (Fig. 2d, lane 6 versus lane 5). </plain></SENT>
+<SENT sid="55" pm="."><plain>These results indicate that AUU594 but not UUG621 is essential for PTENβ expression, and that AUU594 is likely the translation initiation site for PTENβ. </plain></SENT>
+</text></p><p><text><SENT sid="56" pm="."><plain>AUU594 resides in a favourable Kozak context as noted (GUCACCAUU594) (Fig. 2a). </plain></SENT>
+<SENT sid="57" pm="."><plain>In order to determine whether this context influences translation initiation at AUU594, we constructed mutants to disrupt it and examined PTENβ expression (Fig. 2e). </plain></SENT>
+<SENT sid="58" pm="."><plain>Disruption of this Kozak context markedly reduced PTENβ expression (Fig. 2f), strongly suggesting that translation initiation of PTENβ is reliant on the Kozak context. </plain></SENT>
+</text></p><p><text><SENT sid="59" pm="."><plain>Detailed evaluation of the 5′ UTR of human PTEN mRNA revealed a 12 bp perfect palindromic sequence starting 18 bp downstream of AUU594, and phylogenetic analysis suggests that this secondary structure is evolutionarily conserved (Fig. 2g). </plain></SENT>
+<SENT sid="60" pm="."><plain>As shown in Fig. 2h, disruption of this palindromic motif by mutation led to a marked reduction of PTENβ without affecting canonical PTEN expression (lower panel, lane 4 versus lane 3), indicating this sequence is critical for translation initiation of PTENβ. </plain></SENT>
+</text></p><p><text><SENT sid="61" pm="."><plain>These data demonstrate that PTENβ synthesis relies on an alternative translation initiation at the AUU594 codon, and expression of PTENβ is influenced both by the Kozak context and by the secondary structure downstream of AUU594. </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="62" pm="."><plain>Mass spectrometry analysis of the PTENβ sequence </plain></SENT>
+</text></title><p><text><SENT sid="63" pm="."><plain>Mass spectrometry was used for peptide sequencing to validate the PTENβ translation initiation site. </plain></SENT>
+<SENT sid="64" pm="."><plain>Purified human PTENβ with a C-terminal His tag (Fig. 3a) was expressed in Sf9 insect cells for mass spectrometry (Fig. 3b). </plain></SENT>
+<SENT sid="65" pm="."><plain>Mascot reports revealed three peptide fragments covering 39.04% of the N-terminal region of PTENβ (from AUU594 to AUG1032) (Fig. 3b). </plain></SENT>
+<SENT sid="66" pm="."><plain>LC-MS/MS captured MSRAGNAGE, which is the most proximal N-terminal peptide of PTENβ (9 aa, MS/MS spectrum shown in Fig. 3c). </plain></SENT>
+<SENT sid="67" pm="."><plain>Additional analysis showed that the first N-terminal amino acid of PTENβ is acetylated. </plain></SENT>
+<SENT sid="68" pm="."><plain>These mass spectrum data therefore verified AUU594 is the PTENβ translation initiation site. </plain></SENT>
+</text></p><p><text><SENT sid="69" pm="."><plain>The 5′ UTR of Homo sapiens PTEN and Mus musculus Pten are highly homologous as shown in our recent study25, suggesting that PTENβ expression in mice is conserved and has a similar alternative translation initiation mechanism. </plain></SENT>
+<SENT sid="70" pm="."><plain>We previously generated a FLAG-knockin mouse model (PtenFLAG), in which the C-terminus of the Pten gene was targeted for insertion of a FLAG-coding sequence25. </plain></SENT>
+<SENT sid="71" pm="."><plain>To verify PTENβ resides at the Pten gene locus, tissue samples were extracted from heterozygous PtenFLAG mice and wild-type control mice for FLAG pull-down followed by immunoblotting with an anti-PTENα antibody raised in our laboratory25. </plain></SENT>
+<SENT sid="72" pm="."><plain>A protein band with a molecular weight lower than PTENα which was similar to the PTENβ band identified in cancer cell lines was detected in the FLAG elute from PtenFLAG tissues, while no band was detected in wild-type tissues (Fig. 3d). </plain></SENT>
+<SENT sid="73" pm="."><plain>The existence of in vivo PTENβ was further confirmed by mass spectrometric analysis of a FLAG-purified 70+ kDa band (molecular weight lower than PTENα) from PtenFLAG tissues. </plain></SENT>
+<SENT sid="74" pm="."><plain>Mascot reports revealed four peptide fragments that cover 68.5% of the N-terminal region of PTENβ (Fig. 3e). </plain></SENT>
+<SENT sid="75" pm="."><plain>These results verified the existence of PTENβ in vivo, and confirmed that PTENβ and PTENα are translated in vivo from identical mRNA at the same gene locus. </plain></SENT>
+<SENT sid="76" pm="."><plain>This PtenFLAG knockin animal model demonstrates the natural occurrence of alternative initiation that results in translation of PTENβ. </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="77" pm="."><plain>PTENβ is localized predominantly in the nucleolus </plain></SENT>
+</text></title><p><text><SENT sid="78" pm="."><plain>Longer protein isoforms resulting from alternative translation initiation frequently contain a signal for subcellular localization that is absent in shorter forms2627. </plain></SENT>
+<SENT sid="79" pm="."><plain>The length of the PTENβ protein differs from PTENα and PTEN due to its N-terminal extension, which raised the possibility that PTENβ has unique subcellular localization and special function. </plain></SENT>
+<SENT sid="80" pm="."><plain>Immunofluorescence examination of the subcellular localization of PTENβ was compared with PTENα and PTEN. </plain></SENT>
+<SENT sid="81" pm="."><plain>Separate plasmids expressing C-terminal GFP-tagged PTEN, PTENα or PTENβ were constructed, and to ensure expression of only a single isoform in each instance, we created an ATG1032&gt;ATA mutation in GFP-tagged PTENα and PTENβ (Fig. 4a). </plain></SENT>
+<SENT sid="82" pm="."><plain>The subcellular distribution of PTENβ was completely different from that of PTEN and PTENα as shown in Fig. 4b. </plain></SENT>
+<SENT sid="83" pm="."><plain>PTEN was distributed ubiquitously in both the nucleus and cytoplasm, while PTENα predominately showed cytoplasmic localization. </plain></SENT>
+<SENT sid="84" pm="."><plain>In contrast, strong PTENβ fluorescence signals were distributed mainly in the relatively shallow DAPI staining areas of the nucleus which have been suggested to be nucleolar regions28, and little cytoplasmic PTENβ localization was detected. </plain></SENT>
+<SENT sid="85" pm="."><plain>In order to exclude the possibility protein localization was influenced by the GFP tag, PTEN, PTENα and PTENβ expression plasmids were constructed without a tag (Supplementary Fig. 1a), and immunofluorescence with PTEN monoclonal antibody in PTEN null cells revealed that these untagged isoforms have subcellular distribution patterns identical to the GFP-tagged molecules (Supplementary Fig. 1b,c). </plain></SENT>
+<SENT sid="86" pm="."><plain>UBF that is a well-known nucleolar marker was used to evaluate for co-localization of C-terminal GFP tagged PTENα, PTENβ or PTEN within the nucleolus. </plain></SENT>
+<SENT sid="87" pm="."><plain>There was prominent co-localization of PTENβ with this marker in the nucleolus, but considerably less nucleolar co-localization was detected with PTEN or PTENα (Fig. 4c). </plain></SENT>
+<SENT sid="88" pm="."><plain>This extensive distribution of PTENβ in the nucleolus was confirmed through cell fractionation (Fig. 4d). </plain></SENT>
+<SENT sid="89" pm="."><plain>Moreover, we demonstrated that the N-terminal extended sequence was solely responsible for PTENβ accumulation in the nucleolus, and this was also true for PTENα localization on mitochondria as we reported previously (Supplementary Fig. 2). </plain></SENT>
+</text></p><p><text><SENT sid="90" pm="."><plain>The nucleolar-localization signals (NoLSs) that govern nucleolar localization and retention are usually rich in arginine and lysine residues2930. </plain></SENT>
+<SENT sid="91" pm="."><plain>We noted a series of poly-arginine residues in the N-terminal extended domain of PTENβ (aa 20–25), which is evolutionarily conserved (Supplementary Fig. 3). </plain></SENT>
+<SENT sid="92" pm="."><plain>To determine whether this sequence acts as an NoLS and directs PTENβ nucleolar localization, we established a PTENβΔR6 construct in which these six arginines were deleted. </plain></SENT>
+<SENT sid="93" pm="."><plain>This ΔR6 mutation was remarkable in that it completely abolished PTENβ nucleolar accumulation (Fig. 4e), indicating that this poly-arginine sequence is critical for PTENβ nucleolar localization, and showing that it functions as an NoLS. </plain></SENT>
+<SENT sid="94" pm="."><plain>These results indicated that the distinctive N-terminal extension sequence of PTENβ confers unique cellular localization, and raised the possibility that PTENβ is involved in nucleolar function. </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="95" pm="."><plain>Nucleolin is a novel downstream target of PTENβ </plain></SENT>
+</text></title><p><text><SENT sid="96" pm="."><plain>In order to identify potential PTENβ targets and explore PTENβ function in the nucleolus, mass spectrometry was used to analyse the results of S-tag-PTENβ pull down. </plain></SENT>
+<SENT sid="97" pm="."><plain>Results with S-tag-PTEN and S-tag-PTENα were analysed separately as controls. </plain></SENT>
+<SENT sid="98" pm="."><plain>Mass spectrometry revealed that PTENβ specifically interacts with a large number of nucleolar proteins (Supplementary Fig. 4a), including nucleolin that is the most abundant multifunctional phosphoprotein of the nucleolus. </plain></SENT>
+<SENT sid="99" pm="."><plain>Nucleolin is comprehensively involved in ribosome biogenesis3132, and was thus considered to be a potential PTENβ target (Fig. 5a). </plain></SENT>
+<SENT sid="100" pm="."><plain>Interaction of PTENβ and nucleolin was demonstrated by reciprocal immunoprecipitation (Fig. 5b,c). </plain></SENT>
+<SENT sid="101" pm="."><plain>In addition, immunofluorescence showed extensive co-localization of PTENβ with nucleolin in the nucleolus, whereas PTEN or PTENα did not (Fig. 5d), further confirming the specificity of the interaction of PTENβ and nucleolin. </plain></SENT>
+<SENT sid="102" pm="."><plain>To identify the functional domains by which PTENβ binds to nucleolin, two truncated forms of PTENβ were constructed with C-terminal S-tags (Supplementary Fig. 5a). </plain></SENT>
+<SENT sid="103" pm="."><plain>Immunoprecipitation demonstrated that the N-terminal extension domain of PTENβ is essential for interaction with nucleolin (Supplementary Fig. 5b). </plain></SENT>
+<SENT sid="104" pm="."><plain>These data show PTENβ and nucleolin co-localize and interact each other. </plain></SENT>
+</text></p><p><text><SENT sid="105" pm="."><plain>Like canonical PTEN, PTENβ contains an intact phosphatase domain, and we found that exogenous expression of PTENβ, PTENα or PTEN in PTEN null cells all efficiently reduce p-AKT to a similar level (Supplementary Fig. 6a). </plain></SENT>
+<SENT sid="106" pm="."><plain>Moreover, missense mutations in the phosphatase domain of PTENβ (G275E, analogous to PTEN (G129E)) and (C270S, analogous to PTEN (C124S)) both eliminated the lipid phosphatase activity of the protein (Supplementary Fig. 6b). </plain></SENT>
+<SENT sid="107" pm="."><plain>PTENβ thus has phosphatase activity that is presumably similar to PTENα and canonical PTEN. </plain></SENT>
+<SENT sid="108" pm="."><plain>In addition, we found that affinity for nucleolin binding was largely diminished in protein phosphatase activity deficient PTENβ mutants (Y284L and C270S) (Fig. 5e, lane 3 and lane 5 versus lane 2 and lane 4), suggesting that PTENβ protein phosphatase activity is necessary for interaction with nucleolin. </plain></SENT>
+<SENT sid="109" pm="."><plain>This further indicated PTENβ acts as a nucleolin phosphatase. </plain></SENT>
+</text></p><p><text><SENT sid="110" pm="."><plain>In order to clarify the relationship of PTENβ with nucleolin and evaluate PTENβ function in the nucleolus, somatic PTENβ knockout was established with CRISPR-Cas9. </plain></SENT>
+<SENT sid="111" pm="."><plain>CRISPR-Cas9-mediated gene targeting eliminated PTENα and PTENβ without affecting canonical PTEN expression, and we also designed a specific target sequence for sole knockout of PTENα as a control (Fig. 5f,g). </plain></SENT>
+<SENT sid="112" pm="."><plain>We found that PTENα and PTENβ double knockout led to elevation of nucleolin phosphorylation levels at Thr84, which is one of the XTPXKKXX motifs located in the nucleolin N-terminal region important for nucleolin function (Fig. 5h). </plain></SENT>
+<SENT sid="113" pm="."><plain>Moreover, exogenous expression of wild-type PTENβ but not protein phosphatase activity abolished PTENβ efficiently downregulated nucleolin phosphorylation levels at Thr84 (Fig. 5i). </plain></SENT>
+<SENT sid="114" pm="."><plain>These results raised the possibility that PTENβ acts as a nucleolin phosphatase. In vitro dephosphorylation assays further verified Cdk1/CyclinB1-phosphorylated nucleolin Thr84 is a target of PTENβ for dephosphorylation (Fig. 5j, lane 5 versus lane 4). </plain></SENT>
+<SENT sid="115" pm="."><plain>In addition, we found that the poly-arginine sequence deleted mutant that eliminated PTENβ nucleolar localization also effectively abolishes its phosphatase activity on nucleolin. </plain></SENT>
+<SENT sid="116" pm="."><plain>This indicates that PTENβ nucleolin phosphatase activity is linked to its localization in the nucleolus (Supplementary Fig. 7). </plain></SENT>
+<SENT sid="117" pm="."><plain>These results argue that PTENβ acts as a nucleolin phosphatase, and show that the PTENβ–nucleolin interaction results in dephosphorylation modification of nucleolin, which influences its function. </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="118" pm="."><plain>PTENβ inhibits rDNA transcription and cell proliferation </plain></SENT>
+</text></title><p><text><SENT sid="119" pm="."><plain>Nucleolin is involved in almost every step of ribosome biogenesis333435, and a recent study showed the most prominent effect of nucleolin is regulation of rDNA transcription by promotion of the rDNA transcription complex assembly, in which the phosphorylation status of nucleolin is rigorously regulated3637. </plain></SENT>
+<SENT sid="120" pm="."><plain>The fact that PTENβ interacts with nucleolin and dephosphorylates nucleolin at Thr84 raised a question as to whether nucleolin mediates PTENβ regulation of rDNA transcription, and thus represents a direct mechanism by which PTENβ controls ribosomal biogenesis. </plain></SENT>
+</text></p><p><text><SENT sid="121" pm="."><plain>To determine the influence of PTENβ on rRNA synthesis, total rRNA levels were evaluated by gel electrophoresis. </plain></SENT>
+<SENT sid="122" pm="."><plain>Knockout of PTENα and PTENβ without affecting PTEN expression led to elevation of 28S and 18S total rRNA levels, whereas knockout of PTENα alone had no such effect (Fig. 6a, lane 3 versus lane 2 and lane 1). </plain></SENT>
+<SENT sid="123" pm="."><plain>Moreover, exogenous expression of PTENβ but not PTENα in PTENα and PTENβ null cells efficiently downregulated 28S and 18S rRNA levels (Fig. 6b, lane 3 versus lane 2 and Supplementary Fig. 8a). </plain></SENT>
+<SENT sid="124" pm="."><plain>These results argue that PTENβ plays a role in regulation of rRNA, and in particular is involved in regulation of pre-rRNA synthesis from the outset of ribosome biogenesis. </plain></SENT>
+<SENT sid="125" pm="."><plain>Transcription levels of rRNA genes were therefore evaluated by analysing pre-rRNA with qPCR in PTENβ wild-type and knockout cells. </plain></SENT>
+<SENT sid="126" pm="."><plain>As expected, 45S pre-rRNA was increased in PTENβ and PTENα double knockout cells as compared with PTENα only knockout or wild-type cells (Fig. 6c). </plain></SENT>
+<SENT sid="127" pm="."><plain>To determine whether rDNA transcription is regulated by PTENβ, a pHrD-IRES-Luc or pGL3-basic control vector was transfected into PTENβ and PTENα double knockout cells, and the luciferase reporter activity of the rDNA promoter was measured. </plain></SENT>
+<SENT sid="128" pm="."><plain>Introduction of PTENβ, but not PTENα, efficiently downregulated luciferase activity (Fig. 6d and Supplementary Fig. 8b). </plain></SENT>
+<SENT sid="129" pm="."><plain>These results indicate that PTENβ negatively regulates rDNA transcription, which may act at least in part through PTENβ dephosphorylation of nucleolin. </plain></SENT>
+</text></p><p><text><SENT sid="130" pm="."><plain>Nucleolar morphology is closely related to ribosome biogenesis, and enlarged nucleoli are typically found in association with activation of ribosome biogenesis. </plain></SENT>
+<SENT sid="131" pm="."><plain>To evaluate alterations in nucleolar morphology, silver staining was used for the identification of argyrophilic nucleolar organizer regions (AgNOR). </plain></SENT>
+<SENT sid="132" pm="."><plain>PTENβ and PTENα double knockout resulted in greater average areas of AgNOR staining, while PTENα only knockout did not have this effect (Fig. 6e). </plain></SENT>
+<SENT sid="133" pm="."><plain>This suggested that elimination of PTENβ leads to upregulation of ribosomal biogenesis. </plain></SENT>
+<SENT sid="134" pm="."><plain>Stimulation of cell proliferation is a characteristic biologic feature of nucleolin, and is typically associated with elevated ribosomal biogenesis. </plain></SENT>
+<SENT sid="135" pm="."><plain>We therefore investigated biologic changes resulting from regulation of ribosomal biogenesis by PTENβ. </plain></SENT>
+<SENT sid="136" pm="."><plain>Growth curves showed significant increases in cell growth rate resulting from PTENβ knockout (Fig. 6f). </plain></SENT>
+<SENT sid="137" pm="."><plain>This activation of cell proliferation resulting from PTENβ deprivation was further confirmed by S phase analysis (Fig. 6g). </plain></SENT>
+<SENT sid="138" pm="."><plain>These results argue that PTENβ controls cellular proliferation and may act through a mechanism involving negative regulation of pre-rRNA synthesis. </plain></SENT>
+</text></p></sec></sec></SecTag><SecTag type="DISCUSS"><sec disp-level="1"><title><text><SENT sid="139" pm="."><plain>Discussion </plain></SENT>
+</text></title><p><text><SENT sid="140" pm="."><plain>In eukaryotic cells, the ribosome typically initiates protein synthesis at the AUG codon closest to the 5′ end of the mRNA38. </plain></SENT>
+<SENT sid="141" pm="."><plain>However, there is now evidence including observations from our previous study25 that demonstrates initiation of protein translation can occur at most codons which differ from AUG by no more than a single nucleotide (non-AUG initiation)20. </plain></SENT>
+<SENT sid="142" pm="."><plain>More than 50 instances of non-AUG-initiated N-terminal extensions have been predicted or verified experimentally in mammals3940. </plain></SENT>
+<SENT sid="143" pm="."><plain>In this study, we report identification of a translational variant of PTEN, designated PTENβ. </plain></SENT>
+<SENT sid="144" pm="."><plain>This protein is synthesized from an alternative translation start site 438 bp upstream of the AUG initiation sequence, which adds 146 N-terminal amino acids to the canonical PTEN ORF. </plain></SENT>
+<SENT sid="145" pm="."><plain>We found that PTENβ specifically localizes in the nucleolus and inhibits pre-rRNA synthesis, and our experimental evidence strongly suggests this inhibition acts through the mechanism of nucleolin dephosphorylation. </plain></SENT>
+</text></p><p><text><SENT sid="146" pm="."><plain>In previous studies both our group and Hopkins et al. independently identified a translational variant of PTEN with N-terminal extension, designated ‘PTENα' in our study, and ‘PTEN-long' by Hopkins et al.24. </plain></SENT>
+<SENT sid="147" pm="."><plain>These have proven to be the same isoform that is translated from a CUG codon 519 bp upstream of the AUG initiation sequence of canonical PTEN (refs 24, 25). </plain></SENT>
+<SENT sid="148" pm="."><plain>In addition to the initiation sites for PTENα and PTENβ (CUG513, AUU594), we found another two alternative non-AUG codons in favourable Kozak contexts, which may be sites for initiation of other as yet unidentified isoforms. </plain></SENT>
+<SENT sid="149" pm="."><plain>As multiple additional forms of PTEN may exist, we consider it to be prudent to designate PTEN isoforms as a sequential series, using α, β, γ, δ as labels. </plain></SENT>
+</text></p><p><text><SENT sid="150" pm="."><plain>In eukaryotes, the efficiency of initiation depends on the Kozak context41 which encompasses the AUG codon. </plain></SENT>
+<SENT sid="151" pm="."><plain>Our data show that initiation of PTENβ relies on the Kozak context surrounding AUU594, which suggests this context is also essential for efficient initiation of other non-AUG codons. </plain></SENT>
+<SENT sid="152" pm="."><plain>We identified a 12 bp perfect palindromic sequence starting 18 bp downstream of AUU594, and showed that disruption of this conserved palindrome sharply downregulates expression of PTENβ. </plain></SENT>
+<SENT sid="153" pm="."><plain>The crucial role this downstream palindromic sequence plays in AUU-mediated initiation, together with discovery of the fact in our previous study that the CUG centred palindromic sequence may be a signature motif for alternative Leu-tRNA initiation25, underscores the importance of secondary structure for non-AUG initiation. </plain></SENT>
+<SENT sid="154" pm="."><plain>This is consistent with the concept that a strong secondary structure downstream of the non-AUG codon may significantly increase initiation efficiency as reported by Kozak42. </plain></SENT>
+</text></p><p><text><SENT sid="155" pm="."><plain>We previously showed that PTENα localizes in mitochondria and functions in mitochondrial metabolism25. </plain></SENT>
+<SENT sid="156" pm="."><plain>Hopkins et al. reported that PTEN-long (designated PTEN-L) is secreted into adjacent cells, which relies on an N-terminal secretion sequence24. </plain></SENT>
+<SENT sid="157" pm="."><plain>These findings indicate that the N-terminal extended PTENα isoform is endowed with capability for subcellular localization differing from canonical PTEN. </plain></SENT>
+<SENT sid="158" pm="."><plain>Data in the current study show that there is partial co-localization of PTEN and PTENα in the cytoplasm, and this is consistent with findings in our previous study that PTEN interacts and co-localizes with PTENα in mitochondria25. </plain></SENT>
+<SENT sid="159" pm="."><plain>However, PTEN isoforms localize for the most part in a mutually exclusive manner (Supplementary Fig. 9). </plain></SENT>
+<SENT sid="160" pm="."><plain>PTENβ specifically localizes in the nucleolus, whereas PTEN and PTENα do not, and an evolutionarily conserved poly-arginine sequence has proven to be an NoLS of PTENβ. </plain></SENT>
+<SENT sid="161" pm="."><plain>The PTENβ N-terminus is 27 amino acids shorter than PTENα, and PTENβ therefore does not contain the N-terminal secretion signal sequence, which may in part account for the differences in cellular distribution of PTENβ and PTENα. </plain></SENT>
+<SENT sid="162" pm="."><plain>Moreover, protein conformation may be altered by differences in the length of the N-terminal domain, leading to differing affinities for interacting proteins or nucleotide sequences2743. </plain></SENT>
+<SENT sid="163" pm="."><plain>This may in some measure explain the diversity of PTEN isoform distribution. </plain></SENT>
+</text></p><p><text><SENT sid="164" pm="."><plain>Our data demonstrate that PTENβ is involved in regulation of pre-rRNA synthesis, and disruption of PTENβ results in elevated ribosomal biogenesis and cellular proliferation. </plain></SENT>
+<SENT sid="165" pm="."><plain>Our findings suggest that this PTENβ regulatory mechanism may act through dephosphorylation of nucleolar protein nucleolin. </plain></SENT>
+<SENT sid="166" pm="."><plain>It has been reported that PTEN acts on ribosomal biogenesis through the PI3K-mTOR pathway by downregulation of 45S pre-rRNA and that PTEN localizes to the nucleolus to regulate nucleolar homeostasis444546. </plain></SENT>
+<SENT sid="167" pm="."><plain>However, our results indicate there is extensive distribution of PTENβ in the nucleolus while little nucleolar PTEN can be detected. </plain></SENT>
+<SENT sid="168" pm="."><plain>The PTENβ coding sequence overlaps the sequence of full-length canonical PTEN and PTENβ can be efficiently recognized by PTEN antibodies. </plain></SENT>
+<SENT sid="169" pm="."><plain>It is therefore possible that the nucleolar immunofluorescence signals detected by the PTEN monoclonal antibody in this study are derived from recognition of this previously unidentified PTENβ isoform instead of from canonical PTEN. </plain></SENT>
+<SENT sid="170" pm="."><plain>Furthermore, it must be noted that most of the observations from the studies cited above were made in PTEN knockout cells or with Pten deficient mice. </plain></SENT>
+<SENT sid="171" pm="."><plain>As PTEN and its isoforms PTENα and PTENβ are coded by the same gene, current PTEN knockout mouse models are essentially equivalent to at least triple deletion of PTEN and its isoforms. </plain></SENT>
+<SENT sid="172" pm="."><plain>The phenotypic deficiencies of PTEN knockout models may thus be partially attributed to loss of PTEN or one of its isoforms. </plain></SENT>
+<SENT sid="173" pm="."><plain>By use of specific disruption of PTENβ, our study reveals that PTENβ plays an essential role in rDNA transcription and regulation of cellular proliferation. </plain></SENT>
+</text></p><p><text><SENT sid="174" pm="."><plain>Several recent studies have described a diversity of nucleolar functions in addition to ribosome biogenesis, such as modification of small RNAs, regulation of the cell cycle and control of aging4748, and nucleolar perturbations have been observed in various diseases ranging from auto-immunity to cancer4950. </plain></SENT>
+<SENT sid="175" pm="."><plain>Our results show that in addition to nucleolin, PTENβ may physically interact with a number of other nucleolar proteins (Supplementary Fig. 4b), which raises the possibility that it participates in nucleolar functions apart from ribosome biogenesis. </plain></SENT>
+</text></p><p><text><SENT sid="176" pm="."><plain>In this study, we identify PTENβ as a new isoform of PTEN, which negatively regulates rDNA transcription and cellular proliferation. </plain></SENT>
+<SENT sid="177" pm="."><plain>Based on previous studies that show imbalance of rDNA transcription closely correlates with tumour progression5152, identification of PTENβ may provide a new track for therapeutic drug design. </plain></SENT>
+<SENT sid="178" pm="."><plain>These results together with our previous observations regarding PTENα illustrate the complexity of PTEN function and enrich our understanding of the PTEN family. </plain></SENT>
+</text></p></sec></SecTag><SecTag type="METHODS"><sec disp-level="1"><title><text><SENT sid="179" pm="."><plain>Methods </plain></SENT>
+</text></title><sec disp-level="2"><title><text><SENT sid="180" pm="."><plain>Cell lines </plain></SENT>
+</text></title><p><text><SENT sid="181" pm="."><plain>All human cell lines used in this study (HepG2, H1299, HCT116, PC3, 786-O, Hela, U2OS, HEK 293T, SMMC-7721, DU145 and LoVo) were from the American Type Culture Collection. </plain></SENT>
+<SENT sid="182" pm="."><plain>These cell lines were authenticated by STR locus analysis and were tested for mycoplasma contamination. </plain></SENT>
+<SENT sid="183" pm="."><plain>PC3 and 786-O cells were maintained in RPMI 1640 (CORNING), and all other cells were maintained in DMEM (CORNING), supplemented with 10% FBS (Hyclone) in a 37 °C incubator with 5% (v/v) CO2. </plain></SENT>
+<SENT sid="184" pm="."><plain>The insect cell line Sf9 was obtained from Invitrogen and cultured in Grace's insect medium (Gibco). </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="185" pm="."><plain>Mice </plain></SENT>
+</text></title><p><text><SENT sid="186" pm="."><plain>Tissues of C57BL/6 mice25 were lysed in lysis buffer (50 mM Tris-pH 7.5, 150 mM NaCl, 1% NP40) and subjected to immunoblotting or immunoprecipitation. </plain></SENT>
+<SENT sid="187" pm="."><plain>All animals were maintained in a special pathogen-free facility, and the animal study protocols used were approved by the ethics committee of Peking University Health Science Center (approval number bjmu20110301). </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="188" pm="."><plain>Antibodies and reagents </plain></SENT>
+</text></title><p><text><SENT sid="189" pm="."><plain>Primary antibodies used for western blot, immunoprecipitation and immunofluorescence are listed in Supplementary Table 1. </plain></SENT>
+<SENT sid="190" pm="."><plain>The anti-PTENα (ref. 25) and anti-nucleolin antibodies were raised in our laboratory (Supplementary Fig. 10). </plain></SENT>
+<SENT sid="191" pm="."><plain>The reagent Acriflavin was from Sigma, A8126. </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="192" pm="."><plain>Plasmids and cloning strategies </plain></SENT>
+</text></title><p><text><SENT sid="193" pm="."><plain>The plasmids pCMV-tag-2b, pSA, pEGFP-N1, pDsRed2-N1 and pFastBac1 were purchased from Addgene. </plain></SENT>
+<SENT sid="194" pm="."><plain>pX330 was purchased from BEIJING IDMO CO., LTD. </plain></SENT>
+<SENT sid="195" pm="."><plain>pcDNA3.1-Cas9 was a gift from Dr Jianzhong Xi in the College of Engineering, Peking University. </plain></SENT>
+<SENT sid="196" pm="."><plain>PTEN, PTENα, PTENβ, or nucleolin or truncations and mutations of these molecules were inserted into these plasmids. </plain></SENT>
+<SENT sid="197" pm="."><plain>pHrD-IRES-Luc was a gift from Dr Xiaojuan Du in the Department of Cell Biology, Peking University Health Science Center53. </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="198" pm="."><plain>Mass spectrometry </plain></SENT>
+</text></title><p><text><SENT sid="199" pm="."><plain>For in vitro PTENβ identification experiments, the PTENβ coding sequence (CUG513-UGA2240, PTENα initiation codon CUG513 mutated to CUC and canonical PTEN initiation codon AUG1032 mutated to AUA) was subcloned with a C-terminal His-tag into a pFastBac1 vector for expression in Sf9 insect cells. </plain></SENT>
+<SENT sid="200" pm="."><plain>His affinity chromatography was used for purification of PTENβ-His before SDS–PAGE resolution of a 70-kDa band. </plain></SENT>
+<SENT sid="201" pm="."><plain>Immunoprecipitated proteins were digested in-gel by endoproteinase Glu-C (Promega) following the manufacturer's instructions. </plain></SENT>
+<SENT sid="202" pm="."><plain>Peptides were separated by online reversed-phase nanoscale capillary liquid chromatography (Easy-nLC 1,000, Thermo Scientific). </plain></SENT>
+<SENT sid="203" pm="."><plain>The data dependent mass spectra were acquired with the LTQ-Orbitrap Elite mass spectrometer (Thermo Scientific) equipped with a nanoelectrospray ion source (Thermo Scientific). </plain></SENT>
+<SENT sid="204" pm="."><plain>Raw files were searched by Proteome Discoverer (Version 1.4.1.14, Thermo Scientific) against the UniProt Human database supplemented with N-terminal extended PTEN sequence (Supplementary Fig. 11a). </plain></SENT>
+<SENT sid="205" pm="."><plain>Search parameters were set as follows: enzyme with semi-Glu-C; up to two missed cleavages; carbamidomethyl cysteine as fixed modification; methionine oxidation and peptide N-terminal acetylation as variable modifications. </plain></SENT>
+<SENT sid="206" pm="."><plain>The false discovery rates were set at 0.01 (ref. 25). </plain></SENT>
+<SENT sid="207" pm="."><plain>For endogenous PTENβ identification experiments, a FLAG-purified 70 kDa band (molecular weight lower than PTENα) from PtenFLAG tissues was treated in the same way as described above. </plain></SENT>
+<SENT sid="208" pm="."><plain>Raw files were searched with Proteome Discoverer (Version 1.4.1.14, Thermo Scientific) against the UniProt Mouse database supplemented with the N-terminal extended PTEN sequence (Supplementary Fig. 11b). </plain></SENT>
+<SENT sid="209" pm="."><plain>For peptide analysis of pull down experiments, proteins were digested by endoproteinase Trypsin (Promega) in gel following the manufacturer's instructions. </plain></SENT>
+<SENT sid="210" pm="."><plain>The following process was the same as described above. </plain></SENT>
+<SENT sid="211" pm="."><plain>Raw files were searched by Proteome Discoverer (Version 1.4.1.14, Thermo Scientific) against the UniProt Human database. </plain></SENT>
+<SENT sid="212" pm="."><plain>Search parameters were set as follows: enzyme with Trypsin; up to two missed cleavages; carbamidomethyl cysteine as fixed modification; methionine oxidation as variable modifications. </plain></SENT>
+<SENT sid="213" pm="."><plain>The false discovery rates were set at 0.01. </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="214" pm="."><plain>CRISPR-CAS9-mediated somatic PTENβ knockout </plain></SENT>
+</text></title><p><text><SENT sid="215" pm="."><plain>Sequences (ACCTCCCGCTCCTGGAGCGG or AGTCGCCTGTCACCATTTCC) of the human PTEN gene in exon1 were targeted separately. </plain></SENT>
+<SENT sid="216" pm="."><plain>Oligos were purchased from Tsingke and ligated into the U6-sgRNA plasmid. </plain></SENT>
+<SENT sid="217" pm="."><plain>Hela cells were seeded onto 24-well plates containing 500 μl DMEM medium at a density of 1,00,000 cells per ml of cell suspension. </plain></SENT>
+<SENT sid="218" pm="."><plain>200 ng of U6-sgRNA plasmid and 200 ng of Cas9 plasmid in total were transfected into cells using PEI according to the manufacturer's instructions. </plain></SENT>
+<SENT sid="219" pm="."><plain>Medium was replaced at around 12 h post transfection. </plain></SENT>
+<SENT sid="220" pm="."><plain>Cells were maintained for another 72 h to allow sufficient time for genomic engineering mediated by the CRISPR-Cas9 system. </plain></SENT>
+<SENT sid="221" pm="."><plain>Transfected cells were then treated with 500 μg ml−1 of G418 for 3 days. </plain></SENT>
+<SENT sid="222" pm="."><plain>After G418 selection, cell clones were selected and amplified for mutation sequencing. </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="223" pm="."><plain>Co-immunoprecipitation </plain></SENT>
+</text></title><p><text><SENT sid="224" pm="."><plain>Immunoprecipitation was performed as previously described12. </plain></SENT>
+<SENT sid="225" pm="."><plain>In brief, cells were extracted and lysed in lysis buffer (50 mM Tris-pH 7.5, 150 mM NaCl, 0.5% NP40) freshly supplemented with 1 mM PMSF and protease inhibitor. </plain></SENT>
+<SENT sid="226" pm="."><plain>Cell lysate (500 μg) was incubated with antibody against GFP-tag or FLAG-tag for 8 h, followed by incubation with protein A/G agarose for 1 h. </plain></SENT>
+<SENT sid="227" pm="."><plain>The protein-bead complex mixture was washed in washing buffer containing 0.1% NP40 and subjected to western blot to evaluate protein interaction. </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="228" pm="."><plain>Immunofluorescence and confocal microscopy </plain></SENT>
+</text></title><p><text><SENT sid="229" pm="."><plain>HeLa cells were seeded on cover glass in DMEM medium followed by transfection with C-terminal GFP-tagged PTEN, PTENα or PTENβ. </plain></SENT>
+<SENT sid="230" pm="."><plain>After transfection for 24 h, cells were fixed with 4% PFA, permeabilized with 0.2% Triton X-100 and blocked for at least 30 min using 4% BSA dissolved in PBS+0.1% Tween-20 (PBS-T). </plain></SENT>
+<SENT sid="231" pm="."><plain>Primary antibody (diluted in blocking solution) was then applied for 1 h, followed by five washes in PBS-T, and fluorophore-conjugated secondary antibody was applied for 45 min. </plain></SENT>
+<SENT sid="232" pm="."><plain>Coverslips were mounted and cells were evaluated with fluorescence microscopy. </plain></SENT>
+<SENT sid="233" pm="."><plain>A Nikon A1 microscope was used for confocal microscopy. </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="234" pm="."><plain>Cell fractionation </plain></SENT>
+</text></title><p><text><SENT sid="235" pm="."><plain>Nucleoli were isolated in Hela cells as previously described with some modifications54. </plain></SENT>
+<SENT sid="236" pm="."><plain>Isolated nucleoli were lysed with RIPA buffer. </plain></SENT>
+<SENT sid="237" pm="."><plain>Equal amounts of whole cell lysate, cytosolic fraction, nuclear plasma fraction and nucleolar fraction were evaluated with western blot analysis. </plain></SENT>
+<SENT sid="238" pm="."><plain>Briefly, Hela cells (one 15-cm dish) were scraped into ice-cold PBS and washed three times with ice-cold PBS. </plain></SENT>
+<SENT sid="239" pm="."><plain>Cell pellets were then re-suspended in hypotonic buffer (10 mM Hepes, pH 7.9, 10 mM KCl, 1.5 mM MgCl2, 0.5 mM DTT), allowed to swell and subjected to Dounce homogenization. </plain></SENT>
+<SENT sid="240" pm="."><plain>The crude nuclear fraction was recovered by centrifugation at 218g for 5 min, and the cytoplasmic supernatant was retained. </plain></SENT>
+<SENT sid="241" pm="."><plain>Nuclei were re-suspended in 0.35 M sucrose plus 0.5 mM magnesium acetate and then subjected to brief sonication to release the nucleoli. </plain></SENT>
+<SENT sid="242" pm="."><plain>Pellets were purified by two cycles of centrifugation through 0.88 M sucrose, and the supernatant from the first sucrose gradient was recovered as a crude nucleoplasmic fraction. </plain></SENT>
+<SENT sid="243" pm="."><plain>The pellets consisted of nucleoli. </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="244" pm="."><plain>S-tag pull down assay </plain></SENT>
+</text></title><p><text><SENT sid="245" pm="."><plain>HEK 293T cells were transfected with pSA, pSA-PTEN, pSA-PTENα, pSA-PTENβ or pSA-NCL plasmids and harvested 36 h after transfection. </plain></SENT>
+<SENT sid="246" pm="."><plain>Cells were lysed with lysis buffer (50 mM Tris pH 7.5, 150 mM NaCl, 2 mM EDTA, 1% NP40 and 1 mM NaF). </plain></SENT>
+<SENT sid="247" pm="."><plain>Equal amounts of protein were incubated with S protein agarose (Novagen) for 4 h. </plain></SENT>
+<SENT sid="248" pm="."><plain>The protein-bead complexes were washed four times with washing buffer containing 0.1% NP40. </plain></SENT>
+<SENT sid="249" pm="."><plain>After boiling at 100 °C in loading buffer, proteins were loaded onto NuPAGE 4–12% gels (Invitrogen) and visualized with silver staining (Pierce Silver Stain Kit) or were subjected to western blot. </plain></SENT>
+<SENT sid="250" pm="."><plain>The potential interacting proteins in specific bands were evaluated with mass spectrum analysis. </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="251" pm="."><plain>In vitro kinase and phosphatase assay </plain></SENT>
+</text></title><p><text><SENT sid="252" pm="."><plain>His-nucleolin was expressed in Sf9 cells and purified using Ni-NTA agarose (Qiagen). </plain></SENT>
+<SENT sid="253" pm="."><plain>Control FLAG peptides, FLAG-CDK1 and FLAG-PTENβ were purified with ANTI-FLAG M2 Affinity Gel (F2426) and 3 × FLAG Peptide (F4799) from HEK 293T cells after transfection with pCMV vector, pCMV-CDK1 or pCMV-PTENβ for 30 h. </plain></SENT>
+<SENT sid="254" pm="."><plain>For kinase assay, purified His-nucleolin on Ni-NTA agarose was incubated with CDK1 in kinase buffer (50 mM Tris-HCl, 10 mM MgCl2, 2 mM DTT, 1 mM EGTA and 0.2 mM ATP) for 30 min at 30 °C. </plain></SENT>
+<SENT sid="255" pm="."><plain>For the following phosphatase assay, phosphorylated His-nucleolin was incubated with control FLAG peptide or purified FLAG-PTENβ in dephosphorylation buffer (20 mM HEPES, 1 mM MgCl2, 1 mM EDTA, 1 mM DTT and 0.1 mg ml−1 BSA) for 1 h at 37 °C. </plain></SENT>
+<SENT sid="256" pm="."><plain>The phosphorylation levels of nucleolin sites with potential for alteration were evaluated with western blot. </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="257" pm="."><plain>Functional pathway enrichment analysis and visualization </plain></SENT>
+</text></title><p><text><SENT sid="258" pm="."><plain>Gene Ontology (GO) and KEGG enrichment analysis were performed using ClueGo (ref. 55), which is a Cytoscape plug-in. </plain></SENT>
+<SENT sid="259" pm="."><plain>During analysis, over-represented terms in KEGG and the GO Biological Process and Cellular Component were enriched, and the GO level was set at three to five. </plain></SENT>
+<SENT sid="260" pm="."><plain>The GO term fusion option was selected to reduce redundancy. </plain></SENT>
+<SENT sid="261" pm="."><plain>In order to account for multiple testing, P values were corrected with Benjamini-Hochberg correction. </plain></SENT>
+<SENT sid="262" pm="."><plain>Only terms of P&lt;0.05 were displayed. </plain></SENT>
+<SENT sid="263" pm="."><plain>The selection criteria for the terms that have associated genes from the uploaded pull down list was set as a minimum of two genes per term, and a minimum of 4% of total genes associated with the term for the analysis of the PTENβ pull down network. </plain></SENT>
+<SENT sid="264" pm="."><plain>The Kappa score was set at 0.4. </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="265" pm="."><plain>Luciferase reporter assay and real-time PCR </plain></SENT>
+</text></title><p><text><SENT sid="266" pm="."><plain>For luciferase reporter assays, after transfection of various combinations of control, reporter or protein expression vectors for 24 h, cells were lysed with a passive lysis buffer (Promega). </plain></SENT>
+<SENT sid="267" pm="."><plain>Luciferase activity was measured with the Dual Luciferase Assay System (Promega) following the manufacturer's protocol. </plain></SENT>
+<SENT sid="268" pm="."><plain>For quantification of 45S pre-rRNA, total RNA was extracted from cells followed by reverse transcription and evaluated with qPCR. </plain></SENT>
+<SENT sid="269" pm="."><plain>The qPCR primers used are listed in Supplementary Table 4. </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="270" pm="."><plain>Silver staining assay </plain></SENT>
+</text></title><p><text><SENT sid="271" pm="."><plain>Silver staining assays were performed as previously described56. </plain></SENT>
+<SENT sid="272" pm="."><plain>Briefly, cells were seeded onto glass coverslips overnight and were then fixed in 2% glutaraldehyde, followed by postfixation in a 3:1 ethanol–acetic acid solution. </plain></SENT>
+<SENT sid="273" pm="."><plain>Cells were stained with a 0.33% formic acid–33.3% silver nitrate solution in 0.66% gelatin and mounted on slides with Vectashield (Vector Labs). </plain></SENT>
+<SENT sid="274" pm="."><plain>Nucleolar area was measured in cells with cellSens software provided by Olympus. </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="275" pm="."><plain>BrdU incorporation and cell cycle analysis </plain></SENT>
+</text></title><p><text><SENT sid="276" pm="."><plain>For Brdu incorporation, cells were stained using the APC Brdu Flow Kit (BD Bioscience) according to the manufacturer's instructions and subjected to analysis using FACSVerse (BD Biosciences). </plain></SENT>
+<SENT sid="277" pm="."><plain>Experiments were each performed three times, and at least 104 cells were analysed per sample. </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="278" pm="."><plain>Statistical analysis </plain></SENT>
+</text></title><p><text><SENT sid="279" pm="."><plain>Prism GraphPad software v5.0 was used for analysis. </plain></SENT>
+<SENT sid="280" pm="."><plain>The statistical significance of differences between different groups was calculated with the two-tailed paired t-test. P values of 0.05 or less were considered significant. </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="281" pm="."><plain>Data availability </plain></SENT>
+</text></title><p><text><SENT sid="282" pm="."><plain>Nucleotide sequence data reported in this work are available in the Genebank databases under the accession numbers KX398936 (Homo sapiens) and KX421108 (Mus musculus). </plain></SENT>
+<SENT sid="283" pm="."><plain>The mass spectrometry proteomics data have been deposited to the ProteomeXchange Consortium (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://proteomecentral.proteomexchange.org/%20cgi/GetDataset">http://proteomecentral.proteomexchange.org/cgi/GetDataset</ext-link>) via the PRIDE (ref. 57) partner repository with the data set identifier PXD003850. </plain></SENT>
+<SENT sid="284" pm="."><plain>The original immunoblots, polyacrylamide gels and agarose gels are provided as Supplementary Figs 12–15. </plain></SENT>
+<SENT sid="285" pm="."><plain>Primers used in this study are listed in Supplementary Tables 2–4. </plain></SENT>
+<SENT sid="286" pm="."><plain>All other data supporting the findings of this study are available within the article and its Supplementary Information or from the corresponding author on reasonable request. </plain></SENT>
+</text></p></sec></sec></SecTag><sec disp-level="1"><title><text><SENT sid="287" pm="."><plain>Additional information </plain></SENT>
+</text></title><p><text><SENT sid="288" pm="."><plain>How to cite this article: Liang, H. et al. </plain></SENT>
+<SENT sid="289" pm="."><plain>PTENβ is an alternatively translated isoform of PTEN that regulates rDNA transcription. Nat. </plain></SENT>
+<SENT sid="290" pm="."><plain>Commun. 8, 14771 doi: 10.1038/ncomms14771 (2017). </plain></SENT>
+</text></p><p><text><SENT sid="291" pm="."><plain>Publisher's note: Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations. </plain></SENT>
+</text></p></sec><SecTag type="SUPPL"><sec sec-type="supplementary-material" id="S1"><title><text><SENT sid="292" pm="."><plain>Supplementary Material </plain></SENT>
+</text></title><supplementary-material id="d32e18" content-type="local-data"><caption><title><text><SENT sid="293" pm="."><plain>Supplementary Information </plain></SENT>
+</text></title><p><text><SENT sid="294" pm="."><plain>Supplementary Figures, Supplementary Tables and Supplementary References </plain></SENT>
+</text></p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ncomms14771-s1.pdf"/></supplementary-material><supplementary-material id="d32e24" content-type="local-data"><caption><title><text><SENT sid="295" pm="."><plain>Peer Review File </plain></SENT>
+</text></title></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ncomms14771-s2.pdf"/></supplementary-material></sec></SecTag></body><back><SecTag type="ACK_FUND"><ack><p><text4fund><text><SENT sid="296" pm="."><plain>We thank Dr Y. </plain></SENT>
+<SENT sid="297" pm="."><plain>Jin for help with virus packaging, Dr L. </plain></SENT>
+<SENT sid="298" pm="."><plain>Liang for help with Sf9 cell culture, Y. </plain></SENT>
+<SENT sid="299" pm="."><plain>Liu for help with flow cytometry and Y. </plain></SENT>
+<SENT sid="300" pm="."><plain>Li for help with mouse immunization. </plain></SENT>
+<SENT sid="301" pm="."><plain>This work was supported by grants to Y. </plain></SENT>
+<SENT sid="302" pm="."><plain>Yin including the National Natural Science Foundation of China (Grants #81430056, #31420103905 and #81372491), the National Key Research and Development Program of China (Grant #2016YFA0500302), the Beijing Natural Science Foundation (Key Grant #7161007) and the Lam Chung Nin Foundation for Systems Biomedicine. </plain></SENT>
+</text></text4fund></p></ack></SecTag><SecTag type="REF"><ref-list><ref id="b1"><text><SENT sid="303" pm="."><plain>LiJ. . PTEN, a putative protein tyrosine phosphatase gene mutated in human brain, breast, and prostate cancer. Science (New York, NY) 275, 1943–1947 (1997). </plain></SENT>
+</text></ref><ref id="b2"><text><SENT sid="304" pm="."><plain>SteckP. </plain></SENT>
+<SENT sid="305" pm="."><plain>A. . Identification of a candidate tumour suppressor gene, MMAC1, at chromosome 10q23.3 that is mutated in multiple advanced cancers. Nat. </plain></SENT>
+<SENT sid="306" pm="."><plain>Genet. 15, 356–362 (1997).9090379 </plain></SENT>
+</text></ref><ref id="b3"><text><SENT sid="307" pm="."><plain>HollanderM. </plain></SENT>
+<SENT sid="308" pm="."><plain>C., BlumenthalG. </plain></SENT>
+<SENT sid="309" pm="."><plain>M. &amp; DennisP. </plain></SENT>
+<SENT sid="310" pm="."><plain>A. PTEN loss in the continuum of common cancers, rare syndromes and mouse models. Nat. </plain></SENT>
+<SENT sid="311" pm="."><plain>Rev. </plain></SENT>
+<SENT sid="312" pm="."><plain>Cancer 11, 289–301 (2011).21430697 </plain></SENT>
+</text></ref><ref id="b4"><text><SENT sid="313" pm="."><plain>MarshD. </plain></SENT>
+<SENT sid="314" pm="."><plain>J. . Germline mutations in PTEN are present in Bannayan–Zonana syndrome. Nat. </plain></SENT>
+<SENT sid="315" pm="."><plain>Genet. 16, 333–334 (1997).9241266 </plain></SENT>
+</text></ref><ref id="b5"><text><SENT sid="316" pm="."><plain>NelenM. </plain></SENT>
+<SENT sid="317" pm="."><plain>R. . Germline mutations in the PTEN/MMAC1 gene in patients with Cowden disease. Hum. </plain></SENT>
+<SENT sid="318" pm="."><plain>Mol. </plain></SENT>
+<SENT sid="319" pm="."><plain>Genet. 6, 1383–1387 (1997).9259288 </plain></SENT>
+</text></ref><ref id="b6"><text><SENT sid="320" pm="."><plain>Di CristofanoA., PesceB., Cordon-CardoC. &amp; PandolfiP. </plain></SENT>
+<SENT sid="321" pm="."><plain>P. Pten is essential for embryonic development and tumour suppression. Nat. </plain></SENT>
+<SENT sid="322" pm="."><plain>Genet. 19, 348–355 (1998).9697695 </plain></SENT>
+</text></ref><ref id="b7"><text><SENT sid="323" pm="."><plain>SuzukiA. . High cancer susceptibility and embryonic lethality associated with mutation of the PTEN tumor suppressor gene in mice. Curr. biol. 8, 1169–1178 (1998).9799734 </plain></SENT>
+</text></ref><ref id="b8"><text><SENT sid="324" pm="."><plain>MaehamaT. &amp; DixonJ. </plain></SENT>
+<SENT sid="325" pm="."><plain>E. The tumor suppressor, PTEN/MMAC1, dephosphorylates the lipid second messenger, phosphatidylinositol 3,4,5-trisphosphate. J. </plain></SENT>
+<SENT sid="326" pm="."><plain>Biol. </plain></SENT>
+<SENT sid="327" pm="."><plain>Chem. 273, 13375–13378 (1998).9593664 </plain></SENT>
+</text></ref><ref id="b9"><text><SENT sid="328" pm="."><plain>SalmenaL., CarracedoA. &amp; PandolfiP. </plain></SENT>
+<SENT sid="329" pm="."><plain>P. Tenets of PTEN tumor suppression. Cell 133, 403–414 (2008).18455982 </plain></SENT>
+</text></ref><ref id="b10"><text><SENT sid="330" pm="."><plain>FengJ. . PTEN controls the DNA replication process through MCM2 in response to replicative stress. Cell Rep. 13, 1295–1303 (2015).26549452 </plain></SENT>
+</text></ref><ref id="b11"><text><SENT sid="331" pm="."><plain>KangX. . PTEN stabilizes TOP2A and regulates the DNA decatenation. Sci. </plain></SENT>
+<SENT sid="332" pm="."><plain>Rep. 5, 17873 (2015).26657567 </plain></SENT>
+</text></ref><ref id="b12"><text><SENT sid="333" pm="."><plain>ShenW. </plain></SENT>
+<SENT sid="334" pm="."><plain>H. . Essential role for nuclear PTEN in maintaining chromosomal integrity. Cell 128, 157–170 (2007).17218262 </plain></SENT>
+</text></ref><ref id="b13"><text><SENT sid="335" pm="."><plain>WangG. . PTEN regulates RPA1 and protects DNA replication forks. Cell. </plain></SENT>
+<SENT sid="336" pm="."><plain>Res. 25, 1189–1204 (2015).26403191 </plain></SENT>
+</text></ref><ref id="b14"><text><SENT sid="337" pm="."><plain>HorieY. . Hepatocyte-specific Pten deficiency results in steatohepatitis and hepatocellular carcinomas. J. </plain></SENT>
+<SENT sid="338" pm="."><plain>Clin. </plain></SENT>
+<SENT sid="339" pm="."><plain>Invest. 113, 1774–1783 (2004).15199412 </plain></SENT>
+</text></ref><ref id="b15"><text><SENT sid="340" pm="."><plain>StilesB. . Liver-specific deletion of negative regulator Pten results in fatty liver and insulin hypersensitivity [corrected]. Proc. </plain></SENT>
+<SENT sid="341" pm="."><plain>Natl Acad. </plain></SENT>
+<SENT sid="342" pm="."><plain>Sci. </plain></SENT>
+<SENT sid="343" pm="."><plain>USA 101, 2082–2087 (2004).14769918 </plain></SENT>
+</text></ref><ref id="b16"><text><SENT sid="344" pm="."><plain>KnafoS. . PTEN recruitment controls synaptic and cognitive function in Alzheimer's models. Nat. </plain></SENT>
+<SENT sid="345" pm="."><plain>Neurosci. 19, 443–453 (2016).26780512 </plain></SENT>
+</text></ref><ref id="b17"><text><SENT sid="346" pm="."><plain>LiS. . The tumor suppressor PTEN has a critical role in antiviral innate immunity. Nat. </plain></SENT>
+<SENT sid="347" pm="."><plain>Immunol. 17, 241–249 (2016).26692175 </plain></SENT>
+</text></ref><ref id="b18"><text><SENT sid="348" pm="."><plain>KozakM. Context effects and inefficient initiation at non-AUG codons in eucaryotic cell-free translation systems. Mol. </plain></SENT>
+<SENT sid="349" pm="."><plain>Cell. </plain></SENT>
+<SENT sid="350" pm="."><plain>Biol. 9, 5073–5080 (1989).2601709 </plain></SENT>
+</text></ref><ref id="b19"><text><SENT sid="351" pm="."><plain>KozakM. Point mutations define a sequence flanking the AUG initiator codon that modulates translation by eukaryotic ribosomes. Cell 44, 283–292 (1986).3943125 </plain></SENT>
+</text></ref><ref id="b20"><text><SENT sid="352" pm="."><plain>PeabodyD. </plain></SENT>
+<SENT sid="353" pm="."><plain>S. Translation initiation at non-AUG triplets in mammalian cells. J. </plain></SENT>
+<SENT sid="354" pm="."><plain>Biol. </plain></SENT>
+<SENT sid="355" pm="."><plain>Chem. 264, 5031–5035 (1989).2538469 </plain></SENT>
+</text></ref><ref id="b21"><text><SENT sid="356" pm="."><plain>KozakM. Downstream secondary structure facilitates recognition of initiator codons by eukaryotic ribosomes. Proc. </plain></SENT>
+<SENT sid="357" pm="."><plain>Natl Acad. </plain></SENT>
+<SENT sid="358" pm="."><plain>Sci. </plain></SENT>
+<SENT sid="359" pm="."><plain>USA 87, 8301–8305 (1990).2236042 </plain></SENT>
+</text></ref><ref id="b22"><text><SENT sid="360" pm="."><plain>ArnaudE. . A new 34-kilodalton isoform of human fibroblast growth factor 2 is cap dependently synthesized by using a non-AUG start codon and behaves as a survival factor. Mol. </plain></SENT>
+<SENT sid="361" pm="."><plain>Cell. </plain></SENT>
+<SENT sid="362" pm="."><plain>Biol. 19, 505–514 (1999).9858574 </plain></SENT>
+</text></ref><ref id="b23"><text><SENT sid="363" pm="."><plain>PackhamG., BrimmellM. &amp; ClevelandJ. </plain></SENT>
+<SENT sid="364" pm="."><plain>L. Mammalian cells express two differently localized Bag-1 isoforms generated by alternative translation initiation. Biochem. </plain></SENT>
+<SENT sid="365" pm="."><plain>J. 328, (Pt 3): 807–813 (1997).9396724 </plain></SENT>
+</text></ref><ref id="b24"><text><SENT sid="366" pm="."><plain>HopkinsB. </plain></SENT>
+<SENT sid="367" pm="."><plain>D. . A secreted PTEN phosphatase that enters cells to alter signaling and survival. Science (New York, NY) 341, 399–402 (2013). </plain></SENT>
+</text></ref><ref id="b25"><text><SENT sid="368" pm="."><plain>LiangH. . PTENalpha, a PTEN isoform translated through alternative initiation, regulates mitochondrial function and energy metabolism. Cell. </plain></SENT>
+<SENT sid="369" pm="."><plain>Metab. 19, 836–848 (2014).24768297 </plain></SENT>
+</text></ref><ref id="b26"><text><SENT sid="370" pm="."><plain>TeeM. </plain></SENT>
+<SENT sid="371" pm="."><plain>K. &amp; JaffeR. </plain></SENT>
+<SENT sid="372" pm="."><plain>B. A precursor form of vascular endothelial growth factor arises by initiation from an upstream in-frame CUG codon. Biochem. </plain></SENT>
+<SENT sid="373" pm="."><plain>J. 359, 219–226 (2001).11563986 </plain></SENT>
+</text></ref><ref id="b27"><text><SENT sid="374" pm="."><plain>ColdwellM. </plain></SENT>
+<SENT sid="375" pm="."><plain>J., Hashemzadeh-BonehiL., HintonT. </plain></SENT>
+<SENT sid="376" pm="."><plain>M., MorleyS. </plain></SENT>
+<SENT sid="377" pm="."><plain>J. &amp; PainV. </plain></SENT>
+<SENT sid="378" pm="."><plain>M. Expression of fragments of translation initiation factor eIF4GI reveals a nuclear localisation signal within the N-terminal apoptotic cleavage fragment N-FAG. J. </plain></SENT>
+<SENT sid="379" pm="."><plain>Cell. </plain></SENT>
+<SENT sid="380" pm="."><plain>Sci. 117, 2545–2555 (2004).15128869 </plain></SENT>
+</text></ref><ref id="b28"><text><SENT sid="381" pm="."><plain>CatalanoA. &amp; O'DayD. </plain></SENT>
+<SENT sid="382" pm="."><plain>H. Rad53 homologue forkhead-associated kinase A (FhkA) and Ca2+-binding protein 4a (CBP4a) are nucleolar proteins that differentially redistribute during mitosis in Dictyostelium. Cell. </plain></SENT>
+<SENT sid="383" pm="."><plain>Div. 8, 4 (2013).23587254 </plain></SENT>
+</text></ref><ref id="b29"><text><SENT sid="384" pm="."><plain>EmmottE. &amp; HiscoxJ. </plain></SENT>
+<SENT sid="385" pm="."><plain>A. Nucleolar targeting: the hub of the matter. EMBO Rep. 10, 231–238 (2009).19229283 </plain></SENT>
+</text></ref><ref id="b30"><text><SENT sid="386" pm="."><plain>CoxK. </plain></SENT>
+<SENT sid="387" pm="."><plain>J. &amp; ThomasA. </plain></SENT>
+<SENT sid="388" pm="."><plain>S. The application of immunoblotting to the phenotyping of haptoglobin. J. </plain></SENT>
+<SENT sid="389" pm="."><plain>Forensic Sci. 37, 1652–1655 (1992).1453173 </plain></SENT>
+</text></ref><ref id="b31"><text><SENT sid="390" pm="."><plain>TajrishiM. </plain></SENT>
+<SENT sid="391" pm="."><plain>M., TutejaR. &amp; TutejaN. Nucleolin: the most abundant multifunctional phosphoprotein of nucleolus. Commun. </plain></SENT>
+<SENT sid="392" pm="."><plain>Integrat. </plain></SENT>
+<SENT sid="393" pm="."><plain>Biol. 4, 267–275 (2011). </plain></SENT>
+</text></ref><ref id="b32"><text><SENT sid="394" pm="."><plain>TutejaR. &amp; TutejaN. Nucleolin: a multifunctional major nucleolar phosphoprotein. Crit. </plain></SENT>
+<SENT sid="395" pm="."><plain>Rev. </plain></SENT>
+<SENT sid="396" pm="."><plain>Biochem. </plain></SENT>
+<SENT sid="397" pm="."><plain>Mol. </plain></SENT>
+<SENT sid="398" pm="."><plain>Biol. 33, 407–436 (1998).9918513 </plain></SENT>
+</text></ref><ref id="b33"><text><SENT sid="399" pm="."><plain>GinistyH., AmalricF. &amp; BouvetP. Nucleolin functions in the first step of ribosomal RNA processing. EMBO J. 17, 1476–1486 (1998).9482744 </plain></SENT>
+</text></ref><ref id="b34"><text><SENT sid="400" pm="."><plain>GhisolfiL., KharratA., JosephG., AmalricF. &amp; ErardM. Concerted activities of the RNA recognition and the glycine-rich C-terminal domains of nucleolin are required for efficient complex formation with pre-ribosomal RNA. Eur. </plain></SENT>
+<SENT sid="401" pm="."><plain>J. </plain></SENT>
+<SENT sid="402" pm="."><plain>Biochem. 209, 541–548 (1992).1425660 </plain></SENT>
+</text></ref><ref id="b35"><text><SENT sid="403" pm="."><plain>BouvetP., DiazJ. </plain></SENT>
+<SENT sid="404" pm="."><plain>J., KindbeiterK., MadjarJ. </plain></SENT>
+<SENT sid="405" pm="."><plain>J. &amp; AmalricF. Nucleolin interacts with several ribosomal proteins through its RGG domain. J. </plain></SENT>
+<SENT sid="406" pm="."><plain>Biol. </plain></SENT>
+<SENT sid="407" pm="."><plain>Chem. 273, 19025–19029 (1998).9668083 </plain></SENT>
+</text></ref><ref id="b36"><text><SENT sid="408" pm="."><plain>CongR. . Interaction of nucleolin with ribosomal RNA genes and its role in RNA polymerase I transcription. Nucleic. </plain></SENT>
+<SENT sid="409" pm="."><plain>Acids Res. 40, 9441–9454 (2012).22859736 </plain></SENT>
+</text></ref><ref id="b37"><text><SENT sid="410" pm="."><plain>DurutN. &amp; Saez-VasquezJ. Nucleolin: dual roles in rDNA chromatin transcription. Gene 556, 7–12 (2015).25225127 </plain></SENT>
+</text></ref><ref id="b38"><text><SENT sid="411" pm="."><plain>KozakM. Evaluation of the ‘scanning model' for initiation of protein synthesis in eucaryotes. Cell 22, 7–8 (1980).7000367 </plain></SENT>
+</text></ref><ref id="b39"><text><SENT sid="412" pm="."><plain>IvanovI. </plain></SENT>
+<SENT sid="413" pm="."><plain>P., FirthA. </plain></SENT>
+<SENT sid="414" pm="."><plain>E., MichelA. </plain></SENT>
+<SENT sid="415" pm="."><plain>M., AtkinsJ. </plain></SENT>
+<SENT sid="416" pm="."><plain>F. &amp; BaranovP. </plain></SENT>
+<SENT sid="417" pm="."><plain>V. Identification of evolutionarily conserved non-AUG-initiated N-terminal extensions in human coding sequences. Nucleic. </plain></SENT>
+<SENT sid="418" pm="."><plain>Acids Res. 39, 4220–4234 (2011).21266472 </plain></SENT>
+</text></ref><ref id="b40"><text><SENT sid="419" pm="."><plain>Van DammeP., GawronD., Van CriekingeW. &amp; MenschaertG. N-terminal proteomics and ribosome profiling provide a comprehensive view of the alternative translation initiation landscape in mice and men. Mol. </plain></SENT>
+<SENT sid="420" pm="."><plain>Cell. </plain></SENT>
+<SENT sid="421" pm="."><plain>Proteom. 13, 1245–1261 (2014). </plain></SENT>
+</text></ref><ref id="b41"><text><SENT sid="422" pm="."><plain>KozakM. Initiation of translation in prokaryotes and eukaryotes. Gene 234, 187–208 (1999).10395892 </plain></SENT>
+</text></ref><ref id="b42"><text><SENT sid="423" pm="."><plain>MichelA. </plain></SENT>
+<SENT sid="424" pm="."><plain>M., AndreevD. </plain></SENT>
+<SENT sid="425" pm="."><plain>E. &amp; BaranovP. </plain></SENT>
+<SENT sid="426" pm="."><plain>V. Computational approach for calculating the probability of eukaryotic translation initiation from ribo-seq data that takes into account leaky scanning. BMC Bioinformat. 15, 380 (2014). </plain></SENT>
+</text></ref><ref id="b43"><text><SENT sid="427" pm="."><plain>CristianiA. . The role of the N-terminal domain in the regulation of the ‘constitutively active' conformation of protein kinase CK2alpha: insight from a molecular dynamics investigation. ChemMedChem 6, 1207–1216 (2011).21591262 </plain></SENT>
+</text></ref><ref id="b44"><text><SENT sid="428" pm="."><plain>LiP. . Identification of nucleolus-localized PTEN and its function in regulating ribosome biogenesis. Mol. </plain></SENT>
+<SENT sid="429" pm="."><plain>Biol. </plain></SENT>
+<SENT sid="430" pm="."><plain>Rep. 41, 6383–6390 (2014).24969487 </plain></SENT>
+</text></ref><ref id="b45"><text><SENT sid="431" pm="."><plain>PodsypaninaK. . An inhibitor of mTOR reduces neoplasia and normalizes p70/S6 kinase activity in Pten+/− mice. Proc. </plain></SENT>
+<SENT sid="432" pm="."><plain>Natl Acad. </plain></SENT>
+<SENT sid="433" pm="."><plain>Sci. </plain></SENT>
+<SENT sid="434" pm="."><plain>USA 98, 10320–10325 (2001).11504907 </plain></SENT>
+</text></ref><ref id="b46"><text><SENT sid="435" pm="."><plain>ZhangC., ComaiL. &amp; JohnsonD. </plain></SENT>
+<SENT sid="436" pm="."><plain>L. PTEN represses RNA polymerase I transcription by disrupting the SL1 complex. Mol. </plain></SENT>
+<SENT sid="437" pm="."><plain>Cell. </plain></SENT>
+<SENT sid="438" pm="."><plain>Biol. 25, 6899–6911 (2005).16055704 </plain></SENT>
+</text></ref><ref id="b47"><text><SENT sid="439" pm="."><plain>OlsonM. </plain></SENT>
+<SENT sid="440" pm="."><plain>O., HingoraniK. &amp; SzebeniA. Conventional and nonconventional roles of the nucleolus. Int. </plain></SENT>
+<SENT sid="441" pm="."><plain>Rev. </plain></SENT>
+<SENT sid="442" pm="."><plain>Cytol. 219, 199–266 (2002).12211630 </plain></SENT>
+</text></ref><ref id="b48"><text><SENT sid="443" pm="."><plain>ShawP. &amp; BrownJ. Nucleoli: composition, function, and dynamics. Plant. </plain></SENT>
+<SENT sid="444" pm="."><plain>Physiol. 158, 44–51 (2012).22082506 </plain></SENT>
+</text></ref><ref id="b49"><text><SENT sid="445" pm="."><plain>OrsolicI. . The relationship between the nucleolus and cancer: current evidence and emerging paradigms. Semin. </plain></SENT>
+<SENT sid="446" pm="."><plain>Cancer. </plain></SENT>
+<SENT sid="447" pm="."><plain>Biol. 37–38, 36–50 (2016). </plain></SENT>
+</text></ref><ref id="b50"><text><SENT sid="448" pm="."><plain>MontanaroL., TrereD. &amp; DerenziniM. Nucleolus, ribosomes, and cancer. Am. </plain></SENT>
+<SENT sid="449" pm="."><plain>J. </plain></SENT>
+<SENT sid="450" pm="."><plain>Pathol. 173, 301–310 (2008).18583314 </plain></SENT>
+</text></ref><ref id="b51"><text><SENT sid="451" pm="."><plain>GonzalezO. </plain></SENT>
+<SENT sid="452" pm="."><plain>G. . Telomerase stimulates ribosomal DNA transcription under hyperproliferative conditions. Nat. </plain></SENT>
+<SENT sid="453" pm="."><plain>Commun. 5, 4599 (2014).25118183 </plain></SENT>
+</text></ref><ref id="b52"><text><SENT sid="454" pm="."><plain>LiaoP. . A positive feedback loop between EBP2 and c-Myc regulates rDNA transcription, cell proliferation, and tumorigenesis. Cell Death Dis. 5, e1032 (2014).24481446 </plain></SENT>
+</text></ref><ref id="b53"><text><SENT sid="455" pm="."><plain>KongR. . hALP, a novel transcriptional U three protein (t-UTP), activates RNA polymerase I transcription by binding and acetylating the upstream binding factor (UBF). J. </plain></SENT>
+<SENT sid="456" pm="."><plain>Biol. </plain></SENT>
+<SENT sid="457" pm="."><plain>Chem. 286, 7139–7148 (2011).21177859 </plain></SENT>
+</text></ref><ref id="b54"><text><SENT sid="458" pm="."><plain>DesjardinsR., SmetanaK., SteeleW. </plain></SENT>
+<SENT sid="459" pm="."><plain>J. &amp; BuschH. Isolation of nucleoli of the walker carcinosarcoma and liver of the rat following nuclear disruption in a french pressure cell. Cancer Res. 23, 1819–1823 (1963).14082878 </plain></SENT>
+</text></ref><ref id="b55"><text><SENT sid="460" pm="."><plain>BindeaG. . ClueGO: a Cytoscape plug-in to decipher functionally grouped gene ontology and pathway annotation networks. Bioinformatics 25, 1091–1093 (2009).19237447 </plain></SENT>
+</text></ref><ref id="b56"><text><SENT sid="461" pm="."><plain>ApicelliA. </plain></SENT>
+<SENT sid="462" pm="."><plain>J. . A non-tumor suppressor role for basal p19ARF in maintaining nucleolar structure and function. Mol. </plain></SENT>
+<SENT sid="463" pm="."><plain>Cell. </plain></SENT>
+<SENT sid="464" pm="."><plain>Biol. 28, 1068–1080 (2008).18070929 </plain></SENT>
+</text></ref><ref id="b57"><text><SENT sid="465" pm="."><plain>VizcainoJ. </plain></SENT>
+<SENT sid="466" pm="."><plain>A. . 2016 update of the PRIDE database and its related tools. Nucleic Acids Res. 44, D447–D456 (2016).26527722 </plain></SENT>
+</text></ref></ref-list></SecTag><fn-group><fn fn-type="COI-statement"><p><text><SENT sid="467" pm="."><plain>The authors declare no competing financial interests. </plain></SENT>
+</text></p></fn><fn><p><text><SENT sid="468" pm="."><plain>Author contributions Y.Y. and H.L. conceived the study. </plain></SENT>
+<SENT sid="469" pm="."><plain>H.L. and Q.Y. wrote the article. </plain></SENT>
+<SENT sid="470" pm="."><plain>H.L., X.C. and Q.Y. designed and performed the experiments and analysed the data. </plain></SENT>
+<SENT sid="471" pm="."><plain>D.R. performed several experiments. </plain></SENT>
+<SENT sid="472" pm="."><plain>X.Z. performed mass spectrometric analysis. </plain></SENT>
+<SENT sid="473" pm="."><plain>C.Z. performed functional pathway enrichment analysis. </plain></SENT>
+<SENT sid="474" pm="."><plain>Y.Y. and M.A.M. revised the manuscript. </plain></SENT>
+</text></p></fn></fn-group></back><floats-group><SecTag type="FIG"><fig id="f1"><label>Figure 1</label><caption><title>Discovery of an unknown protein that is recognized by PTENα antibody.</title><p><text><SENT sid="475" pm="."><plain>(a) Western blot of PTENα and PTEN in Hela cells after acriflavin treatment at different doses with a polyclonal antibody against full-length PTEN. </plain></SENT>
+<SENT sid="476" pm="."><plain>PTEN immunoblotting revealed an unknown band with a molecular weight lower than PTENα. </plain></SENT>
+<SENT sid="477" pm="."><plain>Quantification of indicated protein levels relative to GAPDH is shown (right panel). </plain></SENT>
+<SENT sid="478" pm="."><plain>(b) Western blot of PTENα and PTEN in a panel of human cancer cell lines using a rabbit monoclonal antibody against the C-terminal region of PTEN (Cell Signaling, 138G6). </plain></SENT>
+<SENT sid="479" pm="."><plain>The PTEN null prostate cancer cell line PC3 was used as a negative control. </plain></SENT>
+<SENT sid="480" pm="."><plain>(c) Immunoprecipitation of PTENα with a homemade PTENα antibody before PTEN immunoblotting of SMMC-7721 and HCT116 cells of known PTEN status. </plain></SENT>
+</text></p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ncomms14771-f1"/></fig></SecTag><SecTag type="FIG"><fig id="f2"><label>Figure 2</label><caption><title>Identification and validation of PTENβ.</title><p><text><SENT sid="481" pm="."><plain>(a) The potential non-AUG initiation codons in favourable Kozak contexts in the 5′ UTR region of Homo sapiens PTEN mRNA are highlighted in red. </plain></SENT>
+<SENT sid="482" pm="."><plain>The initiation codons of PTENα and PTEN are separately highlighted in yellow or green. </plain></SENT>
+<SENT sid="483" pm="."><plain>(b) A pEGFP-N1 plasmid containing PTENα with a C-terminal GFP tag was used for detection of PTENα, PTEN and unknown PTEN isoforms (upper panel); the indicated plasmids were introduced in HEK 293T cells followed by western blotting analysis using GFP antibody. β-tubulin was used as a control (lower panel). </plain></SENT>
+<SENT sid="484" pm="."><plain>(c) pEGFP-N1 plasmids containing PTEN or PTENα with a C-terminal GFP tag, in which one of the two potential initiation codons (AUU594 or UUG621) was mutated to CUC combined with mutation of CUG513. </plain></SENT>
+<SENT sid="485" pm="."><plain>(d) Mutation of AUU594 but not UUG621 eliminates PTENβ expression. </plain></SENT>
+<SENT sid="486" pm="."><plain>Plasmids as indicated in c were introduced into HEK 293T cells separately, followed by immunoblotting with GFP antibody. </plain></SENT>
+<SENT sid="487" pm="."><plain>(e) The Kozak context of AUU594 and disruption of the Kozak context by site directed mutagenesis. </plain></SENT>
+<SENT sid="488" pm="."><plain>(f) The Kozak context disruption abolishes PTENβ expression. </plain></SENT>
+<SENT sid="489" pm="."><plain>HEK 293T cells were transfected with indicated constructs in e, followed by immunoblotting with GFP antibody. </plain></SENT>
+<SENT sid="490" pm="."><plain>(g) A 12 bp AUU594 downstream palindromic motif in the 5′ UTR of PTEN is evolutionarily conserved. </plain></SENT>
+<SENT sid="491" pm="."><plain>Phylogenetic analysis of the 5′ UTR of PTEN mRNA in bonobo (Pan paniscus), killer whale (Orcinus orca) and mouse (Mus musculus). </plain></SENT>
+<SENT sid="492" pm="."><plain>The alternative CUG513 and AUU594 codons are highlighted in blue boxes, and the 12 bp palindromic sequence is highlighted in a red box. </plain></SENT>
+<SENT sid="493" pm="."><plain>(h) Disruption of the palindromic motif abolishes PTENβ expression. </plain></SENT>
+<SENT sid="494" pm="."><plain>Upper panel, site directed mutagnesis was used to disrupt the AUU594 downstream palindromic motif; lower panel, C-terminal GFP-tagged PTENβ expression plasmids with or without disruption of the palindromic motif were introduced into HEK 293T cells, followed by immunoblotting with GFP antibody. </plain></SENT>
+</text></p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ncomms14771-f2"/></fig></SecTag><SecTag type="FIG"><fig id="f3"><label>Figure 3</label><caption><title>The PTENβ translation initiation codon was identified by LC-MS/MS.</title><p><text><SENT sid="495" pm="."><plain>(a) A pFastBac1 plasmid containing PTENα with a C-terminal His-tag was used for in vitro purification of PTENβ. </plain></SENT>
+<SENT sid="496" pm="."><plain>The PTEN AUG start codon was mutated to AUA and the PTENα CUG start codon was mutated to CUC to avoid co-purification of PTEN and PTENα with PTENβ. </plain></SENT>
+<SENT sid="497" pm="."><plain>(b) Mass spectrometry analysis of purified PTENβ. </plain></SENT>
+<SENT sid="498" pm="."><plain>Sf9-expressed PTENβ with a C-terminal His-tag was purified using nickel affinity chromatography. </plain></SENT>
+<SENT sid="499" pm="."><plain>The bound proteins were separated with SDS–PAGE, and gel slices at around 70 kDa (red box) were analysed by mass spectrometry. </plain></SENT>
+<SENT sid="500" pm="."><plain>Three segments of peptide that match the 5′ UTR region of PTEN were identified, including the most proximal N-terminal peptide of PTENβ MSRAGNAGE. </plain></SENT>
+<SENT sid="501" pm="."><plain>(c) The MS/MS spectrum of the most proximal N-terminal peptide of PTENβ MSRAGNAGE. </plain></SENT>
+<SENT sid="502" pm="."><plain>(d) Verification of endogenous PTENβ expression in Pten-FLAG knockin mice. </plain></SENT>
+<SENT sid="503" pm="."><plain>Various tissues from Pten-FLAG knockin mice were lysed for immunoprecipitation with FLAG antibody, followed by immunoblotting with PTENα antibody raised in our laboratory. </plain></SENT>
+<SENT sid="504" pm="."><plain>Wild-type mice tissues were used as control. </plain></SENT>
+<SENT sid="505" pm="."><plain>(e) Brain tissues from Pten-FLAG knockin mice or control wild-type mice were lysed for immunoprecipitation with anti-FLAG M2 agarose. </plain></SENT>
+<SENT sid="506" pm="."><plain>The bound proteins were separated with SDS–PAGE. </plain></SENT>
+<SENT sid="507" pm="."><plain>Mass spectrometry analysis of gel slices at around 70 kDa (molecular weight lower than PTENα) revealed four peptides in Pten-FLAG knockin tissues that matched the PTENβ N-terminal extended region. </plain></SENT>
+</text></p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ncomms14771-f3"/></fig></SecTag><SecTag type="FIG"><fig id="f4"><label>Figure 4</label><caption><title>PTENβ is localized predominantly in the nucleolus.</title><p><text><SENT sid="508" pm="."><plain>(a) A set of different constructs of PTEN, PTENα and PTENβ with a C-terminal GFP tag. </plain></SENT>
+<SENT sid="509" pm="."><plain>The AUG start codon of canonical PTEN was mutated to AUA in PTENα and PTENβ constructs in order to abolish expression of canonical PTEN. </plain></SENT>
+<SENT sid="510" pm="."><plain>(b) Subcellular localization of C-terminal GFP-tagged PTENα, PTENβ and PTEN. </plain></SENT>
+<SENT sid="511" pm="."><plain>The constructs indicated in a were introduced into Hela PTEN null cells. </plain></SENT>
+<SENT sid="512" pm="."><plain>Twenty-four hours after transfection, cells were stained with DAPI, followed by imaging with confocal microscopy. </plain></SENT>
+<SENT sid="513" pm="."><plain>The scale bars represent 5 μm. </plain></SENT>
+<SENT sid="514" pm="."><plain>(c) Hela PTEN null cells were transfected as in b, then stained with an anti-UBF antibody and DAPI, and imaged with confocal microscopy. </plain></SENT>
+<SENT sid="515" pm="."><plain>The scale bars represent 5 μm. </plain></SENT>
+<SENT sid="516" pm="."><plain>(d) Hela cells were transfected with C-terminal GFP-tagged PTENβ, and subjected to cell fractionation, followed by western blotting with GFP, nucleolin, HDAC1 and HSP90 antibodies. </plain></SENT>
+<SENT sid="517" pm="."><plain>WCE: whole cell lysate. </plain></SENT>
+<SENT sid="518" pm="."><plain>(e) Hela PTEN null cells were transfected with C-terminal GFP-tagged PTENβ or C-terminal GFP-tagged PTENβΔR6. </plain></SENT>
+<SENT sid="519" pm="."><plain>Twenty-four hours after transfection, cells were stained with anti-UBF antibody and DAPI, followed by imaging with confocal microscopy. </plain></SENT>
+<SENT sid="520" pm="."><plain>The scale bars represent 5 μm. </plain></SENT>
+</text></p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ncomms14771-f4"/></fig></SecTag><SecTag type="FIG"><fig id="f5"><label>Figure 5</label><caption><title>PTENβ interacts with and dephosphorylates nucleolin.</title><p><text><SENT sid="521" pm="."><plain>(a) In vivo S-tag pull-down analysis. </plain></SENT>
+<SENT sid="522" pm="."><plain>Whole cell extracts from HEK 293T cells transfected with S-tagged-PTEN, S-tagged-PTENα, S-tagged-PTENβ or mock constructs were immunoprecipitated with S-protein beads followed by mass spectrometric peptide sequencing. </plain></SENT>
+<SENT sid="523" pm="."><plain>Nucleolin was found in the PTENβ pull-down list. </plain></SENT>
+<SENT sid="524" pm="."><plain>(b,c) Reciprocal immunoprecipitation of PTENβ and nucleolin. </plain></SENT>
+<SENT sid="525" pm="."><plain>(b) C-terminal GFP-tagged PTENβ or GFP-tagged mock was transfected, followed by immunoprecipitation with GFP antibody and immunoblotting with an anti-nucleolin antibody. </plain></SENT>
+<SENT sid="526" pm="."><plain>(c) FLAG-tagged nucleolin or mock plasmid was co-transfected with GFP-tagged PTENβ, followed by immunoprecipitation with FLAG antibody and immunoblotting with GFP antibody. </plain></SENT>
+<SENT sid="527" pm="."><plain>(d) Images of immunofluorescence staining for PTENβ and nucleolin. </plain></SENT>
+<SENT sid="528" pm="."><plain>Hela PTEN null cells were transfected as in Fig. 4b, followed by staining with an anti-nucleolin antibody, and were imaged by confocal microscopy. </plain></SENT>
+<SENT sid="529" pm="."><plain>The scale bars represent 5 μm. </plain></SENT>
+<SENT sid="530" pm="."><plain>(e) PTENβ protein phosphatase activity is required for its interaction with nucleolin. </plain></SENT>
+<SENT sid="531" pm="."><plain>Wild-type PTENβ or PTENβ mutants as indicated in Supplementary Fig. 6b was transfected separately, followed by immunoprecipitation with GFP antibody and immunoblotting with an anti-nucleolin antibody. </plain></SENT>
+<SENT sid="532" pm="."><plain>(f) Schematic strategy of PTENβ CRISPR-Cas9 knockout. </plain></SENT>
+<SENT sid="533" pm="."><plain>The initiation codons of PTEN isoforms were labelled. </plain></SENT>
+<SENT sid="534" pm="."><plain>(g) Immunoblot confirming abolition of PTENα only (lane 2), or PTENα and PTENβ double knockout (lane 3) with a PTEN antibody. </plain></SENT>
+<SENT sid="535" pm="."><plain>(h) Phospho-nucleolin level in PTENβ knockout cells. </plain></SENT>
+<SENT sid="536" pm="."><plain>PTENβ knockout cells as indicated in f,g were lysed, followed by immunoblotting with p-nucleolin (Thr 84), nucleolin or β-actin antibody. </plain></SENT>
+<SENT sid="537" pm="."><plain>Experiments were carried out in three biological replicates and quantification of indicated protein levels relative to β-actin is shown. </plain></SENT>
+<SENT sid="538" pm="."><plain>Bars represent mean±s.e.m. </plain></SENT>
+<SENT sid="539" pm="."><plain>(i) C-terminal GFP-tagged wild-type PTENβ or PTENβ mutants as indicated in e were introduced into PTENα and PTENβ double knockout cells as indicated in g, followed by immunoblotting with p-nucleolin (Thr 84), nucleolin or GFP antibody. </plain></SENT>
+<SENT sid="540" pm="."><plain>(j) Purified nucleolin was phosphorylated in vitro by Cdk1/CyclinB1 and subsequently used in a phosphatase assay with FLAG-PTENβ or FLAG peptide alone as a control, followed by immunoblotting with p-nucleolin (Thr 84). </plain></SENT>
+</text></p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ncomms14771-f5"/></fig></SecTag><SecTag type="FIG"><fig id="f6"><label>Figure 6</label><caption><title>PTENβ negatively regulates rDNA transcription and cell proliferation.</title><p><text><SENT sid="541" pm="."><plain>(a,b) 28S and 18S rRNA levels in PTENβ knockout cells. </plain></SENT>
+<SENT sid="542" pm="."><plain>(a) Total RNA was extracted from wild-type Hela cells and knockout cells as indicated in Fig. 5g, followed by resolution on a 1% formaldehyde-agarose gel for comparison. </plain></SENT>
+<SENT sid="543" pm="."><plain>(b) Exogenous PTENα or PTENβ was transfected into PTENα and PTENβ double knockout cells as indicated in Fig. 5g, followed by resolution on a 1% formaldehyde-agarose gel for comparison. </plain></SENT>
+<SENT sid="544" pm="."><plain>Grey scale quantification results of total 28S rRNA and 18S rRNA levels are shown. </plain></SENT>
+<SENT sid="545" pm="."><plain>(c) 45S pre-rRNA level in PTENβ knockout cells as indicated in Fig. 5g. </plain></SENT>
+<SENT sid="546" pm="."><plain>(d) rDNA promoter luciferase reporter activity in HeLa cells. </plain></SENT>
+<SENT sid="547" pm="."><plain>PTENα and PTENβ double knockout cells as indicated in Fig. 5g were co-transfected with pHrD-IRES-Luc or pGL3-basic plasmid and exogenous PTENα or PTENβ. </plain></SENT>
+<SENT sid="548" pm="."><plain>Luciferase activity was measured 24 h after transfection. </plain></SENT>
+<SENT sid="549" pm="."><plain>(e) Average area of nucleolar organizing regions in cells as indicated in Fig. 5g. </plain></SENT>
+<SENT sid="550" pm="."><plain>Left panel, images of silver staining. </plain></SENT>
+<SENT sid="551" pm="."><plain>Right panel, quantitative analysis of AgNOR indices. </plain></SENT>
+<SENT sid="552" pm="."><plain>AgNOR from 50 cells were measured in each group. </plain></SENT>
+<SENT sid="553" pm="."><plain>The scale bars represent 10 μm. </plain></SENT>
+<SENT sid="554" pm="."><plain>(f) Cell growth curves in cells as indicated in Fig. 5g. </plain></SENT>
+<SENT sid="555" pm="."><plain>One thousand cells were plated per well in 96-well plates in triplicate. </plain></SENT>
+<SENT sid="556" pm="."><plain>Quantification was performed every 24 h for 5 days following the instructions for the Cell Titer 96 AQueous One Solution Cell Proliferation Assay Kit. </plain></SENT>
+<SENT sid="557" pm="."><plain>The significance of the difference in PTENα and PTENβ double knockout and wild-type Hela cells is shown with red asterisks, and the significance of the difference in PTENα only knockout and wild-type cells is shown with green asterisks. </plain></SENT>
+<SENT sid="558" pm="."><plain>(g) Detection of S-phase cells using the APC BrdU Flow Kit. </plain></SENT>
+<SENT sid="559" pm="."><plain>Wild-type, PTENα and PTENβ double knockout or PTENα knockout only cells were treated with 1 mM BrdU, followed by staining with fluorochrome-conjugated anti-Brdu antibody and evaluation with flow cytometry. </plain></SENT>
+<SENT sid="560" pm="."><plain>Data are presented as mean±s.e.m. of three independent experiments and were analysed with the paired t-test. *P&lt;0.05; **P&lt;0.01; ***P&lt;0.001; ****P&lt;0.0001. </plain></SENT>
+</text></p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ncomms14771-f6"/></fig></SecTag></floats-group></article>

@@ -1,0 +1,505 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NPG//DTD XML Article//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName NPG_XML_Article.dtd?><?SourceDTD.Version 2.7.10?><?ConverterInfo.XSLTName nature2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">Sci Rep</journal-id><journal-id journal-id-type="iso-abbrev">Sci Rep</journal-id><journal-title-group><journal-title>Scientific Reports</journal-title></journal-title-group><issn pub-type="epub">2045-2322</issn><publisher><publisher-name>Nature Publishing Group</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5110973</article-id><article-id pub-id-type="pii">srep37235</article-id><article-id pub-id-type="doi">10.1038/srep37235</article-id><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title><SecTag type="TITLE"><text><SENT sid="0" pm="."><plain>Nitrogen-induced metabolic changes and molecular determinants of carbon allocation in Dunaliella tertiolecta </plain></SENT>
+</text></SecTag></article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Tan</surname><given-names>Kenneth Wei Min</given-names></name><xref ref-type="aff" rid="a1">1</xref></contrib><contrib contrib-type="author"><name><surname>Lin</surname><given-names>Huixin</given-names></name><xref ref-type="aff" rid="a1">1</xref></contrib><contrib contrib-type="author"><name><surname>Shen</surname><given-names>Hui</given-names></name><xref ref-type="aff" rid="a1">1</xref></contrib><contrib contrib-type="author"><name><surname>Lee</surname><given-names>Yuan Kun</given-names></name><xref ref-type="corresp" rid="c1">a</xref><xref ref-type="aff" rid="a1">1</xref></contrib><aff id="a1"><label>1</label><institution>Department of Microbiology and Immunology, Yong Loo Lin School of Medicine, National University of Singapore</institution>, 117545, <country>Singapore</country></aff></contrib-group><author-notes><corresp id="c1"><label>a</label><email>yuan_kun_lee@nuhs.edu.sg</email></corresp></author-notes><pub-date pub-type="epub"><day>16</day><month>11</month><year>2016</year></pub-date><pub-date pub-type="collection"><year>2016</year></pub-date><volume>6</volume><elocation-id>37235</elocation-id><history><date date-type="received"><day>18</day><month>08</month><year>2016</year></date><date date-type="accepted"><day>25</day><month>10</month><year>2016</year></date></history><permissions><copyright-statement>Copyright © 2016, The Author(s)</copyright-statement><copyright-year>2016</copyright-year><copyright-holder>The Author(s)</copyright-holder><license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link></license-p></license></permissions><abstract><p><SecTag type="ABS"><text><SENT sid="1" pm="."><plain>Certain species of microalgae are natural accumulators of lipids, while others are more inclined to store starch. </plain></SENT>
+<SENT sid="2" pm="."><plain>However, what governs the preference to store lipids or starch is not well understood. </plain></SENT>
+<SENT sid="3" pm="."><plain>In this study, the microalga Dunaliella tertiolecta was used as a model to study the global gene expression profile regulating starch accumulation in microalgae. D. tertiolecta, when depleted of nitrogen, produced only 1% of dry cell weight (DCW) in neutral lipids, while starch was rapidly accumulated up to 46% DCW. </plain></SENT>
+<SENT sid="4" pm="."><plain>The increased in starch content was accompanied by a coordinated overexpression of genes shunting carbon towards starch synthesis, a response not seen in the oleaginous microalgae Nannochloropsis oceanica, Chlamydomonas reinhardtii or Chlorella vulgaris. </plain></SENT>
+<SENT sid="5" pm="."><plain>Genes in the central carbon metabolism pathways, particularly those of the tricarboxylic acid cycle, were also simultaneously upregulated, indicating a robust interchange of carbon skeletons for anabolic and catabolic processes. </plain></SENT>
+<SENT sid="6" pm="."><plain>In contrast, fatty acid and triacylglycerol synthesis genes were downregulated or unchanged, suggesting that lipids are not a preferred form of storage in these cells. </plain></SENT>
+<SENT sid="7" pm="."><plain>This study reveals the transcriptomic influence behind storage reserve allocation in D. tertiolecta and provides valuable insights into the possible manipulation of genes for engineering microorganisms to synthesize products of interest. </plain></SENT>
+</text></SecTag></p></abstract></article-meta></front><body><p><text><SENT sid="8" pm="."><plain>In recent years, microalgae have emerged as a promising source for the production of renewable biofuels, as well as additional feedstock for food, feed, and chemicals123. </plain></SENT>
+<SENT sid="9" pm="."><plain>Compared to terrestrial plants, microalgae boast higher photosynthetic efficiency and are able to channel most of their energy into cell division, allowing for rapid biomass production rates234. </plain></SENT>
+<SENT sid="10" pm="."><plain>In addition, they can be cultivated in wastewater and saltwater systems which will not directly compete with resources necessary for agricultural food production56. </plain></SENT>
+<SENT sid="11" pm="."><plain>When cultivated under stressful conditions such as nitrogen depletion (N-depletion), photosynthetic microalgae alter their metabolism to redirect energy towards the production and accumulation of energy-rich storage compounds such as starch and lipids789, but at the cost of diminished growth. </plain></SENT>
+<SENT sid="12" pm="."><plain>This ability enables the microalgae to survive adverse environmental changes as the energy deposits can be easily mobilized when growth conditions are restored10. </plain></SENT>
+<SENT sid="13" pm="."><plain>Some microalgae species are oleaginous and are capable of producing up to 60% of neutral lipids (i.e. triacylglyerols; TAGs) per gram of dry weight11, while non-oleaginous microalgae specialize in accumulating carbohydrates12. </plain></SENT>
+<SENT sid="14" pm="."><plain>What influences one microalgae to store lipids and another to preferentially store starch is poorly understood. </plain></SENT>
+</text></p><p><text><SENT sid="15" pm="."><plain>Traditionally, Nannochloropsis oceanica strains are favored for studying lipid accumulation131415, and the freshwater microalgal species Chlamydomonas reinhardtii1617 and Chlorella vulgaris81819 are most commonly studied for starch accumulation. </plain></SENT>
+<SENT sid="16" pm="."><plain>The latter two species have thus far been cultivated mixotrophically or heterotrophically with the addition of organic carbon such as acetate and glucose20. </plain></SENT>
+<SENT sid="17" pm="."><plain>However, there are significant drawbacks in this strategy as it would expose the culture to higher risks of contamination and is not ideal for microalgal CO2 fixation21. Dunaliella tertiolecta – a non-model flagellate microalga belonging to the phylum Chlorophyta – is one of the most promising candidates for industrial use as it is among the top microalgal biomass-producers1222, is halotolerant and can be grown in high salinity environments (up to 4 M NaCl) such as saltwater, wastewater or brackish water23, which could exclude contaminating species and would not compete with freshwater sources. </plain></SENT>
+<SENT sid="18" pm="."><plain>Importantly, it is a robust species that is able to maintain high growth rates in a wide range of pH, temperature and light, and contain relatively high lipid content22425. </plain></SENT>
+<SENT sid="19" pm="."><plain>Unlike most microalgae D. tertiolecta do not have a cell wall, making cell lysis much less energy intensive while auto-flocculation drastically reduces energy required for harvesting26. </plain></SENT>
+<SENT sid="20" pm="."><plain>A shortcoming is that its genome is unsequenced, which largely limits our understanding of its behavior at the molecular level. </plain></SENT>
+<SENT sid="21" pm="."><plain>In 2011, Rismani-Yazdi et al. provided a preliminary annotation of available genes and putative pathways in D. tertiolecta based on sequence similarity between Chlamydomonas reinhardtii and Volvox carteri27, but did not compare the transcriptomic response between physiological states. </plain></SENT>
+<SENT sid="22" pm="."><plain>Recently, several new transcriptomic studies of Dunaliella species have been conducted282930. </plain></SENT>
+<SENT sid="23" pm="."><plain>Yao et al. created a draft database for annotation of RNA-seq data from D. tertiolecta and described pathway analyses of a random mutant with enhanced lipid production28. </plain></SENT>
+<SENT sid="24" pm="."><plain>Similarly, Shin et al. independently annotated the transcriptome of D. tertiolecta and studied possible genes related to growth limitation during N-depletion29. </plain></SENT>
+</text></p><p><text><SENT sid="25" pm="."><plain>In this study, we aim to determine the underlying changes in gene expression which may influence storage product accumulation in D. tertiolecta, and thus establish a transcriptomic basis for the preference of D. tertiolecta to store one product over another. </plain></SENT>
+<SENT sid="26" pm="."><plain>We tracked for dynamic changes of storage components including starch, glycerol, neutral lipids and total fatty acids, and compared the transcriptome profile of the cell in the exponential and stationary phases after nitrogen has been depleted in the media. </plain></SENT>
+<SENT sid="27" pm="."><plain>Our investigations into the transcriptome profile via RNA-seq uncovered key characteristics linked to increased activity in the central carbon metabolism (CCM) pathways such as the tricarboxylic acid (TCA) cycle, glycolysis and the oxidative pentose phosphate pathway (OPPP) that may contribute to carbon flux and starch synthesis. </plain></SENT>
+<SENT sid="28" pm="."><plain>Finally, we compared our findings with microalgae species of varying oleaginicity to better understand the underlying differences that determine the preferred production of starch and/or lipids. </plain></SENT>
+</text></p><SecTag type="RESULTS"><sec disp-level="1"><title><text><SENT sid="29" pm="."><plain>Results </plain></SENT>
+</text></title><sec disp-level="2"><title><text><SENT sid="30" pm="."><plain>Physiological response of D. tertiolecta under Nitrogen depletion </plain></SENT>
+</text></title><p><text><SENT sid="31" pm="."><plain>In the Dunaliella genus which dominates list of top strains for carbohydrate production, D. tertiolecta is one of the most researched species due to its ease of culture, tolerance to varied environmental conditions, fast growth rate, high accumulation of storage compounds per dry weight (protein, starch, lipids), and overall biomass productivity1231, making it an attractive microalgal feedstock for commercial mass cultivation32. D. tertiolecta strain UTEX LB 999 was grown in ATCC-1174 DA medium with an initial nitrate concentration of 5 mM and 0.5 mM for N-replete and N-deplete cultures respectively. </plain></SENT>
+<SENT sid="32" pm="."><plain>From day 1 to 15, cell density for N-replete cultures increased from 0.75 × 106 to 14.4 × 106 cells/mL, before dropping to 13.88 × 106 cells/mL (Fig. 1a), suggesting that cell division had ceased. </plain></SENT>
+<SENT sid="33" pm="."><plain>On the other hand, N-deplete cultures could only reach a maximum cell density of 4.28 × 106 cells/mL, on day 8. </plain></SENT>
+<SENT sid="34" pm="."><plain>The nitrate concentrations in the culture medium was depleted after 3 days for N-deplete cells, and 9 days for N-replete cells (Fig. 1a), but cell growth continued for N-replete cells, likely driven by intracellular nitrogen stores. </plain></SENT>
+<SENT sid="35" pm="."><plain>For the purpose of this study, cells were harvested for metabolite analyses at days 3, 5, 8, 12, and 17 to capture the passage through exponential and stationary growth phases. </plain></SENT>
+</text></p><p><text><SENT sid="36" pm="."><plain>Although cell division has slowed for N-deplete cells from the fourth day onwards, the increase in dry weight (Fig. 1d) was largely due to the accumulation of storage compounds such as starch and glycerol, as the cells continue to accumulate organic carbon (Fig. 1b,c). </plain></SENT>
+<SENT sid="37" pm="."><plain>Over the course of the experiment, N-depletion also led to reduced total chlorophyll content (Fig. 1e) and photosynthetic yield (Fv/Fm) (Fig. 1f). </plain></SENT>
+<SENT sid="38" pm="."><plain>Although there was a decrease in chlorophyll content for both N-replete and N-deplete cultures on day 3, N-replete cultures subsequently recovered chlorophyll levels to the original state (i.e. Day 0) during the exponential growth phase, while those of N-deplete cultures continue to fall (Fig. 1e). </plain></SENT>
+<SENT sid="39" pm="."><plain>The health of photosystem II as determined by Fv/Fm, held steady at around 0.68–0.74 for N-replete cultures. </plain></SENT>
+<SENT sid="40" pm="."><plain>On the other hand, N-deplete cultures experience a drop in photosynthetic yield from 0.59 to 0.41, indicative of cell stress and possible damage to photosystem II (Fig. 1f). </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="41" pm="."><plain>Accumulation pattern of storage compounds upon N-depletion </plain></SENT>
+</text></title><p><text><SENT sid="42" pm="."><plain>Lipid, starch and glycerol synthesis pathways share common carbon precursors fed from the glycolytic pathway, but the regulation of carbon allocation into these routes is not well understood3334. </plain></SENT>
+<SENT sid="43" pm="."><plain>Under the favorable condition where nitrogen is available, N-replete D. tertiolecta maintained basal levels of starch (7–8 pg/cell) during the first 5 days of cultivation; consequently, when nitrogen is depleted, it increasing to 19 pg/cell on day 8 (Fig. 2a). </plain></SENT>
+<SENT sid="44" pm="."><plain>In contrast, N-deplete cultures had starch rapidly accumulated on the third day (27 pg/cell), and the starch content of the latter remained higher during the entire process. </plain></SENT>
+<SENT sid="45" pm="."><plain>Interestingly, starch was accumulated much earlier and in greater absolute amounts compared to lipids (neutral lipids and total lipids) (Fig. 2b,c). </plain></SENT>
+<SENT sid="46" pm="."><plain>Notably, despite a large increase in neutral lipids (Figs 2b and 3c), N-depletion did not result in a corresponding increase in total lipids (Fig. 2c). </plain></SENT>
+<SENT sid="47" pm="."><plain>On the contrary, it led to a cessation in its production (5.8% in N-deplete vs. 9.5% in N-replete on Day 17). </plain></SENT>
+<SENT sid="48" pm="."><plain>Intracellular glycerol was relatively constant for both cultures throughout the experiment (Fig. 2d), with only extracellular glycerol showing marked increase, especially by N-deplete cells (Fig. 2e). </plain></SENT>
+<SENT sid="49" pm="."><plain>This is consistent with findings in current literature implicating the continued release of glycerol by D. tertiolecta into the culture medium3536. </plain></SENT>
+<SENT sid="50" pm="."><plain>The amount of extracellular glycerol produced was able to reach higher quantities as it is not restricted by cell volume, enabling it to deliver microgram levels per cell not achievable with intracellular glycerol, starch or lipids. </plain></SENT>
+</text></p><p><text><SENT sid="51" pm="."><plain>When presented on a percentage dry cell weight (DCW) basis, similar trends were observed with subtle differences. </plain></SENT>
+<SENT sid="52" pm="."><plain>Starch content of N-deplete cells peaked sharply on day 3 (28% DCW) compared to N-replete cells where it moderately increased until the media is deprived of nitrogen on day 8 (25% DCW) (Fig. 2f). </plain></SENT>
+<SENT sid="53" pm="."><plain>Intracellular glycerol accounted for 9–14% of DCW in N-replete cells and N-deplete cells. </plain></SENT>
+<SENT sid="54" pm="."><plain>However, in the latter stages (Day 8–17), intracellular glycerol representation in N-deplete cells dropped to 2–3% DCW as the DCW increased while intracellular glycerol content remained the same. </plain></SENT>
+<SENT sid="55" pm="."><plain>Total lipid production was greatly attenuated in N-deplete cultures, accounting for 5.8% DCW on day 17, which is 39% less than the N-replete culture (Fig. 2f). </plain></SENT>
+<SENT sid="56" pm="."><plain>There were minimal changes to the fatty acid (FA) composition between either cultures; C18:3 is the most abundant FA in D. tertiolecta, making up to 66% of its profile (Fig. 3a,b). </plain></SENT>
+<SENT sid="57" pm="."><plain>The proportion of C16:0, however, appears to increase over time particularly for cells experiencing N-depletion, while those of C18:2 and C18:3 levels declined. </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="58" pm="."><plain>Analysis of gene expression by transcriptomics </plain></SENT>
+</text></title><p><text><SENT sid="59" pm="."><plain>The growth of D. tertiolecta in either cultures presented two distinctive phases: Exponential and Stationary (Fig. 1a). </plain></SENT>
+<SENT sid="60" pm="."><plain>To assess the transcriptional regulation of selective carbon partitioning, we carried out transcriptome analyses at 2 times points representing N-deplete exponential phase (N-replete vs. N-deplete; both in Day 3 exponential phase) and stationary phase (N-replete exponential vs. N-deplete Day 5 stationary phase). </plain></SENT>
+<SENT sid="61" pm="."><plain>Gene expression was expressed as fold change relative to N-replete samples. </plain></SENT>
+<SENT sid="62" pm="."><plain>Out of all the annotated genes for Day 3 (D3) and Day 5 (D5) samples, we filtered for significantly expressed genes using a False discovery rate (FDR)-corrected p-value ≤ 0.05. </plain></SENT>
+<SENT sid="63" pm="."><plain>This translated to 3,962 and 1,234 significantly expressed genes for D3 and D5, accounting respectively for ~17 and 6% of all genes annotated (Table S2). </plain></SENT>
+<SENT sid="64" pm="."><plain>Among this filtered set of genes, 96% (D3) and 89% (D5) of genes were over/under-expressed (≤−2x or ≥ 2x fold-change) in N-deplete samples relative to N-replete samples. </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="65" pm="."><plain>Functional annotation and enrichment of differentially expressed genes </plain></SENT>
+</text></title><p><text><SENT sid="66" pm="."><plain>Gene Ontology (GO) enrichment of the differentially expressed genes showed that in D3, upregulated genes form the majority of categories while in D5 most genes were downregulated (Figs S2, S3). </plain></SENT>
+<SENT sid="67" pm="."><plain>Nitrogen compound metabolic process was upregulated in both D3 and D5, an indication that the cells were increasing capacity for utilizing nitrogen in response to the nutrient’s depletion. </plain></SENT>
+<SENT sid="68" pm="."><plain>The top 10 most highly expressed or repressed genes were related to nitrogen-scavenging or photosynthesis (Table S3). </plain></SENT>
+<SENT sid="69" pm="."><plain>For instance, THB1, a truncated hemoglobin highly expressed in the presence of nitric oxide37, was repressed by almost 300-fold. </plain></SENT>
+<SENT sid="70" pm="."><plain>Likewise, three subunits of the urea active transporter were upregulated between 52- and 72-fold, representing one of the many enzymes whose expression are known to increase to harvest nitrogen from nitrogen-containing compounds such as ammonium, nitrate, nitrite, urea, purines, pyrimidines and amino acids38. </plain></SENT>
+<SENT sid="71" pm="."><plain>In D3, the upregulated genes frequently represented those involved in central carbon metabolism (CCM)39, which includes the pathways of TCA cycle (75% enriched), glycolysis (28.6% enriched), and the oxidative pentose phosphate pathway (OPPP) (enrichment of glucose-6-phosphate dehydrogenase activity) (Fig. </plain></SENT>
+<SENT sid="72" pm="."><plain>S2). </plain></SENT>
+<SENT sid="73" pm="."><plain>Moreover, mitochondrial electron transport and enzymatic activity on NADH or NADPH (85–88%) were significantly upregulated, as well as pyruvate kinase activity (62.5%) and malate dehydrogenase activity (75%), while those of photosynthesis (17%) were slightly downregulated (Fig. </plain></SENT>
+<SENT sid="74" pm="."><plain>S2). </plain></SENT>
+<SENT sid="75" pm="."><plain>As the cells progress to stationary phase on D5, the most obvious difference was the enrichment for multiple downregulated categories in photosynthesis: Chlorophyll biosynthetic process (75%), photosynthesis (56.5%), photosystem I (50%), photosynthesis, light harvesting (41.7%) (Fig. </plain></SENT>
+<SENT sid="76" pm="."><plain>S3). </plain></SENT>
+<SENT sid="77" pm="."><plain>Nevertheless, TCA cycle (37.5%) and glycolysis (14.3%) continue to be upregulated, albeit to a lesser degree. </plain></SENT>
+<SENT sid="78" pm="."><plain>Surprisingly, FA biosynthesis (46.1%) and acetyl-CoA carboxylase activity (66.7%) were downregulated in N-replete samples, suggesting a repression of de novo FA synthesis. </plain></SENT>
+<SENT sid="79" pm="."><plain>Likewise, KEGG pathway analysis reflect enrichments in carbon metabolism, TCA cycle, and pyruvate metabolism for both D3 and D5, while only D5 had significant enrichments in glycolysis and photosynthesis (Fig. </plain></SENT>
+<SENT sid="80" pm="."><plain>S4). </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="81" pm="."><plain>Coordinated expression of central carbon metabolism genes for storage compound synthesis </plain></SENT>
+</text></title><p><text><SENT sid="82" pm="."><plain>Photosynthetic components and antenna proteins were severely affected in N-deplete cells, as evidenced by the global downregulation of genes encoding for light-harvesting complexes, photosystem, and RuBisCO activase, an enzyme catalyzing the activation of RuBisCO (Figs 4, S8, S9). </plain></SENT>
+<SENT sid="83" pm="."><plain>Nonetheless, carbon continued to be assimilated as seen from the upregulation of three isoforms of gamma carbonic anhydrase (CAG1, CAG2, CAG3) in D3 (Supplementary dataset), which would provide a source of bicarbonate from CO2 assimilation. </plain></SENT>
+<SENT sid="84" pm="."><plain>Pyruvate phosphate dikinase (PPD2) was upregulated by 23-fold on D3 and 4-fold on D5. </plain></SENT>
+<SENT sid="85" pm="."><plain>PPD2 is used in the C4 carbon-concentrating mechanism pathway, where it converts pyruvate to PEP, which then reacts with bicarbonate to produce oxaloacetate (Fig. 4). </plain></SENT>
+</text></p><p><text><SENT sid="86" pm="."><plain>The CCM pathways were notably active during N-depletion. </plain></SENT>
+<SENT sid="87" pm="."><plain>Glycolysis breaks down glucose to form pyruvate and acetyl-CoA. </plain></SENT>
+<SENT sid="88" pm="."><plain>Phosphofructokinase (PFK2), pyruvate kinase (PYK1,2) and the E2 subunit of pyruvate dehydrogenase complex (DLA1; dihydrolipoamide acetyltransferase) were upregulated, forming pyruvate and acetyl-CoA which feeds into the TCA cycle. </plain></SENT>
+<SENT sid="89" pm="."><plain>Similarly, genes in the TCA cycle were simultaneously upregulated; transcripts of citrate synthase (CIS1), aconitase (ACH1), isocitrate dehydrogenase (IDH2), oxoglutarate dehydrogenase (OGD1), succinate dehydrogenase (SDH2), fumarate hydratase (FUM1) and malate dehydrogenase (MDH3) were greatly enhanced on both D3 and D5 N-deplete samples (Figs 4, S5, S6). </plain></SENT>
+<SENT sid="90" pm="."><plain>Interestingly, a triose phosphate/phosphoenolpyruvate translocator (TPT1) was dramatically upregulated 29- and 24-fold on D3 and D5. </plain></SENT>
+<SENT sid="91" pm="."><plain>TPT1 could export dihydroxyacetone phosphate (DHAP) out of the chloroplast for use in glycerol synthesis as the expression of glycerol-3-phosphate dehydrogenase (GPDH) was also increased. </plain></SENT>
+<SENT sid="92" pm="."><plain>Particularly, genes participating in starch metabolism were upregulated, including ADP-glucose pyrophosphorylase (STA1), starch synthase (SSS1) and UDP-glucose pyrophosphorylase (UGP1) and starch branching enzyme (SBE2), which together coordinate the synthesis of starch from glucose-1-phosphate (Figs 4, S7). </plain></SENT>
+</text></p><p><text><SENT sid="93" pm="."><plain>ATP:citrate lyase (ACLB1) and NADP-malic enzyme (MME2) were overexpressed, which would supply the cell with acetyl-CoA and NADPH respectively. </plain></SENT>
+<SENT sid="94" pm="."><plain>In addition, glucose-6-phosphate dehydrogenase (G6PDH), a provider of reducing power from the OPPP, was also upregulated. </plain></SENT>
+<SENT sid="95" pm="."><plain>Surprisingly, genes involved in the FA synthesis pathway were largely unchanged except for some downregulation; expression levels of malonyl-CoA-acyl carrier protein transacylase (MCAT) and acetyl-CoA carboxylase (ACCase) subunits were depressed. </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="96" pm="."><plain>Comparing the N-depletion response in D. tertiolecta and other oleaginous and non-oleaginous microorganisms </plain></SENT>
+</text></title><p><text><SENT sid="97" pm="."><plain>To evaluate the differences in storage product accumulation between oleaginous and non-oleaginous microalgae during N-depletion, we compared the published physiological and transcriptomic data of three widely studied oleaginous species: Nannochloropsis oceanica740, Chlamydomonas reinhardtii174142, and Chlorella vulgaris43 (Figs 5 and 6). D. tertiolecta accumulates very low amounts of TAGs in N-replete and N-deplete conditions (0.2 and 1% DCW respectively), but stores a large amount of starch, thus making it a high starch and low TAG accumulator (Fig. 6, Table S4). </plain></SENT>
+<SENT sid="98" pm="."><plain>Interestingly, although N. oceanica – a marine microalga alike D. tertiolecta – stores the same amount of TAGs under N-replete conditions, it rapidly accumulates TAGs under N-deplete conditions (up to 40% DCW); it however lacks starch as a storage compound1344. C. reinhardtii and C. vulgaris, both heterotrophically grown microalgae, accumulates high amounts of starch and TAGs during N-depletion. </plain></SENT>
+</text></p><p><text><SENT sid="99" pm="."><plain>Analysis of the expression of key genes in the FA, TAG and starch synthesis pathways showed that upon N-depletion, the oleaginous microalga N. oceanica and moderate TAG accumulator C. vulgaris experienced downregulation in the FA synthesis pathway, a pattern similar to that in the low TAG-accumulating D. tertiolecta from this study (Fig. 5, Table S5). </plain></SENT>
+<SENT sid="100" pm="."><plain>In contrast, C. reinhardtii had moderate overexpression of its FA synthesis genes. </plain></SENT>
+<SENT sid="101" pm="."><plain>TAG synthesis genes had variable changes in each microalga: In D. tertiolecta GPAT was downregulated while LPAAT was upregulated, N. oceanica and C. reinhardtii genes were mostly unchanged, while C. vulgaris genes were upregulated. </plain></SENT>
+<SENT sid="102" pm="."><plain>Noticeably, D. tertiolecta has most of its starch synthesis genes upregulated, suggesting a coordinated push towards starch accumulation during N-depletion. </plain></SENT>
+</text></p></sec></sec></SecTag><SecTag type="DISCUSS"><sec disp-level="1"><title><text><SENT sid="103" pm="."><plain>Discussion </plain></SENT>
+</text></title><p><text><SENT sid="104" pm="."><plain>In microalgae, TAGs and starch are the two primary energy storage products and both synthesis pathways share common carbon precursors. </plain></SENT>
+<SENT sid="105" pm="."><plain>It has been reported that oleaginous microalgae are able to accumulate large amounts of TAGs (up to 60% of dry weight) under N-depletions414243444546. </plain></SENT>
+<SENT sid="106" pm="."><plain>Although these studies show that N-depletion enabled oleaginous cells to channel carbon to TAGs, little attention has been paid to non-oleaginous species which prefer alternative carbon stores such as starch and glycerol, and the transcriptomic basis governing these carbon fluxes. </plain></SENT>
+<SENT sid="107" pm="."><plain>In this study, we tracked the storage product accumulation and global gene expression profile of the halophilic, high-starch accumulating microalga D. tertiolecta upon N-depletion, and compared its preference of storage products with other oleaginous microalgae. </plain></SENT>
+<SENT sid="108" pm="."><plain>A coordinated upregulation of genes involved in central carbon metabolism was identified in exponentially growing cells, suggesting that the genetic response to N-depletion occurs prior to the cessation of cell growth (i.e. stationary phase). </plain></SENT>
+<SENT sid="109" pm="."><plain>Surprisingly, the transcriptome profile of D. tertiolecta – specifically the upregulation of CCM genes contributing to the supply of acetyl-CoA and NADPH – were vastly similar to oleaginous microalgae including N. oceanica7 and C. reinhardtii47. </plain></SENT>
+<SENT sid="110" pm="."><plain>The increased transcript levels of TCA cycle genes and genes contributing to reducing power such as G6PDH and ME were correspondingly observed in heterotrophic fungi such as Mortierella alpina48 and Mucor circinelloides4950 to be critical determinants of lipid synthesis. </plain></SENT>
+</text></p><p><text><SENT sid="111" pm="."><plain>Nitrogen is a key component for the synthesis of chlorophyll and essential proteins of the photosystem (e.g. LHCII apoprotein), thus the restriction of nitrogen supply could hinder both structural and physiological components of photosynthesis51. </plain></SENT>
+<SENT sid="112" pm="."><plain>The observed drop in chlorophyll content and decreased PSII quantum yield (Fig. 1e,f) coincides with previous reports that demonstrated the degradation of chlorophyll and carotenoids in D. tertiolecta upon nitrogen starvation515253. </plain></SENT>
+<SENT sid="113" pm="."><plain>Corresponding downregulation of most light harvesting complex genes (Figs S8, S9) suggest that N-depletion triggered a response of the cell to reorganize its photosynthetic apparatus. </plain></SENT>
+<SENT sid="114" pm="."><plain>Multiple studies of nutrient limitation in microalgae point to the degradation of thylakoid membranes in favour of the de novo synthesis of TAGs where intracellular membrane remodeling substantially contribute to neutral lipid accumulation54555657. </plain></SENT>
+<SENT sid="115" pm="."><plain>Our present study shows that D. tertiolecta is able to accumulate up to six times more neutral lipids under N-deplete conditions (Fig. 2b), but concurrently experienced a substantial decrease in total lipid content relative to N-replete samples (9.5% of DCW in N-replete vs. 5.8% of DCW in N-deplete) (Fig. 2c). </plain></SENT>
+<SENT sid="116" pm="."><plain>This is similar to other researchers who observe similar declines in total fatty acid content in D. tertiolecta under N-depletion (7.5% of DCW in N-sufficient vs 5.9% of DCW in N-deficient)29. </plain></SENT>
+<SENT sid="117" pm="."><plain>The parallel increase in neutral lipids could be explained by a dramatic shift in intracellular processes, from the catabolic degradation of thylakoid membranes (which contribute to total lipids) to the anabolic reactions of storage compound accumulation (neutral lipids and starch content). </plain></SENT>
+<SENT sid="118" pm="."><plain>This notion is supported by a recent report which showed that when cultured under N-depleted conditions, D. tertiolecta had significant decreases in the lipid classes of diacylglyceryltrimethylhomoserine (DGTS) and digalactosyldiacylglycerol (DGDG), a main component of chloroplast membranes52. </plain></SENT>
+<SENT sid="119" pm="."><plain>This suggests the occurrence of a major remodeling of lipid membranes during nitrogen starvation in D. tertiolecta, a response akin to other microalgae54555657. </plain></SENT>
+</text></p><p><text><SENT sid="120" pm="."><plain>Glycolytic genes that shunt carbon precursors to de novo FA synthesis, including phosphofructokinase, pyruvate kinase and pyruvate dehydrogenase complex (PDC), are upregulated in N. oceanica and C. reinhardtii under N-depleted conditions correlating with TAG accumulation up to 40% DCW, despite a downregulation of the genes directly involved in TAG and FA synthesis758. </plain></SENT>
+<SENT sid="121" pm="."><plain>This transcriptome response is unexpectedly similar to D. tertiolecta in this study (Fig. 4), which accumulates more starch (46% DCW) than lipids (Figs 2f and 5). </plain></SENT>
+<SENT sid="122" pm="."><plain>Even more striking is the similarity in the overexpression of genes involved in the TCA cycle in the mitochondria (Fig. 4), which is also greatly enhanced in N. oceanica and was attributed to the utilization of carbon skeletons derived from membrane lipids to produce energy for TAG or its precursors7. </plain></SENT>
+<SENT sid="123" pm="."><plain>As Nannochloropsis cells lack starch synthesis genes consistent with the absence of pyrenoid starch135960, it may be logical the excess carbon and energy derived from the breakdown of membrane lipids are channeled to TAGs. </plain></SENT>
+<SENT sid="124" pm="."><plain>However, in D. tertiolecta the response was to channel more carbon to starch instead of TAGs, as can be seen from the synchronized upregulation of genes in gluconeogenesis and starch synthesis genes (Table S5). </plain></SENT>
+<SENT sid="125" pm="."><plain>Thus, the increased activity of CCM pathways and genes contributing to the generation of acetyl-CoA and NADPH may merely be a general response of microalgae cells to N-depletion rather than a determinant of oleaginicity. </plain></SENT>
+<SENT sid="126" pm="."><plain>Indeed, it has been previously proposed that the CCM could play varied roles upon N-depletion; the pathways could be involved in providing carbon skeletons, for nitrogen reassimilation, or for channeling excess carbon into FA synthesis61. </plain></SENT>
+<SENT sid="127" pm="."><plain>Noting that most TCA cycle enzymes are bidirectional, Sweetlove et al.62 proposed that the TCA cycle could catalyze reverse reactions and be highly adaptable to changing conditions of the cell. </plain></SENT>
+<SENT sid="128" pm="."><plain>Hence, the TCA cycle may act as a central hub, balancing between demands for specific carbon skeletons for anabolic processes, and the energetic needs of the cell in absence of photosynthetic activity as they produce reducing equivalents for ATP synthesis. </plain></SENT>
+</text></p><p><text><SENT sid="129" pm="."><plain>The preference to store carbon as starch may stem from the fact that it is energetically more favourable to make than TAGs, and is the preferential reserve which is rapidly mobilized during switch from N-deplete to N-replete conditions17. </plain></SENT>
+<SENT sid="130" pm="."><plain>On a per carbon basis, a 55-carbon TAG molecule requires 6.25 ATP and 2.93 NADPH, while 55 carbon units of starch requires 4.16 ATP and 2 NADPH33; TAG synthesis require 50% more ATP and 45% more NADPH per carbon to make. </plain></SENT>
+<SENT sid="131" pm="."><plain>While TAGs return more ATP than sugars during metabolism, the energy recovered is less than the energy invested in its synthesis3334, chiefly due to the carbon lost during the conversion of pyruvate to acetyl-CoA by PDC. </plain></SENT>
+<SENT sid="132" pm="?"><plain>Much of this begs the question: Why do some microalgae prefer to store more TAGs and others prefer to store predominantly starch, while some are able to store moderately equal amounts of both? </plain></SENT>
+<SENT sid="133" pm="."><plain>One possible explanation is that as lipids require more ATP and reducing power than starch for production, photoheterotrophically grown cells such as C. reinhardtii and C. vulgaris (Table S4) can generate more substrates needed for FA synthesis due to their ability to assimilate organic carbon sources on top of inorganic carbon fixation from photosynthesis. </plain></SENT>
+<SENT sid="134" pm="."><plain>For instance, acetate can be directly converted into acetyl-CoA from acetyl-CoA synthetase (ACS), and incorporate immediately into the TCA cycle or used in FA synthesis by C. reinhardtii34. </plain></SENT>
+<SENT sid="135" pm="."><plain>Likewise, Chlorella grown in acetate medium use ACS to directly incorporate acetate into acetyl-CoA, by-passing the PDC route for acetyl-CoA production and enabling a high rate of lipid synthesis under N-depletion63. </plain></SENT>
+<SENT sid="136" pm="."><plain>Furthermore, glucose-fed Chlorella cultures generate more reducing power in the dark than photoautotrophically cultured Chlorella in the light, thus the former accumulates more lipids and less starch64. </plain></SENT>
+<SENT sid="137" pm="."><plain>This explanation does not extend to Nannochloropsis however, due to its inability to synthesize starch135960. </plain></SENT>
+<SENT sid="138" pm="."><plain>Rather, it stores small amounts of carbohydrates (5–17%) while channeling majority of carbon to TAGs during N-depletion. </plain></SENT>
+</text></p><p><text><SENT sid="139" pm="."><plain>Microalgae of the genus Dunaliella dominate the ranks of top carbohydrate producers, and D. tertiolecta – with the ability to accumulate up to 63% DCW in carbohydrates – leads the list12. </plain></SENT>
+<SENT sid="140" pm="."><plain>In this study, we show that D. tertiolecta rapidly accumulates starch in response to N-depletion, suggesting that D. tertiolecta cells tend to favor starch over TAGs as an efficient strategy for chemical energy accumulation (Fig. 2a,f). </plain></SENT>
+<SENT sid="141" pm="."><plain>As an obligate photoautotroph that cannot use dissolved organic compounds3265, efficient energy storage and utilization is of paramount importance, especially since photosynthesis is inefficient with less than 8% conversion of solar energy chemical energy33. </plain></SENT>
+<SENT sid="142" pm="."><plain>Notably, starch reserves provide the energy required in the dark for DNA replication and general cell metabolism66. </plain></SENT>
+<SENT sid="143" pm="."><plain>This is in line with the increase in gene expression of starch-degrading enzymes in D. tertiolecta during N-depletion (Fig. 4, Fig. </plain></SENT>
+<SENT sid="144" pm="."><plain>S7), when photosynthesis is compromised. D. tertiolecta also specifically degrade starch in high salinity stress conditions to yield DHAP which can be used to produce glycerol67, making starch a more suitable storage compound as the cells can respond to both nutrient deficiency and salinity stress, conditions which could fluctuate greatly in their natural environments68. </plain></SENT>
+<SENT sid="145" pm="."><plain>In light of these observations, it is reasonable to assume that carbon would be channeled to TAG production once starch synthesis is blocked. </plain></SENT>
+<SENT sid="146" pm="."><plain>However, this notion was refuted as there was no increase in oil among three starchless C. reinhardtii mutants examined17, suggesting that blocking starch synthesis does not result in oil accumulation. </plain></SENT>
+<SENT sid="147" pm="."><plain>Preference of starch and TAG accumulation in microalgae may instead stem from natural evolutionary patterns and exposure to different carbon sources. </plain></SENT>
+</text></p><p><text><SENT sid="148" pm="."><plain>D. tertiolecta was previously reported to accumulate and release glycerol into the external medium, and that the process was not affected by nutrient starvation or cell death36. </plain></SENT>
+<SENT sid="149" pm="."><plain>In this study, we show that under N-depletion increased amounts of glycerol were present in the extracellular medium (Fig. 2e), indicating that glycerol synthesis and export is a response to nutrient stress. </plain></SENT>
+<SENT sid="150" pm="."><plain>This is supported by the marked upregulation of a triose phosphate translocator, which exports photosynthetically fixed carbon or carbon derived from starch breakdown from the chloroplast to the cytosol, where the enzyme GPDH converts into glycerol (Fig. 4). D. tertiolecta is known to uptake exogenous glycerol in response to stress69, and as releasing glycerol to the external medium provides the cells with an expansive carbon sink not restricted by cell size, the extracellular glycerol may serve as a readily utilizable carbon source for the cells in anticipation of improving nutrient environments36. </plain></SENT>
+</text></p><p><text><SENT sid="151" pm="."><plain>The present study identifies the unique transcriptome signatures of D. tertiolecta, a high starch-accumulating microalga in response to N-depletion. </plain></SENT>
+<SENT sid="152" pm="."><plain>In particular, its coordinated upregulation of genes involved in starch synthesis could be attributed to its preference to store starch over TAGs. </plain></SENT>
+<SENT sid="153" pm="."><plain>However, D. tertiolecta also shares similar upregulation of CCM genes as the oleaginous microalga N. oceanica, where CCM pathways were suggested to provide substrates for FA and TAG synthesis during N-depletion. </plain></SENT>
+<SENT sid="154" pm="."><plain>The perplexing similarities and differences in transcriptomic and metabolic responses of oleaginous and non-oleaginous microalgae thus demands a relook into the role of biochemical pathways governing the allocation of carbon and energy in the cell. </plain></SENT>
+<SENT sid="155" pm="."><plain>Addressing these issues would advance our understanding of starch and lipid synthesis in microalgae as well as facilitate the genetic engineering of microorganisms designed to accumulate either storage product of interest. </plain></SENT>
+</text></p></sec></SecTag><SecTag type="METHODS"><sec disp-level="1"><title><text><SENT sid="156" pm="."><plain>Methods </plain></SENT>
+</text></title><sec disp-level="2"><title><text><SENT sid="157" pm="."><plain>Microalgae Strain and Culture Conditions </plain></SENT>
+</text></title><p><text><SENT sid="158" pm="."><plain>The Dunaliella tertiolecta strain (UTEX LB 999) was obtained from the University of Texas at Austin (UTEX) and maintained in sterile ATCC-1174 DA medium under nitrogen-replete condition of 5 mM KNO3 (American Type Culture Collection at Manassas, Virginia) containing 0.5 M NaCl (Table S1). </plain></SENT>
+<SENT sid="159" pm="."><plain>The cells were grown in 50-mL batch cultures on a rotary shaker at 25 °C and illuminated with 30 μmol photons m2/s under a photoperiod of 14 h Light/10 h Dark, with or without 5% CO2 aeration. </plain></SENT>
+<SENT sid="160" pm="."><plain>Cell densities were determined using an automated cell counter (TC20TM automated cell counter, Biorad Laboratories). </plain></SENT>
+<SENT sid="161" pm="."><plain>Prior to counting, D. tertiolecta cells were fixed with 2% paraformaldehyde. </plain></SENT>
+<SENT sid="162" pm="."><plain>Optical density measurements (OD680) were conducted with an UV spectrophotometer (Genesys 10 S UV-VIS, ThermoFisher Scientific). </plain></SENT>
+<SENT sid="163" pm="."><plain>Biomass was determined by dry cell weight (DCW) (g/mL) measurement and combined with cell density (cells/mL) to get dcw per cell (g/cell). </plain></SENT>
+<SENT sid="164" pm="."><plain>Ten-milliliter (10 mL) of cells were collected by filtration on pre-weighed Advantec GB-140 filter paper (0.4 μm pore size; diameter 47 mm), and washed with isotonic 0.5 M ammonium formate (40 mL) to remove salts without causing the cells to burst. </plain></SENT>
+<SENT sid="165" pm="."><plain>Cells captured on filter paper discs were dried in oven at 95 °C until the weight was constant. </plain></SENT>
+<SENT sid="166" pm="."><plain>Work conducted throughout the paper is based on biological triplicates unless otherwise stated. </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="167" pm="."><plain>Nitrogen Depletion and Cultivation </plain></SENT>
+</text></title><p><text><SENT sid="168" pm="."><plain>D. tertiolecta subjected to nitrogen depletion (N-depletion) were grown in nitrogen-limited media (ATCC-1174 DA medium containing 0.5 mM KNO3, equivalent to 10% of original KNO3 concentration; K substituted with KCl) (Table S1). </plain></SENT>
+<SENT sid="169" pm="."><plain>N-depletion was achieved by harvesting exponentially growing cells (cell density approximately 3 × 106 cells/mL) and twice washing them with fresh ATCC medium containing 10% KNO3. </plain></SENT>
+<SENT sid="170" pm="."><plain>All experimental cultures began at an OD680 of 0.1 for standardization. </plain></SENT>
+<SENT sid="171" pm="."><plain>Nitrate concentration was determined using a UV spectrophotometric method measuring the difference between OD220 and OD275, and converted with a standard curve (Fig. </plain></SENT>
+<SENT sid="172" pm="."><plain>S1). </plain></SENT>
+<SENT sid="173" pm="."><plain>Cells were harvested at regular time intervals corresponding to exponential, late-exponential and stationary phases for RNA extraction, neutral lipid analysis, fluorescence microscopy, and biomass measurements. </plain></SENT>
+<SENT sid="174" pm="."><plain>Experiments were conducted as independent biological triplicates. </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="175" pm="."><plain>Total Organic Carbon, chlorophyll, photosynthetic yield, starch and glycerol measurements </plain></SENT>
+</text></title><p><text><SENT sid="176" pm="."><plain>Intracellular total organic carbon (TOC) content was measured using an automated High Temperature Combustion TOC Analyzer (LOTIX; Teledyne Tekmar), installed with a Non-Dispersive Infrared Detector. </plain></SENT>
+<SENT sid="177" pm="."><plain>Cell densities of 3 × 107 cells were harvested, spun down and washed with 1 mL of 0.08 M NaCl, reconstituted in ultrapure water to a final volume of 20 mL, and transferred to the TOC analyzer for analysis. </plain></SENT>
+</text></p><p><text><SENT sid="178" pm="."><plain>Starch content was measured using the Starch Assay Kit (STA20; Sigma-Aldrich), performed according to the manufacturer’s instructions. </plain></SENT>
+<SENT sid="179" pm="."><plain>Glycerol content was measured using the Free Glycerol Determination Kit (FG0100; Sigma-Aldrich) as previously reported by Chow et al.35. </plain></SENT>
+<SENT sid="180" pm="."><plain>Harvested cells were centrifuged (10,000 g for 10 mins, 4 °C) and the cell pellet and supernatant were separated for measurement of intracellular and extracellular glycerol respectively. </plain></SENT>
+<SENT sid="181" pm="."><plain>For intracellular glycerol, the cell pellet was washed with equivalent volume of 0.5 M NaCl and centrifuged again to remove remaining extracellular glycerol. </plain></SENT>
+<SENT sid="182" pm="."><plain>The cell pellet was then resuspended in 200 μL of ultrapure water, vortexed and boiled for 15 mins. </plain></SENT>
+<SENT sid="183" pm="."><plain>Subsequently, the samples were centrifuged to remove cell debris, and the supernatant collected for intracellular glycerol analysis. </plain></SENT>
+</text></p><p><text><SENT sid="184" pm="."><plain>Photosynthetic yields (maximum efficiency of photosystem II; Fv/Fm) were evaluated using chlorophyll fluorescence measured with AquaPen-C fluorometer (AP-C 100/USB; Photon Systems Instruments). </plain></SENT>
+<SENT sid="185" pm="."><plain>Cells were dark-adapted for 5 mins before using the fluorometer to measure Fv/Fm values according to the user’s manual. </plain></SENT>
+</text></p><p><text><SENT sid="186" pm="."><plain>For chlorophyll measurements, cells were centrifuged (10,000 g for 10 mins, 4 °C), supernatant were removed, and the cell pellet resuspended in 0.5 mL DMSO and vortexed for 1 min until the pellet disintegrated. </plain></SENT>
+<SENT sid="187" pm="."><plain>An equivalent volume of 90% acetone was added and mixed well, followed by centrifugation to remove cell debris. </plain></SENT>
+<SENT sid="188" pm="."><plain>The supernatant (extraction volume of 800 μL) was used for measuring absorbances at 630 nm, 647 nm, 664 nm, 665 nm, and 750 nm using a UV spectrophotometer. </plain></SENT>
+<SENT sid="189" pm="."><plain>Correction of pheopigments was done by adding 40 μL of 1 M HCl to To the mixture and incubating at room temperature for 90 secs. </plain></SENT>
+<SENT sid="190" pm="."><plain>Absorbances were measured again at 665 nm and 750 nm. </plain></SENT>
+<SENT sid="191" pm="."><plain>Chlorophyll amounts were calculated according to trichromatic equations70 and the monochromatic equation for pheopigment correction71. </plain></SENT>
+</text></p><p><text><SENT sid="192" pm="."><plain>1. Trichromatic equations: </plain></SENT>
+</text></p><p><text><SENT sid="193" pm="."><plain> </plain></SENT>
+</text></p><p><text><SENT sid="194" pm="."><plain> </plain></SENT>
+</text></p><p><text><SENT sid="195" pm="."><plain>2. Monochromatic equation for pheopigment correction: </plain></SENT>
+</text></p><p><text><SENT sid="196" pm="."><plain> </plain></SENT>
+</text></p><p><text><SENT sid="197" pm="."><plain>where </plain></SENT>
+</text></p><p><text><SENT sid="198" pm="."><plain> </plain></SENT>
+</text></p><p><text><SENT sid="199" pm="."><plain> </plain></SENT>
+</text></p><p><text><SENT sid="200" pm="."><plain>L = Light path of the cuvette (cm) </plain></SENT>
+</text></p><p><text><SENT sid="201" pm="."><plain>Ve = Extraction volume (mL) </plain></SENT>
+</text></p><p><text><SENT sid="202" pm="."><plain>Vs = Sample volume which was harvested (mL) </plain></SENT>
+</text></p><p><text><SENT sid="203" pm="."><plain>R=maximum absorbance ratio of OD665o/OD665a in the absence of pheopigments = 1.7 K = R/(R−1) = 2.43 </plain></SENT>
+</text></p><p><text><SENT sid="204" pm="."><plain>Total chlorophyll (μg/mL) = Chlorophyll b (μg/mL) + Corrected chlorophyll a (μg/mL) </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="205" pm="."><plain>Neutral Lipid Quantification </plain></SENT>
+</text></title><p><text><SENT sid="206" pm="."><plain>A modified Nile Red staining method28 was used to quantify intracellular TAGs. </plain></SENT>
+<SENT sid="207" pm="."><plain>Briefly, cells were harvested by centrifugation (3000 g for 10 min at 4 °C), supernatant was removed and the pellet resuspended in fresh 0.5 M ATCC-1174 DA media to an OD680 of 0.3. </plain></SENT>
+<SENT sid="208" pm="."><plain>Triolein was used as a standard for determining neutral lipid concentrations by Nile Red (Fig. </plain></SENT>
+<SENT sid="209" pm="."><plain>S10). </plain></SENT>
+<SENT sid="210" pm="."><plain>Two hundred microliters of triolein standards (40, 20, 10, 5, 2.5, 0 μg/mL) and cell suspensions were loaded as technical triplicates onto a 96-well black, clear bottom plate (CLS3603; Sigma-Aldrich). </plain></SENT>
+<SENT sid="211" pm="."><plain>Prior to staining, Nile red stock is diluted in acetone to obtain a working solution (25 μg/mL), and 2 μL of the Nile red working solution is added to each well of sample and standard, followed by a 5 min incubation in the dark. </plain></SENT>
+<SENT sid="212" pm="."><plain>Fluorescence of each sample was detected using a microplate reader (Infinite M200 PRO, Tecan) at excitation and emission wavelengths of 524 nm and 586 nm. </plain></SENT>
+<SENT sid="213" pm="."><plain>Fluorescence imaging of Nile Red-stained cells was performed with an automated fluorescence microscope (Olympus BX63). </plain></SENT>
+<SENT sid="214" pm="."><plain>Acquisition and processing of data was done using the cellSens software. </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="215" pm="."><plain>Total Lipid Analysis by Gas Chromatography-Mass Spectrometry </plain></SENT>
+</text></title><p><text><SENT sid="216" pm="."><plain>To analyze the accumulation of total lipids, cells were harvested, snap-frozen in liquid nitrogen and stored at −80 °C until analysis. </plain></SENT>
+<SENT sid="217" pm="."><plain>Frozen culture samples were lyophilized by freeze-drying and lipids were extracted by hexane using direct transesterification72 as it was reported to be a convenient and accurate method for analyzing total fatty acids73. </plain></SENT>
+<SENT sid="218" pm="."><plain>Biomass quantities of between 5 and 10 mg of biomass were weighed into glass 55-mL PYREX culture tubes with polytetrafluoroethylene (PTFE)-lined phenolic caps (25 mm diameter × 150 mm height, PYREX #9826–25, Corning). </plain></SENT>
+<SENT sid="219" pm="."><plain>To each sample, 0.2 mL of chloroform-methanol (2:1, v/v) was added and mixed by vortexing, followed by simultaneous transesterification of lipids with 0.3 mL of 1.25 M methanolic HCl and vortexed to mix. </plain></SENT>
+<SENT sid="220" pm="."><plain>An internal standard (100 μg Methyl tridecanoate, C13-Fatty Acid Methyl Ester, C13-FAME; Cat. no. 91558, Sigma-Aldrich) was included to correct for the loss of FAME during the reaction, and to correct for subsequent incomplete extraction of hexane74. </plain></SENT>
+<SENT sid="221" pm="."><plain>The culture tube was then incubated in a 50 °C waterbath overnight. </plain></SENT>
+<SENT sid="222" pm="."><plain>After 24 hours, 1 mL of hexane was added and mixed by vortex, and incubated at room temperature for 1 hour. </plain></SENT>
+<SENT sid="223" pm="."><plain>The upper organic phase containing FAMEs was removed using a glass pipette, filtered through a 0.22-μm PTFE syringe filter (Agilent Technologies), and collected in a 250-μL glass vial insert (Part no. 5181–1270, Agilent Technologies). </plain></SENT>
+<SENT sid="224" pm="."><plain>FAME extracts were injected into a GC system (Model 7890B, Agilent Technologies) equipped with an Agilent 19091S-433UI column (30 m × 250 μm × 0.25 μm) interfaced with a mass spectrometric detector (Model 5977 A, Agilent Technologies). </plain></SENT>
+<SENT sid="225" pm="."><plain>Injection volume was set at 1 μL with a 5:1 split ratio at a GC inlet temperature of 250 °C. </plain></SENT>
+<SENT sid="226" pm="."><plain>Helium was used as the carrier gas in a fixed flow of 1 mL/min throughout. </plain></SENT>
+<SENT sid="227" pm="."><plain>Temperature program is as follows: initial oven temperature of 70 °C held for 3 mins, ramp to 130 °C at 20 °C/min, 178 °C at 4 °C/min, 190 °C at 1 °C/min, and 290 °C at 10 °C/min. </plain></SENT>
+<SENT sid="228" pm="."><plain>The total run time was 40 minutes. </plain></SENT>
+<SENT sid="229" pm="."><plain>Shifting of retention times (RTs) were eliminated by comparing the RTs of each FA compound to the C13-FAME internal standard. </plain></SENT>
+<SENT sid="230" pm="."><plain>Analysis was performed using the MassHunter WorkStation Qualitative Analysis B.07.00 software (Agilent Technologies) and compounds were identified with the NIST mass spectral library (National Institute of Standards and Technology, Data Version: NIST 14). </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="231" pm="."><plain>Preparation of cDNA Libraries for Transcriptome-sequencing </plain></SENT>
+</text></title><p><text><SENT sid="232" pm="."><plain>Total RNA of N-replete and N-deplete cells on day 3 and day 5 were used for RNA-seq as they correspond to late-exponential and stationary phases of cells grown under N-deplete conditions, compared to N-replete cells which are in exponential phase. </plain></SENT>
+<SENT sid="233" pm="."><plain>RNA integrity was assessed on an Agilent 2100 Bioanalyzer (Agilent Technologies) using the RNA 6000 Nano Kit (Cat. no. 5067–1511; Agilent Technologies). </plain></SENT>
+<SENT sid="234" pm="."><plain>Construction of cDNA was performed with approximately 2 μg of RNA using a TruSeq Stranded Total RNA LT Sample Prep Kit (Illumina) following the manufacturer’s procedures (first and second strand cDNA synthesis, 3′ end adenylation, adapter ligation, DNA fragment enrichment of ~300 bp in length). </plain></SENT>
+<SENT sid="235" pm="."><plain>Ribo-Zero rRNA Removal Kit for Plant (Illumina) was used to reduce ribosomal RNA amount in each sample. </plain></SENT>
+<SENT sid="236" pm="."><plain>The quality of constructed cDNA libraries and size of DNA fragments were validated on the Bioanalyzer with Agilent DNA 1000 kit (Cat. no. 5067–1505; Agilent Technologies), before being quantified by qPCR with the KAPA Library Quantification Kit for Illumina platforms (Cat. no. KK4824; Kapa Biosystems). </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="237" pm="."><plain>RNA-Seq and Differential Gene Expression Analysis </plain></SENT>
+</text></title><p><text><SENT sid="238" pm="."><plain>The cDNA libraries were normalized to 10 nM, pooled in equal volumes, and sequenced for 2 × 300-bp runs (paired-end) using Illumina MiSeq Sequencer (Illumina). </plain></SENT>
+<SENT sid="239" pm="."><plain>A set of four cDNA libraries were sequenced per run in order to generate sufficient reads for each sample. </plain></SENT>
+<SENT sid="240" pm="."><plain>FASTQ datasets generated from Illumina Miseq were uploaded into a Partek® Flow® web server (version 4.0, Partek Inc.). </plain></SENT>
+<SENT sid="241" pm="."><plain>To ensure quality, the raw data were trimmed from both ends with the following criteria: Phred-equivalent quality score of more than 20, minimum read length of 25, quality encoding = autodetect. </plain></SENT>
+<SENT sid="242" pm="."><plain>The filtered reads were aligned with STAR aligner (version 2.3.1j; default parameters)75 to an assembled D. tertiolecta transcriptome database previously created by our colleagues28. </plain></SENT>
+<SENT sid="243" pm="."><plain>Data aligned to the transcriptome from STAR were used to test for differential expression of genes between N-replete and N-deplete samples. </plain></SENT>
+<SENT sid="244" pm="."><plain>This was performed at transcript level with the Gene-specific analysis (GSA) approach from Partek® Flow® (Poisson model was selected) and normalized to RPKM (Reads Per Kilobase per Million mapped reads) values. </plain></SENT>
+<SENT sid="245" pm="."><plain>Genes were considered to be significantly differentially expressed if their expression values had at least a fold change greater than ± 2, a false discovery rate (FDR)-corrected p value of ≤ 0.05 (Benjamini-Hochberg step-up correction), and the read coverage at either of the culture conditions were ≥ 10. </plain></SENT>
+<SENT sid="246" pm="."><plain>The RNA-seq raw data were deposited in the Sequence Read Archive database (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/Traces/sra/">http://www.ncbi.nlm.nih.gov/Traces/sra/</ext-link>) under the accession numbers SRR4011621, SRR4011622, SRR4011623, SRR4011624, SRR4011625, SRR4011626, SRR4011627, and SRR4011628. </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="247" pm="."><plain>Functional Annotation and Biological Interpretation of RNA-seq data </plain></SENT>
+</text></title><p><text><SENT sid="248" pm="."><plain>Functional annotation of cDNA reads was performed with the Partek® Genomics Suite® (PGS) software (version 6.6, Partek Inc.). </plain></SENT>
+<SENT sid="249" pm="."><plain>The GSA file containing filtered genes and their associated information was imported into PGS and merged with the assembled D. tertiolecta transcriptome annotation file according to the name of D. tertiolecta contigs. </plain></SENT>
+<SENT sid="250" pm="."><plain>The annotated data was subsequently used to perform Gene Ontology (GO) enrichment with a modified C. reinhardtii GO annotation file28 downloaded from JGI website (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://jgi.doe.gov/">http://jgi.doe.gov/</ext-link>). </plain></SENT>
+<SENT sid="251" pm="."><plain>Representative pathways were discovered by mapping the gene names to the C. reinhardtii Kyoto Encyclopedia of Genes and Genomes (KEGG) database (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.genome.jp/">http://www.genome.jp/</ext-link>) using the pathway analysis tool7677. </plain></SENT>
+<SENT sid="252" pm="."><plain>Both GO enrichment and KEGG pathway analyses were conducted using the Fisher’s Exact test; the analysis was restricted to pathways with more than 2 genes, and results were filtered by enrichment p-value of less than 0.05. </plain></SENT>
+</text></p></sec></sec></SecTag><sec disp-level="1"><title><text><SENT sid="253" pm="."><plain>Additional Information </plain></SENT>
+</text></title><p><text><SENT sid="254" pm="."><plain>How to cite this article: Tan, K. </plain></SENT>
+<SENT sid="255" pm="."><plain>W. </plain></SENT>
+<SENT sid="256" pm="."><plain>M. et al. Nitrogen-induced metabolic changes and molecular determinants of carbon allocation in Dunaliella tertiolecta. </plain></SENT>
+<SENT sid="257" pm="."><plain>Sci. </plain></SENT>
+<SENT sid="258" pm="."><plain>Rep. 6, 37235; doi: 10.1038/srep37235 (2016). </plain></SENT>
+</text></p><p><text><SENT sid="259" pm="."><plain>Publisher’s note: Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations. </plain></SENT>
+</text></p></sec><SecTag type="SUPPL"><sec sec-type="supplementary-material" id="S1"><title><text><SENT sid="260" pm="."><plain>Supplementary Material </plain></SENT>
+</text></title><supplementary-material id="d33e30" content-type="local-data"><caption><title><text><SENT sid="261" pm="."><plain>Supplementary Information </plain></SENT>
+</text></title></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep37235-s1.pdf"/></supplementary-material></sec></SecTag></body><back><SecTag type="ACK_FUND"><ack><p><text4fund><text><SENT sid="262" pm="."><plain>This study was supported by the National Research Foundation (NRF), Prime Minister’s Office, Singapore under the Campus for Research Excellence and Technological Enterprise (CREATE) Programme (Grant No. </plain></SENT>
+<SENT sid="263" pm="."><plain>R-182-000-205-592). </plain></SENT>
+<SENT sid="264" pm="."><plain>We wish to thank Ms Lina Yao for the creation of a RNA-Seq database for D. tertiolecta, Dr. Yi-Kai Ng for providing critical comments for the manuscript, and Mr Chin-Seng Low from Department of Microbiology and Immunology, Yong Loo Lin School of Medicine, National University of Singapore for the general lab supply and support. </plain></SENT>
+<SENT sid="265" pm="."><plain>Y.K.N. assisted in cDNA library preparation and revised the manuscript. </plain></SENT>
+</text></text4fund></p></ack></SecTag><SecTag type="REF"><ref-list><ref id="b1"><text><SENT sid="266" pm="."><plain>StephensE. et al. Future prospects of microalgal biofuel production systems. Trends Plant Sci. 15, 554–564 (2010).20655798 </plain></SENT>
+</text></ref><ref id="b2"><text><SENT sid="267" pm="."><plain>GouveiaL. &amp; OliveiraA. </plain></SENT>
+<SENT sid="268" pm="."><plain>C. Microalgae as a raw material for biofuels production. J. </plain></SENT>
+<SENT sid="269" pm="."><plain>Ind. </plain></SENT>
+<SENT sid="270" pm="."><plain>Microbiol. </plain></SENT>
+<SENT sid="271" pm="."><plain>Biotechnol. 36, 269–274 (2009).18982369 </plain></SENT>
+</text></ref><ref id="b3"><text><SENT sid="272" pm="."><plain>MalcataF. </plain></SENT>
+<SENT sid="273" pm="."><plain>X. Microalgae and biofuels: A promising partnership? Trends Biotechnol. 29, 542–549 (2011).21724282 </plain></SENT>
+</text></ref><ref id="b4"><text><SENT sid="274" pm="."><plain>SayreR.Microalgae: The Potential for Carbon Capture. Bioscience 60, 722–727 (2010). </plain></SENT>
+</text></ref><ref id="b5"><text><SENT sid="275" pm="."><plain>WigmostaM. </plain></SENT>
+<SENT sid="276" pm="."><plain>S., ColemanA. </plain></SENT>
+<SENT sid="277" pm="."><plain>M., SkaggsR. </plain></SENT>
+<SENT sid="278" pm="."><plain>J., HuesemannM. </plain></SENT>
+<SENT sid="279" pm="."><plain>H. &amp; LaneL. </plain></SENT>
+<SENT sid="280" pm="."><plain>J. National microalgae biofuel production potential and resource demand. Water Resour. </plain></SENT>
+<SENT sid="281" pm="."><plain>Res. 47, n/a-n/a (2011). </plain></SENT>
+</text></ref><ref id="b6"><text><SENT sid="282" pm="."><plain>CaiT., ParkS. </plain></SENT>
+<SENT sid="283" pm="."><plain>Y. &amp; LiY. Nutrient recovery from wastewater streams by microalgae: Status and prospects. Renew. </plain></SENT>
+<SENT sid="284" pm="."><plain>Sustain. </plain></SENT>
+<SENT sid="285" pm="."><plain>Energy Rev. 19, 360–369 (2013). </plain></SENT>
+</text></ref><ref id="b7"><text><SENT sid="286" pm="."><plain>LiJ. et al. Choreography of Transcriptomes and Lipidomes of Nannochloropsis Reveals the Mechanisms of Oil Synthesis in Microalgae. Plant Cell 26, 1645–1665 (2014).24692423 </plain></SENT>
+</text></ref><ref id="b8"><text><SENT sid="287" pm="."><plain>FanJ. et al. Genomic Foundation of Starch-to-Lipid Switch in Oleaginous Chlorella spp. Plant Physiol. 169, 2444–2461 (2015).26486592 </plain></SENT>
+</text></ref><ref id="b9"><text><SENT sid="288" pm="."><plain>RadakovitsR., JinkersonR. </plain></SENT>
+<SENT sid="289" pm="."><plain>E., DarzinsA. &amp; PosewitzM. </plain></SENT>
+<SENT sid="290" pm="."><plain>C. Genetic engineering of algae for enhanced biofuel production. Eukaryot. </plain></SENT>
+<SENT sid="291" pm="."><plain>Cell 9, 486–501 (2010).20139239 </plain></SENT>
+</text></ref><ref id="b10"><text><SENT sid="292" pm="."><plain>YuW.-L. et al. Modifications of the metabolic pathways of lipid and triacylglycerol production in microalgae. Microb. </plain></SENT>
+<SENT sid="293" pm="."><plain>Cell Fact. 10, 91 (2011).22047615 </plain></SENT>
+</text></ref><ref id="b11"><text><SENT sid="294" pm="."><plain>HuQ. et al. Microalgal triacylglycerols as feedstocks for biofuel production: perspectives and advances. Plant J. 54, 621–639 (2008).18476868 </plain></SENT>
+</text></ref><ref id="b12"><text><SENT sid="295" pm="."><plain>SlocombeS. </plain></SENT>
+<SENT sid="296" pm="."><plain>P. et al. Unlocking nature’s treasure-chest: screening for oleaginous algae. Sci. </plain></SENT>
+<SENT sid="297" pm="."><plain>Rep. 5, 9844 (2015).26202369 </plain></SENT>
+</text></ref><ref id="b13"><text><SENT sid="298" pm="."><plain>DongH.-P. et al. Responses of Nannochloropsis oceanica IMET1 to Long-Term Nitrogen Starvation and Recovery. Plant Physiol. 162, 1110–1126 (2013).23637339 </plain></SENT>
+</text></ref><ref id="b14"><text><SENT sid="299" pm="."><plain>XiaoY., ZhangJ., CuiJ., FengY. &amp; CuiQ. Metabolic profiles of Nannochloropsis oceanica IMET1 under nitrogen-deficiency stress. Bioresour. </plain></SENT>
+<SENT sid="300" pm="."><plain>Technol. 130, 731–738 (2013).23334034 </plain></SENT>
+</text></ref><ref id="b15"><text><SENT sid="301" pm="."><plain>JiaJ. et al. Molecular mechanisms for photosynthetic carbon partitioning into storage neutral lipids in Nannochloropsis oceanica under nitrogen-depletion conditions. Algal Res. 7, 66–77 (2015). </plain></SENT>
+</text></ref><ref id="b16"><text><SENT sid="302" pm="."><plain>LiY., HanD., HuG., SommerfeldM. &amp; HuQ. Inhibition of starch synthesis results in overproduction of lipids in Chlamydomonas reinhardtii. Biotechnol. </plain></SENT>
+<SENT sid="303" pm="."><plain>Bioeng. 107, 258–268 (2010).20506159 </plain></SENT>
+</text></ref><ref id="b17"><text><SENT sid="304" pm="."><plain>SiautM. et al. Oil accumulation in the model green alga Chlamydomonas reinhardtii: characterization, variability between common laboratory strains and relationship with starch reserves. BMC Biotechnol. 11, 7 (2011).21255402 </plain></SENT>
+</text></ref><ref id="b18"><text><SENT sid="305" pm="."><plain>BrányikováI. et al. Microalgae–novel highly efficient starch producers. Biotechnol. </plain></SENT>
+<SENT sid="306" pm="."><plain>Bioeng. 108, 766–776 (2011).21404251 </plain></SENT>
+</text></ref><ref id="b19"><text><SENT sid="307" pm="."><plain>DragoneG., FernandesB. </plain></SENT>
+<SENT sid="308" pm="."><plain>D., AbreuA. </plain></SENT>
+<SENT sid="309" pm="."><plain>P., VicenteA. </plain></SENT>
+<SENT sid="310" pm="."><plain>A. &amp; TeixeiraJ. </plain></SENT>
+<SENT sid="311" pm="."><plain>A. Nutrient limitation as a strategy for increasing starch accumulation in microalgae. Appl. </plain></SENT>
+<SENT sid="312" pm="."><plain>Energy 88, 3331–3335 (2011). </plain></SENT>
+</text></ref><ref id="b20"><text><SENT sid="313" pm="."><plain>BumbakF., CookS., ZachlederV., HauserS. &amp; KovarK. Best practices in heterotrophic high-cell-density microalgal processes: achievements, potential and possible imitations. Appl. </plain></SENT>
+<SENT sid="314" pm="."><plain>Microbiol. </plain></SENT>
+<SENT sid="315" pm="."><plain>Biotechnol. 91, 31–46 (2011).21567179 </plain></SENT>
+</text></ref><ref id="b21"><text><SENT sid="316" pm="."><plain>HeifetzP. </plain></SENT>
+<SENT sid="317" pm="."><plain>B., FörsterB., OsmondC. </plain></SENT>
+<SENT sid="318" pm="."><plain>B., GilesL. </plain></SENT>
+<SENT sid="319" pm="."><plain>J. &amp; BoyntonJ. </plain></SENT>
+<SENT sid="320" pm="."><plain>E. Effects of acetate on facultative autotrophy in Chlamydomonas reinhardtii assessed by photosynthetic measurements and stable isotope analyses. Plant Physiol. 122, 1439–1445 (2000).10759539 </plain></SENT>
+</text></ref><ref id="b22"><text><SENT sid="321" pm="."><plain>ValenzuelaJ. et al. Potential role of multiple carbon fixation pathways during lipid accumulation in Phaeodactylum tricornutum. Biotechnol. </plain></SENT>
+<SENT sid="322" pm="."><plain>Biofuels 5, 40 (2012).22672912 </plain></SENT>
+</text></ref><ref id="b23"><text><SENT sid="323" pm="."><plain>TangH. et al. Potential of microalgae oil from Dunaliella tertiolecta as a feedstock for biodiesel. Appl. </plain></SENT>
+<SENT sid="324" pm="."><plain>Energy 88, 3324–3330 (2011). </plain></SENT>
+</text></ref><ref id="b24"><text><SENT sid="325" pm="."><plain>BouchardJ. </plain></SENT>
+<SENT sid="326" pm="."><plain>N., García-GómezC. &amp; Rosario LorenzoM. &amp; Segovia, M. </plain></SENT>
+<SENT sid="327" pm="."><plain>Differential effect of ultraviolet exposure (UVR) in the stress response of the Dinophycea Gymnodinium sp. and the Chlorophyta Dunaliella tertiolecta: mortality versus survival. Mar. </plain></SENT>
+<SENT sid="328" pm="."><plain>Biol. 160, 2547–2560 (2013). </plain></SENT>
+</text></ref><ref id="b25"><text><SENT sid="329" pm="."><plain>GeorgiannaD. </plain></SENT>
+<SENT sid="330" pm="."><plain>R. et al. Production of recombinant enzymes in the marine alga Dunaliella tertiolecta. Algal Res. 2, 2–9 (2013). </plain></SENT>
+</text></ref><ref id="b26"><text><SENT sid="331" pm="."><plain>de BoerK., MoheimaniN. </plain></SENT>
+<SENT sid="332" pm="."><plain>R., BorowitzkaM. </plain></SENT>
+<SENT sid="333" pm="."><plain>A. &amp; BahriP. </plain></SENT>
+<SENT sid="334" pm="."><plain>A. Extraction and conversion pathways for microalgae to biodiesel: a review focused on energy consumption. J. </plain></SENT>
+<SENT sid="335" pm="."><plain>Appl. </plain></SENT>
+<SENT sid="336" pm="."><plain>Phycol. 24, 1681–1698 (2012). </plain></SENT>
+</text></ref><ref id="b27"><text><SENT sid="337" pm="."><plain>Rismani-YazdiH., HaznedarogluB. </plain></SENT>
+<SENT sid="338" pm="."><plain>Z., BibbyK. &amp; PecciaJ. Transcriptome sequencing and annotation of the microalgae Dunaliella tertiolecta: pathway description and gene discovery for production of next-generation biofuels. BMC Genomics 12, 148 (2011).21401935 </plain></SENT>
+</text></ref><ref id="b28"><text><SENT sid="339" pm="."><plain>YaoL. et al. RNA-Seq transcriptomic analysis with Bag2D software identifies key pathways enhancing lipid yield in a high lipid-producing mutant of the non-model green alga Dunaliella tertiolecta. Biotechnol. </plain></SENT>
+<SENT sid="340" pm="."><plain>Biofuels 8, 191 (2015).26613001 </plain></SENT>
+</text></ref><ref id="b29"><text><SENT sid="341" pm="."><plain>ShinH. et al. Elucidation of the growth delimitation of Dunaliella tertiolecta under nitrogen stress by integrating transcriptome and peptidome analysis. Bioresour. </plain></SENT>
+<SENT sid="342" pm="."><plain>Technol. 194, 57–66 (2015).26185926 </plain></SENT>
+</text></ref><ref id="b30"><text><SENT sid="343" pm="."><plain>ShangC. et al. Discovery of genes for production of biofuels through transcriptome sequencing of Dunaliella parva. Algal Res. 13, 318–326 (2016). </plain></SENT>
+</text></ref><ref id="b31"><text><SENT sid="344" pm="."><plain>NikookarK., MoradshahiA. &amp; HosseiniL. Physiological responses of Dunaliella salina and Dunaliella tertiolecta to copper toxicity. Biomol. </plain></SENT>
+<SENT sid="345" pm="."><plain>Eng. 22, 141–146 (2005).16103009 </plain></SENT>
+</text></ref><ref id="b32"><text><SENT sid="346" pm="."><plain>Hosseini TafreshiA. &amp; ShariatiM. Dunaliella biotechnology: methods and applications. J. </plain></SENT>
+<SENT sid="347" pm="."><plain>Appl. </plain></SENT>
+<SENT sid="348" pm="."><plain>Microbiol. 107, 14–35 (2009).19245408 </plain></SENT>
+</text></ref><ref id="b33"><text><SENT sid="349" pm="."><plain>SubramanianS., BarryA. </plain></SENT>
+<SENT sid="350" pm="."><plain>N., PierisS. &amp; SayreR. </plain></SENT>
+<SENT sid="351" pm="."><plain>T. Comparative energetics and kinetics of autotrophic lipid and starch metabolism in chlorophytic microalgae: implications for biomass and biofuel production. Biotechnol. </plain></SENT>
+<SENT sid="352" pm="."><plain>Biofuels 6, 150 (2013).24139286 </plain></SENT>
+</text></ref><ref id="b34"><text><SENT sid="353" pm="."><plain>JohnsonX. &amp; AlricJ. Central carbon metabolism and electron transport in Chlamydomonas reinhardtii: metabolic constraints for carbon partitioning between oil and starch. Eukaryot. </plain></SENT>
+<SENT sid="354" pm="."><plain>Cell 12, 776–793 (2013).23543671 </plain></SENT>
+</text></ref><ref id="b35"><text><SENT sid="355" pm="."><plain>ChowY. </plain></SENT>
+<SENT sid="356" pm="."><plain>Y. </plain></SENT>
+<SENT sid="357" pm="."><plain>S. et al. Continual production of glycerol from carbon dioxide by Dunaliella tertiolecta. Bioresour. </plain></SENT>
+<SENT sid="358" pm="."><plain>Technol. 136, 550–555 (2013).23567730 </plain></SENT>
+</text></ref><ref id="b36"><text><SENT sid="359" pm="."><plain>ChowY., TuW. </plain></SENT>
+<SENT sid="360" pm="."><plain>Y., WangD., NgD. </plain></SENT>
+<SENT sid="361" pm="."><plain>H. </plain></SENT>
+<SENT sid="362" pm="."><plain>P. &amp; LeeY. </plain></SENT>
+<SENT sid="363" pm="."><plain>K. The role of micronutrients and strategies for optimized continual glycerol production from carbon dioxide by Dunaliella tertiolecta. Biotechnol. </plain></SENT>
+<SENT sid="364" pm="."><plain>Bioeng. 112, 2163–2171 (2015).25855006 </plain></SENT>
+</text></ref><ref id="b37"><text><SENT sid="365" pm="."><plain>Sanz-LuqueE. et al. THB1, a truncated hemoglobin, modulates nitric oxide levels and nitrate reductase activity. Plant J. 81, 467–479 (2015).25494936 </plain></SENT>
+</text></ref><ref id="b38"><text><SENT sid="366" pm="."><plain>ParkJ.-J. et al. The response of Chlamydomonas reinhardtii to nitrogen deprivation: a systems biology analysis. Plant J. 81, 611–624 (2015).25515814 </plain></SENT>
+</text></ref><ref id="b39"><text><SENT sid="367" pm="."><plain>NoorE. et al. Central carbon metabolism as a minimal biochemical walk between precursors for biomass and energy. Mol. </plain></SENT>
+<SENT sid="368" pm="."><plain>Cell 39, 809–820 (2010).20832731 </plain></SENT>
+</text></ref><ref id="b40"><text><SENT sid="369" pm="."><plain>GoncalvesE. </plain></SENT>
+<SENT sid="370" pm="."><plain>C. et al. Nitrogen starvation-induced accumulation of triacylglycerol in the green algae: evidence for a role for ROC40, a transcription factor involved in circadian rhythm. Plant J. 85, 743–757 (2016).26920093 </plain></SENT>
+</text></ref><ref id="b41"><text><SENT sid="371" pm="."><plain>CakmakT. et al. Differential effects of nitrogen and sulfur deprivation on growth and biodiesel feedstock production of Chlamydomonas reinhardtii. Biotechnol. </plain></SENT>
+<SENT sid="372" pm="."><plain>Bioeng. 109, 1947–1957 (2012).22383222 </plain></SENT>
+</text></ref><ref id="b42"><text><SENT sid="373" pm="."><plain>DaveyM. </plain></SENT>
+<SENT sid="374" pm="."><plain>P. et al. Triacylglyceride production and autophagous responses in Chlamydomonas reinhardtii depend on resource allocation and carbon source. Eukaryot. </plain></SENT>
+<SENT sid="375" pm="."><plain>Cell 13, 392–400 (2014).24413660 </plain></SENT>
+</text></ref><ref id="b43"><text><SENT sid="376" pm="."><plain>IkaranZ., Suárez-AlvarezS., UrretaI. &amp; CastañónS. The effect of nitrogen limitation on the physiology and metabolism of chlorella vulgaris var L3. Algal Res. 10, 134–144 (2015). </plain></SENT>
+</text></ref><ref id="b44"><text><SENT sid="377" pm="."><plain>VielerA. et al. Genome, Functional Gene Annotation, and Nuclear Transformation of the Heterokont Oleaginous Alga Nannochloropsis oceanica CCMP1779. PLoS Genet. 8, e1003064 (2012).23166516 </plain></SENT>
+</text></ref><ref id="b45"><text><SENT sid="378" pm="."><plain>ZhuS. et al. Metabolic changes of starch and lipid triggered by nitrogen starvation in the microalga Chlorella zofingiensis. Bioresour. </plain></SENT>
+<SENT sid="379" pm="."><plain>Technol. 152, 292–298 (2014).24308944 </plain></SENT>
+</text></ref><ref id="b46"><text><SENT sid="380" pm="."><plain>RodolfiL. et al. Microalgae for oil: strain selection, induction of lipid synthesis and outdoor mass cultivation in a low-cost photobioreactor. Biotechnol. </plain></SENT>
+<SENT sid="381" pm="."><plain>Bioeng. 102, 100–112 (2009).18683258 </plain></SENT>
+</text></ref><ref id="b47"><text><SENT sid="382" pm="."><plain>López Garcíade, LomanaA. et al. Transcriptional program for nitrogen starvation-induced lipid accumulation in Chlamydomonas reinhardtii. Biotechnol. </plain></SENT>
+<SENT sid="383" pm="."><plain>Biofuels 8, 207 (2015).26633994 </plain></SENT>
+</text></ref><ref id="b48"><text><SENT sid="384" pm="."><plain>ChenH. et al. Identification of a critical determinant that enables efficient fatty acid synthesis in oleaginous fungi. Sci. </plain></SENT>
+<SENT sid="385" pm="."><plain>Rep. 5, 11247 (2015).26059272 </plain></SENT>
+</text></ref><ref id="b49"><text><SENT sid="386" pm="."><plain>ZhangY., AdamsI. </plain></SENT>
+<SENT sid="387" pm="?"><plain>P. &amp; RatledgeC. Malic enzyme: the controlling activity for lipid production? </plain></SENT>
+<SENT sid="388" pm="."><plain>Overexpression of malic enzyme in Mucor circinelloides leads to a 2.5-fold increase in lipid accumulation. Microbiology 153, 2013–2025 (2007).17600047 </plain></SENT>
+</text></ref><ref id="b50"><text><SENT sid="389" pm="."><plain>LiZ. et al. Overexpression of malic enzyme (ME) of Mucor circinelloides improved lipid accumulation in engineered Rhodotorula glutinis. Appl. </plain></SENT>
+<SENT sid="390" pm="."><plain>Microbiol. </plain></SENT>
+<SENT sid="391" pm="."><plain>Biotechnol. 97, 4927–4936 (2013).23179623 </plain></SENT>
+</text></ref><ref id="b51"><text><SENT sid="392" pm="."><plain>YoungE. </plain></SENT>
+<SENT sid="393" pm="."><plain>B. &amp; BeardallJ. Photosynthetic Function in Dunaliella Tertiolecta (Chlorophyta) During A Nitrogen Starvation and Recovery Cycle. J. </plain></SENT>
+<SENT sid="394" pm="."><plain>Phycol. 39, 897–905 (2003). </plain></SENT>
+</text></ref><ref id="b52"><text><SENT sid="395" pm="."><plain>KimS.-H. et al. Effects of light intensity and nitrogen starvation on glycerolipid, glycerophospholipid, and carotenoid composition in Dunaliella tertiolecta culture. PLoS One 8, e72415 (2013).24039760 </plain></SENT>
+</text></ref><ref id="b53"><text><SENT sid="396" pm="."><plain>GeiderR., Macintyre, GrazianoL. &amp; McKayR. </plain></SENT>
+<SENT sid="397" pm="."><plain>M. Responses of the photosynthetic apparatus of Dunaliella tertiolecta (Chlorophyceae) to nitrogen and phosphorus limitation. Eur. </plain></SENT>
+<SENT sid="398" pm="."><plain>J. </plain></SENT>
+<SENT sid="399" pm="."><plain>Phycol. 33, 315–332 (1998). </plain></SENT>
+</text></ref><ref id="b54"><text><SENT sid="400" pm="."><plain>YangZ.-K. et al. Molecular and cellular mechanisms of neutral lipid accumulation in diatom following nitrogen deprivation. Biotechnol. </plain></SENT>
+<SENT sid="401" pm="."><plain>Biofuels 6, 67 (2013).23642220 </plain></SENT>
+</text></ref><ref id="b55"><text><SENT sid="402" pm="."><plain>SimionatoD. et al. The response of Nannochloropsis gaditana to nitrogen starvation includes de novo biosynthesis of triacylglycerols, a decrease of chloroplast galactolipids, and reorganization of the photosynthetic apparatus. Eukaryot. </plain></SENT>
+<SENT sid="403" pm="."><plain>Cell 12, 665–676 (2013).23457191 </plain></SENT>
+</text></ref><ref id="b56"><text><SENT sid="404" pm="."><plain>UrzicaE. </plain></SENT>
+<SENT sid="405" pm="."><plain>I. et al. Remodeling of membrane lipids in iron-starved Chlamydomonas. J. </plain></SENT>
+<SENT sid="406" pm="."><plain>Biol. </plain></SENT>
+<SENT sid="407" pm="."><plain>Chem. 288, 30246–30258 (2013).23983122 </plain></SENT>
+</text></ref><ref id="b57"><text><SENT sid="408" pm="."><plain>MartinG. </plain></SENT>
+<SENT sid="409" pm="."><plain>J. </plain></SENT>
+<SENT sid="410" pm="."><plain>O. et al. Lipid profile remodeling in response to nitrogen deprivation in the microalgae Chlorella sp. </plain></SENT>
+<SENT sid="411" pm="."><plain>(Trebouxiophyceae) and Nannochloropsis sp. </plain></SENT>
+<SENT sid="412" pm="."><plain>(Eustigmatophyceae). PLoS One 9, e103389 (2014).25171084 </plain></SENT>
+</text></ref><ref id="b58"><text><SENT sid="413" pm="."><plain>ShtaidaN., Khozin-GoldbergI. &amp; BoussibaS. The role of pyruvate hub enzymes in supplying carbon precursors for fatty acid synthesis in photosynthetic microalgae. Photosynth. </plain></SENT>
+<SENT sid="414" pm="."><plain>Res. 125, 407–422 (2015).25846135 </plain></SENT>
+</text></ref><ref id="b59"><text><SENT sid="415" pm="."><plain>ScholzM. </plain></SENT>
+<SENT sid="416" pm="."><plain>J. et al. Ultrastructure and composition of the Nannochloropsis gaditana cell wall. Eukaryot. </plain></SENT>
+<SENT sid="417" pm="."><plain>Cell 13, 1450–1464 (2014).25239976 </plain></SENT>
+</text></ref><ref id="b60"><text><SENT sid="418" pm="."><plain>VielerA. et al. Genome, functional gene annotation, and nuclear transformation of the heterokont oleaginous alga Nannochloropsis oceanica CCMP1779. PLoS Genet. 8, e1003064 (2012).23166516 </plain></SENT>
+</text></ref><ref id="b61"><text><SENT sid="419" pm="."><plain>HockinN. </plain></SENT>
+<SENT sid="420" pm="."><plain>L., MockT., MulhollandF., KoprivaS. &amp; MalinG. The response of diatom central carbon metabolism to nitrogen starvation is different from that of green algae and higher plants. Plant Physiol. 158, 299–312 (2012).22065419 </plain></SENT>
+</text></ref><ref id="b62"><text><SENT sid="421" pm="."><plain>SweetloveL. </plain></SENT>
+<SENT sid="422" pm="."><plain>J. et al. Not just a circle: flux modes in the plant TCA cycle. Trends Plant Sci. 15, 462–470 (2010).20554469 </plain></SENT>
+</text></ref><ref id="b63"><text><SENT sid="423" pm="."><plain>AvidanO. &amp; PickU. Acetyl-CoA synthetase is activated as part of the PDH-bypass in the oleaginous green alga Chlorella desiccata. J. </plain></SENT>
+<SENT sid="424" pm="."><plain>Exp. </plain></SENT>
+<SENT sid="425" pm="."><plain>Bot. 66, 7287–7298 (2015).26357883 </plain></SENT>
+</text></ref><ref id="b64"><text><SENT sid="426" pm="."><plain>ChenT. et al. Light attenuates lipid accumulation while enhancing cell proliferation and starch synthesis in the glucose-fed oleaginous microalga Chlorella zofingiensis. Sci. </plain></SENT>
+<SENT sid="427" pm="."><plain>Rep. 5, 14936 (2015).26442783 </plain></SENT>
+</text></ref><ref id="b65"><text><SENT sid="428" pm="."><plain>SegoviaM., HaramatyL., BergesJ. </plain></SENT>
+<SENT sid="429" pm="."><plain>A. &amp; FalkowskiP. </plain></SENT>
+<SENT sid="430" pm="."><plain>G. Cell death in the unicellular chlorophyte Dunaliella tertiolecta. </plain></SENT>
+<SENT sid="431" pm="."><plain>A hypothesis on the evolution of apoptosis in higher plants and metazoans. Plant Physiol. 132, 99–105 (2003).12746516 </plain></SENT>
+</text></ref><ref id="b66"><text><SENT sid="432" pm="."><plain>BišováK. &amp; ZachlederV. Cell-cycle regulation in green algae dividing by multiple fission. J. </plain></SENT>
+<SENT sid="433" pm="."><plain>Exp. </plain></SENT>
+<SENT sid="434" pm="."><plain>Bot. 65, 2585–2602 (2014).24441762 </plain></SENT>
+</text></ref><ref id="b67"><text><SENT sid="435" pm="."><plain>LiskaA. </plain></SENT>
+<SENT sid="436" pm="."><plain>J., ShevchenkoA., PickU. &amp; KatzA. Enhanced photosynthesis and redox energy production contribute to salinity tolerance in Dunaliella as revealed by homology-based proteomics. Plant Physiol. 136, 2806–2817 (2004).15333751 </plain></SENT>
+</text></ref><ref id="b68"><text><SENT sid="437" pm="."><plain>OrenA. The ecology of Dunaliella in high-salt environments. J. </plain></SENT>
+<SENT sid="438" pm="."><plain>Biol. </plain></SENT>
+<SENT sid="439" pm="."><plain>Res. </plain></SENT>
+<SENT sid="440" pm="."><plain>(Thessalonikē, Greece) 21, 23 (2014). </plain></SENT>
+</text></ref><ref id="b69"><text><SENT sid="441" pm="."><plain>LinH., FangL., LowC. </plain></SENT>
+<SENT sid="442" pm="."><plain>S., ChowY. &amp; LeeY. </plain></SENT>
+<SENT sid="443" pm="."><plain>K. Occurrence of glycerol uptake in Dunaliella tertiolecta under hyperosmotic stress. FEBS J. 280, 1064–1072 (2013).23279806 </plain></SENT>
+</text></ref><ref id="b70"><text><SENT sid="444" pm="."><plain>JeffreyS. </plain></SENT>
+<SENT sid="445" pm="."><plain>W. &amp; HumphreyG. </plain></SENT>
+<SENT sid="446" pm="."><plain>F. New spectrophotometric equations for determining chlorophylls a, b, c1 and c2 in higher plants, algae and natural phytoplankton. Biochem Physiol Pflanz BPP (1975). </plain></SENT>
+</text></ref><ref id="b71"><text><SENT sid="447" pm="."><plain>LORENZENC. </plain></SENT>
+<SENT sid="448" pm="."><plain>J. Determination Of Chlorophyll and Pheo-Pigments: Spectrophotometric Equations1. Limnol. </plain></SENT>
+<SENT sid="449" pm="."><plain>Oceanogr. 12, 343–346 (1967). </plain></SENT>
+</text></ref><ref id="b72"><text><SENT sid="450" pm="."><plain>LeeS. </plain></SENT>
+<SENT sid="451" pm="."><plain>Y. et al. Fatty acids and global metabolites profiling of Dunaliella tertiolecta by shifting culture conditions to nitrate deficiency and high light at different growth phases. Process Biochem. 49, 996–1004 (2014). </plain></SENT>
+</text></ref><ref id="b73"><text><SENT sid="452" pm="."><plain>CavoniusL. </plain></SENT>
+<SENT sid="453" pm="."><plain>R., CarlssonN. </plain></SENT>
+<SENT sid="454" pm="."><plain>G. &amp; UndelandI. Quantification of total fatty acids in microalgae: Comparison of extraction and transesterification methods. Anal. </plain></SENT>
+<SENT sid="455" pm="."><plain>Bioanal. </plain></SENT>
+<SENT sid="456" pm="."><plain>Chem. 406, 7313–7322 (2014).25224639 </plain></SENT>
+</text></ref><ref id="b74"><text><SENT sid="457" pm="."><plain>LaurensL. </plain></SENT>
+<SENT sid="458" pm="."><plain>M. </plain></SENT>
+<SENT sid="459" pm="."><plain>L., QuinnM., Van WychenS., TempletonD. </plain></SENT>
+<SENT sid="460" pm="."><plain>W. &amp; WolfrumE. </plain></SENT>
+<SENT sid="461" pm="."><plain>J. Accurate and reliable quantification of total microalgal fuel potential as fatty acid methyl esters by in situ transesterification. Anal. </plain></SENT>
+<SENT sid="462" pm="."><plain>Bioanal. </plain></SENT>
+<SENT sid="463" pm="."><plain>Chem. 403, 167–178 (2012).22349344 </plain></SENT>
+</text></ref><ref id="b75"><text><SENT sid="464" pm="."><plain>DobinA. et al. STAR: Ultrafast universal RNA-seq aligner. Bioinformatics 29, 15–21 (2013).23104886 </plain></SENT>
+</text></ref><ref id="b76"><text><SENT sid="465" pm="."><plain>KanehisaM. &amp; GotoS. KEGG: kyoto encyclopedia of genes and genomes. Nucleic Acids Res. 28, 27–30 (2000).10592173 </plain></SENT>
+</text></ref><ref id="b77"><text><SENT sid="466" pm="."><plain>KanehisaM., SatoY., KawashimaM., FurumichiM. &amp; TanabeM. KEGG as a reference resource for gene and protein annotation. Nucleic Acids Res. 44, D457–D462 (2016).26476454 </plain></SENT>
+</text></ref><ref id="b78"><text><SENT sid="467" pm="."><plain>RadakovitsR. et al. Draft genome sequence and genetic transformation of the oleaginous alga Nannochloropis gaditana. Nat. </plain></SENT>
+<SENT sid="468" pm="."><plain>Commun. 3, 686 (2012).22353717 </plain></SENT>
+</text></ref><ref id="b79"><text><SENT sid="469" pm="."><plain>ValledorL., FuruhashiT., Recuenco-MuñozL., WienkoopS. &amp; WeckwerthW. System-level network analysis of nitrogen starvation and recovery in Chlamydomonas reinhardtii reveals potential new targets for increased lipid accumulation. Biotechnol. </plain></SENT>
+<SENT sid="470" pm="."><plain>Biofuels 7, 171 (2014).25663847 </plain></SENT>
+</text></ref><ref id="b80"><text><SENT sid="471" pm="."><plain>GargouriM. et al. Identification of regulatory network hubs that control lipid metabolism in Chlamydomonas reinhardtii. J. </plain></SENT>
+<SENT sid="472" pm="."><plain>Exp. </plain></SENT>
+<SENT sid="473" pm="."><plain>Bot. 66, 4551–4566 (2015).26022256 </plain></SENT>
+</text></ref><ref id="b81"><text><SENT sid="474" pm="."><plain>SatoA., MatsumuraR., HoshinoN., TsuzukiM. &amp; SatoN. Responsibility of regulatory gene expression and repressed protein synthesis for triacylglycerol accumulation on sulfur-starvation in Chlamydomonas reinhardtii. Front. </plain></SENT>
+<SENT sid="475" pm="."><plain>Plant Sci. 5, 444 (2014).25309550 </plain></SENT>
+</text></ref></ref-list></SecTag><fn-group><fn><p><text><SENT sid="476" pm="."><plain>Author Contributions K.W.M.T. and Y.K.L. conceived and designed the experiments, K.W.M.T. and H.X.L. performed the experiments. </plain></SENT>
+<SENT sid="477" pm="."><plain>H.S. participated in experiment coordination and design, and in revising the manuscript. </plain></SENT>
+<SENT sid="478" pm="."><plain>K.W.M.T. and Y.K.L. analyzed the data and drafted the paper. </plain></SENT>
+<SENT sid="479" pm="."><plain>All authors read and approved the final manuscript. </plain></SENT>
+</text></p></fn></fn-group></back><floats-group><SecTag type="FIG"><fig id="f1"><label>Figure 1</label><caption><title>Physiological parameters of <italic>D. tertiolecta</italic> under nitrogen depletion.</title><p><text><SENT sid="480" pm="."><plain>D. tertiolecta was cultured in 50-mL batch cultures supplemented with 5% CO2. </plain></SENT>
+<SENT sid="481" pm="."><plain>Cell growth and media nitrogen concentration (a) was measured every day. </plain></SENT>
+<SENT sid="482" pm="."><plain>Total organic carbon (b,c) and dry cell weight (d), chlorophyll (e) and photosynthetic yield (f) were measured at different time points (Day 0, 3, 5, 8, 12, 17) to illustrate the different phases of growth. </plain></SENT>
+<SENT sid="483" pm="."><plain>Error bars represent standard deviations from three independent biological replicates. </plain></SENT>
+<SENT sid="484" pm="."><plain>Asterisks indicate statistically significant differences between N-replete and N-deplete samples after two-tailed t-tests (*p value ≤ 0.05; **p value ≤ 0.01). </plain></SENT>
+</text></p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep37235-f1"/></fig></SecTag><SecTag type="FIG"><fig id="f2"><label>Figure 2</label><caption><title>Effects of nitrogen depletion on storage product accumulation in <italic>D. tertiolecta</italic>.</title><p><text><SENT sid="485" pm="."><plain>The starch (a), neutral lipids (b), total lipids (c), intracellular glycerol (d) and extracellular glycerol (e) content in D. tertiolecta cells under nitrogen-replete and nitrogen-deplete conditions in different phases of cell growth. </plain></SENT>
+<SENT sid="486" pm="."><plain>Proportion of starch, total lipids and intracellular glycerol are presented as a percentage of dry cell weight (f). </plain></SENT>
+<SENT sid="487" pm="."><plain>Error bars represent standard deviations from three independent biological replicates. </plain></SENT>
+<SENT sid="488" pm="."><plain>Asterisks indicate statistically significant differences between N-replete and N-deplete samples after two-tailed t-tests (*p value ≤ 0.05; **p value ≤ 0.01). </plain></SENT>
+</text></p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep37235-f2"/></fig></SecTag><SecTag type="FIG"><fig id="f3"><label>Figure 3</label><caption><title>Fatty acid profiles and detection of neutral lipids by Nile red staining of <italic>D. tertiolecta</italic> lipids.</title><p><text><SENT sid="489" pm="."><plain>Proportion of the major types of fatty acids (a,b) are expressed as percentages of total lipids. </plain></SENT>
+<SENT sid="490" pm="."><plain>After staining with the nonpolar lipid fluorophore Nile red, cells were examined by fluorescence microscopy which showed the formation of lipid droplets corresponding with the state of nitrogen depletion (c). </plain></SENT>
+<SENT sid="491" pm="."><plain>Yellow fluorescence reflects the staining of neutral lipids, which form lipid droplets. </plain></SENT>
+<SENT sid="492" pm="."><plain>Red fluorescence corresponds to background chlorophyll auto-fluorescence. </plain></SENT>
+</text></p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep37235-f3"/></fig></SecTag><SecTag type="FIG"><fig id="f4"><label>Figure 4</label><caption><title>Proposed scheme of transcriptome changes to the central carbon metabolism in <italic>D. tertiolecta</italic> upon nitrogen depletion.</title><p><text><SENT sid="493" pm="."><plain>Arrows represent potential carbon fluxes. </plain></SENT>
+<SENT sid="494" pm="."><plain>Enzymes are in bold italics. </plain></SENT>
+<SENT sid="495" pm="."><plain>Blue arrows represent reducing power (NADPH) and red arrows represent acetyl-CoA. </plain></SENT>
+<SENT sid="496" pm="."><plain>Black boxes denote pathway names. </plain></SENT>
+<SENT sid="497" pm="."><plain>A recently proposed C4-like carbon-concentrating mechanism (CCM) in microalgae78798081 is shown to depict an alternative route for carbon assimilation. </plain></SENT>
+<SENT sid="498" pm="."><plain>Neutral lipid droplets found in microalgae consist mostly of triacylglycerols (TAGs), formed by combining FAs and glycerol. Legend: ACCase, acetyl-CoA carboxylase; ACD, acyl-CoA dehydrogenase; ACL, ATP-citrate lyase; ACS, acyl-CoA synthetase; AGPP, ADP-glucose pyrophosphorylase; AMY, amylase; CA, carbonic anhydrase; DGAT, diacylglycerol acyltransferase; DHAP, dihydroxyacetone phosphate; F1,6 P, fructose 1,6-bisphosphate; F6P, fructose 6-phosphate; FAT, fatty acyl-acyl carrier protein (ACP) thioesterase; G1P, glucose 1-phosphate; G6P, glucose 6-phosphate; G6PDH: G6P dehydrogenase, GAP, glyceraldehyde 3-phosphate; GPAT, glycerol-3-phosphate acyltransferase; GPDH, glycerol-3-phosphate dehydrogenase; MAL, malate; MDH, malate dehydrogenase; MME: NADP-malic enzyme; OAA, oxaloacetate; PDC, pyruvate dehydrogenase complex; PEP, phosphoenolpyruvate; PEPC, PEP carboxylase; PK, pyruvate kinase; Ru5P, ribulose 5-phosphate; Ru1,5BP, ribulose 1,5-bisphosphate; RuBisCO, Ru1,5BP carboxylase/oxygenase; TPT, triose phosphate translocator; 3-PGA, 3-phosphoglycerate; 6PGDH, 6-phosphogluconate dehydrogenase. </plain></SENT>
+<SENT sid="499" pm="."><plain>Please refer to Supplementary Information for abbreviations of genes involved in starch synthesis and photosynthesis and antenna proteins. </plain></SENT>
+</text></p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep37235-f4"/></fig></SecTag><SecTag type="FIG"><fig id="f5"><label>Figure 5</label><caption><title>Comparison of representative genes involved in fatty acid, triacylglycerol and starch synthesis in oleaginous and non-oleaginous microalgae.</title><p><text><SENT sid="500" pm="."><plain>Red bars: Gene expression up-regulated, Green bars: Gene expression down-regulated, Grey bars: Gene expression unchanged, Yellow bars: Gene not identified in transcriptome analysis. </plain></SENT>
+<SENT sid="501" pm="."><plain>For more information regarding fold change, please refer to Supplementary Information Table S5. *ACCase denotes the Acetyl-CoA biotin carboxyl carrier subunit as it was the most reported gene among the literature. </plain></SENT>
+</text></p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep37235-f5"/></fig></SecTag><SecTag type="FIG"><fig id="f6"><label>Figure 6</label><caption><title>Differences in starch and TAG contents in oleaginous and non-oleaginours microalgae upon nitrogen depletion.</title><p><text><SENT sid="502" pm="."><plain>Refer to Supplementary Information Table S4 and S5 for more information on the composition of storage compounds and gene expression in N-replete and N-deplete conditions. </plain></SENT>
+</text></p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep37235-f6"/></fig></SecTag></floats-group></article>

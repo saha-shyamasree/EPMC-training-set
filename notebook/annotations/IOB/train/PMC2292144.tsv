@@ -1,0 +1,7316 @@
+Molecular	O
+evolution	O
+and	O
+functional	O
+divergence	O
+of	O
+the	O
+bestrophin	B-GP
+protein	O
+family	O
+
+Background	O
+
+Mutations	O
+in	O
+human	B-OG
+bestrophin	B-GP
+1	I-GP
+are	O
+associated	O
+with	O
+at	O
+least	O
+three	O
+autosomal	B-DS
+-	I-DS
+dominant	I-DS
+macular	I-DS
+dystrophies	I-DS
+including	O
+Best	B-DS
+disease	I-DS
+,	O
+adult	B-DS
+onset	I-DS
+vitelliform	I-DS
+macular	I-DS
+dystrophy	I-DS
+and	O
+autosomal	B-DS
+dominant	I-DS
+vitreo	I-DS
+-	I-DS
+retinochoroidopathy	I-DS
+.	O
+
+The	O
+protein	O
+is	O
+integral	O
+to	O
+the	O
+membrane	O
+and	O
+is	O
+likely	O
+involved	O
+in	O
+Ca2	O
++-	O
+dependent	O
+transport	O
+of	O
+chloride	O
+ions	O
+across	O
+cellular	O
+membranes	O
+.	O
+
+Bestrophin	B-GP
+1	I-GP
+together	O
+with	O
+its	O
+three	O
+homologues	O
+forms	O
+a	O
+phylogenetically	O
+highly	O
+conserved	O
+family	O
+of	O
+proteins	O
+.	O
+
+Results	O
+
+A	O
+bioinformatics	O
+study	O
+was	O
+performed	O
+to	O
+investigate	O
+the	O
+phylogenetic	O
+relationship	O
+among	O
+the	O
+bestrophin	B-GP
+family	O
+members	O
+and	O
+to	O
+statistically	O
+evaluate	O
+sequence	O
+conservation	O
+and	O
+functional	O
+divergence	O
+.	O
+
+Phylogenetic	O
+tree	O
+assembly	O
+with	O
+all	O
+available	O
+eukaryotic	O
+bestrophin	B-GP
+sequences	O
+suggests	O
+gene	O
+duplication	O
+events	O
+in	O
+the	O
+lineage	O
+leading	O
+to	O
+the	O
+vertebrates	B-OG
+.	O
+
+A	O
+common	O
+N	O
+-	O
+terminal	O
+topology	O
+which	O
+includes	O
+four	O
+highly	O
+conserved	O
+transmembrane	O
+domains	O
+is	O
+shared	O
+by	O
+the	O
+members	O
+of	O
+the	O
+four	O
+paralogous	O
+groups	O
+of	O
+vertebrate	B-OG
+bestrophins	B-GP
+and	O
+has	O
+been	O
+constrained	O
+by	O
+purifying	O
+selection	O
+.	O
+
+Pairwise	O
+comparison	O
+shows	O
+that	O
+altered	O
+functional	O
+constraints	O
+have	O
+occurred	O
+at	O
+specific	O
+amino	O
+acid	O
+positions	O
+after	O
+phylogenetic	O
+diversification	O
+of	O
+the	O
+paralogues	O
+.	O
+
+Most	O
+notably	O
+,	O
+significant	O
+functional	O
+divergence	O
+was	O
+found	O
+between	O
+bestrophin	B-GP
+4	I-GP
+and	O
+the	O
+other	O
+family	O
+members	O
+,	O
+as	O
+well	O
+as	O
+between	O
+bestrophin	B-GP
+2	I-GP
+and	O
+bestrophin	B-GP
+3	I-GP
+.	O
+
+Site	O
+-	O
+specific	O
+profiles	O
+were	O
+established	O
+by	O
+posterior	O
+probability	O
+analysis	O
+revealing	O
+significantly	O
+divergent	O
+clusters	O
+mainly	O
+in	O
+two	O
+hydrophilic	O
+loops	O
+and	O
+a	O
+region	O
+immediately	O
+adjacent	O
+to	O
+the	O
+last	O
+predicted	O
+transmembrane	O
+domain	O
+.	O
+
+Strikingly	O
+,	O
+codons	O
+279	O
+and	O
+347	O
+of	O
+human	B-OG
+bestrophin	B-GP
+4	I-GP
+reveal	O
+high	O
+divergence	O
+when	O
+compared	O
+to	O
+the	O
+paralogous	O
+positions	O
+strongly	O
+indicating	O
+the	O
+functional	O
+importance	O
+of	O
+these	O
+residues	O
+for	O
+the	O
+bestrophin	B-GP
+4	I-GP
+protein	O
+.	O
+
+None	O
+of	O
+the	O
+functionally	O
+divergent	O
+amino	O
+acids	O
+were	O
+found	O
+to	O
+reside	O
+within	O
+obvious	O
+sequences	O
+patterns	O
+or	O
+motifs	O
+.	O
+
+Conclusion	O
+
+Our	O
+study	O
+highlights	O
+the	O
+molecular	O
+evolution	O
+of	O
+the	O
+bestrophin	B-GP
+family	O
+of	O
+transmembrane	B-GP
+proteins	I-GP
+and	O
+indicates	O
+amino	O
+acid	O
+residues	O
+likely	O
+relevant	O
+for	O
+distinct	O
+functional	O
+properties	O
+of	O
+the	O
+paralogues	O
+.	O
+
+These	O
+findings	O
+may	O
+provide	O
+a	O
+starting	O
+point	O
+for	O
+further	O
+experimental	O
+verifications	O
+.	O
+
+Background	O
+
+The	O
+bestrophins	B-GP
+are	O
+a	O
+phylogenetically	O
+conserved	O
+family	O
+of	O
+integral	B-GP
+membrane	I-GP
+proteins	I-GP
+initially	O
+identified	O
+in	O
+Caenorhabditis	B-OG
+elegans	I-OG
+[	O
+1	O
+].	O
+
+Homologous	O
+sequences	O
+are	O
+found	O
+in	O
+animals	B-OG
+,	O
+fungi	B-OG
+,	O
+and	O
+prokaryotes	B-OG
+,	O
+but	O
+not	O
+in	O
+protozoans	B-OG
+or	O
+plants	B-OG
+[	O
+2	O
+].	O
+
+Conservation	O
+is	O
+mainly	O
+restricted	O
+to	O
+the	O
+N	O
+-	O
+terminal	O
+350	O
+–	O
+400	O
+amino	O
+acids	O
+with	O
+an	O
+invariant	O
+motif	O
+arginine	O
+-	O
+phenylalanine	O
+-	O
+proline	O
+(	O
+RFP	O
+)	O
+of	O
+unknown	O
+functional	O
+properties	O
+.	O
+
+The	O
+first	O
+human	B-OG
+bestrophin	B-GP
+cloned	O
+,	O
+bestrophin	B-GP
+1	I-GP
+,	O
+is	O
+encoded	O
+by	O
+the	O
+vitelliforme	B-GP
+macular	I-GP
+dystrophy	I-GP
+type	I-GP
+2	I-GP
+(	O
+VMD2	B-GP
+)	O
+gene	O
+on	O
+chromosome	O
+11q13	O
+and	O
+was	O
+shown	O
+to	O
+be	O
+associated	O
+with	O
+Best	B-DS
+macular	I-DS
+dystrophy	I-DS
+(	O
+BMD	B-DS
+,	O
+OMIM	O
+#	O
+153700	O
+)	O
+also	O
+known	O
+as	O
+Best	B-DS
+disease	I-DS
+[	O
+3	O
+,	O
+4	O
+].	O
+
+Subsequently	O
+,	O
+mutations	O
+in	O
+this	O
+gene	O
+were	O
+also	O
+found	O
+to	O
+cause	O
+adult	B-DS
+onset	I-DS
+vitelliform	I-DS
+macular	I-DS
+dystrophy	I-DS
+(	O
+AVMD	B-DS
+,	O
+OMIM	O
+#	O
+608161	O
+)	O
+and	O
+autosomal	B-DS
+dominant	I-DS
+vitreo	I-DS
+-	I-DS
+retinochoroidopathy	I-DS
+(	O
+ADVIRC	B-DS
+,	O
+OMIM	O
+#	O
+193220	O
+).	O
+
+The	O
+currently	O
+known	O
+106	O
+disease	O
+-	O
+causing	O
+mutations	O
+[	O
+5	O
+]	O
+are	O
+associated	O
+with	O
+a	O
+dominant	O
+pattern	O
+of	O
+inheritance	O
+with	O
+the	O
+majority	O
+being	O
+missense	O
+mutations	O
+located	O
+in	O
+four	O
+clusters	O
+near	O
+the	O
+RFP	O
+motif	O
+and	O
+the	O
+predicted	O
+transmembrane	O
+domains	O
+(	O
+TMDs	O
+)	O
+[	O
+6	O
+].	O
+
+Based	O
+on	O
+immunocytochemical	O
+studies	O
+in	O
+macaque	B-OG
+,	O
+porcine	O
+and	O
+human	B-OG
+eyes	O
+,	O
+bestrophin	B-GP
+1	I-GP
+was	O
+shown	O
+to	O
+localize	O
+to	O
+the	O
+basolateral	O
+plasma	O
+membrane	O
+of	O
+the	O
+retinal	O
+pigment	O
+epithelium	O
+(	O
+RPE	O
+)	O
+[	O
+7	O
+,	O
+8	O
+].	O
+
+In	O
+addition	O
+,	O
+bestrophin	B-GP
+1	I-GP
+is	O
+broadly	O
+expressed	O
+in	O
+other	O
+epithelia	O
+including	O
+the	O
+intestine	O
+and	O
+the	O
+lung	O
+[	O
+9	O
+],	O
+whereas	O
+bestrophin	B-GP
+2	I-GP
+expression	O
+appears	O
+confined	O
+to	O
+the	O
+olfactory	O
+epithelium	O
+[	O
+10	O
+].	O
+
+On	O
+the	O
+functional	O
+level	O
+,	O
+whole	O
+cell	O
+patch	O
+clamp	O
+experiments	O
+suggest	O
+that	O
+the	O
+bestrophins	B-GP
+act	O
+as	O
+Ca2	O
++-	O
+dependent	O
+transporters	O
+of	O
+chloride	O
+ions	O
+across	O
+epithelial	O
+borders	O
+[	O
+11	O
+-	O
+16	O
+].	O
+
+Functional	O
+proteins	O
+likely	O
+exist	O
+as	O
+multimeric	O
+complexes	O
+eventually	O
+by	O
+forming	O
+homo	O
+-	O
+or	O
+heteromeric	O
+associations	O
+between	O
+bestrophin	B-GP
+family	O
+members	O
+.	O
+
+Uncertainty	O
+exists	O
+as	O
+to	O
+the	O
+specific	O
+function	O
+of	O
+bestrophin	B-GP
+1	I-GP
+.	O
+
+As	O
+an	O
+alternative	O
+to	O
+its	O
+activity	O
+as	O
+a	O
+chloride	O
+channel	O
+,	O
+bestrophin	B-GP
+1	I-GP
+may	O
+act	O
+as	O
+an	O
+accessory	O
+protein	O
+in	O
+the	O
+regulation	O
+of	O
+voltage	O
+-	O
+gated	O
+calcium	O
+channels	O
+[	O
+17	O
+].	O
+
+In	O
+addition	O
+,	O
+bestrophin	B-GP
+1	I-GP
+could	O
+be	O
+involved	O
+in	O
+the	O
+volume	O
+sensitivity	O
+of	O
+RPE	O
+cells	O
+during	O
+phagocytosis	O
+of	O
+photoreceptor	B-GP
+outer	O
+segments	O
+[	O
+11	O
+].	O
+
+Consequently	O
+,	O
+distinct	O
+functional	O
+aspects	O
+of	O
+bestrophin	B-GP
+1	I-GP
+may	O
+contribute	O
+to	O
+RPE	O
+dysfunction	O
+and	O
+thus	O
+may	O
+explain	O
+the	O
+variable	O
+phenotypes	O
+associated	O
+with	O
+a	O
+mutant	O
+protein	O
+.	O
+
+Phylogenetic	O
+studies	O
+of	O
+protein	O
+families	O
+can	O
+be	O
+a	O
+valuable	O
+tool	O
+to	O
+determine	O
+conserved	O
+but	O
+also	O
+divergent	O
+regions	O
+,	O
+potentially	O
+leading	O
+to	O
+functional	O
+predictions	O
+[	O
+18	O
+].	O
+
+In	O
+this	O
+study	O
+we	O
+elucidated	O
+the	O
+evolutionary	O
+history	O
+of	O
+the	O
+bestrophins	B-GP
+and	O
+identified	O
+structural	O
+and	O
+putative	O
+functional	O
+motifs	O
+of	O
+the	O
+bestrophin	B-GP
+protein	O
+family	O
+by	O
+a	O
+comprehensive	O
+bioinformatics	O
+/	O
+phylogenetic	O
+approach	O
+.	O
+
+This	O
+has	O
+led	O
+us	O
+to	O
+predict	O
+distinct	O
+amino	O
+acid	O
+residues	O
+that	O
+may	O
+be	O
+of	O
+importance	O
+in	O
+the	O
+functional	O
+divergence	O
+of	O
+the	O
+bestrophin	B-GP
+paralogues	O
+.	O
+
+Results	O
+
+Phylogenetic	O
+analysis	O
+of	O
+the	O
+bestrophin	B-GP
+family	O
+
+We	O
+first	O
+retrieved	O
+the	O
+available	O
+bestrophin	B-GP
+sequences	O
+from	O
+the	O
+currently	O
+sequenced	O
+genomes	O
+.	O
+
+Querying	O
+major	O
+databases	O
+and	O
+unfinished	O
+genomes	O
+with	O
+the	O
+full	O
+-	O
+length	O
+amino	O
+acid	O
+sequences	O
+from	O
+the	O
+four	O
+human	B-OG
+bestrophin	B-GP
+paralogues	O
+identified	O
+173	O
+homologous	O
+proteins	O
+in	O
+vertebrates	B-OG
+(	O
+mammals	B-OG
+,	O
+birds	B-OG
+,	O
+amphibians	B-OG
+and	O
+fishes	B-OG
+),	O
+urochordates	B-OG
+(	O
+sea	B-OG
+squirt	I-OG
+),	O
+and	O
+invertebrates	B-OG
+(	O
+insects	B-OG
+,	O
+nematodes	B-OG
+)	O
+(	O
+see	O
+Additional	O
+file	O
+1	O
+).	O
+
+While	O
+C	B-OG
+.	I-OG
+elegans	I-OG
+reveals	O
+a	O
+large	O
+number	O
+of	O
+bestrophins	B-GP
+(	O
+n	O
+=	O
+26	O
+),	O
+most	O
+other	O
+organisms	O
+harbour	O
+three	O
+or	O
+four	O
+family	O
+members	O
+.	O
+
+In	O
+each	O
+of	O
+the	O
+recently	O
+sequenced	O
+genomes	O
+of	O
+the	O
+urochordata	B-OG
+Ciona	B-OG
+inestinalis	I-OG
+and	O
+Ciona	B-OG
+savigny	I-OG
+,	O
+the	O
+closest	O
+relatives	O
+of	O
+the	O
+craniates	B-OG
+,	O
+we	O
+identified	O
+only	O
+a	O
+single	O
+bestrophin	B-GP
+sequence	O
+strongly	O
+suggesting	O
+that	O
+gene	O
+duplication	O
+events	O
+may	O
+have	O
+occurred	O
+in	O
+the	O
+lineage	O
+leading	O
+to	O
+the	O
+vertebrates	B-OG
+.	O
+
+Our	O
+further	O
+study	O
+focused	O
+on	O
+vertebrate	B-OG
+bestrophins	B-GP
+.	O
+
+After	O
+exclusion	O
+of	O
+unfinished	O
+and	O
+partial	O
+protein	O
+sequences	O
+,	O
+a	O
+phylogenetic	O
+tree	O
+with	O
+53	O
+selected	O
+bestrophins	B-GP
+(	O
+Table	O
+1	O
+)	O
+was	O
+constructed	O
+by	O
+the	O
+neighbour	O
+-	O
+joining	O
+(	O
+NJ	O
+)	O
+method	O
+based	O
+on	O
+a	O
+gamma	O
+corrected	O
+Jones	O
+-	O
+Taylor	O
+-	O
+Thornton	O
+(	O
+JTT	O
+)	O
+distance	O
+matrix	O
+[	O
+19	O
+,	O
+20	O
+]	O
+(	O
+Figure	O
+1	O
+).	O
+
+Accordingly	O
+,	O
+the	O
+vertebrate	B-OG
+bestrophins	B-GP
+can	O
+unambiguously	O
+be	O
+separated	O
+into	O
+distinct	O
+clusters	O
+.	O
+
+With	O
+the	O
+urochordata	B-OG
+as	O
+outgroup	O
+,	O
+the	O
+vertebrate	B-OG
+bestrophins	B-GP
+form	O
+four	O
+separate	O
+monophyletic	O
+groups	O
+,	O
+all	O
+with	O
+high	O
+bootstrap	O
+support	O
+indicating	O
+that	O
+the	O
+formation	O
+of	O
+the	O
+paralogous	O
+subfamilies	O
+occurred	O
+before	O
+the	O
+divergence	O
+of	O
+individual	O
+species	O
+(	O
+Figure	O
+1	O
+).	O
+
+The	O
+phylogenetic	O
+branches	O
+of	O
+bestrophins	B-GP
+1	I-GP
+and	O
+3	O
+separated	O
+considerably	O
+earlier	O
+in	O
+evolution	O
+than	O
+bestrophin	B-GP
+subgroups	O
+2	O
+and	O
+4	O
+,	O
+partially	O
+explaining	O
+the	O
+level	O
+of	O
+sequence	O
+conservation	O
+between	O
+each	O
+of	O
+the	O
+two	O
+subfamilies	O
+.	O
+
+The	O
+high	O
+level	O
+of	O
+sequence	O
+identity	O
+within	O
+a	O
+subfamily	O
+suggests	O
+evolutionarily	O
+conserved	O
+functions	O
+.	O
+
+Overall	O
+,	O
+the	O
+data	O
+indicate	O
+that	O
+the	O
+bestrophin	B-GP
+subfamilies	O
+have	O
+evolved	O
+by	O
+gene	O
+duplication	O
+events	O
+,	O
+in	O
+good	O
+agreement	O
+with	O
+previous	O
+findings	O
+demonstrating	O
+that	O
+large	O
+-	O
+scale	O
+gene	O
+duplications	O
+have	O
+occurred	O
+during	O
+chordate	O
+evolution	O
+[	O
+21	O
+,	O
+22	O
+].	O
+
+Vertebrate	B-OG
+bestrophin	B-GP
+homologues	O
+(	O
+n	O
+=	O
+53	O
+)	O
+used	O
+for	O
+phylogenetic	O
+analysis	O
+
+No	O
+.	O
+
+Protein	O
+Name	O
+
+Short	O
+name	O
+
+Organism	O
+
+Taxonomy	O
+
+Amino	O
+acids	O
+
+Gene	O
+bank	O
+identifier	O
+
+cDNA	O
+Acc	O
+.	O
+
+No	O
+.	O
+
+1	O
+
+Bestrophin	B-GP
+1	I-GP
+
+HsB1	O
+
+Homo	O
+sapiens	O
+
+Mammalia	B-OG
+
+585	O
+
+NP_004174	O
+
+AF073501	O
+
+2	O
+
+Bestrophin	B-GP
+2	I-GP
+
+HsB2	O
+
+509	O
+
+AAR99655	O
+
+AY515705	O
+
+3	O
+
+Bestrophin	B-GP
+3	I-GP
+
+HsB3	O
+
+668	O
+
+NP_116124	O
+
+NM_032735	O
+
+4	O
+
+Bestrophin	B-GP
+4	I-GP
+
+HsB4	O
+
+473	O
+
+NP_695006	O
+
+NM_153274	O
+
+5	O
+
+Bestrophin	B-GP
+1	I-GP
+
+PtB1	O
+
+Pan	O
+troglodytes	O
+
+Mammalia	B-OG
+
+585	O
+
+XP_001151529	O
+
+XM_001151529	O
+
+6	O
+
+Bestrophin	B-GP
+2	I-GP
+
+PtB2	O
+
+509	O
+
+XP_512414	O
+
+XM_512414	O
+
+7	O
+
+Bestrophin	B-GP
+3	I-GP
+
+PtB3	O
+
+668	O
+
+XP_522466	O
+
+XM_522466	O
+
+8	O
+
+Bestrophin	B-GP
+4	I-GP
+
+PtB4	O
+
+473	O
+
+XP_524571	O
+
+XM_524571	O
+
+9	O
+
+Bestrophin	B-GP
+1	I-GP
+
+MmB1	O
+
+Macaca	O
+mulatta	O
+
+Mammalia	B-OG
+
+585	O
+
+XP_001116583	O
+
+XM_001116583	O
+
+10	O
+
+Bestrophin	B-GP
+2	I-GP
+
+MmB2	O
+
+509	O
+
+XP_001108800	O
+
+XM_001108800	O
+
+11	O
+
+Bestrophin	B-GP
+3	I-GP
+
+MmB3	O
+
+669	O
+
+XP_001117392	O
+
+XM_001117392	O
+
+12	O
+
+Bestrophin	B-GP
+4	I-GP
+
+MmB4	O
+
+473	O
+
+XP_001098771	O
+
+XM_001098771	O
+
+13	O
+
+Bestrophin	B-GP
+1	I-GP
+
+MfB1	O
+
+Macaca	O
+fascicularis	O
+
+Mammalia	B-OG
+
+585	O
+
+AAQ56049	O
+
+AY357925	O
+
+14	O
+
+Bestrophin	B-GP
+1	I-GP
+
+BtB1	O
+
+Bos	O
+taurus	O
+
+Mammalia	B-OG
+
+589	O
+
+XP_585778	O
+
+XM_585778	O
+
+15	O
+
+Bestrophin	B-GP
+2	I-GP
+
+BtB2	O
+
+528	O
+
+XP_607911	O
+
+XM_607911	O
+
+16	O
+
+Bestrophin	B-GP
+3	I-GP
+
+BtB3	O
+
+369	O
+
+XP_613863	O
+
+XM_613863	O
+
+17	O
+
+Bestrophin	B-GP
+4	I-GP
+
+BtB4	O
+
+467	O
+
+XP_587691	O
+
+XM_587691	O
+
+18	O
+
+Bestrophin	B-GP
+3	I-GP
+
+LaB3	O
+
+Loxodonta	O
+africana	O
+
+Mammalia	B-OG
+
+674	O
+
+ENSLAFP00000000778	O
+
+ENSLAFT00000000928	O
+
+19	O
+
+Bestrophin	B-GP
+2	I-GP
+
+FcB2	O
+
+Felis	O
+catus	O
+
+Mammalia	B-OG
+
+488	O
+
+ENSFCAP00000000436	O
+
+ENSFCAT00000000470	O
+
+20	O
+
+Bestrophin	B-GP
+1	I-GP
+
+CfB1	O
+
+Canis	O
+familiaris	O
+
+Mammalia	B-OG
+
+693	O
+
+XP_540912	O
+
+XM_540912	O
+
+21	O
+
+Bestrophin	B-GP
+2	I-GP
+
+CfB2	O
+
+509	O
+
+XP_542045	O
+
+XM_542045	O
+
+22	O
+
+Bestrophin	B-GP
+4	I-GP
+
+CfB4	O
+
+437	O
+
+XP_539638	O
+
+XM_539638	O
+
+23	O
+
+Bestrophin	B-GP
+1	I-GP
+
+MsB1	O
+
+Mus	O
+musculus	O
+
+Mammalia	B-OG
+
+551	O
+
+NP_036043	O
+
+NM_011913	O
+
+24	O
+
+Bestrophin	B-GP
+2	I-GP
+
+MsB2	O
+
+508	O
+
+AAS09923	O
+
+AY450428	O
+
+25	O
+
+Bestrophin	B-GP
+3	I-GP
+
+MsB3	O
+
+669	O
+
+NP_001007584	O
+
+NM_001007583	O
+
+26	O
+
+Bestrophin	B-GP
+1	I-GP
+
+RnB1	O
+
+Rattus	O
+norvegicus	O
+
+Mammalia	B-OG
+
+550	O
+
+NP_001011940	O
+
+NM_001011940	O
+
+27	O
+
+Bestrophin	B-GP
+2	I-GP
+
+RnB2	O
+
+508	O
+
+XP_001070841	O
+
+XM_001070841	O
+
+28	O
+
+Bestrophin	B-GP
+3	I-GP
+
+RnB3	O
+
+672	O
+
+XP_235161	O
+
+XM_235161	O
+
+29	O
+
+Bestrophin	B-GP
+4	I-GP
+
+RnB4	O
+
+454	O
+
+XP_001066317	O
+
+XM_001066317	O
+
+30	O
+
+Bestrophin	B-GP
+1	I-GP
+
+MdB1	B-GP
+
+Monodelphis	O
+domestica	O
+
+Mammalia	B-OG
+
+467	O
+
+XP_001363751	O
+
+XM_001363714	O
+
+31	O
+
+Bestrophin	B-GP
+3	I-GP
+
+MdB3	O
+
+676	O
+
+XP_001369557	O
+
+XM_001369520	O
+
+32	O
+
+Bestrophin	B-GP
+4	I-GP
+
+MdB4	O
+
+487	O
+
+XP_001376079	O
+
+XM_001376042	O
+
+33	O
+
+Bestrophin	B-GP
+4	I-GP
+
+OgB4	O
+
+Otolemur	O
+garnettii	O
+
+Mammalia	B-OG
+
+471	O
+
+ENSOGAP00000006199	O
+
+ENSOGAT00000006927	O
+
+34	O
+
+Bestrophin	B-GP
+4	I-GP
+
+MlB4	O
+
+Myotis	O
+lucifugus	O
+
+Mammalia	B-OG
+
+473	O
+
+ENSMLUP00000001435	O
+
+ENSMLUT00000001564	O
+
+35	O
+
+Bestrophin	B-GP
+3	I-GP
+
+OaB3	B-GP
+
+Ornithorhynchus	O
+anatinus	O
+
+675	O
+
+ENSOANP00000009484	O
+
+ENSOANT00000009486	O
+
+36	O
+
+Bestrophin	B-GP
+1	I-GP
+
+GgB1	O
+
+Gallus	O
+gallus	O
+
+Aves	O
+
+762	O
+
+XP_421055	O
+
+XM_421055	O
+
+37	O
+
+Bestrophin	B-GP
+3	I-GP
+
+GgB3	O
+
+669	O
+
+XP_416091	O
+
+XM_416091	O
+
+38	O
+
+Bestrophin	B-GP
+4	I-GP
+
+GgB4	O
+
+488	O
+
+XP_001234941	O
+
+XM_001234940	O
+
+39	O
+
+Bestrophin	B-GP
+1	I-GP
+
+Xt	O
+-	O
+1	O
+
+Xenopus	O
+tropicalis	O
+
+Amphibia	O
+
+419	O
+
+ENSXETP00000014724	O
+
+ENSXETT00000014724	O
+
+40	O
+
+Bestrophin	B-GP
+2	I-GP
+
+Xt	O
+-	O
+2	O
+
+510	O
+
+NP_988974	O
+
+NM_203643	O
+
+41	O
+
+Bestrophin	B-GP
+3	I-GP
+
+Xt	O
+-	O
+3	O
+
+366	O
+
+ENSXETP00000002984	O
+
+ENSXETT00000002984	O
+
+42	O
+
+Bestrophin	B-GP
+4	I-GP
+
+Xt	O
+-	O
+4	O
+
+367	O
+
+ENSXETP00000029791	O
+
+ENSXETT00000029791	O
+
+43	O
+
+Bestrophin	B-GP
+1	I-GP
+
+Tr	O
+-	O
+1	O
+
+Takifugu	O
+rubripes	O
+
+Actinopterygii	B-OG
+
+369	O
+
+SINFRUP00000141703	O
+
+SINFRUT00000141703	O
+
+44	O
+
+Bestrophin	B-GP
+2	I-GP
+
+Tr	O
+-	O
+2	O
+
+431	O
+
+SINFRUP00000151123	O
+
+SINFRUT00000151123	O
+
+45	O
+
+Bestrophin	B-GP
+3	I-GP
+
+Tr	O
+-	O
+3	O
+
+407	O
+
+SINFRUP00000181928	O
+
+SINFRUT00000182495	O
+
+46	O
+
+Bestrophin	B-GP
+4	I-GP
+
+Tr	O
+-	O
+4	O
+
+370	O
+
+SINFRUP00000134584	O
+
+SINFRUT00000134584	O
+
+47	O
+
+Bestrophin	B-GP
+1	I-GP
+
+DrB1	O
+
+Danio	O
+rerio	O
+
+Actinopterygii	B-OG
+
+367	O
+
+XP_689098	O
+
+XM_684006	O
+
+48	O
+
+Bestrophin	B-GP
+2	I-GP
+
+DrB2	O
+
+589	O
+
+XP_695597	O
+
+XM_690505	O
+
+49	O
+
+Bestrophin	B-GP
+1	I-GP
+
+Tn	B-GP
+-	I-GP
+1	I-GP
+
+Tetraodon	O
+igrovoridis	O
+
+Actinopterygii	B-OG
+
+572	O
+
+CAG08784	O
+
+CAAE01015000	O
+
+50	O
+
+Bestrophin	B-GP
+2	I-GP
+
+Tn	O
+-	O
+2	O
+
+431	O
+
+CAG03298	O
+
+CAAE01014712	O
+
+51	O
+
+Bestrophin	B-GP
+2	I-GP
+
+Ga	B-GP
+-	I-GP
+2	I-GP
+
+Gasterosteus	O
+culeatus	O
+
+Actinopterygii	B-OG
+
+368	O
+
+ENSGACP00000025248	O
+
+ENSGACT00000025297	O
+
+52	O
+
+Bestrophin	B-GP
+3	I-GP
+
+Ga	O
+-	O
+3	O
+
+367	O
+
+ENSGACP00000019354	O
+
+ENSGACT00000019392	O
+
+53	O
+
+Bestrophin	B-GP
+1	I-GP
+
+Ol	O
+-	O
+1	O
+
+Oryzias	O
+latipes	O
+
+Actinopterygii	B-OG
+
+454	O
+
+ENSORLP00000007714	O
+
+ENSORLT00000007715	O
+
+Phylogenetic	O
+tree	O
+of	O
+53	O
+homologues	O
+of	O
+vertebrate	B-OG
+bestrophins	B-GP
+.	O
+
+The	O
+phylogenetic	O
+tree	O
+of	O
+the	O
+bestrophin	B-GP
+protein	O
+family	O
+was	O
+inferred	O
+by	O
+the	O
+neighbor	O
+-	O
+joining	O
+method	O
+(	O
+NJ	O
+)	O
+method	O
+applying	O
+gamma	O
+corrected	O
+distances	O
+.	O
+
+Urochordata	B-OG
+(	O
+Ciona	B-OG
+intestinalis	I-OG
+[	O
+Ci	B-OG
+]	O
+and	O
+Ciona	B-OG
+savigny	I-OG
+[	O
+Cs	B-OG
+])	O
+were	O
+used	O
+as	O
+out	O
+-	O
+group	O
+.	O
+
+The	O
+support	O
+for	O
+each	O
+phylogenetic	O
+group	O
+was	O
+tested	O
+with	O
+1000	O
+bootstrap	O
+pseudoreplicates	O
+.	O
+
+Protein	O
+sequences	O
+are	O
+given	O
+in	O
+Table	O
+1	O
+.	O
+
+N	O
+-	O
+terminal	O
+topology	O
+of	O
+the	O
+vertebrate	B-OG
+bestrophins	B-GP
+
+We	O
+next	O
+analyzed	O
+whether	O
+the	O
+strong	O
+sequence	O
+conservation	O
+between	O
+the	O
+N	O
+-	O
+terminal	O
+regions	O
+of	O
+the	O
+vertebrate	B-OG
+bestrophins	B-GP
+also	O
+predicts	O
+a	O
+common	O
+topology	O
+.	O
+
+Putative	O
+transmembrane	O
+domains	O
+and	O
+hydrophobic	O
+regions	O
+were	O
+modelled	O
+in	O
+silico	O
+(	O
+Figure	O
+2	O
+).	O
+
+Hydropathy	O
+plotting	O
+of	O
+53	O
+bestrophins	B-GP
+(	O
+orthologues	O
+and	O
+paralogues	O
+,	O
+Table	O
+1	O
+)	O
+revealed	O
+six	O
+hydrophobic	O
+regions	O
+including	O
+four	O
+putative	O
+transmembrane	O
+domains	O
+with	O
+hydropathy	O
+values	O
+reaching	O
+or	O
+above	O
+the	O
+threshold	O
+of	O
+1	O
+.	O
+6	O
+(	O
+Figure	O
+2	O
+).	O
+
+These	O
+four	O
+hydrophobic	O
+peaks	O
+are	O
+strongly	O
+conserved	O
+in	O
+the	O
+vertebrate	B-OG
+bestrophins	B-GP
+suggesting	O
+membrane	O
+insertion	O
+of	O
+all	O
+bestrophin	B-GP
+family	O
+members	O
+similar	O
+to	O
+bestrophin	B-GP
+1	I-GP
+[	O
+23	O
+].	O
+
+Average	O
+hydropathy	O
+plot	O
+of	O
+53	O
+homologues	O
+of	O
+vertebrate	B-OG
+bestrophins	B-GP
+.	O
+
+Hydropathy	O
+plot	O
+was	O
+generated	O
+from	O
+53	O
+protein	O
+sequences	O
+as	O
+given	O
+in	O
+Table	O
+1	O
+.	O
+
+A	O
+threshold	O
+value	O
+of	O
+1	O
+.	O
+6	O
+is	O
+marked	O
+by	O
+the	O
+dotted	O
+line	O
+.	O
+
+Positive	O
+values	O
+indicate	O
+hydrophobic	O
+regions	O
+.	O
+
+Putative	O
+transmembrane	O
+domains	O
+were	O
+determined	O
+by	O
+the	O
+TOPPRED	O
+II	O
+algorithm	O
+and	O
+are	O
+depicted	O
+as	O
+gray	O
+and	O
+white	O
+boxes	O
+on	O
+the	O
+top	O
+.	O
+
+Variable	O
+selective	O
+pressures	O
+among	O
+amino	O
+acid	O
+sites	O
+
+To	O
+analyze	O
+positive	O
+or	O
+negative	O
+selection	O
+of	O
+specific	O
+amino	O
+acid	O
+regions	O
+within	O
+the	O
+full	O
+-	O
+length	O
+protein	O
+sequences	O
+of	O
+mammalian	O
+bestrophins	B-GP
+,	O
+substitution	O
+rate	O
+ratios	O
+of	O
+non	O
+-	O
+synonymous	O
+(	O
+dN	O
+)	O
+versus	O
+synonymous	O
+(	O
+dS	O
+)	O
+mutations	O
+(	O
+dN	O
+/	O
+dS	O
+or	O
+ω	O
+)	O
+were	O
+calculated	O
+for	O
+vertebrate	B-OG
+bestrophins	B-GP
+as	O
+given	O
+in	O
+Table	O
+1	O
+.	O
+
+A	O
+dN	O
+/	O
+dS	O
+value	O
+<	O
+1	O
+is	O
+indicative	O
+of	O
+purifying	O
+selection	O
+acting	O
+against	O
+amino	O
+acid	O
+changes	O
+,	O
+whereas	O
+dN	O
+/	O
+dS	O
+values	O
+>	O
+1	O
+indicate	O
+an	O
+excess	O
+of	O
+amino	O
+acid	O
+changes	O
+suggesting	O
+adaptive	O
+evolution	O
+[	O
+24	O
+,	O
+25	O
+].	O
+
+Amino	O
+acids	O
+in	O
+a	O
+protein	O
+sequence	O
+are	O
+expected	O
+to	O
+be	O
+under	O
+different	O
+selective	O
+pressure	O
+and	O
+to	O
+have	O
+different	O
+underlying	O
+dN	O
+/	O
+dS	O
+ratios	O
+.	O
+
+Table	O
+2	O
+shows	O
+that	O
+the	O
+ratio	O
+values	O
+for	O
+the	O
+vertebrate	B-OG
+bestrophins	B-GP
+are	O
+substantially	O
+lower	O
+than	O
+1	O
+suggesting	O
+that	O
+the	O
+N	O
+-	O
+termini	O
+of	O
+mammalian	O
+bestrophins	B-GP
+within	O
+each	O
+subgroup	O
+were	O
+under	O
+strong	O
+purifying	O
+selection	O
+pressure	O
+.	O
+
+In	O
+order	O
+to	O
+test	O
+for	O
+positive	O
+selection	O
+at	O
+individual	O
+amino	O
+acid	O
+codons	O
+,	O
+the	O
+site	O
+-	O
+specific	O
+models	O
+implemented	O
+in	O
+codeml	O
+were	O
+used	O
+.	O
+
+Likelihood	O
+rate	O
+tests	O
+(	O
+LRTs	O
+)	O
+were	O
+performed	O
+between	O
+model	O
+M0	O
+(	O
+one	O
+ratio	O
+)	O
+and	O
+M3	O
+(	O
+discrete	O
+),	O
+M1a	O
+(	O
+nearly	O
+neutral	O
+)	O
+and	O
+M2a	O
+(	O
+positive	O
+selection	O
+),	O
+and	O
+M7	O
+(	O
+beta	O
+)	O
+and	O
+M8	O
+(	O
+beta	O
+and	O
+ω	O
+)	O
+(	O
+Table	O
+2	O
+).	O
+
+The	O
+selection	O
+model	O
+(	O
+M2a	O
+)	O
+does	O
+not	O
+suggest	O
+presence	O
+of	O
+positively	O
+selected	O
+sites	O
+(	O
+P	O
+=	O
+1	O
+).	O
+
+M0	O
+was	O
+rejected	O
+when	O
+compared	O
+to	O
+M3	O
+(	O
+P	O
+<	O
+0	O
+.	O
+001	O
+),	O
+although	O
+no	O
+positively	O
+selected	O
+sites	O
+were	O
+detected	O
+.	O
+
+This	O
+could	O
+be	O
+explained	O
+by	O
+the	O
+fact	O
+that	O
+the	O
+majority	O
+of	O
+the	O
+protein	O
+is	O
+subjected	O
+to	O
+constant	O
+purifying	O
+selection	O
+,	O
+while	O
+a	O
+few	O
+sites	O
+undergo	O
+positive	O
+selection	O
+[	O
+26	O
+].	O
+
+From	O
+the	O
+three	O
+models	O
+which	O
+allow	O
+for	O
+selection	O
+to	O
+be	O
+tested	O
+(	O
+M2a	O
+,	O
+M3	O
+and	O
+M8	O
+),	O
+only	O
+M8	O
+was	O
+significantly	O
+favoured	O
+over	O
+M7	O
+(	O
+P	O
+<	O
+0	O
+.	O
+001	O
+)	O
+and	O
+detected	O
+44	O
+sites	O
+at	O
+the	O
+95	O
+%	O
+level	O
+(	O
+Table	O
+2	O
+).	O
+
+This	O
+provides	O
+evidence	O
+for	O
+the	O
+Darwinian	O
+selection	O
+in	O
+vertebrate	B-OG
+bestrophins	B-GP
+.	O
+
+Likelihood	O
+values	O
+and	O
+parameter	O
+estimates	O
+for	O
+the	O
+vertebrate	B-OG
+bestrophin	B-GP
+genes	O
+
+Model	O
+
+dN	O
+/	O
+dSa	O
+
+Estimates	O
+of	O
+parametersb	O
+
+l	O
+
+Positively	O
+Selected	O
+Sitesc	O
+
+M0	O
+(	O
+one	O
+-	O
+ratio	O
+)	O
+
+0	O
+.	O
+053	O
+
+ω	O
+=	O
+0	O
+.	O
+053	O
+
+-	O
+22547	O
+.	O
+97	O
+
+not	O
+allowed	O
+
+M1a	O
+(	O
+nearly	O
+neutral	O
+)	O
+
+0	O
+.	O
+084	O
+
+p0	O
+=	O
+0	O
+.	O
+964	O
+,	O
+(	O
+p1	O
+=	O
+0	O
+.	O
+036	O
+)(	O
+ω0	O
+=	O
+0	O
+.	O
+050	O
+),	O
+(	O
+ω1	O
+=	O
+1	O
+)	O
+
+-	O
+22443	O
+.	O
+90	O
+
+not	O
+allowed	O
+
+M2a	O
+(	O
+positive	O
+selection	O
+)	O
+
+0	O
+.	O
+084	O
+
+p0	O
+=	O
+0	O
+.	O
+964	O
+,	O
+p1	O
+=	O
+0	O
+.	O
+002	O
+,	O
+(	O
+p2	O
+=	O
+0	O
+.	O
+033	O
+)(	O
+ω0	O
+=	O
+0	O
+.	O
+050	O
+),	O
+(	O
+ω1	O
+=	O
+1	O
+),	O
+ω2	O
+=	O
+1	O
+
+-	O
+22443	O
+.	O
+90	O
+
+not	O
+found	O
+
+M3	O
+(	O
+discrete	O
+)	O
+
+0	O
+.	O
+058	O
+
+p0	O
+=	O
+0	O
+.	O
+529	O
+,	O
+p1	O
+=	O
+0	O
+.	O
+355	O
+,	O
+(	O
+p2	O
+=	O
+0	O
+.	O
+115	O
+)	O
+ω0	O
+=	O
+0	O
+.	O
+011	O
+,	O
+ω1	O
+=	O
+0	O
+.	O
+073	O
+,	O
+ω2	O
+=	O
+0	O
+.	O
+230	O
+
+-	O
+22016	O
+.	O
+13	O
+
+not	O
+found	O
+
+M7	O
+(	O
+beta	O
+)	O
+
+0	O
+.	O
+063	O
+
+p	O
+=	O
+0	O
+.	O
+598	O
+,	O
+q	O
+=	O
+8	O
+.	O
+411	O
+
+-	O
+22007	O
+.	O
+24	O
+
+not	O
+allowed	O
+
+M8	O
+(	O
+beta	O
+&	O
+ω	O
+)	O
+
+0	O
+.	O
+220	O
+
+p0	O
+=	O
+1	O
+,	O
+(	O
+p1	O
+=	O
+0	O
+)	O
+p	O
+=	O
+0	O
+.	O
+685	O
+,	O
+q	O
+=	O
+1	O
+.	O
+988	O
+,	O
+ω	O
+=	O
+4	O
+.	O
+997	O
+
+-	O
+19662	O
+.	O
+03	O
+
+8	O
+,	O
+25	O
+,	O
+40	O
+,	O
+41	O
+,	O
+42	O
+,	O
+44	O
+,	O
+45	O
+*,	O
+48	O
+,	O
+49	O
+,	O
+52	O
+*,	O
+53	O
+,	O
+55	O
+,	O
+56	O
+,	O
+57	O
+,	O
+60	O
+*,	O
+61	O
+*,	O
+67	O
+,	O
+71	O
+,	O
+95	O
+,	O
+108	O
+,	O
+113	O
+,	O
+117	O
+,	O
+120	O
+,	O
+154	O
+,	O
+159	O
+,	O
+165	O
+*,	O
+170	O
+,	O
+173	O
+,	O
+175	O
+,	O
+193	O
+,	O
+197	O
+,	O
+207	O
+*,	O
+209	O
+*,	O
+216	O
+,	O
+219	O
+,	O
+261	O
+,	O
+263	O
+*,	O
+265	O
+*,	O
+331	O
+*,	O
+340	O
+,	O
+341	O
+,	O
+342	O
+,	O
+344	O
+,	O
+354	O
+*	O
+
+a	O
+The	O
+dN	O
+/	O
+dS	O
+ratio	O
+is	O
+an	O
+average	O
+over	O
+all	O
+sites	O
+of	O
+bestrophin	B-GP
+gene	O
+alignments	O
+.	O
+
+b	O
+Parameters	O
+in	O
+parentheses	O
+are	O
+not	O
+free	O
+parameters	O
+.	O
+
+c	O
+Numbering	O
+of	O
+amino	O
+acid	O
+residues	O
+corresponds	O
+to	O
+human	B-OG
+bestrophin	B-GP
+1	I-GP
+.	O
+
+Positive	O
+selection	O
+sites	O
+with	O
+posterior	O
+probabilities	O
+>	O
+95	O
+%	O
+are	O
+shown	O
+in	O
+bold	O
+.	O
+
+*	O
+The	O
+amino	O
+acid	O
+residues	O
+depicted	O
+with	O
+an	O
+asterisk	O
+were	O
+also	O
+found	O
+to	O
+be	O
+implicated	O
+in	O
+the	O
+functional	O
+divergence	O
+between	O
+bestrophin	B-GP
+paralogues	O
+(	O
+see	O
+Table	O
+4	O
+).	O
+
+Analysis	O
+of	O
+functional	O
+divergence	O
+
+To	O
+further	O
+investigate	O
+whether	O
+amino	O
+acid	O
+substitutions	O
+in	O
+the	O
+highly	O
+conserved	O
+N	O
+-	O
+termini	O
+of	O
+the	O
+bestrophins	B-GP
+could	O
+have	O
+caused	O
+adaptive	O
+functional	O
+diversification	O
+,	O
+amino	O
+acid	O
+residues	O
+1	O
+–	O
+367	O
+from	O
+53	O
+vertebrate	B-OG
+bestrophins	B-GP
+(	O
+Table	O
+1	O
+)	O
+were	O
+used	O
+for	O
+posterior	O
+analysis	O
+by	O
+the	O
+DIVERGE	O
+program	O
+algorithms	O
+[	O
+27	O
+,	O
+28	O
+].	O
+
+Pairwise	O
+comparisons	O
+of	O
+paralogous	O
+bestrophins	B-GP
+from	O
+subfamilies	O
+1	O
+to	O
+4	O
+were	O
+carried	O
+out	O
+and	O
+the	O
+rate	O
+of	O
+amino	O
+acid	O
+evolution	O
+at	O
+each	O
+sequence	O
+position	O
+was	O
+estimated	O
+.	O
+
+This	O
+identified	O
+residues	O
+potentially	O
+responsible	O
+for	O
+functional	O
+divergence	O
+.	O
+
+The	O
+results	O
+are	O
+given	O
+as	O
+a	O
+coefficient	O
+of	O
+functional	O
+divergence	O
+(	O
+θ	O
+)	O
+with	O
+standard	O
+errors	O
+and	O
+significance	O
+levels	O
+(	O
+Table	O
+3	O
+).	O
+
+Significant	O
+functional	O
+divergence	O
+was	O
+detected	O
+between	O
+bestrophin	B-GP
+2	I-GP
+and	O
+3	O
+(	O
+Pcorr	O
+=	O
+6	O
+.	O
+3	O
+×	O
+10	O
+-	O
+9	O
+)	O
+as	O
+well	O
+as	O
+between	O
+bestrophin	B-GP
+4	I-GP
+and	O
+the	O
+other	O
+bestrophin	B-GP
+subgroups	O
+(	O
+Pcorr	O
+≤	O
+8	O
+.	O
+9	O
+×	O
+10	O
+-	O
+8	O
+).	O
+
+Functional	O
+divergence	O
+estimated	O
+in	O
+53	O
+vertebrate	B-OG
+bestrophin	B-GP
+paralogues	O
+
+Comparison	O
+
+θa	O
+
+SEb	O
+(	O
+θ	O
+)	O
+
+LRTc	O
+(	O
+θ	O
+)	O
+
+Pd	O
+
+Probability	O
+cutoffe	O
+
+Best1	B-GP
+vs	O
+Best2	B-GP
+
+0	O
+.	O
+097	O
+
+0	O
+.	O
+076	O
+
+1	O
+.	O
+640	O
+
+0	O
+.	O
+024541	O
+
+-	O
+
+Best1	B-GP
+vs	O
+Best3	B-GP
+
+0	O
+.	O
+142	O
+
+0	O
+.	O
+043	O
+
+10	O
+.	O
+762	O
+
+0	O
+.	O
+000488	O
+
+-	O
+
+Best1	B-GP
+vs	O
+Best4	B-GP
+
+0	O
+.	O
+217	O
+
+0	O
+.	O
+039	O
+
+30	O
+.	O
+099	O
+
+8	O
+.	O
+88557e	O
+-	O
+8	O
+
+0	O
+.	O
+70	O
+
+Best2	B-GP
+vs	O
+Best3	B-GP
+
+0	O
+.	O
+380	O
+
+0	O
+.	O
+073	O
+
+27	O
+.	O
+152	O
+
+6	O
+.	O
+32074e	O
+-	O
+9	O
+
+0	O
+.	O
+80	O
+
+Best2	B-GP
+vs	O
+Best4	B-GP
+
+0	O
+.	O
+320	O
+
+0	O
+.	O
+075	O
+
+18	O
+.	O
+120	O
+
+9	O
+.	O
+855e	O
+-	O
+10	O
+
+0	O
+.	O
+64	O
+
+Best3	B-GP
+vs	O
+Best4	B-GP
+
+0	O
+.	O
+260	O
+
+0	O
+.	O
+059	O
+
+19	O
+.	O
+338	O
+
+9	O
+.	O
+477e	O
+-	O
+10	O
+
+0	O
+.	O
+70	O
+
+a	O
+θ	O
+is	O
+the	O
+coefficient	O
+of	O
+functional	O
+divergence	O
+.	O
+
+b	O
+SE	O
+,	O
+standard	O
+error	O
+.	O
+
+c	O
+LRT	O
+(	O
+θ	O
+)	O
+is	O
+a	O
+likelihood	O
+ratio	O
+test	O
+.	O
+
+d	O
+significance	O
+level	O
+(	O
+Pc	O
+)	O
+calculated	O
+by	O
+the	O
+method	O
+of	O
+Fisher	O
+'	O
+s	O
+transformation	O
+and	O
+corrected	O
+by	O
+Bonferroni	O
+.	O
+
+e	O
+Probability	O
+cut	O
+-	O
+off	O
+is	O
+the	O
+minimal	O
+posterior	O
+probaility	O
+for	O
+amino	O
+acids	O
+causing	O
+functional	O
+divergence	O
+.	O
+
+Next	O
+,	O
+single	O
+amino	O
+acid	O
+residues	O
+responsible	O
+for	O
+the	O
+functional	O
+divergence	O
+were	O
+predicted	O
+based	O
+on	O
+site	O
+-	O
+specific	O
+profiles	O
+(	O
+Figure	O
+3A	O
+)	O
+in	O
+combination	O
+with	O
+suitable	O
+cut	O
+-	O
+off	O
+-	O
+values	O
+derived	O
+from	O
+the	O
+posterior	O
+probability	O
+of	O
+each	O
+comparison	O
+(	O
+Table	O
+3	O
+).	O
+
+Residues	O
+predicted	O
+to	O
+be	O
+functionally	O
+divergent	O
+in	O
+bestrophin	B-GP
+,	O
+were	O
+mapped	O
+onto	O
+topology	O
+models	O
+of	O
+human	B-OG
+bestrophins	B-GP
+2	I-GP
+and	O
+4	O
+,	O
+respectively	O
+(	O
+Figure	O
+3b	O
+).	O
+
+The	O
+predicted	O
+functional	O
+sites	O
+are	O
+not	O
+equally	O
+distributed	O
+throughout	O
+the	O
+respective	O
+bestrophin	B-GP
+,	O
+but	O
+instead	O
+are	O
+clustered	O
+in	O
+the	O
+hydrophilic	O
+loops	O
+between	O
+predicted	O
+transmembrane	O
+domains	O
+1	O
+and	O
+2	O
+as	O
+well	O
+as	O
+5	O
+and	O
+6	O
+and	O
+immediately	O
+C	O
+-	O
+terminal	O
+to	O
+transmembrane	O
+domain	O
+6	O
+(	O
+Figure	O
+3B	O
+,	O
+see	O
+Additional	O
+file	O
+2	O
+,	O
+and	O
+Table	O
+4	O
+).	O
+
+Despite	O
+the	O
+high	O
+global	O
+sequence	O
+identity	O
+of	O
+mammalian	O
+bestrophins	B-GP
+2	I-GP
+and	O
+3	O
+,	O
+functionally	O
+divergent	O
+amino	O
+acids	O
+were	O
+also	O
+identified	O
+between	O
+these	O
+bestrophins	B-GP
+.	O
+
+For	O
+example	O
+,	O
+at	O
+position	O
+264	O
+(	O
+numbered	O
+according	O
+to	O
+bestrophin	B-GP
+1	I-GP
+)	O
+the	O
+tyrosine	O
+residue	O
+is	O
+completely	O
+conserved	O
+within	O
+bestrophin	B-GP
+1	I-GP
+,	O
+2	O
+and	O
+3	O
+paralogues	O
+but	O
+highly	O
+divergent	O
+in	O
+bestrophin	B-GP
+4	I-GP
+paralogues	O
+.	O
+
+Similarly	O
+,	O
+residue	O
+331	O
+(	O
+numbered	O
+according	O
+to	O
+bestrophin	B-GP
+1	I-GP
+)	O
+is	O
+highly	O
+divergent	O
+in	O
+bestrophin	B-GP
+1	I-GP
+,	O
+2	O
+and	O
+3	O
+paralogues	O
+but	O
+strictly	O
+conserved	O
+in	O
+bestrophins	B-GP
+4	I-GP
+(	O
+Figure	O
+3B	O
+,	O
+see	O
+Additional	O
+file	O
+2	O
+,	O
+and	O
+Table	O
+4	O
+).	O
+
+We	O
+thus	O
+speculate	O
+that	O
+these	O
+two	O
+sites	O
+may	O
+be	O
+of	O
+functional	O
+importance	O
+for	O
+the	O
+respective	O
+bestrophin	B-GP
+subfamilies	O
+.	O
+
+In	O
+addition	O
+,	O
+11	O
+out	O
+of	O
+44	O
+positively	O
+selected	O
+sites	O
+detected	O
+by	O
+LRT	O
+in	O
+codeml	O
+were	O
+also	O
+found	O
+to	O
+be	O
+functionally	O
+divergent	O
+between	O
+bestrophin	B-GP
+paralogues	O
+(	O
+marked	O
+by	O
+asterisk	O
+in	O
+Table	O
+4	O
+).	O
+
+Site	O
+specific	O
+profiles	O
+for	O
+evolutionary	O
+rate	O
+changes	O
+in	O
+the	O
+vertebrate	B-OG
+bestrophin	B-GP
+protein	O
+family	O
+.	O
+A	O
+,	O
+The	O
+posterior	O
+probabilities	O
+of	O
+functional	O
+divergence	O
+for	O
+vertebrate	B-OG
+bestrophins	B-GP
+1	I-GP
+to	O
+4	O
+were	O
+obtained	O
+with	O
+Diverge	O
+[	O
+27	O
+].	O
+
+Individual	O
+cut	O
+-	O
+off	O
+values	O
+for	O
+each	O
+comparison	O
+are	O
+marked	O
+with	O
+red	O
+horizontal	O
+lines	O
+.	O
+B	O
+,	O
+Residues	O
+with	O
+predicted	O
+functional	O
+divergence	O
+between	O
+bestrophin	B-GP
+subfamilies	O
+are	O
+mapped	O
+onto	O
+the	O
+membrane	O
+topology	O
+models	O
+of	O
+bestrophin	B-GP
+4	I-GP
+(	O
+top	O
+)	O
+and	O
+bestrophin	B-GP
+2	I-GP
+(	O
+bottom	O
+).	O
+
+Divergent	O
+amino	O
+acids	O
+are	O
+shown	O
+and	O
+listed	O
+in	O
+Table	O
+4	O
+.	O
+
+In	O
+the	O
+model	O
+drawing	O
+,	O
+residues	O
+excluded	O
+from	O
+the	O
+analysis	O
+are	O
+depicted	O
+in	O
+gray	O
+.	O
+
+Amino	O
+acid	O
+changes	O
+associated	O
+with	O
+the	O
+divergence	O
+of	O
+human	B-OG
+bestrophins	B-GP
+
+Comparison	O
+
+Codon	O
+position	O
+in	O
+human	B-OG
+Best1a	B-GP
+
+Codon	O
+position	O
+and	O
+amino	O
+acid	O
+residueb	O
+
+Codon	O
+position	O
+and	O
+amino	O
+acid	O
+residueb	O
+
+Protein	O
+domainc	O
+
+Best1	B-GP
+vs	O
+.	O
+Best4	B-GP
+
+in	O
+vertebrate	B-OG
+Best1	B-GP
+
+in	O
+vertebrate	B-OG
+Best4	B-GP
+
+
+264	O
+
+264	O
+:	O
+Y	O
+,	O
+conserved	O
+
+279	O
+:	O
+P	O
+,	O
+Q	O
+,	O
+S	O
+,	O
+L	O
+,	O
+E	O
+,	O
+G	O
+or	O
+Y	O
+
+Loop	O
+3	O
+
+265	O
+*	O
+
+265	O
+:	O
+P	O
+,	O
+conserved	O
+
+280	O
+:	O
+A	O
+,	O
+T	O
+,	O
+Q	O
+,	O
+E	O
+or	O
+K	O
+
+Loop	O
+3	O
+
+266	O
+
+266	O
+:	O
+G	O
+,	O
+conserved	O
+
+281	O
+:	O
+L	O
+,	O
+A	O
+,	O
+V	O
+,	O
+P	O
+,	O
+K	O
+,	O
+E	O
+or	O
+D	O
+
+Loop	O
+3	O
+
+267	O
+
+267	O
+:	O
+H	O
+,	O
+conserved	O
+
+282	O
+:	O
+G	O
+,	O
+W	O
+,	O
+P	O
+or	O
+H	O
+
+Loop	O
+3	O
+
+331	O
+*	O
+
+331	O
+:	O
+R	O
+,	O
+P	O
+,	O
+V	O
+,	O
+I	O
+,	O
+L	O
+or	O
+M	O
+
+346	O
+:	O
+P	O
+,	O
+conserved	O
+
+C	O
+-	O
+terminus	O
+
+343	O
+
+343	O
+:	O
+P	O
+,	O
+conserved	O
+
+358	O
+:	O
+P	O
+,	O
+A	O
+,	O
+F	O
+or	O
+V	O
+
+C	O
+-	O
+terminus	O
+
+349	O
+
+349	O
+:	O
+A	O
+,	O
+conserved	O
+
+364	O
+:	O
+V	O
+,	O
+I	O
+,	O
+L	O
+,	O
+P	O
+,	O
+Q	O
+or	O
+A	O
+
+C	O
+-	O
+terminus	O
+
+
+Best2	B-GP
+vs	O
+Best4	B-GP
+
+in	O
+vertebrate	B-OG
+Best2	B-GP
+
+in	O
+vertebrate	B-OG
+Best4	B-GP
+
+
+45	O
+*	O
+
+45	O
+:	O
+A	O
+,	O
+conserved	O
+
+45	O
+:	O
+V	O
+,	O
+L	O
+,	O
+M	O
+,	O
+F	O
+or	O
+T	O
+
+TMD2	O
+
+52	O
+*	O
+
+52	O
+:	O
+F	O
+,	O
+conserved	O
+
+52	O
+:	O
+L	O
+,	O
+K	O
+,	O
+R	O
+,	O
+C	O
+or	O
+F	O
+
+Loop	O
+1	O
+
+59	O
+
+59	O
+:	O
+K	O
+,	O
+conserved	O
+
+59	O
+:	O
+R	O
+,	O
+K	O
+or	O
+Q	O
+
+Loop	O
+1	O
+
+61	O
+*	O
+
+61	O
+:	O
+Y	O
+,	O
+conserved	O
+
+61	O
+:	O
+V	O
+,	O
+I	O
+,	O
+L	O
+,	O
+M	O
+or	O
+E	O
+
+Loop	O
+1	O
+
+66	O
+
+66	O
+:	O
+V	O
+,	O
+A	O
+or	O
+S	O
+
+66	O
+:	O
+A	O
+,	O
+conserved	O
+
+Loop	O
+1	O
+
+91	O
+
+91	O
+:	O
+N	O
+or	O
+H	O
+
+91	O
+:	O
+N	O
+,	O
+conserved	O
+
+Loop	O
+2	O
+
+106	O
+
+106	O
+:	O
+L	O
+or	O
+V	O
+
+106	O
+:	O
+L	O
+,	O
+conserved	O
+
+Loop	O
+2	O
+
+132	O
+
+132	O
+:	O
+A	O
+,	O
+S	O
+or	O
+C	O
+
+132	O
+:	O
+A	O
+,	O
+conserved	O
+
+Loop	O
+2	O
+
+206	O
+
+206	O
+:	O
+A	O
+,	O
+T	O
+or	O
+S	O
+
+206	O
+:	O
+A	O
+,	O
+conserved	O
+
+Loop	O
+2	O
+
+207	O
+*	O
+
+207	O
+:	O
+L	O
+,	O
+F	O
+or	O
+Y	O
+
+207	O
+:	O
+L	O
+,	O
+conserved	O
+
+Loop	O
+2	O
+
+263	O
+*	O
+
+263	O
+:	O
+G	O
+,	O
+conserved	O
+
+263	O
+:	O
+G	O
+,	O
+E	O
+,	O
+A	O
+or	O
+P	O
+
+Loop	O
+3	O
+
+264	O
+
+264	O
+:	O
+Y	O
+,	O
+conserved	O
+
+279	O
+:	O
+P	O
+,	O
+E	O
+,	O
+Q	O
+,	O
+G	O
+,	O
+S	O
+or	O
+Y	O
+
+Loop	O
+3	O
+
+331	O
+
+331	O
+:	O
+V	O
+,	O
+M	O
+or	O
+P	O
+
+346	O
+:	O
+P	O
+,	O
+conserved	O
+
+C	O
+-	O
+terminus	O
+
+349	O
+
+349	O
+:	O
+A	O
+,	O
+conserved	O
+
+364	O
+:	O
+V	O
+,	O
+P	O
+,	O
+Q	O
+,	O
+L	O
+or	O
+A	O
+
+C	O
+-	O
+terminus	O
+
+
+Best3	B-GP
+vs	O
+Best4	B-GP
+
+in	O
+vertebrate	B-OG
+Best3	B-GP
+
+in	O
+vertebrate	B-OG
+Best4	B-GP
+
+
+60	O
+*	O
+
+60	O
+:	O
+R	O
+,	O
+conserved	O
+
+60	O
+:	O
+Y	O
+,	O
+H	O
+,	O
+R	O
+,	O
+S	O
+or	O
+D	O
+
+Loop	O
+1	O
+
+115	O
+
+115	O
+:	O
+H	O
+,	O
+Q	O
+,	O
+R	O
+or	O
+L	O
+
+115	O
+:	O
+H	O
+,	O
+conserved	O
+
+Loop	O
+2	O
+
+209	O
+*	O
+
+209	O
+:	O
+S	O
+,	O
+T	O
+,	O
+M	O
+or	O
+N	O
+
+209	O
+:	O
+L	O
+,	O
+conserved	O
+
+Loop	O
+2	O
+
+264	O
+
+264	O
+:	O
+Y	O
+,	O
+conserved	O
+
+279	O
+:	O
+P	O
+,	O
+Q	O
+,	O
+S	O
+,	O
+L	O
+,	O
+E	O
+,	O
+G	O
+or	O
+Y	O
+
+Loop	O
+3	O
+
+266	O
+
+266	O
+:	O
+G	O
+,	O
+conserved	O
+
+281	O
+:	O
+L	O
+,	O
+V	O
+,	O
+E	O
+,	O
+P	O
+,	O
+K	O
+,	O
+D	O
+or	O
+A	O
+
+Loop	O
+3	O
+
+331	O
+
+331	O
+:	O
+K	O
+or	O
+R	O
+
+346	O
+:	O
+P	O
+,	O
+conserved	O
+
+C	O
+-	O
+terminus	O
+
+
+Best2	B-GP
+vs	O
+Best3	B-GP
+
+in	O
+vertebrate	B-OG
+Best2	B-GP
+
+in	O
+vertebrate	B-OG
+Best3	B-GP
+
+
+165	O
+*	O
+
+165	O
+:	O
+R	O
+,	O
+conserved	O
+
+165	O
+:	O
+T	O
+,	O
+A	O
+,	O
+P	O
+,	O
+S	O
+or	O
+R	O
+
+Loop	O
+2	O
+
+268	O
+
+268	O
+:	O
+D	O
+,	O
+T	O
+,	O
+S	O
+or	O
+N	O
+
+268	O
+:	O
+D	O
+,	O
+conserved	O
+
+Loop	O
+3	O
+
+333	O
+
+333	O
+:	O
+E	O
+,	O
+conserved	O
+
+333	O
+:	O
+K	O
+,	O
+R	O
+,	O
+E	O
+,	O
+A	O
+,	O
+N	O
+or	O
+T	O
+
+C	O
+-	O
+terminus	O
+
+354	O
+*	O
+
+354	O
+:	O
+Q	O
+,	O
+L	O
+,	O
+D	O
+or	O
+V	O
+
+354	O
+:	O
+Y	O
+,	O
+conserved	O
+
+C	O
+-	O
+terminus	O
+,	O
+AI	O
+domain	O
+
+365	O
+
+366	O
+:	O
+D	O
+,	O
+conserved	O
+
+365	O
+:	O
+Q	O
+,	O
+D	O
+,	O
+E	O
+or	O
+H	O
+
+C	O
+-	O
+terminus	O
+,	O
+AI	O
+domain	O
+
+We	O
+finally	O
+scanned	O
+the	O
+predicted	O
+divergent	O
+amino	O
+acids	O
+and	O
+surrounding	O
+sequences	O
+in	O
+bestrophins	B-GP
+2	I-GP
+and	O
+4	O
+for	O
+the	O
+presence	O
+of	O
+domains	O
+and	O
+functional	O
+sequence	O
+patterns	O
+with	O
+MotifScan	O
+and	O
+InterProScan	O
+.	O
+
+Identity	O
+to	O
+known	O
+protein	O
+motifs	O
+,	O
+except	O
+for	O
+several	O
+short	O
+sequence	O
+tags	O
+including	O
+putative	O
+phosphorylation	O
+sites	O
+,	O
+could	O
+not	O
+be	O
+detected	O
+.	O
+
+Discussion	O
+
+Our	O
+phylogenetic	O
+analysis	O
+suggests	O
+that	O
+the	O
+bestrophins	B-GP
+originated	O
+by	O
+duplication	O
+and	O
+divergence	O
+of	O
+a	O
+common	O
+protein	O
+at	O
+the	O
+base	O
+of	O
+the	O
+eukaryotic	O
+tree	O
+,	O
+some	O
+700	O
+Myr	O
+ago	O
+.	O
+
+Analysis	O
+of	O
+the	O
+bestrophins	B-GP
+from	O
+a	O
+phylogenetic	O
+perspective	O
+may	O
+provide	O
+the	O
+basis	O
+for	O
+understanding	O
+the	O
+functional	O
+diversity	O
+within	O
+this	O
+conserved	O
+protein	O
+family	O
+.	O
+
+Both	O
+small	O
+-	O
+scale	O
+and	O
+large	O
+-	O
+scale	O
+gene	O
+duplications	O
+are	O
+known	O
+to	O
+contribute	O
+to	O
+the	O
+complexity	O
+of	O
+eukaryotic	O
+organisms	O
+[	O
+29	O
+,	O
+30	O
+].	O
+
+The	O
+presence	O
+of	O
+bestrophins	B-GP
+in	O
+prokaryotes	B-OG
+[	O
+2	O
+]	O
+and	O
+their	O
+occurrence	O
+in	O
+phylogenetically	O
+distant	O
+eukaryotic	O
+species	O
+such	O
+as	O
+insects	B-OG
+and	O
+mammals	B-OG
+highlight	O
+their	O
+general	O
+functional	O
+importance	O
+.	O
+
+High	O
+levels	O
+of	O
+sequence	O
+homology	O
+were	O
+generally	O
+found	O
+between	O
+the	O
+N	O
+-	O
+terminal	O
+regions	O
+of	O
+the	O
+bestrophins	B-GP
+,	O
+while	O
+the	O
+C	O
+-	O
+termini	O
+differ	O
+substantially	O
+particularly	O
+between	O
+paralogues	O
+.	O
+
+At	O
+the	O
+N	O
+-	O
+terminal	O
+sequences	O
+,	O
+vertebrate	B-OG
+bestrophins	B-GP
+show	O
+nearly	O
+identical	O
+hydrophobicity	O
+plots	O
+with	O
+four	O
+major	O
+and	O
+two	O
+minor	O
+hydrophobic	O
+peaks	O
+,	O
+indicating	O
+that	O
+they	O
+share	O
+a	O
+highly	O
+similar	O
+membrane	O
+topology	O
+[	O
+16	O
+,	O
+23	O
+].	O
+
+The	O
+hydrophobic	O
+regions	O
+with	O
+high	O
+sequence	O
+conservation	O
+also	O
+seem	O
+to	O
+contribute	O
+to	O
+oligomerization	O
+[	O
+15	O
+,	O
+31	O
+]	O
+and	O
+the	O
+second	O
+putative	O
+transmembrane	O
+domain	O
+is	O
+thought	O
+to	O
+be	O
+especially	O
+important	O
+for	O
+channel	O
+function	O
+[	O
+13	O
+,	O
+14	O
+,	O
+32	O
+].	O
+
+Our	O
+data	O
+and	O
+the	O
+study	O
+by	O
+Hagen	O
+et	O
+al	O
+.	O
+[	O
+2	O
+]	O
+demonstrate	O
+that	O
+the	O
+vertebrate	B-OG
+bestrophins	B-GP
+cluster	O
+in	O
+organismal	O
+groups	O
+,	O
+i	O
+.	O
+e	O
+.	O
+the	O
+homologues	O
+are	O
+more	O
+related	O
+to	O
+each	O
+other	O
+from	O
+different	O
+species	O
+than	O
+to	O
+their	O
+species	O
+-	O
+specific	O
+paralogues	O
+.	O
+
+Whenever	O
+high	O
+quality	O
+genome	O
+sequences	O
+are	O
+available	O
+(	O
+e	O
+.	O
+g	O
+.	O
+human	B-OG
+,	O
+chimp	B-OG
+,	O
+dog	B-OG
+,	O
+rat	B-OG
+,	O
+and	O
+fugu	B-OG
+),	O
+four	O
+bestrophin	B-GP
+paralogues	O
+can	O
+be	O
+identified	O
+.	O
+
+This	O
+strongly	O
+argues	O
+for	O
+a	O
+high	O
+phylogenetic	O
+conservation	O
+of	O
+the	O
+bestrophin	B-GP
+subfamilies	O
+.	O
+
+Missing	O
+paralogues	O
+in	O
+some	O
+species	O
+may	O
+be	O
+due	O
+to	O
+currently	O
+incomplete	O
+genomic	O
+sequences	O
+.	O
+
+One	O
+exception	O
+may	O
+be	O
+X	B-OG
+.	I-OG
+laevis	I-OG
+,	O
+for	O
+which	O
+a	O
+high	O
+quality	O
+genome	O
+sequence	O
+has	O
+already	O
+been	O
+released	O
+but	O
+still	O
+this	O
+species	O
+reveals	O
+only	O
+three	O
+copies	O
+of	O
+bestrophins	B-GP
+,	O
+interestingly	O
+all	O
+highly	O
+similar	O
+to	O
+bestrophin	B-GP
+2	I-GP
+.	O
+
+However	O
+,	O
+as	O
+a	O
+tetraploid	O
+species	O
+,	O
+X	B-OG
+.	I-OG
+laevis	I-OG
+appears	O
+to	O
+have	O
+undergone	O
+unique	O
+evolutionary	O
+changes	O
+.	O
+
+Another	O
+exception	O
+may	O
+be	O
+the	O
+murine	O
+bestrophin	B-GP
+4	I-GP
+(	O
+gene	O
+name	O
+:	O
+VMD2	B-GP
+-	I-GP
+L2	I-GP
+)	O
+which	O
+our	O
+group	O
+has	O
+previously	O
+shown	O
+to	O
+represent	O
+a	O
+functionless	O
+pseudogene	O
+[	O
+33	O
+].	O
+
+In	O
+the	O
+vertebrate	B-OG
+phylogeny	O
+,	O
+bestrophins	B-GP
+1	I-GP
+and	O
+3	O
+have	O
+separated	O
+and	O
+diverged	O
+at	O
+a	O
+higher	O
+rate	O
+than	O
+bestrophins	B-GP
+2	I-GP
+and	O
+4	O
+.	O
+
+To	O
+estimate	O
+the	O
+selection	O
+forces	O
+behind	O
+this	O
+we	O
+calculated	O
+the	O
+substitution	O
+rate	O
+ratios	O
+for	O
+the	O
+four	O
+subgroups	O
+.	O
+
+Calculating	O
+dN	O
+/	O
+dS	O
+ratios	O
+across	O
+the	O
+entire	O
+length	O
+of	O
+the	O
+N	O
+-	O
+terminal	O
+amino	O
+acid	O
+sequences	O
+(	O
+aa1	O
+-	O
+367	O
+),	O
+we	O
+could	O
+not	O
+,	O
+however	O
+,	O
+find	O
+an	O
+indication	O
+for	O
+positive	O
+selection	O
+.	O
+
+In	O
+contrast	O
+,	O
+the	O
+low	O
+dN	O
+/	O
+dS	O
+values	O
+imply	O
+that	O
+a	O
+strong	O
+purifying	O
+selection	O
+may	O
+lead	O
+to	O
+the	O
+high	O
+sequence	O
+conservation	O
+observed	O
+.	O
+
+Examples	O
+such	O
+as	O
+the	O
+chaperonins	B-GP
+[	O
+24	O
+]	O
+show	O
+that	O
+positive	O
+selection	O
+reaches	O
+dN	O
+/	O
+dS	O
+values	O
+well	O
+above	O
+1	O
+for	O
+a	O
+high	O
+selective	O
+pressure	O
+to	O
+fix	O
+amino	O
+acid	O
+substitutions	O
+in	O
+evolution	O
+.	O
+
+Nevertheless	O
+,	O
+we	O
+detected	O
+positive	O
+selection	O
+at	O
+several	O
+amino	O
+acid	O
+sites	O
+located	O
+predominantly	O
+in	O
+the	O
+hydrophilic	O
+regions	O
+of	O
+bestrophin	B-GP
+.	O
+
+Testing	O
+several	O
+models	O
+only	O
+one	O
+(	O
+M7vsM8	O
+)	O
+suggested	O
+positively	O
+selected	O
+sites	O
+with	O
+high	O
+posterior	O
+probabilities	O
+.	O
+
+Another	O
+comparison	O
+(	O
+M0	O
+vs	O
+M3	O
+),	O
+although	O
+significant	O
+failed	O
+to	O
+identify	O
+positively	O
+selected	O
+residues	O
+with	O
+high	O
+posterior	O
+probability	O
+.	O
+
+This	O
+points	O
+to	O
+insufficient	O
+information	O
+from	O
+the	O
+alignments	O
+or	O
+,	O
+alternatively	O
+,	O
+may	O
+be	O
+explained	O
+by	O
+the	O
+fact	O
+that	O
+purifying	O
+selection	O
+in	O
+conserved	O
+regions	O
+could	O
+have	O
+masked	O
+single	O
+diversification	O
+signals	O
+.	O
+
+Posterior	O
+probability	O
+analysis	O
+for	O
+pairwise	O
+comparisons	O
+of	O
+bestrophin	B-GP
+paralogues	O
+identified	O
+significant	O
+functional	O
+divergence	O
+between	O
+bestrophin	B-GP
+2	I-GP
+and	O
+bestrophin	B-GP
+3	I-GP
+as	O
+well	O
+as	O
+between	O
+bestrophin	B-GP
+4	I-GP
+and	O
+its	O
+remaining	O
+paralogues	O
+.	O
+
+Generally	O
+,	O
+the	O
+specific	O
+amino	O
+acid	O
+substitutions	O
+in	O
+the	O
+bestrophin	B-GP
+paralogues	O
+suggest	O
+an	O
+optimization	O
+of	O
+protein	O
+function	O
+,	O
+and	O
+/	O
+or	O
+subfunctionalization	O
+of	O
+the	O
+gene	O
+duplicates	O
+.	O
+
+Eleven	O
+out	O
+of	O
+the	O
+44	O
+positively	O
+selected	O
+sites	O
+were	O
+also	O
+found	O
+to	O
+be	O
+functionally	O
+divergent	O
+between	O
+bestrophins	B-GP
+.	O
+
+The	O
+most	O
+prominent	O
+finding	O
+of	O
+the	O
+posterior	O
+probability	O
+analysis	O
+is	O
+that	O
+bestrophin	B-GP
+4	I-GP
+diverged	O
+significantly	O
+during	O
+evolution	O
+in	O
+a	O
+number	O
+of	O
+amino	O
+acids	O
+from	O
+its	O
+paralogues	O
+.	O
+
+As	O
+shown	O
+previously	O
+[	O
+34	O
+],	O
+bestrophin	B-GP
+4	I-GP
+can	O
+be	O
+activated	O
+by	O
+free	O
+Ca2	O
++	O
+on	O
+the	O
+cytoplasmic	O
+side	O
+although	O
+the	O
+kinetics	O
+of	O
+the	O
+activation	O
+/	O
+deactivation	O
+is	O
+much	O
+slower	O
+than	O
+for	O
+typical	O
+Ca2	O
++-	O
+activated	O
+chloride	O
+currents	O
+[	O
+35	O
+].	O
+
+Furthermore	O
+,	O
+heterologously	O
+expressed	O
+human	B-OG
+bestrophin	B-GP
+4	I-GP
+shows	O
+very	O
+slow	O
+voltage	O
+-	O
+dependant	O
+current	O
+relaxations	O
+,	O
+in	O
+contrast	O
+to	O
+the	O
+lack	O
+of	O
+voltage	O
+-	O
+dependent	O
+current	O
+relaxations	O
+by	O
+human	B-OG
+bestrophin	B-GP
+1	I-GP
+and	O
+2	O
+.	O
+
+These	O
+distinctive	O
+properties	O
+of	O
+bestrophin	B-GP
+4	I-GP
+could	O
+be	O
+attributable	O
+to	O
+the	O
+additional	O
+15	O
+unique	O
+amino	O
+acids	O
+within	O
+the	O
+extracellular	O
+loop	O
+between	O
+putative	O
+transmembrane	O
+domain	O
+5	O
+and	O
+6	O
+.	O
+
+This	O
+loop	O
+contains	O
+three	O
+positively	O
+charged	O
+lysine	O
+residues	O
+(	O
+K266	O
+,	O
+K269	O
+and	O
+K272	O
+)	O
+within	O
+a	O
+proline	O
+rich	O
+region	O
+(	O
+P267	O
+,	O
+P273	O
+,	O
+P277	O
+and	O
+P279	O
+).	O
+
+It	O
+can	O
+be	O
+speculated	O
+that	O
+the	O
+function	O
+of	O
+the	O
+divergent	O
+P279	O
+residue	O
+could	O
+be	O
+to	O
+maintain	O
+structural	O
+or	O
+conformational	O
+stability	O
+of	O
+the	O
+loop	O
+region	O
+.	O
+
+Human	B-OG
+bestrophin	B-GP
+1	I-GP
+and	O
+3	O
+have	O
+considerably	O
+longer	O
+amino	O
+acid	O
+sequences	O
+compared	O
+to	O
+bestrophin	B-GP
+2	I-GP
+and	O
+4	O
+(	O
+585	O
+and	O
+668	O
+vs	O
+509	O
+and	O
+473	O
+aa	O
+).	O
+
+Human	B-OG
+and	O
+mouse	B-OG
+bestrophin	B-GP
+3	I-GP
+,	O
+heterologously	O
+expressed	O
+in	O
+HEK	O
+-	O
+293	O
+cells	O
+,	O
+produce	O
+no	O
+chloride	O
+currents	O
+in	O
+a	O
+physiological	O
+range	O
+[	O
+16	O
+,	O
+36	O
+],	O
+in	O
+contrast	O
+for	O
+example	O
+to	O
+mouse	B-OG
+bestrophin	B-GP
+2	I-GP
+[	O
+13	O
+,	O
+14	O
+].	O
+
+Such	O
+a	O
+functional	O
+divergence	O
+has	O
+been	O
+explained	O
+to	O
+be	O
+mediated	O
+by	O
+an	O
+auto	O
+-	O
+inhibitory	O
+(	O
+AI	O
+)	O
+domain	O
+composed	O
+of	O
+seven	O
+critical	O
+residues	O
+356IPSFLGS362	O
+present	O
+in	O
+mouse	B-OG
+bestrophin	B-GP
+3	I-GP
+[	O
+36	O
+].	O
+
+Interestingly	O
+2	O
+out	O
+of	O
+5	O
+amino	O
+acid	O
+residues	O
+implicated	O
+in	O
+the	O
+functional	O
+divergence	O
+between	O
+bestrophin	B-GP
+2	I-GP
+and	O
+3	O
+are	O
+located	O
+in	O
+close	O
+proximity	O
+to	O
+this	O
+highly	O
+conserved	O
+region	O
+(	O
+Q354	O
+and	O
+D366	O
+in	O
+bestrophin	B-GP
+2	I-GP
+,	O
+respectively	O
+).	O
+
+Conclusion	O
+
+This	O
+study	O
+addresses	O
+the	O
+evolutionary	O
+history	O
+of	O
+the	O
+bestrophin	B-GP
+protein	O
+family	O
+.	O
+
+The	O
+precise	O
+functional	O
+properties	O
+of	O
+the	O
+four	O
+family	O
+members	O
+are	O
+still	O
+unclear	O
+but	O
+may	O
+comprise	O
+activities	O
+as	O
+Ca2	O
++-	O
+activated	O
+chloride	O
+channels	O
+or	O
+aspects	O
+of	O
+Ca2	O
++	O
+channel	O
+regulation	O
+.	O
+
+Functional	O
+divergence	O
+between	O
+the	O
+paralogous	O
+bestrophins	B-GP
+suggests	O
+that	O
+the	O
+bestrophin	B-GP
+family	O
+members	O
+have	O
+evolved	O
+different	O
+functional	O
+properties	O
+after	O
+gene	O
+duplication	O
+events	O
+which	O
+have	O
+occurred	O
+early	O
+in	O
+the	O
+vertebrate	B-OG
+lineage	O
+.	O
+
+This	O
+is	O
+most	O
+evident	O
+for	O
+bestrophin	B-GP
+4	I-GP
+where	O
+a	O
+number	O
+of	O
+experimental	O
+studies	O
+provide	O
+further	O
+support	O
+for	O
+the	O
+in	O
+silico	O
+data	O
+.	O
+
+Our	O
+study	O
+also	O
+demonstrates	O
+that	O
+amino	O
+acids	O
+critical	O
+for	O
+functional	O
+divergence	O
+are	O
+located	O
+in	O
+regions	O
+of	O
+the	O
+proteins	O
+that	O
+are	O
+likely	O
+accessible	O
+to	O
+soluble	O
+ligands	O
+,	O
+supporting	O
+the	O
+biochemical	O
+and	O
+physiological	O
+significance	O
+of	O
+this	O
+prediction	O
+.	O
+
+Methods	O
+
+Data	O
+collection	O
+
+PSI	O
+-	O
+BLAST	O
+and	O
+TBLASTN	O
+searches	O
+with	O
+protein	O
+sequences	O
+of	O
+the	O
+four	O
+human	B-OG
+bestrophins	B-GP
+were	O
+performed	O
+in	O
+protein	O
+databases	O
+or	O
+unfinished	O
+genome	O
+sequencing	O
+projects	O
+at	O
+NCBI	O
+[	O
+37	O
+],	O
+ENSEMBL	O
+[	O
+38	O
+],	O
+the	O
+Sanger	O
+Institute	O
+[	O
+39	O
+],	O
+UCSC	O
+Genome	O
+Bioinformatics	O
+Group	O
+[	O
+40	O
+],	O
+and	O
+the	O
+Joint	O
+Genome	O
+Institute	O
+[	O
+41	O
+].	O
+
+Proteins	O
+identified	O
+by	O
+the	O
+BLAST	O
+search	O
+algorithms	O
+were	O
+considered	O
+as	O
+potential	O
+homologues	O
+when	O
+amino	O
+acid	O
+identity	O
+was	O
+above	O
+25	O
+%	O
+over	O
+a	O
+stretch	O
+of	O
+=	O
+200	O
+amino	O
+acids	O
+.	O
+
+After	O
+removal	O
+of	O
+expressed	O
+sequence	O
+tags	O
+,	O
+splice	O
+variants	O
+and	O
+redundant	O
+sequences	O
+,	O
+the	O
+initial	O
+data	O
+set	O
+included	O
+173	O
+distinct	O
+sequences	O
+from	O
+43	O
+species	O
+(	O
+see	O
+Additional	O
+file	O
+1	O
+).	O
+
+Sequence	O
+alignment	O
+and	O
+phylogenetic	O
+tree	O
+reconstruction	O
+
+Amino	O
+acid	O
+sequences	O
+were	O
+aligned	O
+with	O
+CLUSTAL	O
+W	O
+(	O
+version	O
+1	O
+.	O
+82	O
+)	O
+[	O
+42	O
+]	O
+and	O
+alignments	O
+were	O
+refined	O
+manually	O
+in	O
+Genedoc	O
+[	O
+43	O
+].	O
+
+Incomplete	O
+sequences	O
+,	O
+and	O
+highly	O
+divergent	O
+regions	O
+or	O
+gaps	O
+resulting	O
+in	O
+uncertain	O
+alignments	O
+were	O
+excluded	O
+from	O
+the	O
+analysis	O
+.	O
+
+The	O
+final	O
+data	O
+set	O
+includes	O
+a	O
+total	O
+of	O
+53	O
+sequences	O
+from	O
+21	O
+vertebrate	B-OG
+species	O
+(	O
+Table	O
+1	O
+).	O
+
+A	O
+total	O
+of	O
+367	O
+N	O
+-	O
+terminal	O
+amino	O
+acids	O
+were	O
+aligned	O
+for	O
+further	O
+studies	O
+.	O
+
+Accurate	O
+nucleotide	O
+alignments	O
+were	O
+obtained	O
+with	O
+PAL2NAL	O
+[	O
+44	O
+],	O
+a	O
+program	O
+which	O
+constructs	O
+multiple	O
+codon	O
+alignments	O
+from	O
+matching	O
+protein	O
+sequences	O
+.	O
+
+ProtTest	O
+v1	O
+.	O
+4	O
+[	O
+45	O
+],	O
+implementing	O
+the	O
+Akaike	O
+Information	O
+criterion	O
+(	O
+AIC	O
+)	O
+was	O
+used	O
+to	O
+estimate	O
+the	O
+most	O
+appropriate	O
+model	O
+of	O
+amino	O
+acid	O
+substitution	O
+for	O
+tree	O
+building	O
+analyses	O
+.	O
+
+The	O
+best	O
+fit	O
+model	O
+of	O
+protein	O
+evolution	O
+for	O
+the	O
+bestrophin	B-GP
+protein	O
+family	O
+according	O
+to	O
+ProtTest	O
+corresponds	O
+to	O
+a	O
+JTT	O
++	O
+I	O
++	O
+G	O
++	O
+F	O
+model	O
+[	O
+19	O
+].	O
+
+Tree	O
+reconstructions	O
+were	O
+done	O
+by	O
+the	O
+Neighbor	O
+-	O
+joining	O
+method	O
+(	O
+NJ	O
+)	O
+[	O
+20	O
+]	O
+from	O
+the	O
+protein	O
+alignment	O
+done	O
+in	O
+the	O
+MEGA	O
+v3	O
+.	O
+1	O
+software	O
+package	O
+,	O
+with	O
+the	O
+gamma	O
+distribution	O
+model	O
+implemented	O
+to	O
+account	O
+for	O
+heterogeneity	O
+among	O
+sites	O
+[	O
+46	O
+],	O
+and	O
+rooted	O
+with	O
+the	O
+bestrophins	B-GP
+from	O
+Urohordata	O
+.	O
+
+The	O
+shape	O
+parameter	O
+of	O
+the	O
+gamma	O
+distribution	O
+(	O
+α	O
+)	O
+was	O
+estimated	O
+using	O
+baseml	O
+from	O
+the	O
+PAMLv4	O
+.	O
+0	O
+[	O
+47	O
+]	O
+to	O
+be	O
+α	O
+=	O
+0	O
+.	O
+51	O
+.	O
+
+Support	O
+for	O
+each	O
+phylogenetic	O
+group	O
+was	O
+tested	O
+using	O
+1	O
+,	O
+000	O
+bootstrap	O
+pseudoreplicates	O
+.	O
+
+Tree	O
+topology	O
+assessed	O
+by	O
+maximum	O
+parsimony	O
+(	O
+using	O
+Mega	O
+v3	O
+.	O
+1	O
+),	O
+was	O
+substantial	O
+similar	O
+with	O
+the	O
+NJ	O
+tree	O
+.	O
+
+Topological	O
+structure	O
+prediction	O
+
+Topological	O
+structure	O
+prediction	O
+was	O
+done	O
+with	O
+the	O
+TOPPRED	O
+II	O
+software	O
+[	O
+48	O
+],	O
+which	O
+is	O
+based	O
+on	O
+the	O
+Kyte	O
+and	O
+Doolittle	O
+algorithm	O
+[	O
+49	O
+].	O
+
+The	O
+average	O
+hydrophobicity	O
+values	O
+of	O
+putative	O
+transmembrane	O
+domains	O
+of	O
+20	O
+–	O
+23	O
+amino	O
+acid	O
+residues	O
+were	O
+calculated	O
+according	O
+the	O
+Eisenberg	O
+scale	O
+[	O
+50	O
+].	O
+
+An	O
+average	O
+hydropathy	O
+plot	O
+of	O
+53	O
+bestrophin	B-GP
+-	O
+related	O
+protein	O
+sequences	O
+was	O
+generated	O
+by	O
+the	O
+PEPWINDOWALL	O
+program	O
+with	O
+a	O
+window	O
+of	O
+19	O
+amino	O
+acids	O
+[	O
+49	O
+].	O
+
+Positive	O
+selection	O
+assessment	O
+
+DNA	O
+sequences	O
+and	O
+related	O
+multiple	O
+protein	O
+sequence	O
+alignments	O
+were	O
+submitted	O
+to	O
+the	O
+PAL2NAL	O
+web	O
+server	O
+[	O
+51	O
+]	O
+which	O
+converts	O
+a	O
+multiple	O
+sequence	O
+alignment	O
+of	O
+proteins	O
+and	O
+the	O
+corresponding	O
+DNA	O
+sequences	O
+into	O
+a	O
+codon	O
+alignment	O
+.	O
+
+The	O
+resulting	O
+codon	O
+alignments	O
+and	O
+NJ	O
+tree	O
+were	O
+used	O
+in	O
+the	O
+program	O
+codeml	O
+from	O
+the	O
+PAMLv4	O
+.	O
+0	O
+software	O
+package	O
+[	O
+47	O
+]	O
+to	O
+calculate	O
+the	O
+dN	O
+/	O
+dS	O
+(	O
+or	O
+ω	O
+)	O
+ratio	O
+for	O
+each	O
+site	O
+and	O
+to	O
+test	O
+different	O
+evolutionary	O
+models	O
+.	O
+
+The	O
+site	O
+specific	O
+models	O
+recommended	O
+by	O
+Anisimova	O
+et	O
+al	O
+.	O
+[	O
+26	O
+]	O
+were	O
+tested	O
+:	O
+Model	O
+M0	O
+(	O
+one	O
+ratio	O
+),	O
+M1a	O
+(	O
+nearly	O
+neutral	O
+),	O
+M2a	O
+(	O
+positive	O
+selection	O
+),	O
+M3	O
+(	O
+discrete	O
+),	O
+M7	O
+(	O
+beta	O
+)	O
+and	O
+M8	O
+(	O
+beta	O
++	O
+ω	O
+).	O
+
+Model	O
+M0	O
+assumed	O
+a	O
+constant	O
+ω	O
+-	O
+ratio	O
+,	O
+while	O
+in	O
+models	O
+M1a	O
+and	O
+M2a	O
+ω	O
+-	O
+ratio	O
+is	O
+estimated	O
+from	O
+the	O
+date	O
+(	O
+0	O
+<	O
+ω0	O
+<	O
+1	O
+)	O
+while	O
+ω1	O
+=	O
+1	O
+is	O
+fixed	O
+.	O
+
+M7	O
+and	O
+M8	O
+assume	O
+a	O
+β	O
+-	O
+distribution	O
+for	O
+the	O
+ω	O
+-	O
+value	O
+between	O
+0	O
+and	O
+1	O
+.	O
+
+Models	O
+M2a	O
+,	O
+M3	O
+,	O
+and	O
+M8	O
+allow	O
+the	O
+occurrence	O
+of	O
+positively	O
+selected	O
+sites	O
+(	O
+ω	O
+>	O
+1	O
+).	O
+
+Subsequent	O
+likelihood	O
+rate	O
+comparisons	O
+of	O
+M0	O
+with	O
+M3	O
+,	O
+M1a	O
+with	O
+M2a	O
+,	O
+and	O
+M7	O
+with	O
+M8	O
+,	O
+respectively	O
+,	O
+were	O
+performed	O
+to	O
+test	O
+which	O
+model	O
+fits	O
+the	O
+data	O
+significantly	O
+better	O
+.	O
+
+Twice	O
+the	O
+difference	O
+in	O
+log	O
+likelihood	O
+between	O
+the	O
+models	O
+is	O
+compared	O
+with	O
+a	O
+chi	O
+-	O
+square	O
+distribution	O
+with	O
+n	O
+degrees	O
+of	O
+freedom	O
+,	O
+n	O
+being	O
+the	O
+difference	O
+between	O
+the	O
+numbers	O
+of	O
+parameters	O
+of	O
+the	O
+two	O
+models	O
+.	O
+
+Functional	O
+divergence	O
+and	O
+detection	O
+of	O
+amino	O
+acids	O
+critical	O
+for	O
+altered	O
+functional	O
+constraints	O
+
+Bestrophin	B-GP
+sequence	O
+duplication	O
+events	O
+were	O
+tested	O
+for	O
+type	O
+I	O
+functional	O
+divergence	O
+[	O
+52	O
+]	O
+based	O
+on	O
+the	O
+method	O
+by	O
+Gu	O
+et	O
+al	O
+[	O
+27	O
+].	O
+
+The	O
+analysis	O
+was	O
+carried	O
+out	O
+with	O
+Diverge	O
+(	O
+version	O
+2	O
+.	O
+0	O
+)	O
+[	O
+28	O
+].	O
+
+This	O
+method	O
+is	O
+based	O
+on	O
+maximum	O
+likelihood	O
+procedures	O
+to	O
+estimate	O
+significant	O
+changes	O
+in	O
+the	O
+rate	O
+of	O
+evolution	O
+after	O
+the	O
+emergence	O
+of	O
+two	O
+paralogous	O
+sequences	O
+.	O
+
+Type	O
+I	O
+sites	O
+represent	O
+amino	O
+acid	O
+residues	O
+conserved	O
+in	O
+one	O
+subfamily	O
+but	O
+highly	O
+variable	O
+in	O
+another	O
+,	O
+implying	O
+that	O
+these	O
+residues	O
+have	O
+been	O
+subjected	O
+to	O
+different	O
+functional	O
+constraints	O
+.	O
+
+A	O
+set	O
+of	O
+53	O
+protein	O
+sequences	O
+was	O
+included	O
+in	O
+the	O
+study	O
+(	O
+Table	O
+1	O
+,	O
+see	O
+Additional	O
+file	O
+2	O
+).	O
+
+Due	O
+to	O
+gaps	O
+and	O
+a	O
+shorter	O
+length	O
+of	O
+bestrophin	B-GP
+2	I-GP
+and	O
+4	O
+,	O
+a	O
+total	O
+of	O
+15	O
+residues	O
+from	O
+human	B-OG
+bestrophin	B-GP
+4	I-GP
+(	O
+codons	O
+264	O
+–	O
+278	O
+)	O
+and	O
+one	O
+(	O
+codon	O
+356	O
+)	O
+from	O
+human	B-OG
+bestrophin	B-GP
+2	I-GP
+were	O
+excluded	O
+from	O
+the	O
+analysis	O
+.	O
+
+Consequently	O
+,	O
+each	O
+bestrophin	B-GP
+paralogue	O
+was	O
+restricted	O
+to	O
+367	O
+amino	O
+acid	O
+residues	O
+.	O
+
+A	O
+new	O
+NJ	O
+tree	O
+was	O
+constructed	O
+within	O
+Diverge	O
+with	O
+Poisson	O
+distance	O
+and	O
+re	O
+-	O
+rooted	O
+.	O
+
+The	O
+coefficient	O
+of	O
+functional	O
+divergence	O
+(	O
+θ	O
+)	O
+and	O
+the	O
+posterior	O
+probability	O
+for	O
+the	O
+functional	O
+divergence	O
+were	O
+calculated	O
+for	O
+each	O
+position	O
+in	O
+the	O
+alignment	O
+.	O
+
+To	O
+detect	O
+amino	O
+acid	O
+residues	O
+reflecting	O
+functional	O
+divergence	O
+,	O
+bestrophin	B-GP
+subfamilies	O
+were	O
+pair	O
+-	O
+wise	O
+compared	O
+to	O
+each	O
+other	O
+.	O
+
+The	O
+cut	O
+-	O
+off	O
+value	O
+for	O
+the	O
+posterior	O
+probability	O
+was	O
+determined	O
+by	O
+consecutively	O
+eliminating	O
+the	O
+highest	O
+scoring	O
+residues	O
+from	O
+the	O
+alignment	O
+until	O
+the	O
+coefficient	O
+of	O
+functional	O
+divergence	O
+dropped	O
+to	O
+zero	O
+.	O
+
+Authors	O
+'	O
+contributions	O
+
+VMM	O
+performed	O
+the	O
+bioinformatics	O
+analyses	O
+including	O
+all	O
+sequence	O
+alignments	O
+and	O
+statistical	O
+evaluations	O
+.	O
+
+He	O
+drafted	O
+the	O
+manuscript	O
+.	O
+
+TL	O
+was	O
+involved	O
+in	O
+conceptual	O
+discussions	O
+for	O
+the	O
+entire	O
+study	O
+and	O
+made	O
+major	O
+revisions	O
+to	O
+the	O
+manuscript	O
+.	O
+
+RS	O
+and	O
+KK	O
+contributed	O
+to	O
+the	O
+study	O
+concept	O
+and	O
+corrected	O
+the	O
+manuscript	O
+.	O
+
+BHFW	O
+participated	O
+in	O
+conception	O
+and	O
+design	O
+of	O
+the	O
+study	O
+and	O
+revised	O
+and	O
+finalized	O
+the	O
+manuscript	O
+critically	O
+.	O
+
+All	O
+authors	O
+read	O
+and	O
+approved	O
+the	O
+final	O
+manuscript	O
+.	O
+
+Supplementary	O
+Material	O
+
+Additional	O
+file	O
+1	O
+
+List	O
+of	O
+173	O
+bestrophin	B-GP
+homologues	O
+identified	O
+in	O
+public	O
+databases	O
+.	O
+
+This	O
+table	O
+lists	O
+the	O
+molecular	O
+features	O
+of	O
+all	O
+173	O
+bestrophin	B-GP
+homologues	O
+identified	O
+in	O
+public	O
+databases	O
+.	O
+
+Click	O
+here	O
+for	O
+file	O
+
+Additional	O
+file	O
+2	O
+
+Multiple	O
+sequence	O
+alignment	O
+of	O
+vertebrate	B-OG
+bestrophins	B-GP
+used	O
+for	O
+calculations	O
+of	O
+functional	O
+divergence	O
+.	O
+
+Protein	O
+sequences	O
+of	O
+53	O
+homologues	O
+of	O
+vertebrate	B-OG
+bestrophins	B-GP
+were	O
+aligned	O
+using	O
+the	O
+ClustalW	O
+algorithm	O
+.	O
+
+Shown	O
+is	O
+the	O
+amino	O
+acid	O
+sequence	O
+alignment	O
+after	O
+removal	O
+of	O
+gaps	O
+and	O
+highly	O
+divergent	O
+regions	O
+.	O
+
+Numbering	O
+is	O
+given	O
+according	O
+to	O
+human	B-OG
+bestrophin	B-GP
+1	I-GP
+.	O
+
+Sites	O
+with	O
+predicted	O
+functional	O
+divergence	O
+between	O
+bestrophin	B-GP
+subfamilies	O
+are	O
+highlighted	O
+by	O
+vertical	O
+yellow	O
+boxes	O
+.	O
+
+Click	O
+here	O
+for	O
+file	O
+

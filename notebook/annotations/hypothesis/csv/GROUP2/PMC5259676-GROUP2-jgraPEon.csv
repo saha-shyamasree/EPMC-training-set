@@ -1,0 +1,81 @@
+id,group_id,source,exact,prefix,suffix,anno_type,position_type,start,end,tags,all,origin_tags,comment,user,title,created
+vqC1JL9EEemrhovjUIclhQ,jgraPEon,https://europepmc.org/articles/PMC5259676/,tumour had mean and median BF values corresponding to the slice with the lowest heterogeneity (ID12 and ID4,t in two examinations the whole ,", respectively), while the remai",TextQuoteSelector,TextPositionSelector,37493,37600,NGD,no,NGD,,acct:farheen.s@hypothes.is,Multislice Analysis of Blood Flow Values in CT Perfusion Studies of Lung Cancer.,2019-08-15T10:09:18.640304+00:00
+tm4nOL9EEemT96-q0lgp2w,jgraPEon,https://europepmc.org/articles/PMC5259676/, tumour could be represented by the same slice detected by both μw and Mw values. μw and Mw values never selected the slice with maximum Es and one time selected the slice with minimum Es (ID12 and ID4,ian values. Five times the whole,", for mean and median, respectiv",TextQuoteSelector,TextPositionSelector,29822,30023,NGD,no,NGD,,acct:farheen.s@hypothes.is,Multislice Analysis of Blood Flow Values in CT Perfusion Studies of Lung Cancer.,2019-08-15T10:09:04.779233+00:00
+na7ApL9EEemhvuPIFGffGQ,jgraPEon,https://europepmc.org/articles/PMC5259676/,NSCLC,ith non-small cell lung cancer (,"), but the lack of reproducibili",TextQuoteSelector,TextPositionSelector,14321,14326,MIS_DS,yes,[MIS_DS][ALL],,acct:farheen.s@hypothes.is,Multislice Analysis of Blood Flow Values in CT Perfusion Studies of Lung Cancer.,2019-08-15T10:08:23.382492+00:00
+maLj5r9EEemcWPPIVYcpBw,jgraPEon,https://europepmc.org/articles/PMC5259676/,tumour ,arried out on a wide set of 118 ,"slices, and on corresponding who",TextQuoteSelector,TextPositionSelector,15662,15669,MIS_DS,yes,[MIS_DS][ALL],,acct:farheen.s@hypothes.is,Multislice Analysis of Blood Flow Values in CT Perfusion Studies of Lung Cancer.,2019-08-15T10:08:16.499155+00:00
+i3Tiar9EEemEFQ-t-ReWXQ,jgraPEon,https://europepmc.org/articles/PMC5259676/,hypoperfusion ,yperperfused upper region and a ,in the lower one.Open in a separ,TextQuoteSelector,TextPositionSelector,33821,33835,WT_DS,no,[WT_DS],,acct:farheen.s@hypothes.is,Multislice Analysis of Blood Flow Values in CT Perfusion Studies of Lung Cancer.,2019-08-15T10:07:52.699775+00:00
+hjDqiL9EEembS_fRRorYvA,jgraPEon,https://europepmc.org/articles/PMC5259676/,ID1,"tumorMeasure12345MeasureValue
+r
+","
+E
+s
+
+7.27
+
+7.27
+7.266.75
+6.61
+
+",TextQuoteSelector,TextPositionSelector,25984,25987,WT_GP,no,[WT_GP],,acct:farheen.s@hypothes.is,Multislice Analysis of Blood Flow Values in CT Perfusion Studies of Lung Cancer.,2019-08-15T10:07:43.977021+00:00
+gAHHfL9EEembSk82tQMXsQ,jgraPEon,https://europepmc.org/articles/PMC5259676/,gliomas,with colorectal cancer [37] and , [38] and with tumour staging [3,TextQuoteSelector,TextPositionSelector,21338,21345,CRT_DS,no,CRT_DS,,acct:farheen.s@hypothes.is,Multislice Analysis of Blood Flow Values in CT Perfusion Studies of Lung Cancer.,2019-08-15T10:07:33.609277+00:00
+e3sexL9EEem6_bNWlijr3w,jgraPEon,https://europepmc.org/articles/PMC5259676/,colorectal cancer,erall survival in patients with , [37] and gliomas [38] and with ,TextQuoteSelector,TextPositionSelector,21311,21328,CRT_DS,no,CRT_DS,,acct:farheen.s@hypothes.is,Multislice Analysis of Blood Flow Values in CT Perfusion Studies of Lung Cancer.,2019-08-15T10:07:25.914295+00:00
+dtqKlL9EEemljleT_G6f2g,jgraPEon,https://europepmc.org/articles/PMC5259676/,tumour ,l researchers choose the single ,section based on visual consider,TextQuoteSelector,TextPositionSelector,12139,12146,WS_DS,no,WS_DS,,acct:farheen.s@hypothes.is,Multislice Analysis of Blood Flow Values in CT Perfusion Studies of Lung Cancer.,2019-08-15T10:07:18.155100+00:00
+al_W6L9EEemrO3P89-ypnQ,jgraPEon,https://europepmc.org/articles/PMC5259676/,cancer,he growth of vascularization in , tissues has aroused lively inte,TextQuoteSelector,TextPositionSelector,9571,9577,CRT_DS,no,CRT_DS,,acct:farheen.s@hypothes.is,Multislice Analysis of Blood Flow Values in CT Perfusion Studies of Lung Cancer.,2019-08-15T10:06:57.215385+00:00
+ZIbzqr9EEemK3K9oAi9uZw,jgraPEon,https://europepmc.org/articles/PMC5259676/,vascularization,g or regularizing the growth of , in cancer tissues has aroused l,TextQuoteSelector,TextPositionSelector,9552,9567,WT_DS,no,[WT_DS],,acct:farheen.s@hypothes.is,Multislice Analysis of Blood Flow Values in CT Perfusion Studies of Lung Cancer.,2019-08-15T10:06:47.477813+00:00
+XpiQmL9EEemvp0MupqJOIw,jgraPEon,https://europepmc.org/articles/PMC5259676/,lung cancer, of antiangiogenic therapies in ,", concludes that CTp can detect ",TextQuoteSelector,TextPositionSelector,14484,14495,CRT_DS,yes,[CRT_DS][ALL],,acct:farheen.s@hypothes.is,Multislice Analysis of Blood Flow Values in CT Perfusion Studies of Lung Cancer.,2019-08-15T10:06:37.550174+00:00
+WR8pOL9EEemT9l-e3oorrw,jgraPEon,https://europepmc.org/articles/PMC5259676/,non-small cell lung cancer ,tment response of patients with ,"(NSCLC), but the lack of reprodu",TextQuoteSelector,TextPositionSelector,14293,14320,CRT_DS,yes,[CRT_DS][ALL],,acct:farheen.s@hypothes.is,Multislice Analysis of Blood Flow Values in CT Perfusion Studies of Lung Cancer.,2019-08-15T10:06:28.248271+00:00
+UVp_zL9EEemlDVNNFSh-wA,jgraPEon,https://europepmc.org/articles/PMC5259676/,ID4,"102.4103.793.5
+M
+w
+
+100.1
+10.2
+
+","
+E
+s
+
+7.26
+7.387.317.36
+7.44
+
+E
+",TextQuoteSelector,TextPositionSelector,26391,26394,WT_GP,yes,[WT_GP][ALL],,acct:farheen.s@hypothes.is,Multislice Analysis of Blood Flow Values in CT Perfusion Studies of Lung Cancer.,2019-08-15T10:06:15.209488+00:00
+SicRhL9EEemnYNumaJ6qqA,jgraPEon,https://europepmc.org/articles/PMC5259676/,ID3,"10.8
+99.8
+93.2
+M
+w
+
+102.0
+17.6
+
+","
+E
+s
+7.817.75
+7.89
+7.85
+7.67
+
+E
+",TextQuoteSelector,TextPositionSelector,26249,26252,WT_GP,yes,[WT_GP][ALL],,acct:farheen.s@hypothes.is,Multislice Analysis of Blood Flow Values in CT Perfusion Studies of Lung Cancer.,2019-08-15T10:06:03.132953+00:00
+RKhJOr9EEemPihegOP7H-g,jgraPEon,https://europepmc.org/articles/PMC5259676/, target lesion,"yielded 20 scans, centred on the",", with a z-coverage of 55mm (11 ",TextQuoteSelector,TextPositionSelector,19093,19107,WT_DS,yes,[WT_DS][ALL],,acct:farheen.s@hypothes.is,Multislice Analysis of Blood Flow Values in CT Perfusion Studies of Lung Cancer.,2019-08-15T10:05:54.037135+00:00
+PTJrXr9EEemjCffI7B4QVQ,jgraPEon,https://europepmc.org/articles/PMC5259676/,ID2,"950.945.733.828.4
+M
+w
+41.428.5
+
+","
+E
+s
+8.178.15
+8.22
+8.05
+7.91
+
+E
+",TextQuoteSelector,TextPositionSelector,26109,26112,WT_GP,yes,[WT_GP][ALL],,acct:farheen.s@hypothes.is,Multislice Analysis of Blood Flow Values in CT Perfusion Studies of Lung Cancer.,2019-08-15T10:05:41.457560+00:00
+N3aApr9EEemkt5-ma1V_3Q,jgraPEon,https://europepmc.org/articles/PMC5259676/,tumours,intrinsic characteristic of all ," [9, 10], at several levels, ran",TextQuoteSelector,TextPositionSelector,11214,11221,CRT_DS,yes,[CRT_DS][ALL],,acct:farheen.s@hypothes.is,Multislice Analysis of Blood Flow Values in CT Perfusion Studies of Lung Cancer.,2019-08-15T10:05:31.862283+00:00
+MkZy-L9EEemI9keGKnTICQ,jgraPEon,https://europepmc.org/articles/PMC5259676/,Tumour ," PMC.Go to:Abstract
+Objectives. ",heterogeneity represents a key i,TextQuoteSelector,TextPositionSelector,8012,8019,CRT_DS,yes,[CRT_DS][ALL],,acct:farheen.s@hypothes.is,Multislice Analysis of Blood Flow Values in CT Perfusion Studies of Lung Cancer.,2019-08-15T10:05:23.042517+00:00

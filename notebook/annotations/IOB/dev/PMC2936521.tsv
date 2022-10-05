@@ -1,0 +1,13514 @@
+Longitudinal	O
+Genome	O
+-	O
+Wide	O
+Association	O
+of	O
+Cardiovascular	B-DS
+Disease	I-DS
+Risk	O
+Factors	O
+in	O
+the	O
+Bogalusa	O
+Heart	O
+Study	O
+
+Conceived	O
+and	O
+designed	O
+the	O
+experiments	O
+:	O
+ENS	O
+MK	O
+TL	O
+LP	O
+OTR	O
+RMS	O
+NJS	O
+EJT	O
+GSB	O
+SSM	O
+.	O
+
+Performed	O
+the	O
+experiments	O
+:	O
+ENS	O
+MK	O
+TL	O
+MS	O
+SSM	O
+.	O
+
+Analyzed	O
+the	O
+data	O
+:	O
+ENS	O
+JK	O
+OTR	O
+RMS	O
+SSM	O
+.	O
+
+Contributed	O
+reagents	O
+/	O
+materials	O
+/	O
+analysis	O
+tools	O
+:	O
+WC	O
+MK	O
+JK	O
+TL	O
+LP	O
+OTR	O
+SRS	O
+JSV	O
+GSB	O
+.	O
+
+Wrote	O
+the	O
+paper	O
+:	O
+ENS	O
+TL	O
+OTR	O
+NJS	O
+SSM	O
+.	O
+
+Cardiovascular	B-DS
+disease	I-DS
+(	O
+CVD	B-DS
+)	O
+is	O
+the	O
+leading	O
+cause	O
+of	O
+death	O
+worldwide	O
+.	O
+
+Recent	O
+genome	O
+-	O
+wide	O
+association	O
+(	O
+GWA	O
+)	O
+studies	O
+have	O
+pinpointed	O
+many	O
+loci	O
+associated	O
+with	O
+CVD	B-DS
+risk	O
+factors	O
+in	O
+adults	O
+.	O
+
+It	O
+is	O
+unclear	O
+,	O
+however	O
+,	O
+if	O
+these	O
+loci	O
+predict	O
+trait	O
+levels	O
+at	O
+all	O
+ages	O
+,	O
+if	O
+they	O
+are	O
+associated	O
+with	O
+how	O
+a	O
+trait	O
+develops	O
+over	O
+time	O
+,	O
+or	O
+if	O
+they	O
+could	O
+be	O
+used	O
+to	O
+screen	O
+individuals	O
+who	O
+are	O
+pre	O
+-	O
+symptomatic	O
+to	O
+provide	O
+the	O
+opportunity	O
+for	O
+preventive	O
+measures	O
+before	O
+disease	O
+onset	O
+.	O
+
+We	O
+completed	O
+a	O
+genome	O
+-	O
+wide	O
+association	O
+study	O
+on	O
+participants	O
+in	O
+the	O
+longitudinal	O
+Bogalusa	O
+Heart	O
+Study	O
+(	O
+BHS	O
+)	O
+and	O
+have	O
+characterized	O
+the	O
+association	O
+between	O
+genetic	O
+factors	O
+and	O
+the	O
+development	O
+of	O
+CVD	B-DS
+risk	O
+factors	O
+from	O
+childhood	O
+to	O
+adulthood	O
+.	O
+
+We	O
+report	O
+7	O
+genome	O
+-	O
+wide	O
+significant	O
+associations	O
+involving	O
+CVD	B-DS
+risk	O
+factors	O
+,	O
+two	O
+of	O
+which	O
+have	O
+been	O
+previously	O
+reported	O
+.	O
+
+Top	O
+regions	O
+were	O
+tested	O
+for	O
+replication	O
+in	O
+the	O
+Young	O
+Finns	O
+Study	O
+(	O
+YF	O
+)	O
+and	O
+two	O
+associations	O
+strongly	O
+replicated	O
+:	O
+rs247616	O
+in	O
+CETP	B-GP
+with	O
+HDL	O
+levels	O
+(	O
+combined	O
+P	O
+=	O
+9	O
+.	O
+7	O
+×	O
+10	O
+−	O
+24	O
+),	O
+and	O
+rs445925	O
+at	O
+APOE	B-GP
+with	O
+LDL	O
+levels	O
+(	O
+combined	O
+P	O
+=	O
+8	O
+.	O
+7	O
+×	O
+10	O
+−	O
+19	O
+).	O
+
+We	O
+show	O
+that	O
+SNPs	O
+previously	O
+identified	O
+in	O
+adult	O
+cross	O
+-	O
+sectional	O
+studies	O
+tend	O
+to	O
+show	O
+age	O
+-	O
+independent	O
+effects	O
+in	O
+the	O
+BHS	O
+with	O
+effect	O
+sizes	O
+consistent	O
+with	O
+previous	O
+reports	O
+.	O
+
+Previously	O
+identified	O
+variants	O
+were	O
+associated	O
+with	O
+adult	O
+trait	O
+levels	O
+above	O
+and	O
+beyond	O
+those	O
+seen	O
+in	O
+childhood	O
+;	O
+however	O
+,	O
+variants	O
+with	O
+time	O
+-	O
+dependent	O
+effects	O
+were	O
+also	O
+promising	O
+predictors	O
+.	O
+
+This	O
+is	O
+the	O
+first	O
+GWA	O
+study	O
+to	O
+evaluate	O
+the	O
+role	O
+of	O
+common	O
+genetic	O
+variants	O
+in	O
+the	O
+development	O
+of	O
+CVD	B-DS
+risk	O
+factors	O
+in	O
+children	O
+as	O
+they	O
+advance	O
+through	O
+adulthood	O
+and	O
+highlights	O
+the	O
+utility	O
+of	O
+using	O
+longitudinal	O
+studies	O
+to	O
+identify	O
+genetic	O
+predictors	O
+of	O
+adult	O
+traits	O
+in	O
+children	O
+.	O
+
+Author	O
+Summary	O
+
+We	O
+have	O
+studied	O
+the	O
+association	O
+between	O
+genetic	O
+factors	O
+on	O
+a	O
+whole	O
+genome	O
+level	O
+and	O
+cardiovascular	B-DS
+disease	I-DS
+(	O
+CVD	B-DS
+)	O
+risk	O
+factors	O
+in	O
+a	O
+population	O
+of	O
+individuals	O
+studied	O
+from	O
+childhood	O
+through	O
+adulthood	O
+.	O
+
+The	O
+longitudinal	O
+study	O
+design	O
+has	O
+enabled	O
+the	O
+investigation	O
+of	O
+genetic	O
+variation	O
+influencing	O
+trait	O
+values	O
+over	O
+time	O
+.	O
+
+We	O
+have	O
+identified	O
+DNA	O
+variants	O
+that	O
+are	O
+associated	O
+with	O
+CVD	B-DS
+trait	O
+values	O
+consistently	O
+over	O
+time	O
+,	O
+and	O
+a	O
+second	O
+set	O
+of	O
+variants	O
+that	O
+are	O
+associated	O
+with	O
+CVD	B-DS
+trait	O
+values	O
+in	O
+a	O
+time	O
+-	O
+dependent	O
+manner	O
+.	O
+
+We	O
+also	O
+show	O
+that	O
+variants	O
+previously	O
+identified	O
+in	O
+adult	O
+populations	O
+have	O
+consistent	O
+effects	O
+within	O
+our	O
+population	O
+and	O
+that	O
+these	O
+effects	O
+are	O
+usually	O
+similar	O
+across	O
+childhood	O
+through	O
+adulthood	O
+.	O
+
+The	O
+discovery	O
+of	O
+time	O
+-	O
+dependent	O
+variants	O
+that	O
+influence	O
+CVD	B-DS
+trait	O
+values	O
+over	O
+time	O
+can	O
+potentially	O
+be	O
+used	O
+to	O
+screen	O
+young	O
+individuals	O
+who	O
+are	O
+pre	O
+-	O
+symptomatic	O
+and	O
+provide	O
+the	O
+opportunity	O
+for	O
+preventive	O
+measures	O
+decades	O
+before	O
+disease	O
+onset	O
+.	O
+
+Introduction	O
+
+Cardiovascular	B-DS
+disease	I-DS
+(	O
+CVD	B-DS
+)	O
+affects	O
+over	O
+79	O
+million	O
+people	O
+in	O
+the	O
+United	O
+States	O
+[	O
+1	O
+],	O
+and	O
+is	O
+the	O
+leading	O
+cause	O
+of	O
+death	O
+worldwide	O
+[	O
+2	O
+]–[	O
+4	O
+].	O
+
+Identifying	O
+the	O
+genetic	O
+determinants	O
+of	O
+CVD	B-DS
+can	O
+lead	O
+to	O
+more	O
+effective	O
+diagnostics	O
+,	O
+prognostics	O
+,	O
+therapeutics	O
+,	O
+and	O
+,	O
+ultimately	O
+,	O
+preventive	O
+strategies	O
+.	O
+
+The	O
+best	O
+chance	O
+for	O
+prevention	O
+would	O
+be	O
+to	O
+identify	O
+risk	O
+at	O
+the	O
+earliest	O
+possible	O
+age	O
+.	O
+
+Genome	O
+-	O
+wide	O
+association	O
+(	O
+GWA	O
+)	O
+leveraging	O
+cross	O
+-	O
+sectional	O
+phenotypic	O
+data	O
+has	O
+been	O
+a	O
+particularly	O
+useful	O
+approach	O
+to	O
+identifying	O
+loci	O
+that	O
+influence	O
+many	O
+of	O
+the	O
+quantitative	O
+risk	O
+factors	O
+of	O
+CVD	B-DS
+[	O
+5	O
+]–[	O
+10	O
+],	O
+however	O
+the	O
+use	O
+of	O
+cross	O
+sectional	O
+data	O
+does	O
+not	O
+provide	O
+insight	O
+into	O
+how	O
+such	O
+risk	O
+factors	O
+develop	O
+over	O
+time	O
+.	O
+
+Longitudinal	O
+studies	O
+,	O
+particularly	O
+those	O
+that	O
+begin	O
+in	O
+childhood	O
+,	O
+allow	O
+for	O
+the	O
+identification	O
+of	O
+risk	O
+profiles	O
+of	O
+susceptible	O
+individuals	O
+before	O
+disease	O
+onset	O
+.	O
+
+The	O
+Bogalusa	O
+Heart	O
+Study	O
+(	O
+BHS	O
+)	O
+is	O
+a	O
+longitudinal	O
+study	O
+focused	O
+on	O
+the	O
+early	O
+natural	O
+history	O
+of	O
+CVD	B-DS
+.	O
+
+The	O
+BHS	O
+began	O
+in	O
+1973	O
+and	O
+includes	O
+up	O
+to	O
+9	O
+phenotypic	O
+screenings	O
+in	O
+childhood	O
+(	O
+4	O
+–	O
+17	O
+years	O
+of	O
+age	O
+)	O
+and	O
+up	O
+to	O
+10	O
+adult	O
+(	O
+18	O
+–	O
+48	O
+years	O
+of	O
+age	O
+)	O
+cross	O
+-	O
+sectional	O
+screenings	O
+.	O
+
+We	O
+have	O
+conducted	O
+a	O
+longitudinal	O
+genome	O
+-	O
+wide	O
+association	O
+study	O
+on	O
+a	O
+subset	O
+of	O
+the	O
+total	O
+sample	O
+of	O
+unrelated	O
+individuals	O
+with	O
+a	O
+large	O
+number	O
+of	O
+measurements	O
+(	O
+mean	O
+number	O
+of	O
+measurements	O
+=	O
+8	O
+,	O
+range	O
+=	O
+4	O
+–	O
+13	O
+)	O
+and	O
+are	O
+of	O
+European	O
+Ancestry	O
+(	O
+N	O
+=	O
+525	O
+).	O
+
+Results	O
+
+Longitudinal	O
+GWA	O
+
+We	O
+conducted	O
+a	O
+genome	O
+-	O
+wide	O
+association	O
+study	O
+of	O
+longitudinal	O
+measures	O
+of	O
+12	O
+traits	O
+measured	O
+from	O
+childhood	O
+through	O
+adulthood	O
+on	O
+participants	O
+of	O
+the	O
+BHS	O
+of	O
+European	O
+ancestry	O
+:	O
+anthropomorphic	O
+(	O
+height	O
+,	O
+weight	O
+,	O
+and	O
+waist	O
+circumference	O
+),	O
+blood	O
+pressure	O
+(	O
+BP	O
+)	O
+(	O
+diastolic	O
+and	O
+systolic	O
+BP	O
+),	O
+heart	O
+rate	O
+,	O
+blood	O
+lipids	O
+(	O
+low	O
+density	O
+lipoprotein	O
+cholesterol	O
+(	O
+LDL	O
+),	O
+high	O
+density	O
+lipoprotein	O
+cholesterol	O
+(	O
+HDL	O
+),	O
+total	O
+cholesterol	O
+(	O
+TC	O
+),	O
+and	O
+triglycerides	O
+),	O
+and	O
+metabolic	O
+traits	O
+(	O
+glucose	O
+and	O
+insulin	B-GP
+).	O
+
+Genotyping	O
+was	O
+performed	O
+on	O
+the	O
+Illumina	O
+Human610	O
+and	O
+HumanCVD	O
+BeadChips	O
+[	O
+11	O
+]	O
+for	O
+a	O
+total	O
+of	O
+545	O
+,	O
+821	O
+SNPs	O
+passing	O
+QC	O
+and	O
+allele	O
+frequency	O
+filters	O
+(	O
+see	O
+Materials	O
+and	O
+Methods	O
+).	O
+
+Imputation	O
+was	O
+performed	O
+using	O
+the	O
+CEU	O
+HapMap	O
+2	O
+as	O
+a	O
+reference	O
+population	O
+with	O
+the	O
+computer	O
+program	O
+MACH	O
+v	O
+.	O
+1	O
+.	O
+0	O
+.	O
+16	O
+(	O
+http	O
+://	O
+www	O
+.	O
+sph	O
+.	O
+umich	O
+.	O
+edu	O
+/	O
+csg	O
+/	O
+yli	O
+/	O
+mach	O
+/)	O
+[	O
+12	O
+],	O
+providing	O
+genotype	O
+estimates	O
+for	O
+an	O
+additional	O
+1	O
+,	O
+622	O
+,	O
+114	O
+SNPs	O
+.	O
+
+For	O
+each	O
+SNP	O
+,	O
+we	O
+tested	O
+whether	O
+it	O
+had	O
+an	O
+average	O
+linear	O
+effect	O
+over	O
+time	O
+(	O
+SNP	O
+effect	O
+),	O
+and	O
+whether	O
+it	O
+entered	O
+into	O
+a	O
+time	O
+-	O
+dependent	O
+effect	O
+(	O
+SNPxAGE	O
+interaction	O
+effect	O
+),	O
+such	O
+that	O
+the	O
+genotype	O
+is	O
+associated	O
+with	O
+variation	O
+in	O
+the	O
+linear	O
+trajectory	O
+of	O
+the	O
+trait	O
+from	O
+childhood	O
+through	O
+adulthood	O
+.	O
+
+Both	O
+SNP	O
+and	O
+SNPxAGE	O
+effects	O
+were	O
+calculated	O
+using	O
+linear	O
+mixed	O
+models	O
+as	O
+implemented	O
+in	O
+the	O
+R	O
+nlme	O
+package	O
+[	O
+13	O
+],	O
+adjusting	O
+for	O
+age	O
+and	O
+gender	O
+.	O
+
+Table	O
+1	O
+lists	O
+all	O
+regions	O
+showing	O
+SNP	O
+effect	O
+associations	O
+(	O
+P	O
+<	O
+10	O
+−	O
+6	O
+)	O
+and	O
+Table	O
+2	O
+lists	O
+all	O
+regions	O
+showing	O
+association	O
+(	O
+P	O
+<	O
+10	O
+−	O
+6	O
+)	O
+with	O
+SNPxAGE	O
+effects	O
+.	O
+
+We	O
+analyzed	O
+the	O
+regions	O
+surrounding	O
+the	O
+top	O
+associations	O
+for	O
+consistency	O
+with	O
+recombination	O
+hotspots	O
+and	O
+LD	O
+relationships	O
+(	O
+Figure	O
+S1	O
+)	O
+and	O
+provide	O
+Manhattan	O
+plots	O
+of	O
+each	O
+trait	O
+association	O
+(	O
+Figure	O
+S2	O
+).	O
+
+From	O
+both	O
+sets	O
+of	O
+analyses	O
+,	O
+there	O
+were	O
+5	O
+novel	O
+associations	O
+with	O
+a	O
+P	O
+-	O
+value	O
+less	O
+than	O
+5	O
+×	O
+10	O
+−	O
+8	O
+and	O
+6	O
+novel	O
+regions	O
+where	O
+there	O
+were	O
+at	O
+least	O
+10	O
+genotyped	O
+or	O
+imputed	O
+SNPs	O
+with	O
+P	O
+<	O
+10	O
+−	O
+5	O
+.	O
+
+The	O
+most	O
+significant	O
+association	O
+(	O
+rs7890572	O
+,	O
+P	O
+=	O
+3	O
+.	O
+8	O
+×	O
+10	O
+−	O
+10	O
+)	O
+was	O
+observed	O
+with	O
+a	O
+linear	O
+triglyceride	O
+trajectory	O
+effect	O
+(	O
+i	O
+.	O
+e	O
+.,	O
+SNPxAGE	O
+effect	O
+)	O
+on	O
+the	O
+X	O
+chromosome	O
+within	O
+the	O
+IL1RAPL1	B-GP
+gene	O
+and	O
+near	O
+the	O
+gene	O
+encoding	O
+glycerol	B-GP
+kinase	I-GP
+(	O
+GK	B-GP
+),	O
+in	O
+which	O
+mutations	O
+have	O
+been	O
+implicated	O
+in	O
+pseudo	O
+-	O
+hypertriglyceridemia	B-DS
+,	O
+caused	O
+by	O
+high	O
+levels	O
+of	O
+glycerol	O
+creating	O
+measurement	O
+artifacts	O
+in	O
+the	O
+triglyceride	O
+assay	O
+[	O
+14	O
+].	O
+
+A	O
+novel	O
+association	O
+of	O
+potential	O
+biological	O
+interest	O
+involved	O
+a	O
+SNP	O
+effect	O
+on	O
+insulin	B-GP
+levels	O
+with	O
+variation	O
+in	O
+the	O
+CHN2	B-GP
+locus	O
+(	O
+rs3793275	O
+,	O
+P	O
+=	O
+5	O
+.	O
+8	O
+×	O
+10	O
+−	O
+9	O
+),	O
+a	O
+beta	B-GP
+-	I-GP
+chimerin	I-GP
+that	O
+has	O
+recently	O
+been	O
+described	O
+as	O
+part	O
+of	O
+a	O
+fusion	O
+gene	O
+also	O
+containing	O
+the	O
+insulin	B-GP
+receptor	I-GP
+that	O
+was	O
+shown	O
+to	O
+be	O
+responsible	O
+for	O
+severe	O
+insulin	B-GP
+deficiency	O
+[	O
+15	O
+].	O
+
+This	O
+SNP	O
+is	O
+also	O
+associated	O
+with	O
+glucose	O
+trajectories	O
+in	O
+our	O
+dataset	O
+(	O
+SNPxAGE	O
+;	O
+P	O
+=	O
+1	O
+.	O
+5	O
+×	O
+10	O
+−	O
+7	O
+).	O
+
+In	O
+the	O
+7q11	O
+region	O
+,	O
+25	O
+SNPs	O
+are	O
+associated	O
+(	O
+P	O
+<	O
+10	O
+−	O
+5	O
+)	O
+with	O
+diastolic	O
+BP	O
+(	O
+SNP	O
+effect	O
+;	O
+peak	O
+SNP	O
+rs709595	O
+,	O
+P	O
+=	O
+7	O
+.	O
+0	O
+×	O
+10	O
+−	O
+7	O
+).	O
+
+The	O
+calcitonin	B-GP
+gene	I-GP
+-	I-GP
+related	I-GP
+peptide	I-GP
+receptor	I-GP
+(	O
+CRCP	B-GP
+)	O
+is	O
+approximately	O
+200	O
+kb	O
+from	O
+the	O
+top	O
+SNP	O
+,	O
+but	O
+contains	O
+SNPs	O
+that	O
+are	O
+in	O
+LD	O
+with	O
+the	O
+top	O
+SNP	O
+(	O
+see	O
+Figure	O
+S1	O
+).	O
+
+The	O
+calcitonin	B-GP
+gene	I-GP
+-	I-GP
+related	I-GP
+peptide	I-GP
+is	O
+a	O
+vasodilator	O
+[	O
+16	O
+]	O
+and	O
+its	O
+receptor	O
+CRCP	B-GP
+has	O
+been	O
+previously	O
+implicated	O
+in	O
+hypertension	B-DS
+in	O
+a	O
+small	O
+candidate	O
+gene	O
+association	O
+study	O
+of	O
+hypertension	B-DS
+in	O
+Japanese	O
+individuals	O
+[	O
+17	O
+].	O
+
+Top	O
+SNP	O
+effect	O
+GWA	O
+hits	O
+for	O
+12	O
+phenotypes	O
+.	O
+
+Trait	O
+
+Cytoband	O
+
+Gene	O
+(	O
+s	O
+)	O
+
+Top	O
+SNP	O
+,	O
+Alleles	O
+
+#	O
+SNPs	O
+@	O
+P	O
+<	O
+10	O
+−	O
+5	O
+
+Risk	O
+AF	O
+
+Beta	O
+(	O
+SE	O
+)	O
+
+P	O
+
+diastolic	O
+BP	O
+
+5p13	O
+.	O
+3	O
+
+CDH9	O
+/	O
+CDH6	O
+
+rs7704530	O
+G	O
+/	O
+A	O
+
+2	O
+/	O
+3	O
+
+0	O
+.	O
+26	O
+
+8	O
+.	O
+44	O
+(	O
+1	O
+.	O
+57	O
+)	O
+
+1	O
+.	O
+1	O
+×	O
+10	O
+−	O
+7	O
+
+diastolic	O
+BP	O
+
+7q11	O
+.	O
+21	O
+
+TPST1	O
+
+rs709595	O
+C	O
+/	O
+G	O
+
+8	O
+/	O
+17	O
+
+0	O
+.	O
+39	O
+
+7	O
+.	O
+18	O
+(	O
+1	O
+.	O
+43	O
+)	O
+
+7	O
+.	O
+0	O
+×	O
+10	O
+−	O
+7	O
+
+glucose	O
+
+2q24	O
+.	O
+3	O
+
+G6PC2	B-GP
+,	O
+ABCB11	O
+
+rs853773	O
+A	O
+/	O
+G	O
+
+4	O
+/	O
+1	O
+
+0	O
+.	O
+53	O
+
+−	O
+8	O
+.	O
+72	O
+(	O
+1	O
+.	O
+73	O
+)	O
+
+7	O
+.	O
+0	O
+×	O
+10	O
+−	O
+7	O
+
+glucose	O
+
+6q22	O
+.	O
+31	O
+
+NKAIN2	O
+/	O
+RNF217	O
+
+rs781718	O
+*	O
+G	O
+/	O
+A	O
+
+1	O
+/	O
+4	O
+
+0	O
+.	O
+89	O
+
+−	O
+3	O
+.	O
+46	O
+(	O
+0	O
+.	O
+69	O
+)	O
+
+8	O
+.	O
+4	O
+×	O
+10	O
+−	O
+7	O
+
+HDL	O
+-	O
+cholesterol	O
+
+16q12	O
+.	O
+2	O
+
+HERPUD1	O
+/	O
+CETP	B-GP
+
+rs247616	O
+*	O
+T	O
+/	O
+C	O
+
+4	O
+/	O
+2	O
+
+0	O
+.	O
+33	O
+
+3	O
+.	O
+77	O
+(	O
+0	O
+.	O
+75	O
+)	O
+
+6	O
+.	O
+6	O
+×	O
+10	O
+−	O
+7	O
+
+insulin	B-GP
+
+7p14	O
+.	O
+3	O
+
+CHN2	B-GP
+
+rs3793275	O
+*	O
+A	O
+/	O
+T	O
+
+1	O
+/	O
+3	O
+
+0	O
+.	O
+94	O
+
+−	O
+4	O
+.	O
+63	O
+(	O
+0	O
+.	O
+78	O
+)	O
+
+5	O
+.	O
+8	O
+×	O
+10	O
+−	O
+9	O
+
+insulin	B-GP
+
+20p13	O
+
+RNF24	O
+/	O
+SMOX	O
+
+rs6052399	O
+*	O
+T	O
+/	O
+C	O
+
+0	O
+/	O
+1	O
+
+0	O
+.	O
+93	O
+
+−	O
+4	O
+.	O
+55	O
+(	O
+0	O
+.	O
+84	O
+)	O
+
+9	O
+.	O
+8	O
+×	O
+10	O
+−	O
+8	O
+
+insulin	B-GP
+
+6q14	O
+.	O
+1	O
+
+BCKDHB	O
+/	O
+FAM46A	O
+
+rs16892328	O
+*	O
+C	O
+/	O
+T	O
+
+0	O
+/	O
+1	O
+
+0	O
+.	O
+94	O
+
+−	O
+4	O
+.	O
+93	O
+(	O
+0	O
+.	O
+92	O
+)	O
+
+1	O
+.	O
+3	O
+×	O
+10	O
+−	O
+7	O
+
+insulin	B-GP
+
+18p11	O
+.	O
+31	O
+
+MRLC2	O
+/	O
+TGIF1	O
+
+rs1613695	O
+*	O
+G	O
+/	O
+A	O
+
+0	O
+/	O
+1	O
+
+0	O
+.	O
+95	O
+
+−	O
+5	O
+.	O
+68	O
+(	O
+1	O
+.	O
+07	O
+)	O
+
+1	O
+.	O
+7	O
+×	O
+10	O
+−	O
+7	O
+
+insulin	B-GP
+
+14q13	O
+.	O
+3	O
+
+TTC6	O
+/	O
+SSTR1	O
+
+rs10498337	O
+T	O
+/	O
+G	O
+
+1	O
+/	O
+0	O
+
+0	O
+.	O
+81	O
+
+−	O
+9	O
+.	O
+3	O
+(	O
+1	O
+.	O
+87	O
+)	O
+
+8	O
+.	O
+9	O
+×	O
+10	O
+−	O
+7	O
+
+LDL	O
+-	O
+cholesterol	O
+
+21q22	O
+.	O
+11	O
+
+MRPS6	B-GP
+/	O
+KCNE2	B-GP
+
+rs8131349	O
+*	O
+A	O
+/	O
+G	O
+
+0	O
+/	O
+1	O
+
+0	O
+.	O
+06	O
+
+17	O
+.	O
+6	O
+(	O
+3	O
+.	O
+05	O
+)	O
+
+1	O
+.	O
+4	O
+×	O
+10	O
+−	O
+8	O
+
+LDL	O
+-	O
+cholesterol	O
+
+19q13	O
+.	O
+33	O
+
+APOE	B-GP
+/	O
+APOC1	O
+
+rs7412	O
+T	O
+/	O
+C	O
+
+1	O
+/	O
+1	O
+
+0	O
+.	O
+07	O
+
+−	O
+69	O
+.	O
+74	O
+(	O
+12	O
+.	O
+15	O
+)	O
+
+1	O
+.	O
+6	O
+×	O
+10	O
+−	O
+8	O
+
+LDL	O
+-	O
+cholesterol	O
+
+6q22	O
+.	O
+31	O
+
+C6orf170	B-GP
+/	O
+GJA1	B-GP
+
+rs7738656	O
+G	O
+/	O
+A	O
+
+1	O
+/	O
+0	O
+
+0	O
+.	O
+84	O
+
+−	O
+42	O
+.	O
+39	O
+(	O
+8	O
+.	O
+11	O
+)	O
+
+2	O
+.	O
+5	O
+×	O
+10	O
+−	O
+7	O
+
+LDL	O
+-	O
+cholesterol	O
+
+5q33	O
+.	O
+2	O
+
+KIF4B	O
+/	O
+SGCD	O
+
+rs10044666	O
+*	O
+G	O
+/	O
+T	O
+
+1	O
+/	O
+3	O
+
+0	O
+.	O
+72	O
+
+−	O
+8	O
+.	O
+57	O
+(	O
+1	O
+.	O
+68	O
+)	O
+
+4	O
+.	O
+7	O
+×	O
+10	O
+−	O
+7	O
+
+systolic	O
+BP	O
+
+11q24	O
+.	O
+1	O
+
+ASAM	O
+/	O
+GRAMD1B	O
+
+rs11822822	O
+G	O
+/	O
+A	O
+
+2	O
+/	O
+4	O
+
+0	O
+.	O
+24	O
+
+10	O
+.	O
+74	O
+(	O
+2	O
+.	O
+12	O
+)	O
+
+5	O
+.	O
+6	O
+×	O
+10	O
+−	O
+7	O
+
+systolic	O
+BP	O
+
+15q22	O
+.	O
+1	O
+
+RORA	O
+/	O
+VPS13C	O
+
+rs726914	O
+G	O
+/	O
+A	O
+
+2	O
+/	O
+0	O
+
+0	O
+.	O
+62	O
+
+9	O
+.	O
+21	O
+(	O
+1	O
+.	O
+83	O
+)	O
+
+7	O
+.	O
+1	O
+×	O
+10	O
+−	O
+7	O
+
+total	O
+cholesterol	O
+
+21q22	O
+.	O
+11	O
+
+MRPS6	B-GP
+/	O
+KCNE2	B-GP
+
+rs8131349	O
+*	O
+A	O
+/	O
+G	O
+
+2	O
+/	O
+2	O
+
+0	O
+.	O
+06	O
+
+18	O
+.	O
+4	O
+(	O
+3	O
+.	O
+32	O
+)	O
+
+4	O
+.	O
+6	O
+×	O
+10	O
+−	O
+8	O
+
+total	O
+cholesterol	O
+
+4p16	O
+.	O
+1	O
+
+ABLIM2	O
+
+rs6829649	O
+T	O
+/	O
+G	O
+
+1	O
+/	O
+2	O
+
+0	O
+.	O
+87	O
+
+−	O
+50	O
+.	O
+96	O
+(	O
+9	O
+.	O
+42	O
+)	O
+
+9	O
+.	O
+6	O
+×	O
+10	O
+−	O
+8	O
+
+total	O
+cholesterol	O
+
+6q22	O
+.	O
+31	O
+
+C6orf170	B-GP
+/	O
+GJA1	B-GP
+
+rs7738656	O
+G	O
+/	O
+A	O
+
+1	O
+/	O
+1	O
+
+0	O
+.	O
+84	O
+
+−	O
+46	O
+.	O
+21	O
+(	O
+8	O
+.	O
+79	O
+)	O
+
+2	O
+.	O
+1	O
+×	O
+10	O
+−	O
+7	O
+
+total	O
+cholesterol	O
+
+8q24	O
+.	O
+22	O
+
+ST3GAL1	O
+/	O
+ZFAT	B-GP
+
+rs4897695	O
+*	O
+C	O
+/	O
+G	O
+
+1	O
+/	O
+6	O
+
+0	O
+.	O
+91	O
+
+13	O
+.	O
+66	O
+(	O
+2	O
+.	O
+62	O
+)	O
+
+2	O
+.	O
+7	O
+×	O
+10	O
+−	O
+7	O
+
+waist	O
+circumference	O
+
+8q24	O
+.	O
+13	O
+
+MTSS1	O
+/	O
+ZNF572	O
+
+rs891541	O
+*	O
+A	O
+/	O
+G	O
+
+4	O
+/	O
+7	O
+
+0	O
+.	O
+29	O
+
+4	O
+.	O
+55	O
+(	O
+0	O
+.	O
+91	O
+)	O
+
+7	O
+.	O
+7	O
+×	O
+10	O
+−	O
+7	O
+
+A	O
+list	O
+of	O
+all	O
+SNP	O
+effect	O
+P	O
+-	O
+values	O
+less	O
+than	O
+10	O
+−	O
+6	O
+in	O
+the	O
+BHS	O
+.	O
+
+SNP	O
+names	O
+marked	O
+with	O
+an	O
+“*”	O
+are	O
+imputed	O
+,	O
+while	O
+those	O
+that	O
+are	O
+unmarked	O
+are	O
+directly	O
+genotyped	O
+.	O
+
+SNP	O
+alleles	O
+are	O
+reported	O
+as	O
+risk	O
+/	O
+nonrisk	O
+and	O
+are	O
+in	O
+genome	O
+forward	O
+orientation	O
+(	O
+build	O
+36	O
+.	O
+3	O
+).	O
+
+The	O
+number	O
+of	O
+SNPs	O
+@	O
+P	O
+<	O
+10	O
+−	O
+5	O
+corresponds	O
+to	O
+the	O
+number	O
+of	O
+genotyped	O
+/	O
+imputed	O
+SNPs	O
+with	O
+P	O
+<	O
+10	O
+−	O
+5	O
+within	O
+200kb	O
+up	O
+and	O
+downstream	O
+of	O
+the	O
+top	O
+SNP	O
+.	O
+
+Associations	O
+at	O
+P	O
+<	O
+5	O
+×	O
+10	O
+−	O
+8	O
+are	O
+indicated	O
+in	O
+bold	O
+.	O
+
+Top	O
+SNPxAGE	O
+effect	O
+GWA	O
+hits	O
+for	O
+12	O
+phenotypes	O
+.	O
+
+Trait	O
+
+Cytoband	O
+
+Gene	O
+(	O
+s	O
+)	O
+
+Top	O
+SNP	O
+,	O
+Alleles	O
+
+#	O
+SNPs	O
+@	O
+P	O
+<	O
+10	O
+−	O
+5	O
+
+Risk	O
+AF	O
+
+Beta	O
+(	O
+SE	O
+)	O
+
+P	O
+
+distolic	O
+BP	O
+
+14q24	O
+.	O
+3	O
+
+ESRRB	B-GP
+/	O
+VASH1	B-GP
+
+rs17104804	O
+G	O
+/	O
+A	O
+
+1	O
+/	O
+2	O
+
+0	O
+.	O
+92	O
+
+−	O
+0	O
+.	O
+76	O
+(	O
+0	O
+.	O
+15	O
+)	O
+
+5	O
+.	O
+9	O
+×	O
+10	O
+−	O
+7	O
+
+glucose	O
+
+16q21	O
+
+CDH5	O
+/	O
+TK2	O
+
+rs4783595	O
+T	O
+/	O
+C	O
+
+2	O
+/	O
+1	O
+
+0	O
+.	O
+87	O
+
+−	O
+1	O
+.	O
+67	O
+(	O
+0	O
+.	O
+31	O
+)	O
+
+9	O
+.	O
+5	O
+×	O
+10	O
+−	O
+8	O
+
+glucose	O
+
+7p14	O
+.	O
+3	O
+
+CHN2	B-GP
+
+rs3793275	O
+*	O
+A	O
+/	O
+T	O
+
+1	O
+/	O
+3	O
+
+0	O
+.	O
+94	O
+
+−	O
+0	O
+.	O
+61	O
+(	O
+0	O
+.	O
+12	O
+)	O
+
+1	O
+.	O
+5	O
+×	O
+10	O
+−	O
+7	O
+
+glucose	O
+
+Xp22	O
+.	O
+2	O
+
+ATXN3L	O
+/	O
+EGFL6	O
+
+rs5979903	O
+T	O
+/	O
+C	O
+
+1	O
+/	O
+0	O
+
+0	O
+.	O
+06	O
+
+1	O
+.	O
+88	O
+(	O
+0	O
+.	O
+36	O
+)	O
+
+1	O
+.	O
+9	O
+×	O
+10	O
+−	O
+7	O
+
+glucose	O
+
+11q13	O
+.	O
+5	O
+
+WNT11	O
+/	O
+PRKRIR	O
+
+rs12807555	O
+*	O
+G	O
+/	O
+T	O
+
+0	O
+/	O
+1	O
+
+0	O
+.	O
+90	O
+
+−	O
+0	O
+.	O
+47	O
+(	O
+0	O
+.	O
+09	O
+)	O
+
+2	O
+.	O
+7	O
+×	O
+10	O
+−	O
+7	O
+
+glucose	O
+
+17q25	O
+.	O
+1	O
+
+PRPSAP1	O
+/	O
+SPHK1	O
+
+rs9909931	O
+G	O
+/	O
+A	O
+
+2	O
+/	O
+3	O
+
+0	O
+.	O
+19	O
+
+1	O
+.	O
+36	O
+(	O
+0	O
+.	O
+27	O
+)	O
+
+4	O
+.	O
+3	O
+×	O
+10	O
+−	O
+7	O
+
+glucose	O
+
+1q32	O
+.	O
+1	O
+
+PLXNA2	O
+/	O
+LOC642587	O
+
+rs12069004	O
+*	O
+C	O
+/	O
+T	O
+
+0	O
+/	O
+1	O
+
+0	O
+.	O
+91	O
+
+−	O
+0	O
+.	O
+54	O
+(	O
+0	O
+.	O
+11	O
+)	O
+
+5	O
+.	O
+8	O
+×	O
+10	O
+−	O
+7	O
+
+glucose	O
+
+8q24	O
+.	O
+22	O
+
+ZFAT	B-GP
+/	O
+KHDRBS3	O
+
+rs12548494	O
+*	O
+C	O
+/	O
+G	O
+
+0	O
+/	O
+1	O
+
+0	O
+.	O
+93	O
+
+−	O
+0	O
+.	O
+6	O
+(	O
+0	O
+.	O
+12	O
+)	O
+
+7	O
+.	O
+1	O
+×	O
+10	O
+−	O
+7	O
+
+glucose	O
+
+7p21	O
+.	O
+1	O
+
+AHR	O
+/	O
+SNX13	O
+
+rs10260737	O
+G	O
+/	O
+A	O
+
+2	O
+/	O
+12	O
+
+0	O
+.	O
+89	O
+
+−	O
+1	O
+.	O
+77	O
+(	O
+0	O
+.	O
+36	O
+)	O
+
+7	O
+.	O
+3	O
+×	O
+10	O
+−	O
+7	O
+
+glucose	O
+
+8q23	O
+.	O
+2	O
+
+KCNV1	O
+/	O
+CSMD3	O
+
+rs3019325	O
+*	O
+G	O
+/	O
+C	O
+
+0	O
+/	O
+6	O
+
+0	O
+.	O
+70	O
+
+−	O
+0	O
+.	O
+31	O
+(	O
+0	O
+.	O
+06	O
+)	O
+
+7	O
+.	O
+5	O
+×	O
+10	O
+−	O
+7	O
+
+heart	O
+rate	O
+
+3q24	O
+
+RASA2	O
+/	O
+RNF7	O
+
+rs6440031	O
+G	O
+/	O
+A	O
+
+1	O
+/	O
+0	O
+
+0	O
+.	O
+90	O
+
+1	O
+.	O
+33	O
+(	O
+0	O
+.	O
+25	O
+)	O
+
+1	O
+.	O
+8	O
+×	O
+10	O
+−	O
+7	O
+
+heart	O
+rate	O
+
+12q21	O
+.	O
+2	O
+
+NAV3	O
+/	O
+SYT1	O
+
+rs1449460	O
+G	O
+/	O
+A	O
+
+2	O
+/	O
+6	O
+
+0	O
+.	O
+08	O
+
+−	O
+1	O
+.	O
+36	O
+(	O
+0	O
+.	O
+27	O
+)	O
+
+7	O
+.	O
+4	O
+×	O
+10	O
+−	O
+7	O
+
+height	O
+
+11q23	O
+.	O
+3	O
+
+CADM1	B-GP
+/	O
+BUD13	B-GP
+
+rs1144036	O
+C	O
+/	O
+T	O
+
+1	O
+/	O
+0	O
+
+0	O
+.	O
+16	O
+
+1	O
+.	O
+17	O
+(	O
+0	O
+.	O
+23	O
+)	O
+
+2	O
+.	O
+4	O
+×	O
+10	O
+−	O
+7	O
+
+height	O
+
+19q13	O
+.	O
+32	O
+
+PSG3	O
+
+rs8103264	O
+*	O
+C	O
+/	O
+G	O
+
+2	O
+/	O
+10	O
+
+0	O
+.	O
+93	O
+
+−	O
+0	O
+.	O
+38	O
+(	O
+0	O
+.	O
+08	O
+)	O
+
+5	O
+.	O
+6	O
+×	O
+10	O
+−	O
+7	O
+
+insulin	B-GP
+
+12p11	O
+.	O
+23	O
+
+TM7SF3	O
+
+rs1552257	O
+*	O
+C	O
+/	O
+T	O
+
+4	O
+/	O
+10	O
+
+0	O
+.	O
+20	O
+
+0	O
+.	O
+18	O
+(	O
+0	O
+.	O
+04	O
+)	O
+
+7	O
+.	O
+5	O
+×	O
+10	O
+−	O
+7	O
+
+LDL	O
+
+17q22	O
+
+AKAP1	B-GP
+/	O
+MSI2	B-GP
+
+rs8073909	O
+T	O
+/	O
+C	O
+
+1	O
+/	O
+0	O
+
+0	O
+.	O
+64	O
+
+−	O
+1	O
+.	O
+41	O
+(	O
+0	O
+.	O
+27	O
+)	O
+
+1	O
+.	O
+4	O
+×	O
+10	O
+−	O
+7	O
+
+LDL	O
+
+10p13	O
+
+FRMD4A	O
+
+rs11258628	O
+*	O
+A	O
+/	O
+T	O
+
+0	O
+/	O
+1	O
+
+0	O
+.	O
+92	O
+
+−	O
+0	O
+.	O
+69	O
+(	O
+0	O
+.	O
+14	O
+)	O
+
+4	O
+.	O
+1	O
+×	O
+10	O
+−	O
+7	O
+
+systolic	O
+BP	O
+
+19p13	O
+.	O
+3	O
+
+RFX2	O
+
+rs1046391	O
+*	O
+G	O
+/	O
+T	O
+
+0	O
+/	O
+1	O
+
+0	O
+.	O
+86	O
+
+0	O
+.	O
+21	O
+(	O
+0	O
+.	O
+04	O
+)	O
+
+4	O
+.	O
+1	O
+×	O
+10	O
+−	O
+7	O
+
+systolic	O
+BP	O
+
+14q24	O
+.	O
+3	O
+
+ESRRB	B-GP
+/	O
+VASH1	B-GP
+
+rs17104804	O
+G	O
+/	O
+A	O
+
+3	O
+/	O
+5	O
+
+0	O
+.	O
+92	O
+
+−	O
+0	O
+.	O
+91	O
+(	O
+0	O
+.	O
+19	O
+)	O
+
+9	O
+.	O
+3	O
+×	O
+10	O
+−	O
+7	O
+
+total	O
+cholesterol	O
+
+17q22	O
+
+AKAP1	B-GP
+/	O
+MSI2	B-GP
+
+rs8073909	O
+T	O
+/	O
+C	O
+
+1	O
+/	O
+4	O
+
+0	O
+.	O
+64	O
+
+−	O
+1	O
+.	O
+68	O
+(	O
+0	O
+.	O
+31	O
+)	O
+
+6	O
+.	O
+9	O
+×	O
+10	O
+−	O
+8	O
+
+triglycerides	O
+
+Xp21	O
+.	O
+2	O
+
+IL1RAPL1	B-GP
+
+rs7890572	O
+G	O
+/	O
+A	O
+
+5	O
+/	O
+0	O
+
+0	O
+.	O
+07	O
+
+9	O
+.	O
+75	O
+(	O
+1	O
+.	O
+55	O
+)	O
+
+3	O
+.	O
+8	O
+×	O
+10	O
+−	O
+10	O
+
+triglycerides	O
+
+11q23	O
+.	O
+3	O
+
+CADM1	B-GP
+/	O
+BUD13	B-GP
+
+rs12280753	O
+*	O
+T	O
+/	O
+C	O
+
+7	O
+/	O
+11	O
+
+0	O
+.	O
+07	O
+
+2	O
+.	O
+64	O
+(	O
+0	O
+.	O
+47	O
+)	O
+
+1	O
+.	O
+8	O
+×	O
+10	O
+−	O
+8	O
+
+triglycerides	O
+
+9q21	O
+.	O
+2	O
+
+PSAT1	O
+/	O
+CHCHD9	O
+
+rs13290397	O
+*	O
+C	O
+/	O
+G	O
+
+1	O
+/	O
+3	O
+
+0	O
+.	O
+89	O
+
+−	O
+1	O
+.	O
+98	O
+(	O
+0	O
+.	O
+38	O
+)	O
+
+2	O
+.	O
+4	O
+×	O
+10	O
+−	O
+7	O
+
+triglycerides	O
+
+2p16	O
+.	O
+3	O
+
+FSHR	O
+/	O
+NRXN1	O
+
+rs6726786	O
+*	O
+G	O
+/	O
+T	O
+
+1	O
+/	O
+3	O
+
+0	O
+.	O
+89	O
+
+−	O
+2	O
+.	O
+09	O
+(	O
+0	O
+.	O
+41	O
+)	O
+
+2	O
+.	O
+9	O
+×	O
+10	O
+−	O
+7	O
+
+triglycerides	O
+
+3q22	O
+.	O
+3	O
+
+IL20RB	O
+/	O
+SOX14	O
+
+rs12330441	O
+T	O
+/	O
+G	O
+
+2	O
+/	O
+4	O
+
+0	O
+.	O
+93	O
+
+−	O
+9	O
+.	O
+54	O
+(	O
+1	O
+.	O
+86	O
+)	O
+
+3	O
+.	O
+0	O
+×	O
+10	O
+−	O
+7	O
+
+waist	O
+circumference	O
+
+20q13	O
+.	O
+32	O
+
+APCDD1L	O
+/	O
+STX16	O
+
+rs127430	O
+*	O
+G	O
+/	O
+A	O
+
+2	O
+/	O
+13	O
+
+0	O
+.	O
+86	O
+
+−	O
+0	O
+.	O
+33	O
+(	O
+0	O
+.	O
+06	O
+)	O
+
+3	O
+.	O
+3	O
+×	O
+10	O
+−	O
+8	O
+
+waist	O
+circumference	O
+
+11q24	O
+.	O
+1	O
+
+SORL1	O
+/	O
+BLID	O
+
+rs7121446	O
+G	O
+/	O
+A	O
+
+1	O
+/	O
+7	O
+
+0	O
+.	O
+78	O
+
+−	O
+1	O
+.	O
+09	O
+(	O
+0	O
+.	O
+21	O
+)	O
+
+3	O
+.	O
+6	O
+×	O
+10	O
+−	O
+7	O
+
+waist	O
+circumference	O
+
+17p13	O
+.	O
+2	O
+
+SHPK	O
+
+rs7210277	O
+*	O
+C	O
+/	O
+T	O
+
+0	O
+/	O
+1	O
+
+0	O
+.	O
+91	O
+
+−	O
+0	O
+.	O
+39	O
+(	O
+0	O
+.	O
+08	O
+)	O
+
+7	O
+.	O
+0	O
+×	O
+10	O
+−	O
+7	O
+
+waist	O
+circumference	O
+
+10q24	O
+.	O
+2	O
+
+CNNM1	O
+
+rs17568778	O
+C	O
+/	O
+A	O
+
+1	O
+/	O
+0	O
+
+0	O
+.	O
+92	O
+
+−	O
+1	O
+.	O
+55	O
+(	O
+0	O
+.	O
+31	O
+)	O
+
+8	O
+.	O
+2	O
+×	O
+10	O
+−	O
+7	O
+
+weight	O
+
+4q35	O
+.	O
+1	O
+
+ODZ3	O
+
+rs6552560	O
+T	O
+/	O
+C	O
+
+3	O
+/	O
+7	O
+
+0	O
+.	O
+23	O
+
+1	O
+.	O
+35	O
+(	O
+0	O
+.	O
+25	O
+)	O
+
+8	O
+.	O
+5	O
+×	O
+10	O
+−	O
+8	O
+
+A	O
+list	O
+of	O
+all	O
+SNPxAGE	O
+effect	O
+P	O
+-	O
+values	O
+less	O
+than	O
+10	O
+−	O
+6	O
+in	O
+the	O
+BHS	O
+.	O
+
+Associations	O
+at	O
+P	O
+<	O
+5	O
+×	O
+10	O
+−	O
+8	O
+are	O
+indicated	O
+in	O
+bold	O
+.	O
+
+SNP	O
+names	O
+marked	O
+with	O
+an	O
+“*”	O
+are	O
+imputed	O
+,	O
+while	O
+those	O
+that	O
+are	O
+unmarked	O
+are	O
+not	O
+.	O
+
+SNP	O
+alleles	O
+are	O
+reported	O
+as	O
+risk	O
+/	O
+nonrisk	O
+and	O
+are	O
+in	O
+genome	O
+forward	O
+orientaiton	O
+(	O
+build	O
+36	O
+.	O
+3	O
+).	O
+
+The	O
+number	O
+of	O
+SNPs	O
+at	O
+P	O
+<	O
+10	O
+−	O
+5	O
+corresponds	O
+to	O
+the	O
+number	O
+of	O
+genotyped	O
+/	O
+imputed	O
+SNPs	O
+with	O
+P	O
+<	O
+10	O
+−	O
+5	O
+within	O
+200kb	O
+up	O
+and	O
+downstream	O
+of	O
+the	O
+top	O
+SNP	O
+.	O
+
+In	O
+addition	O
+to	O
+novel	O
+associations	O
+,	O
+there	O
+were	O
+three	O
+regions	O
+showing	O
+SNP	O
+associations	O
+that	O
+have	O
+been	O
+previously	O
+identified	O
+in	O
+GWA	O
+studies	O
+:	O
+rs853773	O
+[	O
+18	O
+]	O
+near	O
+G6PC2	B-GP
+was	O
+associated	O
+with	O
+a	O
+glucose	O
+SNP	O
+effect	O
+(	O
+P	O
+=	O
+7	O
+.	O
+0	O
+×	O
+10	O
+−	O
+7	O
+),	O
+rs247616	O
+[	O
+5	O
+]	O
+near	O
+CETP	B-GP
+was	O
+associated	O
+with	O
+an	O
+HDL	O
+SNP	O
+effect	O
+(	O
+P	O
+=	O
+6	O
+.	O
+6	O
+×	O
+10	O
+−	O
+7	O
+),	O
+and	O
+the	O
+APOE	B-GP
+e2	O
+SNP	O
+rs7412	O
+[	O
+19	O
+]	O
+was	O
+associated	O
+with	O
+a	O
+genome	O
+-	O
+wide	O
+significant	O
+LDL	O
+SNP	O
+effect	O
+(	O
+P	O
+=	O
+1	O
+.	O
+6	O
+×	O
+10	O
+−	O
+8	O
+).	O
+
+A	O
+region	O
+near	O
+APOA5	B-GP
+that	O
+had	O
+been	O
+previously	O
+implicated	O
+in	O
+triglyceride	O
+levels	O
+showed	O
+a	O
+significant	O
+SNPxAGE	O
+effect	O
+on	O
+triglycerides	O
+in	O
+our	O
+study	O
+(	O
+rs12280753	O
+;	O
+P	O
+=	O
+1	O
+.	O
+8	O
+×	O
+10	O
+−	O
+8	O
+).	O
+
+Although	O
+the	O
+nearest	O
+gene	O
+to	O
+rs12280753	O
+is	O
+not	O
+APOA5	B-GP
+,	O
+this	O
+SNP	O
+was	O
+also	O
+the	O
+most	O
+strongly	O
+associated	O
+SNP	O
+in	O
+previous	O
+studies	O
+of	O
+adult	O
+triglyceride	O
+levels	O
+[	O
+5	O
+],	O
+[	O
+10	O
+],	O
+[	O
+20	O
+].	O
+
+Replication	O
+in	O
+the	O
+Young	O
+Finns	O
+
+We	O
+pursued	O
+replication	O
+of	O
+these	O
+findings	O
+in	O
+genotyped	O
+individuals	O
+within	O
+the	O
+Young	O
+Finns	O
+(	O
+YF	O
+)	O
+cohort	O
+,	O
+consisting	O
+of	O
+2	O
+,	O
+442	O
+Finnish	O
+individuals	O
+tracked	O
+from	O
+childhood	O
+through	O
+middle	O
+adulthood	O
+(	O
+ages	O
+3	O
+–	O
+45	O
+)	O
+with	O
+three	O
+measures	O
+in	O
+young	O
+individuals	O
+(	O
+ages	O
+3	O
+–	O
+24	O
+)	O
+and	O
+two	O
+measures	O
+in	O
+older	O
+individuals	O
+(	O
+ages	O
+24	O
+–	O
+45	O
+).	O
+
+These	O
+individuals	O
+have	O
+been	O
+genotyped	O
+on	O
+a	O
+custom	O
+-	O
+built	O
+Illumina	O
+genotyping	O
+chip	O
+(	O
+670K	O
+).	O
+
+Using	O
+the	O
+same	O
+analysis	O
+methods	O
+,	O
+we	O
+tested	O
+whether	O
+the	O
+top	O
+SNP	O
+was	O
+associated	O
+in	O
+the	O
+YF	O
+study	O
+(	O
+Table	O
+3	O
+).	O
+
+Imputed	O
+genotype	O
+dosages	O
+were	O
+used	O
+when	O
+direct	O
+genotype	O
+data	O
+was	O
+not	O
+available	O
+.	O
+
+For	O
+the	O
+APOE	B-GP
+-	O
+e2	O
+SNP	O
+rs7412	O
+,	O
+which	O
+is	O
+not	O
+in	O
+HapMap	O
+or	O
+on	O
+the	O
+670K	O
+chip	O
+,	O
+we	O
+used	O
+the	O
+SNP	O
+with	O
+the	O
+next	O
+strongest	O
+association	O
+in	O
+the	O
+BHS	O
+(	O
+rs445925	O
+).	O
+
+There	O
+were	O
+two	O
+SNPs	O
+that	O
+significantly	O
+replicated	O
+beyond	O
+the	O
+multiple	O
+testing	O
+threshold	O
+(	O
+P	O
+<	O
+0	O
+.	O
+05	O
+/	O
+51	O
+=	O
+1	O
+×	O
+10	O
+−	O
+3	O
+):	O
+the	O
+rs247616	O
+SNP	O
+at	O
+CETP	B-GP
+(	O
+P	O
+=	O
+1	O
+.	O
+7	O
+×	O
+10	O
+−	O
+18	O
+),	O
+and	O
+rs445925	O
+at	O
+APOE	B-GP
+(	O
+P	O
+=	O
+4	O
+.	O
+1	O
+×	O
+10	O
+−	O
+15	O
+).	O
+
+There	O
+was	O
+no	O
+trend	O
+to	O
+replicate	O
+the	O
+direction	O
+of	O
+effect	O
+between	O
+the	O
+studies	O
+:	O
+within	O
+the	O
+SNP	O
+effects	O
+,	O
+there	O
+were	O
+12	O
+/	O
+21	O
+(	O
+57	O
+%,	O
+chi	O
+-	O
+square	O
+P	O
+=	O
+0	O
+.	O
+51	O
+)	O
+markers	O
+that	O
+showed	O
+the	O
+same	O
+direction	O
+of	O
+effect	O
+,	O
+while	O
+within	O
+SNPxAGE	O
+effects	O
+,	O
+there	O
+were	O
+14	O
+/	O
+30	O
+(	O
+47	O
+%,	O
+chi	O
+-	O
+square	O
+P	O
+=	O
+0	O
+.	O
+72	O
+).	O
+
+The	O
+samples	O
+were	O
+combined	O
+and	O
+P	O
+-	O
+values	O
+were	O
+calculated	O
+for	O
+the	O
+combined	O
+BHS	O
+and	O
+YF	O
+data	O
+,	O
+using	O
+study	O
+as	O
+a	O
+covariate	O
+(	O
+Table	O
+3	O
+).	O
+
+The	O
+associations	O
+at	O
+rs247616	O
+at	O
+CETP	B-GP
+with	O
+HDL	O
+-	O
+cholesterol	O
+(	O
+P	O
+=	O
+9	O
+.	O
+7	O
+×	O
+10	O
+−	O
+24	O
+)	O
+and	O
+rs445925	O
+at	O
+APOE	B-GP
+with	O
+LDL	O
+-	O
+cholesterol	O
+(	O
+P	O
+=	O
+8	O
+.	O
+7	O
+×	O
+10	O
+−	O
+19	O
+)	O
+were	O
+strongly	O
+significant	O
+,	O
+but	O
+no	O
+other	O
+regions	O
+in	O
+the	O
+combined	O
+BHS	O
+/	O
+YF	O
+data	O
+reached	O
+genome	O
+-	O
+wide	O
+significance	O
+of	O
+P	O
+<	O
+5	O
+×	O
+10	O
+−	O
+8	O
+.	O
+
+Replication	O
+results	O
+in	O
+the	O
+Young	O
+Finns	O
+.	O
+
+BHS	O
+
+YF	O
+
+BHS	O
++	O
+YF	O
+combined	O
+
+Trait	O
+
+Top	O
+SNP	O
+(	O
+Alleles	O
+)	O
+
+Effect	O
+
+Beta	O
+(	O
+SE	O
+)	O
+
+P	O
+
+Beta	O
+(	O
+SE	O
+)	O
+
+P	O
+
+Beta	O
+(	O
+SE	O
+)	O
+
+P	O
+
+diastolic	O
+BP	O
+
+rs7704530	O
+G	O
+/	O
+A	O
+
+SNP	O
+
+8	O
+.	O
+44	O
+(	O
+1	O
+.	O
+57	O
+)	O
+
+1	O
+.	O
+1	O
+×	O
+10	O
+−	O
+7	O
+
+−	O
+0	O
+.	O
+05	O
+(	O
+0	O
+.	O
+22	O
+)	O
+
+0	O
+.	O
+82	O
+
+0	O
+.	O
+4	O
+(	O
+0	O
+.	O
+2	O
+)	O
+
+0	O
+.	O
+04	O
+
+diastolic	O
+BP	O
+
+rs709595	O
+C	O
+/	O
+G	O
+
+SNP	O
+
+7	O
+.	O
+18	O
+(	O
+1	O
+.	O
+43	O
+)	O
+
+7	O
+.	O
+0	O
+×	O
+10	O
+−	O
+7	O
+
+−	O
+0	O
+.	O
+03	O
+(	O
+0	O
+.	O
+21	O
+)	O
+
+0	O
+.	O
+88	O
+
+0	O
+.	O
+38	O
+(	O
+0	O
+.	O
+19	O
+)	O
+
+0	O
+.	O
+04	O
+
+glucose	O
+
+rs853773	O
+A	O
+/	O
+G	O
+
+SNP	O
+
+−	O
+8	O
+.	O
+72	O
+(	O
+1	O
+.	O
+73	O
+)	O
+
+7	O
+.	O
+0	O
+×	O
+10	O
+−	O
+7	O
+
+−	O
+0	O
+.	O
+33	O
+(	O
+0	O
+.	O
+37	O
+)	O
+
+0	O
+.	O
+37	O
+
+−	O
+0	O
+.	O
+73	O
+(	O
+0	O
+.	O
+32	O
+)	O
+
+0	O
+.	O
+02	O
+
+glucose	O
+
+rs781718	O
+*	O
+G	O
+/	O
+A	O
+
+SNP	O
+
+−	O
+3	O
+.	O
+46	O
+(	O
+0	O
+.	O
+69	O
+)	O
+
+8	O
+.	O
+4	O
+×	O
+10	O
+−	O
+7	O
+
+0	O
+.	O
+71	O
+(	O
+0	O
+.	O
+7	O
+)	O
+
+0	O
+.	O
+31	O
+
+−	O
+0	O
+.	O
+32	O
+(	O
+0	O
+.	O
+59	O
+)	O
+
+0	O
+.	O
+58	O
+
+HDL	O
+-	O
+cholesterol	O
+
+rs247616	O
+*	O
+T	O
+/	O
+C	O
+
+SNP	O
+
+3	O
+.	O
+77	O
+(	O
+0	O
+.	O
+75	O
+)	O
+
+6	O
+.	O
+6	O
+×	O
+10	O
+−	O
+7	O
+
+2	O
+.	O
+8	O
+(	O
+0	O
+.	O
+32	O
+)	O
+
+1	O
+.	O
+7	O
+×	O
+10	O
+−	O
+18	O
+
+2	O
+.	O
+99	O
+(	O
+0	O
+.	O
+29	O
+)	O
+
+9	O
+.	O
+7	O
+×	O
+10	O
+−	O
+24	O
+
+insulin	B-GP
+
+rs3793275	O
+*	O
+A	O
+/	O
+T	O
+
+SNP	O
+
+−	O
+4	O
+.	O
+63	O
+(	O
+0	O
+.	O
+78	O
+)	O
+
+5	O
+.	O
+8	O
+×	O
+10	O
+−	O
+9	O
+
+0	O
+.	O
+36	O
+(	O
+0	O
+.	O
+3	O
+)	O
+
+0	O
+.	O
+23	O
+
+−	O
+0	O
+.	O
+13	O
+(	O
+0	O
+.	O
+26	O
+)	O
+
+0	O
+.	O
+63	O
+
+insulin	B-GP
+
+rs6052399	O
+*	O
+T	O
+/	O
+C	O
+
+SNP	O
+
+−	O
+4	O
+.	O
+55	O
+(	O
+0	O
+.	O
+84	O
+)	O
+
+9	O
+.	O
+8	O
+×	O
+10	O
+−	O
+8	O
+
+−	O
+0	O
+.	O
+01	O
+(	O
+0	O
+.	O
+44	O
+)	O
+
+0	O
+.	O
+99	O
+
+−	O
+0	O
+.	O
+7	O
+(	O
+0	O
+.	O
+37	O
+)	O
+
+0	O
+.	O
+06	O
+
+insulin	B-GP
+
+rs16892328	O
+*	O
+C	O
+/	O
+T	O
+
+SNP	O
+
+−	O
+4	O
+.	O
+93	O
+(	O
+0	O
+.	O
+92	O
+)	O
+
+1	O
+.	O
+3	O
+×	O
+10	O
+−	O
+7	O
+
+−	O
+0	O
+.	O
+81	O
+(	O
+0	O
+.	O
+54	O
+)	O
+
+0	O
+.	O
+14	O
+
+−	O
+1	O
+.	O
+64	O
+(	O
+0	O
+.	O
+45	O
+)	O
+
+0	O
+.	O
+00027	O
+
+insulin	B-GP
+
+rs1613695	O
+*	O
+G	O
+/	O
+A	O
+
+SNP	O
+
+−	O
+5	O
+.	O
+68	O
+(	O
+1	O
+.	O
+07	O
+)	O
+
+1	O
+.	O
+7	O
+×	O
+10	O
+−	O
+7	O
+
+0	O
+.	O
+35	O
+(	O
+0	O
+.	O
+36	O
+)	O
+
+0	O
+.	O
+32	O
+
+−	O
+0	O
+.	O
+13	O
+(	O
+0	O
+.	O
+31	O
+)	O
+
+0	O
+.	O
+68	O
+
+insulin	B-GP
+
+rs10498337	O
+T	O
+/	O
+G	O
+
+SNP	O
+
+−	O
+9	O
+.	O
+3	O
+(	O
+1	O
+.	O
+87	O
+)	O
+
+8	O
+.	O
+9	O
+×	O
+10	O
+−	O
+7	O
+
+−	O
+0	O
+.	O
+05	O
+(	O
+0	O
+.	O
+22	O
+)	O
+
+0	O
+.	O
+81	O
+
+−	O
+0	O
+.	O
+35	O
+(	O
+0	O
+.	O
+18	O
+)	O
+
+0	O
+.	O
+06	O
+
+LDL	O
+-	O
+cholesterol	O
+
+rs8131349	O
+*	O
+A	O
+/	O
+G	O
+
+SNP	O
+
+17	O
+.	O
+6	O
+(	O
+3	O
+.	O
+05	O
+)	O
+
+1	O
+.	O
+4	O
+×	O
+10	O
+−	O
+8	O
+
+−	O
+1	O
+.	O
+14	O
+(	O
+1	O
+.	O
+29	O
+)	O
+
+0	O
+.	O
+38	O
+
+1	O
+.	O
+46	O
+(	O
+1	O
+.	O
+2	O
+)	O
+
+0	O
+.	O
+23	O
+
+LDL	O
+-	O
+cholesterol	O
+
+rs445925	O
+*#	O
+G	O
+/	O
+A	O
+
+SNP	O
+
+12	O
+.	O
+8	O
+(	O
+2	O
+.	O
+63	O
+)	O
+
+1	O
+.	O
+5	O
+×	O
+10	O
+−	O
+6	O
+
+12	O
+.	O
+16	O
+(	O
+1	O
+.	O
+54	O
+)	O
+
+4	O
+.	O
+1	O
+×	O
+10	O
+−	O
+15	O
+
+11	O
+.	O
+96	O
+(	O
+1	O
+.	O
+34	O
+)	O
+
+8	O
+.	O
+7	O
+×	O
+10	O
+−	O
+19	O
+
+LDL	O
+-	O
+cholesterol	O
+
+rs7738656	O
+G	O
+/	O
+A	O
+
+SNP	O
+
+−	O
+42	O
+.	O
+39	O
+(	O
+8	O
+.	O
+11	O
+)	O
+
+2	O
+.	O
+5	O
+×	O
+10	O
+−	O
+7	O
+
+−	O
+1	O
+.	O
+52	O
+(	O
+0	O
+.	O
+9	O
+)	O
+
+0	O
+.	O
+09	O
+
+−	O
+2	O
+.	O
+91	O
+(	O
+0	O
+.	O
+83	O
+)	O
+
+0	O
+.	O
+00049	O
+
+LDL	O
+-	O
+cholesterol	O
+
+rs10044666	O
+*	O
+G	O
+/	O
+T	O
+
+SNP	O
+
+−	O
+8	O
+.	O
+57	O
+(	O
+1	O
+.	O
+68	O
+)	O
+
+4	O
+.	O
+7	O
+×	O
+10	O
+−	O
+7	O
+
+−	O
+1	O
+.	O
+25	O
+(	O
+0	O
+.	O
+91	O
+)	O
+
+0	O
+.	O
+17	O
+
+−	O
+2	O
+.	O
+93	O
+(	O
+0	O
+.	O
+81	O
+)	O
+
+0	O
+.	O
+00029	O
+
+systolic	O
+BP	O
+
+rs11822822	O
+G	O
+/	O
+A	O
+
+SNP	O
+
+10	O
+.	O
+74	O
+(	O
+2	O
+.	O
+12	O
+)	O
+
+5	O
+.	O
+6	O
+×	O
+10	O
+−	O
+7	O
+
+−	O
+0	O
+.	O
+34	O
+(	O
+0	O
+.	O
+35	O
+)	O
+
+0	O
+.	O
+34	O
+
+0	O
+.	O
+44	O
+(	O
+0	O
+.	O
+3	O
+)	O
+
+0	O
+.	O
+14	O
+
+systolic	O
+BP	O
+
+rs726914	O
+G	O
+/	O
+A	O
+
+SNP	O
+
+9	O
+.	O
+21	O
+(	O
+1	O
+.	O
+83	O
+)	O
+
+7	O
+.	O
+1	O
+×	O
+10	O
+−	O
+7	O
+
+0	O
+.	O
+07	O
+(	O
+0	O
+.	O
+27	O
+)	O
+
+0	O
+.	O
+81	O
+
+0	O
+.	O
+55	O
+(	O
+0	O
+.	O
+23	O
+)	O
+
+0	O
+.	O
+02	O
+
+total	O
+cholesterol	O
+
+rs8131349	O
+*	O
+A	O
+/	O
+G	O
+
+SNP	O
+
+18	O
+.	O
+4	O
+(	O
+3	O
+.	O
+32	O
+)	O
+
+4	O
+.	O
+6	O
+×	O
+10	O
+−	O
+8	O
+
+−	O
+1	O
+.	O
+26	O
+(	O
+1	O
+.	O
+43	O
+)	O
+
+0	O
+.	O
+38	O
+
+1	O
+.	O
+44	O
+(	O
+1	O
+.	O
+32	O
+)	O
+
+0	O
+.	O
+28	O
+
+total	O
+cholesterol	O
+
+rs6829649	O
+T	O
+/	O
+G	O
+
+SNP	O
+
+−	O
+50	O
+.	O
+96	O
+(	O
+9	O
+.	O
+42	O
+)	O
+
+9	O
+.	O
+6	O
+×	O
+10	O
+−	O
+8	O
+
+0	O
+.	O
+09	O
+(	O
+1	O
+.	O
+23	O
+)	O
+
+0	O
+.	O
+94	O
+
+−	O
+2	O
+.	O
+06	O
+(	O
+1	O
+.	O
+1	O
+)	O
+
+0	O
+.	O
+06	O
+
+total	O
+cholesterol	O
+
+rs7738656	O
+G	O
+/	O
+A	O
+
+SNP	O
+
+−	O
+46	O
+.	O
+21	O
+(	O
+8	O
+.	O
+79	O
+)	O
+
+2	O
+.	O
+1	O
+×	O
+10	O
+−	O
+7	O
+
+−	O
+1	O
+.	O
+51	O
+(	O
+1	O
+)	O
+
+0	O
+.	O
+13	O
+
+−	O
+3	O
+.	O
+04	O
+(	O
+0	O
+.	O
+92	O
+)	O
+
+0	O
+.	O
+00094	O
+
+total	O
+cholesterol	O
+
+rs4897695	O
+*	O
+C	O
+/	O
+G	O
+
+SNP	O
+
+13	O
+.	O
+66	O
+(	O
+2	O
+.	O
+62	O
+)	O
+
+2	O
+.	O
+7	O
+×	O
+10	O
+−	O
+7	O
+
+0	O
+.	O
+51	O
+(	O
+1	O
+.	O
+7	O
+)	O
+
+0	O
+.	O
+76	O
+
+4	O
+.	O
+14	O
+(	O
+1	O
+.	O
+44	O
+)	O
+
+0	O
+.	O
+0041	O
+
+waist	O
+circumference	O
+
+rs891541	O
+*	O
+A	O
+/	O
+G	O
+
+SNP	O
+
+4	O
+.	O
+55	O
+(	O
+0	O
+.	O
+91	O
+)	O
+
+7	O
+.	O
+7	O
+×	O
+10	O
+−	O
+7	O
+
+0	O
+.	O
+28	O
+(	O
+0	O
+.	O
+37	O
+)	O
+
+0	O
+.	O
+44	O
+
+1	O
+.	O
+18	O
+(	O
+0	O
+.	O
+35	O
+)	O
+
+0	O
+.	O
+00076	O
+
+distolic	O
+BP	O
+
+rs17104804	O
+G	O
+/	O
+A	O
+
+SNPxAGE	O
+
+−	O
+0	O
+.	O
+76	O
+(	O
+0	O
+.	O
+15	O
+)	O
+
+5	O
+.	O
+9	O
+×	O
+10	O
+−	O
+7	O
+
+−	O
+0	O
+.	O
+02	O
+(	O
+0	O
+.	O
+04	O
+)	O
+
+0	O
+.	O
+63	O
+
+−	O
+0	O
+.	O
+1	O
+(	O
+0	O
+.	O
+03	O
+)	O
+
+0	O
+.	O
+00047	O
+
+glucose	O
+
+rs4783595	O
+T	O
+/	O
+C	O
+
+SNPxAGE	O
+
+−	O
+1	O
+.	O
+67	O
+(	O
+0	O
+.	O
+31	O
+)	O
+
+9	O
+.	O
+5	O
+×	O
+10	O
+−	O
+8	O
+
+−	O
+0	O
+.	O
+04	O
+(	O
+0	O
+.	O
+04	O
+)	O
+
+0	O
+.	O
+29	O
+
+−	O
+0	O
+.	O
+12	O
+(	O
+0	O
+.	O
+03	O
+)	O
+
+0	O
+.	O
+00021	O
+
+glucose	O
+
+rs3793275	O
+*	O
+A	O
+/	O
+T	O
+
+SNPxAGE	O
+
+−	O
+0	O
+.	O
+61	O
+(	O
+0	O
+.	O
+12	O
+)	O
+
+1	O
+.	O
+5	O
+×	O
+10	O
+−	O
+7	O
+
+0	O
+.	O
+04	O
+(	O
+0	O
+.	O
+05	O
+)	O
+
+0	O
+.	O
+43	O
+
+−	O
+0	O
+.	O
+09	O
+(	O
+0	O
+.	O
+05	O
+)	O
+
+0	O
+.	O
+05	O
+
+glucose	O
+
+rs5979903	O
+T	O
+/	O
+C	O
+
+SNPxAGE	O
+
+1	O
+.	O
+88	O
+(	O
+0	O
+.	O
+36	O
+)	O
+
+1	O
+.	O
+9	O
+×	O
+10	O
+−	O
+7	O
+
+0	O
+.	O
+08	O
+(	O
+0	O
+.	O
+04	O
+)	O
+
+0	O
+.	O
+07	O
+
+0	O
+.	O
+16	O
+(	O
+0	O
+.	O
+04	O
+)	O
+
+9	O
+.	O
+8	O
+×	O
+10	O
+−	O
+5	O
+
+glucose	O
+
+rs12807555	O
+*	O
+G	O
+/	O
+T	O
+
+SNPxAGE	O
+
+−	O
+0	O
+.	O
+47	O
+(	O
+0	O
+.	O
+09	O
+)	O
+
+2	O
+.	O
+7	O
+×	O
+10	O
+−	O
+7	O
+
+0	O
+.	O
+01	O
+(	O
+0	O
+.	O
+05	O
+)	O
+
+0	O
+.	O
+78	O
+
+−	O
+0	O
+.	O
+1	O
+(	O
+0	O
+.	O
+04	O
+)	O
+
+0	O
+.	O
+02	O
+
+glucose	O
+
+rs9909931	O
+G	O
+/	O
+A	O
+
+SNPxAGE	O
+
+1	O
+.	O
+36	O
+(	O
+0	O
+.	O
+27	O
+)	O
+
+4	O
+.	O
+3	O
+×	O
+10	O
+−	O
+7	O
+
+−	O
+0	O
+.	O
+02	O
+(	O
+0	O
+.	O
+04	O
+)	O
+
+0	O
+.	O
+56	O
+
+0	O
+.	O
+06	O
+(	O
+0	O
+.	O
+03	O
+)	O
+
+0	O
+.	O
+06	O
+
+glucose	O
+
+rs12069004	O
+*	O
+C	O
+/	O
+T	O
+
+SNPxAGE	O
+
+−	O
+0	O
+.	O
+54	O
+(	O
+0	O
+.	O
+11	O
+)	O
+
+5	O
+.	O
+8	O
+×	O
+10	O
+−	O
+7	O
+
+0	O
+.	O
+02	O
+(	O
+0	O
+.	O
+05	O
+)	O
+
+0	O
+.	O
+7	O
+
+−	O
+0	O
+.	O
+1	O
+(	O
+0	O
+.	O
+05	O
+)	O
+
+0	O
+.	O
+03	O
+
+glucose	O
+
+rs12548494	O
+*	O
+C	O
+/	O
+G	O
+
+SNPxAGE	O
+
+−	O
+0	O
+.	O
+6	O
+(	O
+0	O
+.	O
+12	O
+)	O
+
+7	O
+.	O
+1	O
+×	O
+10	O
+−	O
+7	O
+
+1	O
+.	O
+4	O
+×	O
+10	O
+−	O
+4	O
+(	O
+0	O
+.	O
+09	O
+)	O
+
+1	O
+
+−	O
+0	O
+.	O
+18	O
+(	O
+0	O
+.	O
+07	O
+)	O
+
+0	O
+.	O
+01	O
+
+glucose	O
+
+rs10260737	O
+G	O
+/	O
+A	O
+
+SNPxAGE	O
+
+−	O
+1	O
+.	O
+77	O
+(	O
+0	O
+.	O
+36	O
+)	O
+
+7	O
+.	O
+3	O
+×	O
+10	O
+−	O
+7	O
+
+−	O
+0	O
+.	O
+02	O
+(	O
+0	O
+.	O
+06	O
+)	O
+
+0	O
+.	O
+8	O
+
+−	O
+0	O
+.	O
+11	O
+(	O
+0	O
+.	O
+05	O
+)	O
+
+0	O
+.	O
+03	O
+
+glucose	O
+
+rs3019325	O
+*	O
+G	O
+/	O
+C	O
+
+SNPxAGE	O
+
+−	O
+0	O
+.	O
+31	O
+(	O
+0	O
+.	O
+06	O
+)	O
+
+7	O
+.	O
+5	O
+×	O
+10	O
+−	O
+7	O
+
+−	O
+0	O
+.	O
+02	O
+(	O
+0	O
+.	O
+03	O
+)	O
+
+0	O
+.	O
+55	O
+
+−	O
+0	O
+.	O
+07	O
+(	O
+0	O
+.	O
+03	O
+)	O
+
+0	O
+.	O
+0097	O
+
+heart	O
+rate	O
+
+rs6440031	O
+G	O
+/	O
+A	O
+
+SNPxAGE	O
+
+1	O
+.	O
+33	O
+(	O
+0	O
+.	O
+25	O
+)	O
+
+1	O
+.	O
+8	O
+×	O
+10	O
+−	O
+7	O
+
+−	O
+0	O
+.	O
+01	O
+(	O
+0	O
+.	O
+03	O
+)	O
+
+0	O
+.	O
+72	O
+
+0	O
+.	O
+03	O
+(	O
+0	O
+.	O
+02	O
+)	O
+
+0	O
+.	O
+16	O
+
+heart	O
+rate	O
+
+rs1449460	O
+G	O
+/	O
+A	O
+
+SNPxAGE	O
+
+−	O
+1	O
+.	O
+36	O
+(	O
+0	O
+.	O
+27	O
+)	O
+
+7	O
+.	O
+4	O
+×	O
+10	O
+−	O
+7	O
+
+0	O
+(	O
+0	O
+.	O
+03	O
+)	O
+
+0	O
+.	O
+93	O
+
+−	O
+0	O
+.	O
+05	O
+(	O
+0	O
+.	O
+03	O
+)	O
+
+0	O
+.	O
+1	O
+
+height	O
+
+rs1144036	O
+C	O
+/	O
+T	O
+
+SNPxAGE	O
+
+1	O
+.	O
+17	O
+(	O
+0	O
+.	O
+23	O
+)	O
+
+2	O
+.	O
+4	O
+×	O
+10	O
+−	O
+7	O
+
+−	O
+0	O
+.	O
+07	O
+(	O
+0	O
+.	O
+04	O
+)	O
+
+0	O
+.	O
+09	O
+
+0	O
+(	O
+0	O
+.	O
+03	O
+)	O
+
+0	O
+.	O
+91	O
+
+height	O
+
+rs8103264	O
+*	O
+C	O
+/	O
+G	O
+
+SNPxAGE	O
+
+−	O
+0	O
+.	O
+38	O
+(	O
+0	O
+.	O
+08	O
+)	O
+
+5	O
+.	O
+6	O
+×	O
+10	O
+−	O
+7	O
+
+−	O
+0	O
+.	O
+04	O
+(	O
+0	O
+.	O
+06	O
+)	O
+
+0	O
+.	O
+42	O
+
+−	O
+0	O
+.	O
+11	O
+(	O
+0	O
+.	O
+05	O
+)	O
+
+0	O
+.	O
+02	O
+
+insulin	B-GP
+
+rs1552257	O
+*	O
+C	O
+/	O
+T	O
+
+SNPxAGE	O
+
+0	O
+.	O
+18	O
+(	O
+0	O
+.	O
+04	O
+)	O
+
+7	O
+.	O
+5	O
+×	O
+10	O
+−	O
+7	O
+
+0	O
+(	O
+0	O
+.	O
+02	O
+)	O
+
+0	O
+.	O
+79	O
+
+0	O
+.	O
+02	O
+(	O
+0	O
+.	O
+02	O
+)	O
+
+0	O
+.	O
+27	O
+
+LDL	O
+
+rs8073909	O
+T	O
+/	O
+C	O
+
+SNPxAGE	O
+
+−	O
+1	O
+.	O
+41	O
+(	O
+0	O
+.	O
+27	O
+)	O
+
+1	O
+.	O
+4	O
+×	O
+10	O
+−	O
+7	O
+
+0	O
+.	O
+06	O
+(	O
+0	O
+.	O
+04	O
+)	O
+
+0	O
+.	O
+08	O
+
+0	O
+.	O
+04	O
+(	O
+0	O
+.	O
+04	O
+)	O
+
+0	O
+.	O
+32	O
+
+LDL	O
+
+rs11258628	O
+*	O
+A	O
+/	O
+T	O
+
+SNPxAGE	O
+
+−	O
+0	O
+.	O
+69	O
+(	O
+0	O
+.	O
+14	O
+)	O
+
+4	O
+.	O
+1	O
+×	O
+10	O
+−	O
+7	O
+
+0	O
+.	O
+02	O
+(	O
+0	O
+.	O
+09	O
+)	O
+
+0	O
+.	O
+84	O
+
+−	O
+0	O
+.	O
+38	O
+(	O
+0	O
+.	O
+09	O
+)	O
+
+1	O
+.	O
+8	O
+×	O
+10	O
+−	O
+5	O
+
+systolic	O
+BP	O
+
+rs1046391	O
+*	O
+G	O
+/	O
+T	O
+
+SNPxAGE	O
+
+0	O
+.	O
+21	O
+(	O
+0	O
+.	O
+04	O
+)	O
+
+4	O
+.	O
+1	O
+×	O
+10	O
+−	O
+7	O
+
+0	O
+.	O
+01	O
+(	O
+0	O
+.	O
+03	O
+)	O
+
+0	O
+.	O
+78	O
+
+0	O
+.	O
+05	O
+(	O
+0	O
+.	O
+02	O
+)	O
+
+0	O
+.	O
+03	O
+
+systolic	O
+BP	O
+
+rs17104804	O
+G	O
+/	O
+A	O
+
+SNPxAGE	O
+
+−	O
+0	O
+.	O
+91	O
+(	O
+0	O
+.	O
+19	O
+)	O
+
+9	O
+.	O
+3	O
+×	O
+10	O
+−	O
+7	O
+
+0	O
+.	O
+01	O
+(	O
+0	O
+.	O
+03	O
+)	O
+
+0	O
+.	O
+63	O
+
+−	O
+0	O
+.	O
+05	O
+(	O
+0	O
+.	O
+03	O
+)	O
+
+0	O
+.	O
+06	O
+
+total	O
+cholesterol	O
+
+rs8073909	O
+T	O
+/	O
+C	O
+
+SNPxAGE	O
+
+−	O
+1	O
+.	O
+68	O
+(	O
+0	O
+.	O
+31	O
+)	O
+
+6	O
+.	O
+9	O
+×	O
+10	O
+−	O
+8	O
+
+0	O
+.	O
+06	O
+(	O
+0	O
+.	O
+04	O
+)	O
+
+0	O
+.	O
+13	O
+
+0	O
+.	O
+03	O
+(	O
+0	O
+.	O
+04	O
+)	O
+
+0	O
+.	O
+51	O
+
+triglycerides	O
+
+rs7890572	O
+G	O
+/	O
+A	O
+
+SNPxAGE	O
+
+9	O
+.	O
+75	O
+(	O
+1	O
+.	O
+55	O
+)	O
+
+3	O
+.	O
+8	O
+×	O
+10	O
+−	O
+10	O
+
+0	O
+.	O
+1	O
+(	O
+0	O
+.	O
+22	O
+)	O
+
+0	O
+.	O
+66	O
+
+0	O
+.	O
+97	O
+(	O
+0	O
+.	O
+18	O
+)	O
+
+1	O
+.	O
+2	O
+×	O
+10	O
+−	O
+7	O
+
+triglycerides	O
+
+rs12280753	O
+*	O
+T	O
+/	O
+C	O
+
+SNPxAGE	O
+
+2	O
+.	O
+64	O
+(	O
+0	O
+.	O
+47	O
+)	O
+
+1	O
+.	O
+8	O
+×	O
+10	O
+−	O
+8	O
+
+0	O
+.	O
+28	O
+(	O
+0	O
+.	O
+16	O
+)	O
+
+0	O
+.	O
+09	O
+
+0	O
+.	O
+69	O
+(	O
+0	O
+.	O
+15	O
+)	O
+
+7	O
+.	O
+8	O
+×	O
+10	O
+−	O
+6	O
+
+triglycerides	O
+
+rs13290397	O
+*	O
+C	O
+/	O
+G	O
+
+SNPxAGE	O
+
+−	O
+1	O
+.	O
+98	O
+(	O
+0	O
+.	O
+38	O
+)	O
+
+2	O
+.	O
+4	O
+×	O
+10	O
+−	O
+7	O
+
+0	O
+.	O
+21	O
+(	O
+0	O
+.	O
+15	O
+)	O
+
+0	O
+.	O
+17	O
+
+−	O
+0	O
+.	O
+25	O
+(	O
+0	O
+.	O
+14	O
+)	O
+
+0	O
+.	O
+08	O
+
+triglycerides	O
+
+rs6726786	O
+*	O
+G	O
+/	O
+T	O
+
+SNPxAGE	O
+
+−	O
+2	O
+.	O
+09	O
+(	O
+0	O
+.	O
+41	O
+)	O
+
+2	O
+.	O
+9	O
+×	O
+10	O
+−	O
+7	O
+
+0	O
+.	O
+1	O
+(	O
+0	O
+.	O
+15	O
+)	O
+
+0	O
+.	O
+49	O
+
+−	O
+0	O
+.	O
+32	O
+(	O
+0	O
+.	O
+14	O
+)	O
+
+0	O
+.	O
+02	O
+
+triglycerides	O
+
+rs12330441	O
+T	O
+/	O
+G	O
+
+SNPxAGE	O
+
+−	O
+9	O
+.	O
+54	O
+(	O
+1	O
+.	O
+86	O
+)	O
+
+3	O
+.	O
+0	O
+×	O
+10	O
+−	O
+7	O
+
+−	O
+0	O
+.	O
+05	O
+(	O
+0	O
+.	O
+16	O
+)	O
+
+0	O
+.	O
+75	O
+
+−	O
+0	O
+.	O
+47	O
+(	O
+0	O
+.	O
+16	O
+)	O
+
+0	O
+.	O
+0025	O
+
+waist	O
+circumference	O
+
+rs127430	O
+*	O
+G	O
+/	O
+A	O
+
+SNPxAGE	O
+
+−	O
+0	O
+.	O
+33	O
+(	O
+0	O
+.	O
+06	O
+)	O
+
+3	O
+.	O
+3	O
+×	O
+10	O
+−	O
+8	O
+
+−	O
+0	O
+.	O
+02	O
+(	O
+0	O
+.	O
+05	O
+)	O
+
+0	O
+.	O
+65	O
+
+−	O
+0	O
+.	O
+19	O
+(	O
+0	O
+.	O
+04	O
+)	O
+
+1	O
+.	O
+4	O
+×	O
+10	O
+−	O
+6	O
+
+waist	O
+circumference	O
+
+rs7121446	O
+G	O
+/	O
+A	O
+
+SNPxAGE	O
+
+−	O
+1	O
+.	O
+09	O
+(	O
+0	O
+.	O
+21	O
+)	O
+
+3	O
+.	O
+6	O
+×	O
+10	O
+−	O
+7	O
+
+−	O
+0	O
+.	O
+07	O
+(	O
+0	O
+.	O
+04	O
+)	O
+
+0	O
+.	O
+11	O
+
+−	O
+0	O
+.	O
+15	O
+(	O
+0	O
+.	O
+03	O
+)	O
+
+2	O
+.	O
+5	O
+×	O
+10	O
+−	O
+6	O
+
+waist	O
+circumference	O
+
+rs7210277	O
+*	O
+C	O
+/	O
+T	O
+
+SNPxAGE	O
+
+−	O
+0	O
+.	O
+39	O
+(	O
+0	O
+.	O
+08	O
+)	O
+
+7	O
+.	O
+0	O
+×	O
+10	O
+−	O
+7	O
+
+0	O
+.	O
+04	O
+(	O
+0	O
+.	O
+06	O
+)	O
+
+0	O
+.	O
+48	O
+
+−	O
+0	O
+.	O
+17	O
+(	O
+0	O
+.	O
+05	O
+)	O
+
+0	O
+.	O
+00043	O
+
+waist	O
+circumference	O
+
+rs17568778	O
+C	O
+/	O
+A	O
+
+SNPxAGE	O
+
+−	O
+1	O
+.	O
+55	O
+(	O
+0	O
+.	O
+31	O
+)	O
+
+8	O
+.	O
+2	O
+×	O
+10	O
+−	O
+7	O
+
+0	O
+(	O
+0	O
+.	O
+06	O
+)	O
+
+0	O
+.	O
+98	O
+
+−	O
+0	O
+.	O
+17	O
+(	O
+0	O
+.	O
+05	O
+)	O
+
+0	O
+.	O
+00024	O
+
+weight	O
+
+rs6552560	O
+T	O
+/	O
+C	O
+
+SNPxAGE	O
+
+1	O
+.	O
+35	O
+(	O
+0	O
+.	O
+25	O
+)	O
+
+8	O
+.	O
+5	O
+×	O
+10	O
+−	O
+8	O
+
+−	O
+0	O
+.	O
+02	O
+(	O
+0	O
+.	O
+03	O
+)	O
+
+0	O
+.	O
+5	O
+
+0	O
+.	O
+06	O
+(	O
+0	O
+.	O
+03	O
+)	O
+
+0	O
+.	O
+03	O
+
+Replication	O
+effects	O
+and	O
+P	O
+-	O
+values	O
+in	O
+the	O
+Young	O
+Finns	O
+(	O
+YF	O
+)	O
+Study	O
+and	O
+in	O
+combined	O
+data	O
+,	O
+adjusted	O
+for	O
+study	O
+.	O
+
+SNP	O
+names	O
+marked	O
+with	O
+an	O
+“*”	O
+are	O
+imputed	O
+,	O
+while	O
+those	O
+that	O
+are	O
+unmarked	O
+were	O
+directly	O
+genotyped	O
+.	O
+
+SNP	O
+alleles	O
+are	O
+reported	O
+as	O
+risk	O
+/	O
+nonrisk	O
+and	O
+are	O
+in	O
+genome	O
+forward	O
+orientation	O
+(	O
+build	O
+36	O
+.	O
+3	O
+).	O
+#	O
+rs445925	O
+is	O
+a	O
+proxy	O
+for	O
+rs7412	O
+.	O
+
+Prediction	O
+of	O
+adult	O
+values	O
+given	O
+childhood	O
+values	O
+
+Genetic	O
+variants	O
+will	O
+be	O
+most	O
+useful	O
+for	O
+trait	O
+prediction	O
+when	O
+they	O
+are	O
+associated	O
+with	O
+a	O
+trait	O
+above	O
+and	O
+beyond	O
+other	O
+known	O
+risk	O
+factors	O
+.	O
+
+In	O
+addition	O
+,	O
+the	O
+ability	O
+to	O
+predict	O
+adult	O
+trait	O
+levels	O
+in	O
+children	O
+,	O
+before	O
+disease	O
+onset	O
+,	O
+can	O
+lead	O
+to	O
+a	O
+disease	O
+prevention	O
+strategy	O
+.	O
+
+In	O
+longitudinal	O
+studies	O
+starting	O
+in	O
+childhood	O
+and	O
+going	O
+into	O
+adulthood	O
+,	O
+we	O
+can	O
+ask	O
+whether	O
+genetic	O
+loci	O
+are	O
+associated	O
+with	O
+the	O
+adult	O
+trait	O
+level	O
+above	O
+and	O
+beyond	O
+the	O
+trait	O
+level	O
+seen	O
+in	O
+the	O
+first	O
+measure	O
+taken	O
+in	O
+childhood	O
+.	O
+
+To	O
+test	O
+this	O
+hypothesis	O
+,	O
+we	O
+evaluated	O
+whether	O
+our	O
+associated	O
+markers	O
+were	O
+likely	O
+to	O
+be	O
+predictive	O
+of	O
+adult	O
+levels	O
+of	O
+the	O
+traits	O
+,	O
+after	O
+adjustment	O
+for	O
+trait	O
+levels	O
+in	O
+childhood	O
+.	O
+
+To	O
+account	O
+for	O
+variation	O
+in	O
+data	O
+collection	O
+,	O
+we	O
+also	O
+included	O
+the	O
+age	O
+at	O
+each	O
+of	O
+these	O
+measures	O
+as	O
+well	O
+as	O
+gender	O
+as	O
+covariates	O
+in	O
+the	O
+analysis	O
+.	O
+
+Within	O
+the	O
+BHS	O
+,	O
+variants	O
+that	O
+were	O
+characterized	O
+as	O
+SNPxAGE	O
+effects	O
+were	O
+more	O
+likely	O
+to	O
+be	O
+predictive	O
+of	O
+adult	O
+values	O
+after	O
+correcting	O
+for	O
+childhood	O
+values	O
+,	O
+which	O
+is	O
+expected	O
+since	O
+these	O
+variants	O
+were	O
+characterized	O
+in	O
+BHS	O
+initially	O
+(	O
+Table	O
+4	O
+).	O
+
+In	O
+the	O
+YF	O
+study	O
+,	O
+however	O
+,	O
+we	O
+also	O
+saw	O
+more	O
+SNPxAGE	O
+variants	O
+associated	O
+with	O
+adult	O
+levels	O
+given	O
+childhood	O
+levels	O
+(	O
+Table	O
+4	O
+).	O
+
+There	O
+were	O
+6	O
+variants	O
+that	O
+were	O
+associated	O
+with	O
+adult	O
+levels	O
+in	O
+the	O
+YF	O
+study	O
+at	O
+P	O
+<	O
+0	O
+.	O
+05	O
+,	O
+with	O
+2	O
+corresponding	O
+to	O
+the	O
+genome	O
+-	O
+wide	O
+significant	O
+SNP	O
+effects	O
+and	O
+4	O
+corresponding	O
+to	O
+BHS	O
+SNPxAGE	O
+variants	O
+.	O
+
+Only	O
+the	O
+association	O
+of	O
+rs445925	O
+with	O
+LDL	O
+-	O
+cholesterol	O
+was	O
+strong	O
+enough	O
+to	O
+withstand	O
+multiple	O
+corrections	O
+.	O
+
+Further	O
+analysis	O
+of	O
+this	O
+observation	O
+is	O
+warranted	O
+in	O
+a	O
+larger	O
+cohort	O
+.	O
+
+Association	O
+of	O
+GWAS	O
+SNPs	O
+with	O
+adult	O
+trait	O
+levels	O
+after	O
+adjusting	O
+for	O
+childhood	O
+levels	O
+.	O
+
+Trait	O
+
+Top	O
+SNP	O
+(	O
+Alleles	O
+)	O
+
+Effect	O
+
+BHS	O
+Adult	O
+prediction	O
+P	O
+
+YF	O
+Adult	O
+prediction	O
+P	O
+
+diastolic	O
+BP	O
+
+rs7704530	O
+G	O
+/	O
+A	O
+
+SNP	O
+
+0	O
+.	O
+07	O
+
+0	O
+.	O
+74	O
+
+diastolic	O
+BP	O
+
+rs709595	O
+C	O
+/	O
+G	O
+
+SNP	O
+
+0	O
+.	O
+26	O
+
+0	O
+.	O
+09	O
+
+glucose	O
+
+rs853773	O
+A	O
+/	O
+G	O
+
+SNP	O
+
+0	O
+.	O
+003	O
+
+0	O
+.	O
+24	O
+
+glucose	O
+
+rs781718	O
+*	O
+G	O
+/	O
+A	O
+
+SNP	O
+
+0	O
+.	O
+27	O
+
+0	O
+.	O
+21	O
+
+HDL	O
+-	O
+cholesterol	O
+
+rs247616	O
+*	O
+T	O
+/	O
+C	O
+
+SNP	O
+
+8	O
+.	O
+1	O
+×	O
+10	O
+−	O
+4	O
+
+0	O
+.	O
+0067	O
+
+insulin	B-GP
+
+rs3793275	O
+*	O
+A	O
+/	O
+T	O
+
+SNP	O
+
+0	O
+.	O
+89	O
+
+0	O
+.	O
+36	O
+
+insulin	B-GP
+
+rs6052399	O
+*	O
+T	O
+/	O
+C	O
+
+SNP	O
+
+0	O
+.	O
+014	O
+
+0	O
+.	O
+89	O
+
+insulin	B-GP
+
+rs16892328	O
+*	O
+C	O
+/	O
+T	O
+
+SNP	O
+
+0	O
+.	O
+22	O
+
+0	O
+.	O
+14	O
+
+insulin	B-GP
+
+rs1613695	O
+*	O
+G	O
+/	O
+A	O
+
+SNP	O
+
+0	O
+.	O
+16	O
+
+0	O
+.	O
+67	O
+
+insulin	B-GP
+
+rs10498337	O
+T	O
+/	O
+G	O
+
+SNP	O
+
+0	O
+.	O
+38	O
+
+0	O
+.	O
+88	O
+
+LDL	O
+-	O
+cholesterol	O
+
+rs8131349	O
+*	O
+A	O
+/	O
+G	O
+
+SNP	O
+
+0	O
+.	O
+14	O
+
+0	O
+.	O
+16	O
+
+LDL	O
+-	O
+cholesterol	O
+
+rs445925	O
+*	O
+G	O
+/	O
+A	O
+
+SNP	O
+
+0	O
+.	O
+025	O
+
+2	O
+.	O
+3	O
+×	O
+10	O
+−	O
+6	O
+
+LDL	O
+-	O
+cholesterol	O
+
+rs7738656	O
+G	O
+/	O
+A	O
+
+SNP	O
+
+0	O
+.	O
+042	O
+
+0	O
+.	O
+25	O
+
+LDL	O
+-	O
+cholesterol	O
+
+rs10044666	O
+*	O
+G	O
+/	O
+T	O
+
+SNP	O
+
+0	O
+.	O
+015	O
+
+0	O
+.	O
+78	O
+
+systolic	O
+BP	O
+
+rs11822822	O
+G	O
+/	O
+A	O
+
+SNP	O
+
+0	O
+.	O
+002	O
+
+0	O
+.	O
+63	O
+
+systolic	O
+BP	O
+
+rs726914	O
+G	O
+/	O
+A	O
+
+SNP	O
+
+0	O
+.	O
+004	O
+
+0	O
+.	O
+54	O
+
+total	O
+cholesterol	O
+
+rs8131349	O
+*	O
+A	O
+/	O
+G	O
+
+SNP	O
+
+0	O
+.	O
+051	O
+
+0	O
+.	O
+3	O
+
+total	O
+cholesterol	O
+
+rs6829649	O
+T	O
+/	O
+G	O
+
+SNP	O
+
+0	O
+.	O
+56	O
+
+0	O
+.	O
+44	O
+
+total	O
+cholesterol	O
+
+rs7738656	O
+G	O
+/	O
+A	O
+
+SNP	O
+
+0	O
+.	O
+028	O
+
+0	O
+.	O
+08	O
+
+total	O
+cholesterol	O
+
+rs4897695	O
+*	O
+C	O
+/	O
+G	O
+
+SNP	O
+
+0	O
+.	O
+24	O
+
+0	O
+.	O
+91	O
+
+waist	O
+circumference	O
+
+rs891541	O
+*	O
+A	O
+/	O
+G	O
+
+SNP	O
+
+0	O
+.	O
+14	O
+
+0	O
+.	O
+28	O
+
+distolic	O
+BP	O
+
+rs17104804	O
+G	O
+/	O
+A	O
+
+SNPxAGE	O
+
+1	O
+.	O
+5	O
+×	O
+10	O
+−	O
+4	O
+
+0	O
+.	O
+46	O
+
+glucose	O
+
+rs4783595	O
+T	O
+/	O
+C	O
+
+SNPxAGE	O
+
+8	O
+.	O
+7	O
+×	O
+10	O
+−	O
+8	O
+
+0	O
+.	O
+4	O
+
+glucose	O
+
+rs3793275	O
+*	O
+A	O
+/	O
+T	O
+
+SNPxAGE	O
+
+5	O
+.	O
+7	O
+×	O
+10	O
+−	O
+7	O
+
+0	O
+.	O
+44	O
+
+glucose	O
+
+rs5979903	O
+T	O
+/	O
+C	O
+
+SNPxAGE	O
+
+3	O
+.	O
+0	O
+×	O
+10	O
+−	O
+4	O
+
+0	O
+.	O
+45	O
+
+glucose	O
+
+rs12807555	O
+*	O
+G	O
+/	O
+T	O
+
+SNPxAGE	O
+
+1	O
+.	O
+2	O
+×	O
+10	O
+−	O
+8	O
+
+0	O
+.	O
+93	O
+
+glucose	O
+
+rs9909931	O
+G	O
+/	O
+A	O
+
+SNPxAGE	O
+
+5	O
+.	O
+0	O
+×	O
+10	O
+−	O
+7	O
+
+0	O
+.	O
+67	O
+
+glucose	O
+
+rs12069004	O
+*	O
+C	O
+/	O
+T	O
+
+SNPxAGE	O
+
+3	O
+.	O
+2	O
+×	O
+10	O
+−	O
+5	O
+
+0	O
+.	O
+88	O
+
+glucose	O
+
+rs12548494	O
+*	O
+C	O
+/	O
+G	O
+
+SNPxAGE	O
+
+2	O
+.	O
+7	O
+×	O
+10	O
+−	O
+6	O
+
+0	O
+.	O
+45	O
+
+glucose	O
+
+rs10260737	O
+G	O
+/	O
+A	O
+
+SNPxAGE	O
+
+1	O
+.	O
+2	O
+×	O
+10	O
+−	O
+5	O
+
+1	O
+
+glucose	O
+
+rs3019325	O
+*	O
+G	O
+/	O
+C	O
+
+SNPxAGE	O
+
+2	O
+.	O
+2	O
+×	O
+10	O
+−	O
+5	O
+
+0	O
+.	O
+56	O
+
+heart	O
+rate	O
+
+rs6440031	O
+G	O
+/	O
+A	O
+
+SNPxAGE	O
+
+1	O
+.	O
+2	O
+×	O
+10	O
+−	O
+3	O
+
+0	O
+.	O
+77	O
+
+heart	O
+rate	O
+
+rs1449460	O
+G	O
+/	O
+A	O
+
+SNPxAGE	O
+
+0	O
+.	O
+0302	O
+
+0	O
+.	O
+81	O
+
+height	O
+
+rs1144036	O
+C	O
+/	O
+T	O
+
+SNPxAGE	O
+
+0	O
+.	O
+2199	O
+
+0	O
+.	O
+01	O
+
+height	O
+
+rs8103264	O
+*	O
+C	O
+/	O
+G	O
+
+SNPxAGE	O
+
+0	O
+.	O
+0360	O
+
+0	O
+.	O
+49	O
+
+insulin	B-GP
+
+rs1552257	O
+*	O
+C	O
+/	O
+T	O
+
+SNPxAGE	O
+
+3	O
+.	O
+8	O
+×	O
+10	O
+−	O
+5	O
+
+0	O
+.	O
+61	O
+
+LDL	O
+
+rs8073909	O
+T	O
+/	O
+C	O
+
+SNPxAGE	O
+
+1	O
+.	O
+2	O
+×	O
+10	O
+−	O
+6	O
+
+0	O
+.	O
+007	O
+
+LDL	O
+
+rs11258628	O
+*	O
+A	O
+/	O
+T	O
+
+SNPxAGE	O
+
+7	O
+.	O
+3	O
+×	O
+10	O
+−	O
+6	O
+
+0	O
+.	O
+88	O
+
+systolic	O
+BP	O
+
+rs1046391	O
+*	O
+G	O
+/	O
+T	O
+
+SNPxAGE	O
+
+6	O
+.	O
+2	O
+×	O
+10	O
+−	O
+4	O
+
+0	O
+.	O
+74	O
+
+systolic	O
+BP	O
+
+rs17104804	O
+G	O
+/	O
+A	O
+
+SNPxAGE	O
+
+0	O
+.	O
+0015	O
+
+0	O
+.	O
+36	O
+
+total	O
+cholesterol	O
+
+rs8073909	O
+T	O
+/	O
+C	O
+
+SNPxAGE	O
+
+2	O
+.	O
+0	O
+×	O
+10	O
+−	O
+7	O
+
+0	O
+.	O
+008	O
+
+triglycerides	O
+
+rs7890572	O
+G	O
+/	O
+A	O
+
+SNPxAGE	O
+
+4	O
+.	O
+2	O
+×	O
+10	O
+−	O
+6	O
+
+0	O
+.	O
+43	O
+
+triglycerides	O
+
+rs12280753	O
+*	O
+T	O
+/	O
+C	O
+
+SNPxAGE	O
+
+9	O
+.	O
+9	O
+×	O
+10	O
+−	O
+9	O
+
+0	O
+.	O
+24	O
+
+triglycerides	O
+
+rs13290397	O
+*	O
+C	O
+/	O
+G	O
+
+SNPxAGE	O
+
+6	O
+.	O
+8	O
+×	O
+10	O
+−	O
+7	O
+
+0	O
+.	O
+33	O
+
+triglycerides	O
+
+rs6726786	O
+*	O
+G	O
+/	O
+T	O
+
+SNPxAGE	O
+
+3	O
+.	O
+9	O
+×	O
+10	O
+−	O
+6	O
+
+0	O
+.	O
+74	O
+
+triglycerides	O
+
+rs12330441	O
+T	O
+/	O
+G	O
+
+SNPxAGE	O
+
+3	O
+.	O
+1	O
+×	O
+10	O
+−	O
+5	O
+
+0	O
+.	O
+79	O
+
+waist	O
+circumference	O
+
+rs127430	O
+*	O
+G	O
+/	O
+A	O
+
+SNPxAGE	O
+
+2	O
+.	O
+1	O
+×	O
+10	O
+−	O
+7	O
+
+0	O
+.	O
+71	O
+
+waist	O
+circumference	O
+
+rs7121446	O
+G	O
+/	O
+A	O
+
+SNPxAGE	O
+
+2	O
+.	O
+2	O
+×	O
+10	O
+−	O
+6	O
+
+0	O
+.	O
+68	O
+
+waist	O
+circumference	O
+
+rs7210277	O
+*	O
+C	O
+/	O
+T	O
+
+SNPxAGE	O
+
+1	O
+.	O
+2	O
+×	O
+10	O
+−	O
+6	O
+
+0	O
+.	O
+9	O
+
+waist	O
+circumference	O
+
+rs17568778	O
+C	O
+/	O
+A	O
+
+SNPxAGE	O
+
+9	O
+.	O
+0	O
+×	O
+10	O
+−	O
+7	O
+
+0	O
+.	O
+99	O
+
+weight	O
+
+rs6552560	O
+T	O
+/	O
+C	O
+
+SNPxAGE	O
+
+1	O
+.	O
+8	O
+×	O
+10	O
+−	O
+5	O
+
+0	O
+.	O
+04	O
+
+Adult	O
+prediction	O
+P	O
+-	O
+values	O
+correspond	O
+to	O
+the	O
+association	O
+between	O
+the	O
+SNP	O
+and	O
+the	O
+last	O
+adult	O
+measurement	O
+,	O
+after	O
+adjusting	O
+for	O
+the	O
+first	O
+measure	O
+in	O
+childhood	O
+.	O
+
+Previously	O
+identified	O
+markers	O
+
+We	O
+assessed	O
+whether	O
+associations	O
+that	O
+have	O
+been	O
+described	O
+in	O
+previous	O
+adult	O
+cross	O
+-	O
+sectional	O
+GWA	O
+studies	O
+exhibit	O
+consistent	O
+effects	O
+over	O
+time	O
+and	O
+whether	O
+the	O
+effect	O
+sizes	O
+observed	O
+in	O
+children	O
+through	O
+middle	O
+-	O
+aged	O
+adults	O
+are	O
+consistent	O
+with	O
+those	O
+previously	O
+described	O
+.	O
+
+We	O
+identified	O
+169	O
+SNP	O
+-	O
+trait	O
+associations	O
+(	O
+see	O
+Materials	O
+and	O
+Methods	O
+)	O
+for	O
+which	O
+we	O
+had	O
+directly	O
+genotyped	O
+or	O
+imputed	O
+genotype	O
+data	O
+.	O
+
+We	O
+first	O
+estimated	O
+our	O
+power	O
+to	O
+detect	O
+each	O
+previous	O
+association	O
+at	O
+alpha	O
+=	O
+0	O
+.	O
+05	O
+under	O
+a	O
+more	O
+structured	O
+,	O
+but	O
+similar	O
+study	O
+design	O
+(	O
+i	O
+.	O
+e	O
+.,	O
+8	O
+equally	O
+spaced	O
+measurements	O
+),	O
+given	O
+the	O
+previously	O
+reported	O
+effect	O
+size	O
+and	O
+allele	O
+frequency	O
+.	O
+
+Under	O
+this	O
+model	O
+,	O
+we	O
+would	O
+expect	O
+to	O
+have	O
+detected	O
+40	O
+/	O
+169	O
+(	O
+24	O
+%)	O
+associations	O
+at	O
+P	O
+<	O
+0	O
+.	O
+05	O
+,	O
+and	O
+we	O
+observed	O
+a	O
+similar	O
+number	O
+of	O
+SNP	O
+effects	O
+in	O
+the	O
+BHS	O
+data	O
+(	O
+32	O
+/	O
+169	O
+;	O
+19	O
+%).	O
+
+We	O
+evaluated	O
+the	O
+associations	O
+across	O
+all	O
+traits	O
+together	O
+by	O
+comparing	O
+how	O
+well	O
+the	O
+previously	O
+reported	O
+effect	O
+size	O
+was	O
+recapitulated	O
+in	O
+the	O
+BHS	O
+GWA	O
+(	O
+Figure	O
+1A	O
+).	O
+
+For	O
+consistency	O
+across	O
+studies	O
+and	O
+traits	O
+,	O
+if	O
+an	O
+effect	O
+size	O
+was	O
+not	O
+already	O
+expressed	O
+in	O
+terms	O
+of	O
+percent	O
+standard	O
+deviation	O
+(%	O
+SD	O
+),	O
+we	O
+converted	O
+the	O
+previously	O
+reported	O
+effect	O
+size	O
+into	O
+%	O
+SD	O
+and	O
+compared	O
+the	O
+previous	O
+effect	O
+size	O
+to	O
+the	O
+SNP	O
+effect	O
+.	O
+
+The	O
+previously	O
+reported	O
+effect	O
+size	O
+was	O
+a	O
+strong	O
+predictor	O
+of	O
+the	O
+SNP	O
+effect	O
+(	O
+slope	O
+=	O
+0	O
+.	O
+47	O
+,	O
+P	O
+=	O
+1	O
+.	O
+2	O
+×	O
+10	O
+−	O
+21	O
+),	O
+suggesting	O
+that	O
+SNPs	O
+that	O
+have	O
+been	O
+previously	O
+identified	O
+in	O
+adult	O
+cross	O
+-	O
+sectional	O
+GWA	O
+studies	O
+are	O
+good	O
+predictors	O
+of	O
+time	O
+-	O
+averaged	O
+effects	O
+in	O
+the	O
+BHS	O
+sample	O
+.	O
+
+Effects	O
+of	O
+previously	O
+identified	O
+variants	O
+in	O
+the	O
+BHS	O
+.	O
+
+A	O
+)	O
+Effect	O
+sizes	O
+of	O
+previously	O
+identified	O
+markers	O
+are	O
+plotted	O
+against	O
+observed	O
+effects	O
+in	O
+the	O
+BHS	O
+.	O
+
+SNP	O
+-	O
+trait	O
+associations	O
+are	O
+plotted	O
+by	O
+shape	O
+and	O
+color	O
+to	O
+indicate	O
+trait	O
+.	O
+
+The	O
+size	O
+of	O
+the	O
+point	O
+indicates	O
+the	O
+power	O
+to	O
+detect	O
+an	O
+association	O
+of	O
+the	O
+magnitude	O
+previously	O
+described	O
+,	O
+and	O
+whether	O
+a	O
+point	O
+is	O
+filled	O
+in	O
+or	O
+not	O
+indicates	O
+whether	O
+the	O
+association	O
+was	O
+significant	O
+at	O
+P	O
+<	O
+0	O
+.	O
+05	O
+in	O
+the	O
+BHS	O
+.	O
+
+Linear	O
+regression	O
+lines	O
+are	O
+shown	O
+,	O
+with	O
+the	O
+slope	O
+and	O
+p	O
+-	O
+value	O
+of	O
+the	O
+association	O
+between	O
+previously	O
+reported	O
+effect	O
+sizes	O
+and	O
+the	O
+observed	O
+effect	O
+sizes	O
+.	O
+
+B	O
+)	O
+Individuals	O
+were	O
+scored	O
+based	O
+on	O
+the	O
+effect	O
+size	O
+of	O
+each	O
+previously	O
+identified	O
+marker	O
+and	O
+are	O
+grouped	O
+and	O
+color	O
+-	O
+coded	O
+based	O
+on	O
+the	O
+decile	O
+of	O
+their	O
+score	O
+.	O
+
+Linear	O
+lines	O
+are	O
+linear	O
+regression	O
+estimates	O
+of	O
+the	O
+average	O
+trajectory	O
+of	O
+each	O
+decile	O
+group	O
+.	O
+
+We	O
+also	O
+determined	O
+whether	O
+the	O
+same	O
+previously	O
+identified	O
+SNPs	O
+were	O
+likely	O
+to	O
+show	O
+effects	O
+on	O
+a	O
+trait	O
+over	O
+time	O
+(	O
+SNPxAGE	O
+effects	O
+).	O
+
+Under	O
+a	O
+simple	O
+model	O
+that	O
+assumed	O
+that	O
+all	O
+of	O
+the	O
+effect	O
+in	O
+adults	O
+is	O
+due	O
+to	O
+a	O
+locus	O
+that	O
+has	O
+no	O
+effect	O
+in	O
+childhood	O
+,	O
+we	O
+estimated	O
+power	O
+to	O
+detect	O
+such	O
+an	O
+interaction	O
+effect	O
+in	O
+a	O
+similarly	O
+structured	O
+study	O
+with	O
+8	O
+repeated	O
+measures	O
+.	O
+
+Given	O
+these	O
+assumptions	O
+,	O
+we	O
+would	O
+have	O
+expected	O
+to	O
+see	O
+24	O
+/	O
+169	O
+(	O
+14	O
+%)	O
+SNPxAGE	O
+associations	O
+.	O
+
+We	O
+observed	O
+6	O
+/	O
+169	O
+(	O
+3	O
+.	O
+6	O
+%)	O
+SNPs	O
+that	O
+showed	O
+SNPxAGE	O
+effects	O
+at	O
+P	O
+<	O
+0	O
+.	O
+05	O
+,	O
+indicating	O
+that	O
+effects	O
+seen	O
+in	O
+SNPs	O
+described	O
+in	O
+adult	O
+GWA	O
+studies	O
+are	O
+not	O
+due	O
+primarily	O
+to	O
+differences	O
+in	O
+effects	O
+over	O
+time	O
+,	O
+although	O
+larger	O
+studies	O
+will	O
+be	O
+required	O
+to	O
+definitively	O
+characterize	O
+this	O
+.	O
+
+Composite	O
+scoring	O
+
+We	O
+considered	O
+whether	O
+a	O
+composite	O
+genotype	O
+score	O
+would	O
+better	O
+predict	O
+overall	O
+CVD	B-DS
+risk	O
+factor	O
+trajectories	O
+or	O
+time	O
+-	O
+dependent	O
+effects	O
+than	O
+any	O
+single	O
+locus	O
+.	O
+
+For	O
+each	O
+person	O
+and	O
+each	O
+trait	O
+,	O
+we	O
+created	O
+a	O
+score	O
+by	O
+summing	O
+the	O
+expected	O
+effect	O
+in	O
+percent	O
+standard	O
+deviation	O
+of	O
+each	O
+allele	O
+that	O
+the	O
+person	O
+carried	O
+.	O
+
+We	O
+then	O
+determined	O
+whether	O
+the	O
+score	O
+was	O
+associated	O
+with	O
+the	O
+trait	O
+'	O
+s	O
+average	O
+value	O
+and	O
+trajectory	O
+by	O
+using	O
+this	O
+score	O
+as	O
+a	O
+predictor	O
+for	O
+each	O
+trait	O
+in	O
+a	O
+linear	O
+mixed	O
+model	O
+,	O
+adjusting	O
+for	O
+age	O
+and	O
+gender	O
+.	O
+
+We	O
+assessed	O
+the	O
+score	O
+'	O
+s	O
+average	O
+effect	O
+across	O
+time	O
+(	O
+score	O
+effect	O
+)	O
+and	O
+whether	O
+or	O
+not	O
+there	O
+was	O
+a	O
+time	O
+-	O
+dependent	O
+effect	O
+(	O
+score	O
+*	O
+age	O
+effect	O
+).	O
+
+The	O
+traits	O
+HDL	O
+,	O
+LDL	O
+,	O
+total	O
+cholesterol	O
+,	O
+triglycerides	O
+,	O
+and	O
+height	O
+showed	O
+strongly	O
+significant	O
+score	O
+effects	O
+,	O
+while	O
+only	O
+triglycerides	O
+showed	O
+a	O
+score	O
+*	O
+age	O
+effect	O
+(	O
+Table	O
+5	O
+).	O
+
+Longitudinal	O
+data	O
+was	O
+visualized	O
+by	O
+color	O
+-	O
+coding	O
+the	O
+individuals	O
+according	O
+to	O
+the	O
+decile	O
+of	O
+their	O
+overall	O
+score	O
+and	O
+the	O
+average	O
+linear	O
+trend	O
+of	O
+each	O
+group	O
+was	O
+plotted	O
+(	O
+LDL	O
+,	O
+Figure	O
+1B	O
+and	O
+others	O
+in	O
+Figure	O
+S3	O
+).	O
+
+These	O
+results	O
+indicate	O
+that	O
+the	O
+cumulative	O
+effects	O
+of	O
+SNPs	O
+that	O
+are	O
+identified	O
+in	O
+large	O
+adult	O
+cross	O
+-	O
+sectional	O
+studies	O
+are	O
+generally	O
+age	O
+-	O
+independent	O
+effects	O
+,	O
+with	O
+an	O
+exception	O
+in	O
+triglycerides	O
+,	O
+which	O
+was	O
+the	O
+only	O
+trait	O
+to	O
+show	O
+a	O
+significant	O
+score	O
+*	O
+age	O
+effect	O
+.	O
+
+We	O
+additionally	O
+tested	O
+whether	O
+previously	O
+identified	O
+variants	O
+were	O
+predictive	O
+of	O
+adult	O
+levels	O
+after	O
+adjusting	O
+for	O
+childhood	O
+levels	O
+(	O
+Table	O
+6	O
+).	O
+
+We	O
+saw	O
+that	O
+25	O
+/	O
+169	O
+(	O
+14	O
+.	O
+8	O
+%)	O
+showed	O
+association	O
+at	O
+P	O
+<	O
+0	O
+.	O
+05	O
+.	O
+
+These	O
+observations	O
+in	O
+the	O
+BHS	O
+data	O
+suggest	O
+that	O
+even	O
+though	O
+results	O
+from	O
+existing	O
+GWA	O
+studies	O
+demonstrate	O
+age	O
+-	O
+independent	O
+effects	O
+,	O
+they	O
+can	O
+be	O
+predictive	O
+of	O
+trait	O
+values	O
+in	O
+adults	O
+.	O
+
+P	O
+-	O
+values	O
+associated	O
+with	O
+score	O
+and	O
+score	O
+*	O
+age	O
+effects	O
+(	O
+Age	O
+and	O
+Sex	O
+adjusted	O
+).	O
+
+Score	O
+
+Score	O
+×	O
+AGE	O
+
+weight	O
+
+0	O
+.	O
+03	O
+
+0	O
+.	O
+11	O
+
+diastolic	O
+BP	O
+
+0	O
+.	O
+62	O
+
+0	O
+.	O
+92	O
+
+HDL	O
+-	O
+cholesterol	O
+
+1	O
+.	O
+9	O
+×	O
+10	O
+−	O
+5	O
+
+0	O
+.	O
+11	O
+
+height	O
+
+8	O
+.	O
+8	O
+×	O
+10	O
+−	O
+12	O
+
+0	O
+.	O
+86	O
+
+LDL	O
+-	O
+cholesterol	O
+
+5	O
+.	O
+7	O
+×	O
+10	O
+−	O
+10	O
+
+0	O
+.	O
+27	O
+
+systolic	O
+BP	O
+
+0	O
+.	O
+11	O
+
+0	O
+.	O
+21	O
+
+total	O
+cholesterol	O
+
+6	O
+.	O
+6	O
+×	O
+10	O
+−	O
+9	O
+
+0	O
+.	O
+21	O
+
+triglycerides	O
+
+4	O
+.	O
+1	O
+×	O
+10	O
+−	O
+8	O
+
+2	O
+.	O
+9	O
+×	O
+10	O
+−	O
+5	O
+
+Scores	O
+based	O
+on	O
+the	O
+genotypes	O
+of	O
+previously	O
+reported	O
+SNPs	O
+were	O
+used	O
+to	O
+test	O
+for	O
+association	O
+with	O
+effects	O
+across	O
+time	O
+(	O
+Score	O
+)	O
+or	O
+time	O
+-	O
+dependent	O
+effects	O
+(	O
+Score	O
+×	O
+Age	O
+).	O
+
+P	O
+-	O
+values	O
+for	O
+predictive	O
+ability	O
+of	O
+previously	O
+identified	O
+SNPs	O
+,	O
+after	O
+adjusting	O
+for	O
+first	O
+measure	O
+in	O
+childhood	O
+.	O
+
+Trait	O
+
+SNP	O
+
+Alleles	O
+
+BETA	O
+
+SE	O
+
+P	O
+
+diastolic	O
+BP	O
+
+rs653178	O
+
+T	O
+/	O
+C	O
+
+−	O
+1	O
+.	O
+2	O
+
+0	O
+.	O
+5	O
+
+0	O
+.	O
+025	O
+
+glucose	O
+
+rs560887	O
+
+T	O
+/	O
+C	O
+
+−	O
+3	O
+.	O
+0	O
+
+1	O
+.	O
+5	O
+
+0	O
+.	O
+046	O
+
+HDL	O
+-	O
+cholesterol	O
+
+rs1532624	O
+
+A	O
+/	O
+C	O
+
+2	O
+.	O
+1	O
+
+0	O
+.	O
+7	O
+
+0	O
+.	O
+005	O
+
+HDL	O
+-	O
+cholesterol	O
+
+rs964184	O
+
+G	O
+/	O
+C	O
+
+−	O
+2	O
+.	O
+8	O
+
+1	O
+.	O
+1	O
+
+0	O
+.	O
+015	O
+
+HDL	O
+-	O
+cholesterol	O
+
+rs157580	O
+
+A	O
+/	O
+G	O
+
+−	O
+1	O
+.	O
+6	O
+
+0	O
+.	O
+7	O
+
+0	O
+.	O
+027	O
+
+HDL	O
+-	O
+cholesterol	O
+
+rs7395662	O
+
+A	O
+/	O
+G	O
+
+−	O
+1	O
+.	O
+5	O
+
+0	O
+.	O
+7	O
+
+0	O
+.	O
+038	O
+
+HDL	O
+-	O
+cholesterol	O
+
+rs471364	O
+
+T	O
+/	O
+C	O
+
+2	O
+.	O
+2	O
+
+1	O
+.	O
+1	O
+
+0	O
+.	O
+049	O
+
+height	O
+
+rs185819	O
+
+T	O
+/	O
+C	O
+
+0	O
+.	O
+9	O
+
+0	O
+.	O
+3	O
+
+0	O
+.	O
+003	O
+
+height	O
+
+rs3748069	O
+
+A	O
+/	O
+G	O
+
+0	O
+.	O
+9	O
+
+0	O
+.	O
+3	O
+
+0	O
+.	O
+006	O
+
+height	O
+
+rs710841	O
+
+C	O
+/	O
+T	O
+
+−	O
+0	O
+.	O
+8	O
+
+0	O
+.	O
+3	O
+
+0	O
+.	O
+013	O
+
+height	O
+
+rs4896582	O
+
+A	O
+/	O
+G	O
+
+−	O
+0	O
+.	O
+8	O
+
+0	O
+.	O
+3	O
+
+0	O
+.	O
+013	O
+
+height	O
+
+rs967417	O
+
+G	O
+/	O
+A	O
+
+0	O
+.	O
+7	O
+
+0	O
+.	O
+3	O
+
+0	O
+.	O
+013	O
+
+height	O
+
+rs757608	O
+
+G	O
+/	O
+A	O
+
+−	O
+0	O
+.	O
+7	O
+
+0	O
+.	O
+3	O
+
+0	O
+.	O
+031	O
+
+height	O
+
+rs3760318	O
+
+A	O
+/	O
+G	O
+
+−	O
+0	O
+.	O
+6	O
+
+0	O
+.	O
+3	O
+
+0	O
+.	O
+032	O
+
+height	O
+
+rs16896068	O
+
+A	O
+/	O
+G	O
+
+−	O
+0	O
+.	O
+8	O
+
+0	O
+.	O
+4	O
+
+0	O
+.	O
+037	O
+
+height	O
+
+rs6060373	O
+
+A	O
+/	O
+G	O
+
+−	O
+0	O
+.	O
+6	O
+
+0	O
+.	O
+3	O
+
+0	O
+.	O
+048	O
+
+LDL	O
+-	O
+cholesterol	O
+
+rs12740374	O
+
+G	O
+/	O
+T	O
+
+6	O
+.	O
+3	O
+
+2	O
+.	O
+4	O
+
+0	O
+.	O
+009	O
+
+LDL	O
+-	O
+cholesterol	O
+
+rs12272004	O
+
+A	O
+/	O
+C	O
+
+−	O
+8	O
+.	O
+7	O
+
+4	O
+.	O
+1	O
+
+0	O
+.	O
+034	O
+
+systolic	O
+BP	O
+
+rs3184504	O
+
+C	O
+/	O
+T	O
+
+−	O
+1	O
+.	O
+6	O
+
+0	O
+.	O
+7	O
+
+0	O
+.	O
+023	O
+
+total	O
+cholesterol	O
+
+rs693	O
+
+G	O
+/	O
+A	O
+
+−	O
+5	O
+.	O
+7	O
+
+2	O
+.	O
+3	O
+
+0	O
+.	O
+013	O
+
+total	O
+cholesterol	O
+
+rs2304130	O
+
+A	O
+/	O
+G	O
+
+8	O
+.	O
+9	O
+
+4	O
+.	O
+1	O
+
+0	O
+.	O
+031	O
+
+triglycerides	O
+
+rs964184	O
+
+G	O
+/	O
+C	O
+
+51	O
+.	O
+7	O
+
+10	O
+.	O
+7	O
+
+1	O
+.	O
+9	O
+×	O
+10	O
+−	O
+6	O
+
+triglycerides	O
+
+rs780094	O
+
+C	O
+/	O
+T	O
+
+−	O
+19	O
+.	O
+1	O
+
+7	O
+.	O
+2	O
+
+0	O
+.	O
+009	O
+
+triglycerides	O
+
+rs7819412	O
+
+A	O
+/	O
+G	O
+
+13	O
+.	O
+4	O
+
+6	O
+.	O
+7	O
+
+0	O
+.	O
+045	O
+
+weight	O
+
+rs7138803	O
+
+G	O
+/	O
+A	O
+
+−	O
+2	O
+.	O
+2	O
+
+1	O
+.	O
+0	O
+
+0	O
+.	O
+037	O
+
+Previously	O
+associated	O
+SNPs	O
+were	O
+tested	O
+for	O
+whether	O
+they	O
+were	O
+associated	O
+with	O
+adult	O
+level	O
+traits	O
+after	O
+adjusting	O
+for	O
+the	O
+trait	O
+level	O
+seen	O
+in	O
+childhood	O
+.	O
+
+Only	O
+associations	O
+at	O
+P	O
+<	O
+0	O
+.	O
+05	O
+are	O
+shown	O
+.	O
+
+Discussion	O
+
+We	O
+identified	O
+seven	O
+associations	O
+at	O
+P	O
+<	O
+5	O
+×	O
+10	O
+−	O
+8	O
+showing	O
+either	O
+time	O
+-	O
+averaged	O
+or	O
+time	O
+-	O
+dependent	O
+effects	O
+on	O
+CVD	B-DS
+risk	O
+factors	O
+in	O
+the	O
+BHS	O
+,	O
+two	O
+of	O
+which	O
+have	O
+been	O
+previously	O
+characterized	O
+.	O
+
+Of	O
+all	O
+associations	O
+with	O
+P	O
+<	O
+10	O
+−	O
+6	O
+,	O
+we	O
+were	O
+able	O
+to	O
+strongly	O
+replicate	O
+the	O
+association	O
+in	O
+the	O
+YF	O
+with	O
+HDL	O
+-	O
+cholesterol	O
+at	O
+CETP	B-GP
+with	O
+a	O
+combined	O
+P	O
+=	O
+9	O
+.	O
+7	O
+×	O
+10	O
+−	O
+24	O
+,	O
+and	O
+LDL	O
+-	O
+cholesterol	O
+at	O
+APOE	B-GP
+with	O
+a	O
+combined	O
+P	O
+=	O
+8	O
+.	O
+7	O
+×	O
+10	O
+−	O
+19	O
+.	O
+
+Differences	O
+that	O
+exist	O
+between	O
+the	O
+cohorts	O
+,	O
+such	O
+as	O
+birth	O
+year	O
+(	O
+15	O
+year	O
+difference	O
+),	O
+and	O
+environmental	O
+differences	O
+could	O
+have	O
+influenced	O
+replication	O
+of	O
+the	O
+remaining	O
+SNPs	O
+.	O
+
+Larger	O
+discovery	O
+studies	O
+will	O
+also	O
+have	O
+better	O
+resolution	O
+and	O
+power	O
+to	O
+accurately	O
+estimate	O
+longitudinal	O
+effect	O
+sizes	O
+,	O
+likely	O
+allowing	O
+for	O
+more	O
+robust	O
+replication	O
+.	O
+
+We	O
+evaluated	O
+the	O
+longitudinal	O
+effects	O
+of	O
+markers	O
+that	O
+have	O
+been	O
+previously	O
+identified	O
+in	O
+adult	O
+GWA	O
+studies	O
+.	O
+
+We	O
+found	O
+that	O
+previously	O
+identified	O
+markers	O
+showed	O
+time	O
+-	O
+averaged	O
+effects	O
+consistent	O
+with	O
+their	O
+reported	O
+effect	O
+size	O
+.	O
+
+This	O
+argues	O
+that	O
+the	O
+linear	O
+mixed	O
+model	O
+is	O
+an	O
+effective	O
+tool	O
+for	O
+modeling	O
+time	O
+-	O
+averaged	O
+effects	O
+in	O
+a	O
+GWA	O
+setting	O
+and	O
+that	O
+adult	O
+GWA	O
+studies	O
+may	O
+be	O
+capturing	O
+variation	O
+that	O
+tends	O
+to	O
+have	O
+consistent	O
+effects	O
+over	O
+time	O
+.	O
+
+Using	O
+a	O
+scoring	O
+approach	O
+,	O
+the	O
+overall	O
+signal	O
+from	O
+previously	O
+identified	O
+markers	O
+tended	O
+to	O
+have	O
+strong	O
+associations	O
+with	O
+time	O
+-	O
+averaged	O
+effects	O
+,	O
+but	O
+except	O
+in	O
+the	O
+case	O
+of	O
+triglycerides	O
+,	O
+did	O
+not	O
+show	O
+time	O
+-	O
+dependent	O
+effects	O
+.	O
+
+Previously	O
+identified	O
+markers	O
+were	O
+also	O
+likely	O
+to	O
+be	O
+associated	O
+with	O
+adult	O
+trait	O
+levels	O
+above	O
+and	O
+beyond	O
+childhood	O
+levels	O
+.	O
+
+Although	O
+we	O
+primarily	O
+describe	O
+time	O
+-	O
+averaged	O
+effects	O
+for	O
+previously	O
+identified	O
+markers	O
+,	O
+there	O
+may	O
+be	O
+more	O
+subtle	O
+time	O
+-	O
+dependent	O
+effects	O
+that	O
+larger	O
+studies	O
+will	O
+be	O
+better	O
+able	O
+to	O
+capture	O
+.	O
+
+It	O
+is	O
+important	O
+to	O
+note	O
+that	O
+although	O
+we	O
+focused	O
+on	O
+analysis	O
+of	O
+linear	O
+trends	O
+over	O
+time	O
+,	O
+a	O
+linear	O
+model	O
+may	O
+not	O
+best	O
+capture	O
+these	O
+trends	O
+.	O
+
+Other	O
+approaches	O
+could	O
+be	O
+explored	O
+further	O
+such	O
+as	O
+non	O
+-	O
+linear	O
+models	O
+when	O
+there	O
+is	O
+an	O
+a	O
+priori	O
+expectation	O
+of	O
+trait	O
+trajectory	O
+,	O
+or	O
+model	O
+free	O
+approaches	O
+.	O
+
+These	O
+additional	O
+models	O
+could	O
+lead	O
+to	O
+additional	O
+variations	O
+that	O
+influence	O
+trajectories	O
+,	O
+or	O
+more	O
+precise	O
+estimations	O
+of	O
+effect	O
+size	O
+.	O
+
+Longitudinal	O
+studies	O
+are	O
+particularly	O
+suited	O
+to	O
+capturing	O
+effects	O
+that	O
+vary	O
+over	O
+time	O
+.	O
+
+Genetic	O
+variation	O
+that	O
+shows	O
+a	O
+time	O
+-	O
+dependent	O
+effect	O
+may	O
+help	O
+predict	O
+those	O
+that	O
+will	O
+go	O
+onto	O
+develop	O
+disease	O
+before	O
+they	O
+show	O
+symptomatic	O
+traits	O
+.	O
+
+The	O
+discovery	O
+of	O
+variants	O
+associated	O
+with	O
+SNPxAGE	O
+interaction	O
+effects	O
+could	O
+thus	O
+be	O
+used	O
+to	O
+screen	O
+young	O
+individuals	O
+who	O
+are	O
+pre	O
+-	O
+symptomatic	O
+and	O
+provide	O
+the	O
+opportunity	O
+for	O
+preventive	O
+measures	O
+decades	O
+before	O
+disease	O
+onset	O
+.	O
+
+We	O
+explored	O
+how	O
+well	O
+the	O
+markers	O
+that	O
+we	O
+identified	O
+predicted	O
+adult	O
+traits	O
+after	O
+correcting	O
+for	O
+childhood	O
+traits	O
+and	O
+suggest	O
+further	O
+study	O
+of	O
+variants	O
+with	O
+SNPxAGE	O
+effects	O
+as	O
+possibly	O
+better	O
+predictors	O
+of	O
+adult	O
+trait	O
+levels	O
+above	O
+and	O
+beyond	O
+childhood	O
+levels	O
+.	O
+
+These	O
+results	O
+are	O
+consistent	O
+with	O
+the	O
+idea	O
+that	O
+longitudinal	O
+studies	O
+may	O
+be	O
+a	O
+useful	O
+tool	O
+to	O
+better	O
+capture	O
+time	O
+-	O
+dependent	O
+variation	O
+that	O
+could	O
+ultimately	O
+be	O
+better	O
+predictive	O
+of	O
+future	O
+outcomes	O
+.	O
+
+Materials	O
+and	O
+Methods	O
+
+Ethics	O
+statement	O
+
+The	O
+study	O
+was	O
+approved	O
+by	O
+the	O
+institutional	O
+review	O
+board	O
+and	O
+the	O
+ethics	O
+committee	O
+of	O
+each	O
+institution	O
+.	O
+
+Written	O
+informed	O
+consent	O
+was	O
+obtained	O
+from	O
+each	O
+participant	O
+in	O
+accordance	O
+with	O
+institutional	O
+requirements	O
+and	O
+the	O
+Declaration	O
+of	O
+Helsinki	O
+Principles	O
+.	O
+
+All	O
+subjects	O
+in	O
+the	O
+BHS	O
+gave	O
+informed	O
+consent	O
+at	O
+each	O
+examination	O
+,	O
+and	O
+for	O
+those	O
+under	O
+18	O
+years	O
+of	O
+age	O
+,	O
+consent	O
+of	O
+a	O
+parent	O
+/	O
+guardian	O
+was	O
+obtained	O
+.	O
+
+Study	O
+protocols	O
+were	O
+approved	O
+by	O
+the	O
+Institutional	O
+Review	O
+Board	O
+of	O
+the	O
+Tulane	O
+University	O
+Health	O
+Sciences	O
+Center	O
+.	O
+
+The	O
+Bogalusa	O
+Heart	O
+Study	O
+(	O
+BHS	O
+)	O
+
+Between	O
+1973	O
+and	O
+2008	O
+,	O
+9	O
+cross	O
+-	O
+sectional	O
+surveys	O
+of	O
+children	O
+aged	O
+4	O
+–	O
+17	O
+years	O
+and	O
+10	O
+cross	O
+-	O
+sectional	O
+surveys	O
+of	O
+adults	O
+aged	O
+18	O
+–	O
+48	O
+years	O
+(	O
+Figure	O
+S4	O
+),	O
+who	O
+had	O
+been	O
+previously	O
+examined	O
+as	O
+children	O
+,	O
+were	O
+conducted	O
+for	O
+CVD	B-DS
+risk	O
+factor	O
+examinations	O
+in	O
+Bogalusa	O
+,	O
+Louisiana	O
+.	O
+
+This	O
+panel	O
+design	O
+of	O
+repeated	O
+cross	O
+-	O
+sectional	O
+examinations	O
+has	O
+resulted	O
+in	O
+serial	O
+observations	O
+from	O
+childhood	O
+to	O
+adulthood	O
+.	O
+
+By	O
+linking	O
+the	O
+19	O
+surveys	O
+,	O
+12	O
+,	O
+163	O
+individuals	O
+have	O
+been	O
+examined	O
+,	O
+with	O
+37	O
+,	O
+317	O
+observations	O
+.	O
+
+In	O
+the	O
+ongoing	O
+Longitudinal	O
+Aging	O
+Study	O
+funded	O
+by	O
+NIH	O
+and	O
+NIA	O
+since	O
+2000	O
+,	O
+there	O
+are	O
+1	O
+,	O
+202	O
+subjects	O
+who	O
+have	O
+been	O
+examined	O
+4	O
+–	O
+14	O
+times	O
+from	O
+childhood	O
+to	O
+adulthood	O
+and	O
+have	O
+DNA	O
+available	O
+for	O
+GWA	O
+genotyping	O
+.	O
+
+Based	O
+on	O
+the	O
+analysis	O
+of	O
+identity	O
+-	O
+by	O
+-	O
+state	O
+(	O
+IBS	O
+)	O
+sharing	O
+from	O
+whole	O
+genome	O
+genotyping	O
+data	O
+,	O
+we	O
+focus	O
+on	O
+a	O
+subset	O
+of	O
+525	O
+genotyped	O
+individuals	O
+who	O
+are	O
+of	O
+European	O
+ancestry	O
+and	O
+unrelated	O
+(	O
+229	O
+male	O
+,	O
+296	O
+female	O
+).	O
+
+The	O
+average	O
+number	O
+of	O
+measurements	O
+per	O
+individual	O
+is	O
+8	O
+(	O
+range	O
+4	O
+–	O
+13	O
+).	O
+
+The	O
+Cardiovascular	O
+Risk	O
+in	O
+Young	O
+Finns	O
+Study	O
+(	O
+YF	O
+)	O
+
+The	O
+YF	O
+cohort	O
+is	O
+a	O
+Finnish	O
+longitudinal	O
+population	O
+study	O
+sample	O
+on	O
+the	O
+evolution	O
+of	O
+cardiovascular	O
+risk	O
+factors	O
+from	O
+childhood	O
+to	O
+adulthood	O
+[	O
+21	O
+].	O
+
+The	O
+first	O
+cross	O
+-	O
+sectional	O
+study	O
+was	O
+conducted	O
+in	O
+1980	O
+in	O
+five	O
+centers	O
+and	O
+included	O
+3	O
+,	O
+596	O
+participants	O
+in	O
+the	O
+age	O
+groups	O
+of	O
+3	O
+,	O
+6	O
+,	O
+9	O
+,	O
+12	O
+,	O
+15	O
+,	O
+and	O
+18	O
+,	O
+who	O
+were	O
+randomly	O
+chosen	O
+from	O
+the	O
+national	O
+population	O
+register	O
+.	O
+
+After	O
+baseline	O
+in	O
+1980	O
+these	O
+subjects	O
+have	O
+been	O
+re	O
+-	O
+examined	O
+in	O
+1983	O
+and	O
+1986	O
+as	O
+young	O
+individuals	O
+,	O
+and	O
+in	O
+2001	O
+and	O
+2007	O
+as	O
+older	O
+individuals	O
+.	O
+
+Genotype	O
+data	O
+for	O
+the	O
+present	O
+analysis	O
+(	O
+DNA	O
+collected	O
+in	O
+1980	O
+,	O
+2001	O
+and	O
+2007	O
+)	O
+was	O
+available	O
+for	O
+2	O
+,	O
+442	O
+individuals	O
+.	O
+
+In	O
+the	O
+latest	O
+follow	O
+-	O
+up	O
+in	O
+2001	O
+,	O
+a	O
+total	O
+of	O
+2	O
+,	O
+283	O
+participants	O
+(	O
+of	O
+which	O
+DNA	O
+is	O
+available	O
+from	O
+2	O
+,	O
+265	O
+participants	O
+)	O
+were	O
+examined	O
+for	O
+numerous	O
+study	O
+variables	O
+,	O
+including	O
+serum	O
+lipoproteins	O
+,	O
+glucose	O
+,	O
+insulin	B-GP
+,	O
+obesity	B-DS
+indices	O
+,	O
+blood	O
+pressure	O
+,	O
+life	O
+-	O
+style	O
+factors	O
+,	O
+smoking	O
+status	O
+,	O
+alcohol	O
+use	O
+and	O
+general	O
+health	O
+status	O
+.	O
+
+Genotyping	O
+&	O
+QC	O
+
+BHS	O
+genotyping	O
+
+We	O
+genotyped	O
+1	O
+,	O
+202	O
+BHS	O
+samples	O
+using	O
+the	O
+Illumina	O
+Human610	O
+Genotyping	O
+BeadChip	O
+[	O
+22	O
+],	O
+and	O
+HumanCVD	O
+BeadChip	O
+[	O
+11	O
+].	O
+
+Genotypes	O
+were	O
+called	O
+using	O
+a	O
+clustering	O
+algorithm	O
+in	O
+Illumina	O
+'	O
+s	O
+BeadStudio	O
+software	O
+.	O
+
+Three	O
+samples	O
+on	O
+the	O
+Human610	O
+BeadChip	O
+gave	O
+poor	O
+results	O
+(	O
+call	O
+rates	O
+<	O
+99	O
+%)	O
+and	O
+were	O
+discarded	O
+from	O
+the	O
+study	O
+.	O
+
+In	O
+addition	O
+,	O
+3	O
+samples	O
+had	O
+a	O
+different	O
+estimated	O
+gender	O
+from	O
+genotype	O
+data	O
+versus	O
+gender	O
+provided	O
+with	O
+the	O
+phenotype	O
+data	O
+and	O
+were	O
+also	O
+discarded	O
+.	O
+
+SNPs	O
+with	O
+call	O
+rates	O
+<	O
+90	O
+%	O
+were	O
+discarded	O
+,	O
+and	O
+SNPs	O
+with	O
+call	O
+rates	O
+between	O
+90	O
+–	O
+95	O
+%	O
+or	O
+cluster	O
+separation	O
+score	O
+<	O
+0	O
+.	O
+3	O
+were	O
+manually	O
+inspected	O
+and	O
+cluster	O
+positions	O
+were	O
+edited	O
+if	O
+needed	O
+.	O
+
+We	O
+removed	O
+approximately	O
+30	O
+,	O
+000	O
+SNP	O
+loci	O
+(	O
+4	O
+.	O
+9	O
+%)	O
+due	O
+to	O
+poor	O
+performance	O
+.	O
+
+The	O
+final	O
+average	O
+sample	O
+call	O
+rate	O
+was	O
+99	O
+.	O
+95	O
+%	O
+for	O
+the	O
+Human610	O
+BeadChip	O
+,	O
+and	O
+99	O
+.	O
+32	O
+%	O
+for	O
+the	O
+CVD	B-DS
+BeadChip	O
+.	O
+
+We	O
+assessed	O
+reproducibility	O
+by	O
+genotyping	O
+29	O
+samples	O
+in	O
+duplicate	O
+(	O
+18	O
+known	O
+replicates	O
+,	O
+11	O
+blind	O
+replicates	O
+),	O
+and	O
+observed	O
+>	O
+99	O
+.	O
+99	O
+%	O
+identical	O
+genotype	O
+calls	O
+on	O
+both	O
+BeadChips	O
+.	O
+
+Finally	O
+we	O
+observed	O
+99	O
+.	O
+98	O
+%	O
+genotype	O
+concordance	O
+in	O
+12	O
+,	O
+581	O
+overlapping	O
+SNPs	O
+between	O
+the	O
+610	O
+and	O
+CVD	B-DS
+BeadChips	O
+.	O
+
+A	O
+final	O
+list	O
+of	O
+545	O
+,	O
+821	O
+unique	O
+SNPs	O
+passed	O
+QC	O
+and	O
+allele	O
+frequency	O
+filters	O
+.	O
+
+YF	O
+study	O
+genotyping	O
+
+For	O
+replication	O
+,	O
+we	O
+had	O
+genome	O
+-	O
+wide	O
+SNP	O
+data	O
+from	O
+a	O
+custom	O
+Illumina	O
+BeadChip	O
+containing	O
+670	O
+,	O
+000	O
+SNPs	O
+and	O
+CNV	O
+probes	O
+from	O
+2	O
+,	O
+442	O
+YF	O
+participants	O
+(	O
+1	O
+,	O
+123	O
+males	O
+,	O
+1	O
+,	O
+319	O
+females	O
+).	O
+
+The	O
+custom	O
+content	O
+on	O
+the	O
+custom	O
+670K	O
+array	O
+replaced	O
+some	O
+poor	O
+performing	O
+SNPs	O
+on	O
+the	O
+Human610	O
+BeadChip	O
+and	O
+added	O
+more	O
+CNV	O
+content	O
+,	O
+and	O
+includes	O
+546	O
+,	O
+677	O
+SNPs	O
+passing	O
+QC	O
+from	O
+594	O
+,	O
+210	O
+SNPs	O
+on	O
+the	O
+chip	O
+.	O
+
+The	O
+custom	O
+670K	O
+chip	O
+shares	O
+562	O
+,	O
+643	O
+SNPs	O
+in	O
+common	O
+with	O
+the	O
+Illumina	O
+Human610	O
+BeadChip	O
+.	O
+
+Genotypes	O
+were	O
+called	O
+using	O
+Illumina	O
+'	O
+s	O
+clustering	O
+algorithm	O
+[	O
+23	O
+].	O
+
+A	O
+total	O
+of	O
+2	O
+,	O
+556	O
+samples	O
+were	O
+genotyped	O
+.	O
+
+After	O
+initial	O
+clustering	O
+,	O
+we	O
+removed	O
+2	O
+subjects	O
+for	O
+poor	O
+call	O
+rates	O
+(	O
+CR	O
+<	O
+0	O
+.	O
+90	O
+),	O
+and	O
+54	O
+samples	O
+failed	O
+subsequent	O
+QC	O
+(	O
+i	O
+.	O
+e	O
+.,	O
+duplicated	O
+samples	O
+,	O
+heterozygosity	O
+,	O
+low	O
+call	O
+rate	O
+,	O
+or	O
+custom	O
+SNP	O
+fingerprint	O
+genotype	O
+discrepancy	O
+).	O
+
+The	O
+following	O
+filters	O
+were	O
+applied	O
+to	O
+the	O
+remaining	O
+data	O
+:	O
+MAF	O
+0	O
+.	O
+01	O
+,	O
+GENO	O
+0	O
+.	O
+05	O
+,	O
+MIND	O
+0	O
+.	O
+05	O
+,	O
+and	O
+HWE	O
+1	O
+×	O
+10	O
+−	O
+6	O
+.	O
+
+Three	O
+of	O
+2	O
+,	O
+500	O
+individuals	O
+were	O
+removed	O
+for	O
+low	O
+genotyping	O
+(	O
+MIND	O
+>	O
+0	O
+.	O
+05	O
+),	O
+11	O
+,	O
+766	O
+markers	O
+were	O
+excluded	O
+based	O
+on	O
+HWE	O
+test	O
+(	O
+P	O
+≤	O
+1	O
+×	O
+10	O
+−	O
+6	O
+),	O
+7	O
+,	O
+746	O
+SNPs	O
+failed	O
+missingness	O
+test	O
+(	O
+GENO	O
+>	O
+0	O
+.	O
+05	O
+),	O
+34	O
+,	O
+596	O
+SNPs	O
+failed	O
+frequency	O
+test	O
+(	O
+MAF	O
+<	O
+0	O
+.	O
+01	O
+)	O
+and	O
+one	O
+individual	O
+failed	O
+gender	O
+check	O
+.	O
+
+A	O
+final	O
+list	O
+of	O
+546	O
+,	O
+677	O
+SNPs	O
+passed	O
+QC	O
+and	O
+allele	O
+frequency	O
+filters	O
+.	O
+
+Assessing	O
+cryptic	O
+relatedness	O
+
+Bogalusa	O
+participants	O
+with	O
+genotype	O
+data	O
+were	O
+filtered	O
+for	O
+relatedness	O
+.	O
+
+Whole	O
+-	O
+genome	O
+genotype	O
+data	O
+was	O
+used	O
+to	O
+calculate	O
+identity	O
+-	O
+by	O
+-	O
+descent	O
+(	O
+PI_HAT	O
+)	O
+values	O
+in	O
+PLINK	O
+[	O
+24	O
+].	O
+
+Individuals	O
+were	O
+then	O
+removed	O
+such	O
+that	O
+no	O
+pair	O
+of	O
+individuals	O
+retained	O
+a	O
+PI_HAT	O
+value	O
+greater	O
+than	O
+0	O
+.	O
+10	O
+.	O
+
+PI_HAT	O
+values	O
+were	O
+consistent	O
+with	O
+known	O
+sibling	O
+and	O
+half	O
+-	O
+sibling	O
+relationships	O
+.	O
+
+The	O
+final	O
+list	O
+consisted	O
+of	O
+525	O
+BHS	O
+individuals	O
+.	O
+
+In	O
+the	O
+YF	O
+data	O
+,	O
+there	O
+were	O
+546	O
+,	O
+770	O
+SNPs	O
+and	O
+2	O
+,	O
+496	O
+individuals	O
+which	O
+were	O
+utilized	O
+to	O
+generate	O
+an	O
+identity	O
+-	O
+by	O
+-	O
+descent	O
+(	O
+IBD	O
+)	O
+matrix	O
+file	O
+in	O
+PLINK	O
+[	O
+24	O
+].	O
+
+There	O
+were	O
+51	O
+pairs	O
+of	O
+individuals	O
+with	O
+pi	O
+-	O
+hat	O
+greater	O
+than	O
+0	O
+.	O
+2	O
+thus	O
+these	O
+individuals	O
+removed	O
+due	O
+to	O
+possible	O
+relatedness	O
+.	O
+
+One	O
+of	O
+the	O
+pair	O
+was	O
+removed	O
+using	O
+greater	O
+missingness	O
+as	O
+criteria	O
+.	O
+
+The	O
+final	O
+list	O
+consisted	O
+of	O
+2	O
+,	O
+442	O
+YF	O
+subjects	O
+.	O
+
+Imputation	O
+
+We	O
+imputed	O
+genotypes	O
+in	O
+genotyped	O
+BHS	O
+individuals	O
+for	O
+all	O
+HapMap	O
+(	O
+phase	O
+II	O
+,	O
+release	O
+22	O
+)	O
+SNPs	O
+using	O
+the	O
+program	O
+MACH	O
+[	O
+12	O
+].	O
+
+The	O
+best	O
+estimate	O
+of	O
+the	O
+quantitative	O
+allele	O
+dosage	O
+was	O
+used	O
+as	O
+the	O
+predictor	O
+in	O
+association	O
+tests	O
+.	O
+
+The	O
+CEU	O
+HapMap	O
+phased	O
+haplotypes	O
+were	O
+used	O
+as	O
+a	O
+reference	O
+(	O
+N	O
+=	O
+60	O
+unrelated	O
+individuals	O
+).	O
+
+This	O
+resulted	O
+in	O
+overall	O
+allelic	O
+error	O
+rates	O
+of	O
+1	O
+.	O
+6	O
+%.	O
+
+SNPs	O
+were	O
+filtered	O
+for	O
+minor	O
+allele	O
+frequency	O
+(<	O
+5	O
+%)	O
+and	O
+r2	O
+with	O
+respect	O
+to	O
+genotyped	O
+SNPs	O
+(<	O
+0	O
+.	O
+30	O
+),	O
+resulting	O
+in	O
+genotype	O
+data	O
+in	O
+a	O
+total	O
+of	O
+2	O
+,	O
+173	O
+,	O
+391	O
+SNPs	O
+.	O
+
+Imputation	O
+was	O
+performed	O
+in	O
+the	O
+YF	O
+samples	O
+using	O
+MACH	O
+with	O
+the	O
+HapMap	O
+release	O
+22	O
+CEU	O
+haplotypes	O
+as	O
+reference	O
+.	O
+
+Prediction	O
+ability	O
+
+Previously	O
+identified	O
+markers	O
+were	O
+obtained	O
+through	O
+the	O
+NHGRI	O
+database	O
+[	O
+25	O
+]	O
+(	O
+accessed	O
+5	O
+/	O
+20	O
+/	O
+09	O
+).	O
+
+Marker	O
+associations	O
+,	O
+alleles	O
+,	O
+and	O
+allele	O
+frequencies	O
+were	O
+verified	O
+with	O
+those	O
+reported	O
+in	O
+the	O
+original	O
+papers	O
+and	O
+corrected	O
+if	O
+required	O
+.	O
+
+Markers	O
+were	O
+used	O
+if	O
+the	O
+alleles	O
+at	O
+the	O
+locus	O
+provided	O
+unambiguous	O
+orientation	O
+or	O
+if	O
+the	O
+allele	O
+frequencies	O
+were	O
+different	O
+enough	O
+between	O
+A	O
+/	O
+T	O
+and	O
+C	O
+/	O
+G	O
+SNPs	O
+to	O
+distinguish	O
+which	O
+allele	O
+was	O
+the	O
+associated	O
+allele	O
+.	O
+
+We	O
+thus	O
+excluded	O
+any	O
+A	O
+/	O
+T	O
+or	O
+C	O
+/	O
+G	O
+SNPs	O
+with	O
+a	O
+minor	O
+allele	O
+frequency	O
+>	O
+0	O
+.	O
+4	O
+and	O
+required	O
+that	O
+the	O
+allele	O
+frequency	O
+in	O
+the	O
+previously	O
+reported	O
+study	O
+be	O
+within	O
+10	O
+%	O
+of	O
+the	O
+allele	O
+frequency	O
+in	O
+the	O
+BHS	O
+.	O
+
+We	O
+excluded	O
+studies	O
+of	O
+non	O
+-	O
+European	O
+Ancestry	O
+origin	O
+.	O
+
+One	O
+SNP	O
+per	O
+cytogenic	O
+region	O
+was	O
+used	O
+for	O
+each	O
+phenotype	O
+:	O
+the	O
+SNP	O
+with	O
+the	O
+smallest	O
+previously	O
+reported	O
+p	O
+-	O
+value	O
+was	O
+used	O
+.	O
+
+Effect	O
+size	O
+was	O
+translated	O
+to	O
+percent	O
+standard	O
+deviation	O
+.	O
+
+If	O
+the	O
+effect	O
+size	O
+was	O
+reported	O
+in	O
+an	O
+absolute	O
+measure	O
+(	O
+e	O
+.	O
+g	O
+.	O
+cm	O
+for	O
+height	O
+),	O
+then	O
+the	O
+standard	O
+deviation	O
+from	O
+the	O
+BHS	O
+study	O
+was	O
+used	O
+.	O
+
+Standard	O
+deviation	O
+was	O
+calculated	O
+from	O
+the	O
+standard	O
+error	O
+of	O
+the	O
+SNP	O
+association	O
+reported	O
+in	O
+the	O
+linear	O
+mixed	O
+model	O
+.	O
+
+For	O
+glucose	O
+,	O
+cholesterol	O
+,	O
+and	O
+triglycerides	O
+measures	O
+,	O
+units	O
+were	O
+converted	O
+to	O
+mg	O
+/	O
+dl	O
+before	O
+converting	O
+to	O
+%	O
+SD	O
+.	O
+
+A	O
+risk	O
+value	O
+was	O
+calculated	O
+for	O
+each	O
+individual	O
+based	O
+on	O
+the	O
+imputed	O
+genotype	O
+and	O
+previously	O
+reported	O
+effect	O
+size	O
+,	O
+converted	O
+to	O
+%	O
+SD	O
+.	O
+
+The	O
+%	O
+SD	O
+was	O
+multiplied	O
+by	O
+the	O
+allelic	O
+dosage	O
+for	O
+each	O
+SNP	O
+and	O
+summed	O
+over	O
+all	O
+the	O
+associated	O
+SNPs	O
+for	O
+each	O
+phenotype	O
+.	O
+
+The	O
+resulting	O
+risk	O
+value	O
+was	O
+then	O
+used	O
+as	O
+a	O
+predictor	O
+for	O
+the	O
+BHS	O
+individuals	O
+.	O
+
+Genome	O
+-	O
+wide	O
+association	O
+
+GWA	O
+was	O
+performed	O
+using	O
+linear	O
+mixed	O
+model	O
+regression	O
+with	O
+fixed	O
+covariates	O
+of	O
+age	O
+and	O
+sex	O
+,	O
+random	O
+slope	O
+,	O
+and	O
+random	O
+intercept	O
+.	O
+
+Genotypes	O
+were	O
+coded	O
+as	O
+0	O
+,	O
+1	O
+,	O
+or	O
+2	O
+when	O
+the	O
+SNP	O
+was	O
+genotyped	O
+and	O
+by	O
+dosage	O
+(	O
+scale	O
+0	O
+–	O
+2	O
+)	O
+when	O
+imputed	O
+.	O
+
+Analysis	O
+was	O
+performed	O
+within	O
+the	O
+nlme	O
+package	O
+in	O
+R	O
+[	O
+13	O
+].	O
+
+Covariance	O
+structures	O
+were	O
+determined	O
+by	O
+testing	O
+all	O
+spatial	O
+covariance	O
+structures	O
+(	O
+exponential	O
+,	O
+Gaussian	O
+,	O
+linear	O
+,	O
+rational	O
+quadradics	O
+,	O
+and	O
+spherical	O
+)	O
+with	O
+covariates	O
+and	O
+a	O
+sample	O
+of	O
+SNPs	O
+,	O
+and	O
+picking	O
+the	O
+structure	O
+that	O
+best	O
+fit	O
+the	O
+data	O
+as	O
+measured	O
+by	O
+the	O
+lowest	O
+AIC	O
+(	O
+Akaike	O
+Information	O
+Criteria	O
+)	O
+value	O
+.	O
+
+SNP	O
+and	O
+SNPxAGE	O
+interaction	O
+effects	O
+were	O
+estimated	O
+separately	O
+.	O
+
+Although	O
+the	O
+default	O
+nlme	O
+optimizer	O
+tended	O
+to	O
+have	O
+difficulty	O
+converging	O
+,	O
+we	O
+obtained	O
+good	O
+results	O
+by	O
+using	O
+the	O
+optim	O
+optimizer	O
+on	O
+data	O
+where	O
+all	O
+missing	O
+data	O
+was	O
+removed	O
+.	O
+
+The	O
+number	O
+of	O
+SNPs	O
+that	O
+converged	O
+and	O
+for	O
+which	O
+we	O
+obtained	O
+results	O
+is	O
+listed	O
+in	O
+Table	O
+S1	O
+.	O
+
+Analyses	O
+were	O
+performed	O
+on	O
+a	O
+compute	O
+cluster	O
+with	O
+600	O
+,	O
+000	O
+tests	O
+taking	O
+∼	O
+3	O
+hrs	O
+on	O
+64	O
+processors	O
+.	O
+
+Filtering	O
+for	O
+genomic	O
+inflation	O
+
+If	O
+genomic	O
+inflation	O
+factors	O
+were	O
+inflated	O
+or	O
+deflated	O
+,	O
+we	O
+reran	O
+the	O
+GWA	O
+using	O
+the	O
+first	O
+four	O
+MDS	O
+components	O
+as	O
+covariates	O
+.	O
+
+If	O
+the	O
+inflation	O
+factor	O
+was	O
+still	O
+less	O
+than	O
+0	O
+.	O
+90	O
+or	O
+greater	O
+than	O
+1	O
+.	O
+05	O
+,	O
+we	O
+removed	O
+the	O
+analysis	O
+.	O
+
+In	O
+addition	O
+,	O
+we	O
+filtered	O
+body	O
+mass	O
+index	O
+(	O
+BMI	O
+)	O
+SNP	O
+,	O
+BMI	O
+SNPxAGE	O
+,	O
+and	O
+weight	O
+SNP	O
+analyses	O
+completely	O
+from	O
+the	O
+analysis	O
+due	O
+to	O
+a	O
+combination	O
+of	O
+consistently	O
+inflated	O
+or	O
+deflated	O
+genomic	O
+inflation	O
+factors	O
+or	O
+a	O
+long	O
+list	O
+of	O
+highly	O
+associated	O
+SNPs	O
+.	O
+
+Power	O
+
+Power	O
+was	O
+calculated	O
+using	O
+G	O
+*	O
+Power	O
+3	O
+[	O
+26	O
+].	O
+We	O
+used	O
+the	O
+MANOVA	O
+repeated	O
+measures	O
+module	O
+with	O
+8	O
+repeated	O
+measures	O
+with	O
+a	O
+correlation	O
+of	O
+0	O
+.	O
+5	O
+between	O
+them	O
+,	O
+similar	O
+to	O
+the	O
+correlations	O
+seen	O
+in	O
+this	O
+study	O
+.	O
+
+We	O
+estimated	O
+power	O
+for	O
+between	O
+-	O
+factor	O
+and	O
+between	O
+-	O
+within	O
+interaction	O
+effects	O
+.	O
+
+Effect	O
+size	O
+(	O
+f	O
+)	O
+was	O
+calculated	O
+asand	O
+R2	O
+was	O
+calculated	O
+from	O
+the	O
+allele	O
+frequencies	O
+as	O
+reported	O
+in	O
+the	O
+original	O
+associations	O
+(	O
+p	O
+and	O
+q	O
+)	O
+and	O
+the	O
+effect	O
+size	O
+in	O
+terms	O
+of	O
+%	O
+SD	O
+[	O
+27	O
+].	O
+
+Supporting	O
+Information	O
+
+Regional	O
+plots	O
+of	O
+top	O
+SNP	O
+and	O
+SNPxAGE	O
+associations	O
+.	O
+
+Regions	O
+are	O
+ordered	O
+by	O
+phenotype	O
+and	O
+significance	O
+as	O
+in	O
+Table	O
+1	O
+and	O
+2	O
+.	O
+
+SNPs	O
+are	O
+indicated	O
+by	O
+triangle	O
+(	O
+directly	O
+genotyped	O
+)	O
+or	O
+square	O
+(	O
+imputed	O
+),	O
+and	O
+colored	O
+according	O
+to	O
+LD	O
+(	O
+r2	O
+)	O
+with	O
+the	O
+top	O
+SNP	O
+with	O
+increasing	O
+shades	O
+of	O
+red	O
+indicating	O
+stronger	O
+LD	O
+.	O
+
+Blue	O
+lines	O
+indicate	O
+recombination	O
+hotspots	O
+and	O
+refSeq	O
+genes	O
+are	O
+indicated	O
+.	O
+
+(	O
+8	O
+.	O
+26	O
+MB	O
+PDF	O
+)	O
+
+Click	O
+here	O
+for	O
+additional	O
+data	O
+file	O
+.	O
+
+Manhattan	O
+Plots	O
+of	O
+GWAS	O
+results	O
+for	O
+each	O
+trait	O
+.	O
+
+Manhattan	O
+plots	O
+are	O
+shown	O
+for	O
+each	O
+SNP	O
+and	O
+SNPxAGE	O
+GWAS	O
+.	O
+
+Each	O
+point	O
+corresponds	O
+to	O
+an	O
+association	O
+with	O
+triangles	O
+indicating	O
+directly	O
+genotyped	O
+data	O
+and	O
+circles	O
+indicating	O
+imputed	O
+data	O
+.	O
+
+A	O
+horizontal	O
+line	O
+is	O
+plotted	O
+at	O
+P	O
+=	O
+10	O
+−	O
+6	O
+and	O
+SNPs	O
+above	O
+this	O
+point	O
+are	O
+outlined	O
+in	O
+pink	O
+.	O
+
+These	O
+SNPs	O
+occur	O
+in	O
+Tables	O
+1	O
+,	O
+2	O
+,	O
+and	O
+3	O
+.	O
+
+Chromosomes	O
+are	O
+plotted	O
+in	O
+alternating	O
+blue	O
+and	O
+grey	O
+.	O
+P	O
+-	O
+values	O
+greater	O
+than	O
+0	O
+.	O
+001	O
+are	O
+not	O
+plotted	O
+.	O
+
+(	O
+8	O
+.	O
+19	O
+MB	O
+PDF	O
+)	O
+
+Click	O
+here	O
+for	O
+additional	O
+data	O
+file	O
+.	O
+
+Longitudinal	O
+profiles	O
+of	O
+cumulative	O
+score	O
+from	O
+previously	O
+identified	O
+SNPs	O
+.	O
+
+Individuals	O
+were	O
+scored	O
+based	O
+on	O
+the	O
+effect	O
+size	O
+of	O
+each	O
+previously	O
+identified	O
+marker	O
+as	O
+in	O
+Figure	O
+1B	O
+.	O
+
+Individuals	O
+are	O
+grouped	O
+and	O
+color	O
+-	O
+coded	O
+based	O
+on	O
+the	O
+decile	O
+of	O
+their	O
+score	O
+.	O
+
+Linear	O
+lines	O
+were	O
+calculated	O
+using	O
+linear	O
+regression	O
+with	O
+all	O
+points	O
+from	O
+all	O
+individuals	O
+in	O
+a	O
+given	O
+decile	O
+.	O
+
+(	O
+1	O
+.	O
+26	O
+MB	O
+PDF	O
+)	O
+
+Click	O
+here	O
+for	O
+additional	O
+data	O
+file	O
+.	O
+
+Age	O
+at	O
+measurement	O
+in	O
+the	O
+BHS	O
+.	O
+
+All	O
+exam	O
+dates	O
+that	O
+were	O
+included	O
+in	O
+the	O
+study	O
+are	O
+plotted	O
+as	O
+a	O
+function	O
+of	O
+the	O
+age	O
+of	O
+participant	O
+at	O
+the	O
+exam	O
+date	O
+.	O
+
+Individuals	O
+had	O
+between	O
+4	O
+–	O
+13	O
+measurements	O
+.	O
+
+A	O
+single	O
+individual	O
+is	O
+highlighted	O
+in	O
+red	O
+.	O
+
+(	O
+0	O
+.	O
+27	O
+MB	O
+PDF	O
+)	O
+
+Click	O
+here	O
+for	O
+additional	O
+data	O
+file	O
+.	O
+
+Number	O
+of	O
+SNPs	O
+that	O
+successfully	O
+converged	O
+and	O
+produced	O
+association	O
+statistics	O
+.	O
+
+(	O
+0	O
+.	O
+06	O
+MB	O
+XLSX	O
+)	O
+
+Click	O
+here	O
+for	O
+additional	O
+data	O
+file	O
+.	O
+
+The	O
+authors	O
+have	O
+declared	O
+that	O
+no	O
+competing	O
+interests	O
+exist	O
+.	O
+

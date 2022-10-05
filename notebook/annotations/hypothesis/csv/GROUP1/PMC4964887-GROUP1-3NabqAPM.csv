@@ -1,0 +1,8 @@
+id,group_id,source,exact,prefix,suffix,anno_type,position_type,start,end,tags,all,origin_tags,comment,user,title,created
+yg5o7q-ZEemKYCtS5ij4qw,3NabqAPM,https://europepmc.org/articles/PMC4964887/,Defect,V at 600°C.Go to:4.  Conclusions, chemical processes and ion tran,TextQuoteSelector,TextPositionSelector,39765,39771,WT_DS,yes,[WT_DS][ALL],,acct:vaishnavijpai@hypothes.is,Apparent Oxygen Uphill Diffusion in La0.8Sr0.2MnO3 Thin Films upon Cathodic Polarization.,2019-07-26T11:37:46.329513+00:00
+5azRCK-ZEemRw2-hGycRMw,3NabqAPM,https://europepmc.org/articles/PMC4964887/,dep,"h the deposition temperature (T
+","), tracer exposure temperature (",TextQuoteSelector,TextPositionSelector,14047,14050,WT_GP,yes,[WT_GP][ALL],,acct:vaishnavijpai@hypothes.is,Apparent Oxygen Uphill Diffusion in La0.8Sr0.2MnO3 Thin Films upon Cathodic Polarization.,2019-07-26T11:38:32.777691+00:00
+-4otLK-ZEem1h8dnnf6Gxg,3NabqAPM,https://europepmc.org/articles/PMC4964887/,El1,"
+I/A [Acm−2]
+18O fraction in YSZ","600600300/2819.00×10−4
+0.010El26",TextQuoteSelector,TextPositionSelector,14506,14509,WT_GP,yes,[WT_GP][ALL],,acct:vaishnavijpai@hypothes.is,Apparent Oxygen Uphill Diffusion in La0.8Sr0.2MnO3 Thin Films upon Cathodic Polarization.,2019-07-26T11:39:09.478656+00:00

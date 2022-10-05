@@ -1,0 +1,640 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN" "archivearticle3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?DTDIdentifier.IdentifierValue article.dtd?><?DTDIdentifier.IdentifierType system?><?SourceDTD.DTDName article.dtd?><?SourceDTD.Version 1.0?><?ConverterInfo.XSLTName bmc2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">BMC Microbiol</journal-id><journal-title-group><journal-title>BMC Microbiology</journal-title></journal-title-group><issn pub-type="epub">1471-2180</issn><publisher><publisher-name>BioMed Central</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">2720973</article-id><article-id pub-id-type="publisher-id">1471-2180-9-127</article-id><article-id pub-id-type="pmid">19549320</article-id><article-id pub-id-type="doi">10.1186/1471-2180-9-127</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research article</subject></subj-group></article-categories><title-group><article-title><SecTag type="TITLE"><text><SENT sid="0" pm="."><plain>Carbon and arsenic metabolism in Thiomonas strains: differences revealed diverse adaptation processes </plain></SENT>
+</text></SecTag></article-title></title-group><contrib-group><contrib contrib-type="author" equal-contrib="yes" id="A1"><name><surname>Bryan</surname><given-names>Christopher G</given-names></name><xref ref-type="aff" rid="I1">1</xref><xref ref-type="aff" rid="I4">4</xref><email>chris.bryan@gem.u-strasbg.fr</email></contrib><contrib contrib-type="author" equal-contrib="yes" id="A2"><name><surname>Marchal</surname><given-names>Marie</given-names></name><xref ref-type="aff" rid="I1">1</xref><email>Marie.Marchal@gem.u-strasbg.fr</email></contrib><contrib contrib-type="author" id="A3"><name><surname>Battaglia-Brunet</surname><given-names>Fabienne</given-names></name><xref ref-type="aff" rid="I2">2</xref><email>f.battaglia@brgm.fr</email></contrib><contrib contrib-type="author" id="A4"><name><surname>Kugler</surname><given-names>Valérie</given-names></name><xref ref-type="aff" rid="I1">1</xref><email>valerie.kugler@gem.u-strasbg.fr</email></contrib><contrib contrib-type="author" id="A5"><name><surname>Lemaitre-Guillier</surname><given-names>Christelle</given-names></name><xref ref-type="aff" rid="I3">3</xref><email>Christelle.Guillier@dijon.inra.fr</email></contrib><contrib contrib-type="author" id="A6"><name><surname>Lièvremont</surname><given-names>Didier</given-names></name><xref ref-type="aff" rid="I1">1</xref><email>didier.lievremont@gem.u-strasbg.fr</email></contrib><contrib contrib-type="author" id="A7"><name><surname>Bertin</surname><given-names>Philippe N</given-names></name><xref ref-type="aff" rid="I1">1</xref><email>philippe.bertin@gem.u-strasbg.fr</email></contrib><contrib contrib-type="author" corresp="yes" id="A8"><name><surname>Arsène-Ploetze</surname><given-names>Florence</given-names></name><xref ref-type="aff" rid="I1">1</xref><email>Florence.ploetze@gem.u-strasbg.fr</email></contrib></contrib-group><aff id="I1"><label>1</label>Génétique Moléculaire, Génomique et Microbiologie, UMR 7156 CNRS and Université de Strasbourg, 28, rue Goethe, 67000 Strasbourg, France</aff><aff id="I2"><label>2</label>BRGM, Environnement et Procédés, Unité Ecotechnologie, Avenue Claude Guillemin, 45060 Orléans, France</aff><aff id="I3"><label>3</label>Plateforme Protéomique, IFR 1589 CNRS, 15 rue René Descartes, 67084 Strasbourg, France</aff><aff id="I4"><label>4</label>Current address: Centre for Bioprocess Engineering Research, Department of Chemical Engineering, University of Cape Town, Rondebosch 7701, South Africa</aff><pub-date pub-type="collection"><year>2009</year></pub-date><pub-date pub-type="epub"><day>23</day><month>6</month><year>2009</year></pub-date><volume>9</volume><fpage>127</fpage><lpage>127</lpage><history><date date-type="received"><day>25</day><month>3</month><year>2009</year></date><date date-type="accepted"><day>23</day><month>6</month><year>2009</year></date></history><permissions><copyright-statement>Copyright ©2009 Bryan et al; licensee BioMed Central Ltd.</copyright-statement><copyright-year>2009</copyright-year><copyright-holder>Bryan et al; licensee BioMed Central Ltd.</copyright-holder><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.0"><license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/2.0">http://creativecommons.org/licenses/by/2.0</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xlink:href="http://www.biomedcentral.com/1471-2180/9/127"/><abstract><sec><title><text><SENT sid="1" pm="."><plain>Background </plain></SENT>
+</text></title><p><SecTag type="ABS"><text><SENT sid="2" pm="."><plain>Thiomonas strains are ubiquitous in arsenic-contaminated environments. </plain></SENT>
+<SENT sid="3" pm="."><plain>Differences between Thiomonas strains in the way they have adapted and respond to arsenic have never been studied in detail. </plain></SENT>
+<SENT sid="4" pm="."><plain>For this purpose, five Thiomonas strains, that are interesting in terms of arsenic metabolism were selected: T. arsenivorans, Thiomonas spp. </plain></SENT>
+<SENT sid="5" pm="."><plain>WJ68 and 3As are able to oxidise As(III), while Thiomonas sp. </plain></SENT>
+<SENT sid="6" pm="."><plain>Ynys1 and T. perometabolis are not. </plain></SENT>
+<SENT sid="7" pm="."><plain>Moreover, T. arsenivorans and 3As present interesting physiological traits, in particular that these strains are able to use As(III) as an electron donor. </plain></SENT>
+</text></SecTag></p></sec><sec><title><text><SENT sid="8" pm="."><plain>Results </plain></SENT>
+</text></title><p><SecTag type="ABS"><text><SENT sid="9" pm="."><plain>The metabolism of carbon and arsenic was compared in the five Thiomonas strains belonging to two distinct phylogenetic groups. </plain></SENT>
+<SENT sid="10" pm="."><plain>Greater physiological differences were found between these strains than might have been suggested by 16S rRNA/rpoA gene phylogeny, especially regarding arsenic metabolism. </plain></SENT>
+<SENT sid="11" pm="."><plain>Physiologically, T. perometabolis and Ynys1 were unable to oxidise As(III) and were less arsenic-resistant than the other strains. </plain></SENT>
+<SENT sid="12" pm="."><plain>Genetically, they appeared to lack the aox arsenic-oxidising genes and carried only a single ars arsenic resistance operon. Thiomonas arsenivorans belonged to a distinct phylogenetic group and increased its autotrophic metabolism when arsenic concentration increased. </plain></SENT>
+<SENT sid="13" pm="."><plain>Differential proteomic analysis revealed that in T. arsenivorans, the rbc/cbb genes involved in the assimilation of inorganic carbon were induced in the presence of arsenic, whereas these genes were repressed in Thiomonas sp. </plain></SENT>
+<SENT sid="14" pm="."><plain>3As. </plain></SENT>
+</text></SecTag></p></sec><sec><title><text><SENT sid="15" pm="."><plain>Conclusion </plain></SENT>
+</text></title><p><SecTag type="ABS"><text><SENT sid="16" pm="."><plain>Taken together, these results show that these closely related bacteria differ substantially in their response to arsenic, amongst other factors, and suggest different relationships between carbon assimilation and arsenic metabolism. </plain></SENT>
+</text></SecTag></p></sec></abstract></article-meta></front><body><SecTag type="INTRO"><sec><title><text><SENT sid="17" pm="."><plain>Background </plain></SENT>
+</text></title><p><text><SENT sid="18" pm="."><plain>Microorganisms play an essential role in shaping the natural environment. </plain></SENT>
+<SENT sid="19" pm="."><plain>They have evolved specific metabolic pathways allowing them to utilise a wide range of substrates, many of which are toxic to higher organisms. </plain></SENT>
+<SENT sid="20" pm="."><plain>Through the conversion of both anthropogenic and naturally occurring pollutants to less toxic products, such microorganisms effect widespread natural bioremediation. </plain></SENT>
+<SENT sid="21" pm="."><plain>An important toxic compound is arsenic, a metalloid that can cause multiple health effects including diabetes, hypertension, skin lesions and skin and internal cancers [1]. </plain></SENT>
+<SENT sid="22" pm="."><plain>Arsenic occurs in soils and water bodies both naturally and as a result of anthropogenic processes. </plain></SENT>
+<SENT sid="23" pm="."><plain>A major anthropogenic source is the mining industry, where the processing of sulfide ores produces large quantities of sulfidic wastes which may be rich in arsenic-bearing compounds such as arsenopyrite. </plain></SENT>
+<SENT sid="24" pm="."><plain>The weathering of these minerals leads to the formation of acid mine drainage (AMD), generally characterised by elevated sulfate, iron and other metal concentrations [2], and thus the transport of many toxic elements such as inorganic forms of arsenic, arsenite (As(III)) and arsenate (As(V)). </plain></SENT>
+<SENT sid="25" pm="."><plain>This often results in chronic and severe pollution of the surrounding environment, with a substantial reduction of the indigenous biota. </plain></SENT>
+</text></p><p><text><SENT sid="26" pm="."><plain>Numerous arsenic-oxidising microorganisms, especially Proteobacteria, are able to oxidise As(III) to As(V) in order to detoxify their immediate environment. </plain></SENT>
+<SENT sid="27" pm="."><plain>This biological As(III) oxidation is of particular importance, As(III) being more soluble and more toxic than As(V) [3]. </plain></SENT>
+<SENT sid="28" pm="."><plain>Additionally, in acidic environments such as those impacted by AMD, natural remediation can occur as a result of the concurrent oxidation of ferrous iron and arsenite, leading to the coprecipitation of both [4]. </plain></SENT>
+<SENT sid="29" pm="."><plain>Therefore, understanding factors that influence the competitiveness, diversity and role of these organisms is an essential step in the development of bioremediation systems treating arsenic contaminated environments. </plain></SENT>
+</text></p><p><text><SENT sid="30" pm="."><plain>Certain bacterial strains are able to use arsenite as an electron donor. </plain></SENT>
+<SENT sid="31" pm="."><plain>By gaining energy, as well as removing the more toxic arsenic species, such bacteria may gain an advantage over other microorganisms [5]. </plain></SENT>
+<SENT sid="32" pm="."><plain>Arsenite oxidase, the enzyme catalysing As(III)-oxidation, has been well characterised in several bacterial strains [6-11]. </plain></SENT>
+<SENT sid="33" pm="."><plain>An important group of As(III)-oxidising bacteria belong to the Thiomonas genus, and are ubiquitous in arsenic-contaminated environments [12-15]. Thiomonas strains are able to gain energy from the oxidation of reduced inorganic sulphur compounds (RISCs) [16], and are defined as facultative chemolithoautotrophs which grow optimally in mixotrophic media containing RISCs and organic supplements. </plain></SENT>
+<SENT sid="34" pm="."><plain>These bacteria are also capable of organotrophic growth [17]. </plain></SENT>
+<SENT sid="35" pm="."><plain>The original description comprised Thiomonas cuprina, T. intermedia, T. perometabolis and T. </plain></SENT>
+<SENT sid="36" pm="."><plain>Thermosulfata [17,18]. Thiomonas perometabolis was isolated from soil at a building site in Los Angeles, U.S.A., as Thiobacillus perometabolis [19]. </plain></SENT>
+<SENT sid="37" pm="."><plain>It was differentiated from Thiobacillus intermedius (now T. intermedia, the type species of the genus) as it was apparently unable to grow autotrophically. </plain></SENT>
+<SENT sid="38" pm="."><plain>However, Katayama-Fujimura and Kuraishi [20] have since suggested that this is not true. </plain></SENT>
+<SENT sid="39" pm="."><plain>Recently described species include Thiomonas. arsenivorans [21] and the Thiomonas strains 3As [12], Ynys1 [22] and WJ68 [14]. Thiomonas sp. </plain></SENT>
+<SENT sid="40" pm="."><plain>3As was obtained from the Carnoulès mine tailings, Southern France [12]. </plain></SENT>
+<SENT sid="41" pm="."><plain>It was shown that this bacterium could gain energy from the oxidation of arsenic. </plain></SENT>
+<SENT sid="42" pm="."><plain>The presence of carboxysomes and the detection of the cbbSL genes encoding ribulose 1,5-bisphosphate carboxylase/oxygenase, led the authors propose that this strain may be able to fix CO2. T. arsenivorans was isolated from another arsenic-rich mine residue at the Cheni former gold mine, Limousin, France [21]. </plain></SENT>
+<SENT sid="43" pm="."><plain>The Cheni site is not very acidic (pH ~6.0), but is highly contaminated with arsenic (6.0 mg g-1 in the solid phase and ~1.33 mM in the liquid phase) [23]. T. arsenivorans has been shown to oxidise arsenic and ferrous iron, and is able to grow autotrophically using arsenic as the sole energy source [21]. </plain></SENT>
+<SENT sid="44" pm="."><plain>Strain Ynys1 was isolated from ferruginous waters which have been draining from an adit since the closure of several coal mines near to the village of Ynysarwed, Wales, U.K. </plain></SENT>
+<SENT sid="45" pm="."><plain>[22]. </plain></SENT>
+<SENT sid="46" pm="."><plain>The waters were of relatively neutral pH (pH 6.3) with elevated iron loading (300 mg L-1) and have led to significant pollution of the area [22]. </plain></SENT>
+<SENT sid="47" pm="."><plain>Strain WJ68 was the dominant isolate obtained from effluent draining all three of the compost bioreactors of a pilot-scale bioremediation plant receiving water from the Wheal Jane tin mine, Cornwall, U.K. </plain></SENT>
+<SENT sid="48" pm="."><plain>[14]. </plain></SENT>
+<SENT sid="49" pm="."><plain>Both WJ68 and Ynys1 are known to oxidise ferrous iron, while WJ68 has been shown to oxidise arsenite [15]. </plain></SENT>
+</text></p><p><text><SENT sid="50" pm="."><plain>These five strains are interesting in terms of arsenic metabolism: T. arsenivorans, WJ68 and 3As are able to oxidise As(III), while Ynys1 and T. perometabolis are not. </plain></SENT>
+<SENT sid="51" pm="."><plain>Moreover, T. arsenivorans and 3As present interesting physiological traits, in particular that these strains are able to use As(III) as an electron donor. </plain></SENT>
+<SENT sid="52" pm="."><plain>However, differences between Thiomonas strains in the way they have adapted and respond to arsenic have never been studied further. </plain></SENT>
+<SENT sid="53" pm="."><plain>The connection between carbon and arsenic metabolism in these strains, particularly inorganic carbon assimilation and arsenite as energy source, has never been compared. </plain></SENT>
+<SENT sid="54" pm="."><plain>Therefore, analysis was undertaken to examine these physiological aspects in these five Thiomonas strains. </plain></SENT>
+</text></p></sec></SecTag><SecTag type="RESULTS"><sec><title><text><SENT sid="55" pm="."><plain>Results </plain></SENT>
+</text></title><sec><title><text><SENT sid="56" pm="."><plain>Phylogenetic, phenotypic and genotypic analyses of the five Thiomonas strains </plain></SENT>
+</text></title><p><text><SENT sid="57" pm="."><plain>Phylogenetic analyses of amplified 16S rRNA and rpoA gene products confirmed the occurrence of two distinct monophyletic groups as had been suggested previously [15]. </plain></SENT>
+<SENT sid="58" pm="."><plain>SuperGene analysis (Figure. 1A) was performed using concatenated 16S rRNA and rpoA gene sequences of each strain. </plain></SENT>
+<SENT sid="59" pm="."><plain>These results placed T. perometabolis with WJ68 and Ynys1. </plain></SENT>
+<SENT sid="60" pm="."><plain>Along with Thiomonas sp. </plain></SENT>
+<SENT sid="61" pm="."><plain>3As, these strains grouped together in Group I, while T. arsenivorans was part of Group II. </plain></SENT>
+</text></p><SecTag type="FIG"><fig id="F1" position="float"><label>Figure 1</label><caption><p><text><SENT sid="62" pm="."><plain>Phylogenetic dendrogram of the SuperGene construct of both the 16S rRNA and rpoA genes (A) of the Thiomonas strains used in this study. Ralstonia eutropha H16 served as the outgroup. </plain></SENT>
+<SENT sid="63" pm="."><plain>Numbers at the branches indicate percentage bootstrap support from 500 re-samplings for ML analysis. </plain></SENT>
+<SENT sid="64" pm="."><plain>NJ analyses (not shown) produced the same branch positions in each case. </plain></SENT>
+<SENT sid="65" pm="."><plain>The scale bar represents changes per nucleotide. </plain></SENT>
+<SENT sid="66" pm="."><plain>(B) Phylogenetic dendrogram of the arsB genes of the Thiomonas strains used in this study and some other closely-related bacteria. </plain></SENT>
+<SENT sid="67" pm="."><plain>Both ML and NJ (not shown) analysis gave the same tree structure. </plain></SENT>
+<SENT sid="68" pm="."><plain>The scale bar represents changes per nucleotide. </plain></SENT>
+<SENT sid="69" pm="."><plain>Sequences obtained using the arsB1- and arsB2-specific internal primers were not included in the analysis as the sequences produced were of only between 200 – 350 nt in length. </plain></SENT>
+</text></p></caption><graphic xlink:href="1471-2180-9-127-1"/></fig></SecTag><p><text><SENT sid="70" pm="."><plain>Various tests were carried out to examine the physiological response of the five strains to arsenic. </plain></SENT>
+<SENT sid="71" pm="."><plain>This was coupled with a PCR-based approach to determine the presence of genes involved in arsenic metabolism. </plain></SENT>
+<SENT sid="72" pm="."><plain>In agreement with previous data, strains 3As, WJ68 and T. arsenivorans oxidised arsenite to arsenate in liquid media whereas T. perometabolis and Ynys1 did not (Table 1). </plain></SENT>
+<SENT sid="73" pm="."><plain>The aoxAB genes encoding the arsenite oxidase large and small subunits of Thiomonas sp. </plain></SENT>
+<SENT sid="74" pm="."><plain>3As and T. arsenivorans have previously been characterised [12,24]. </plain></SENT>
+<SENT sid="75" pm="."><plain>Positive PCR results using primers which targeted a region of the aoxAB genes were obtained with DNA from all strains except Ynys1 and T. perometabolis. </plain></SENT>
+<SENT sid="76" pm="."><plain>The aoxAB genes of WJ68 were much more divergent than those of T. arsenivorans and 3As (data not shown). </plain></SENT>
+<SENT sid="77" pm="."><plain>This is in agreement with previous findings showing that the aoxB gene of WJ68 groups neither with T. arsenivorans nor the Group I thiomonads [10], (Quéméneur, personal communication). </plain></SENT>
+<SENT sid="78" pm="."><plain>The inability of T. perometabolis and Ynys1 to oxidise arsenite further implied that the aox operon was absent in these strains. </plain></SENT>
+</text></p><SecTag type="TABLE"><table-wrap id="T1" position="float"><label>Table 1</label><caption><p><text><SENT sid="79" pm="."><plain>Summary of physiological and genetic data obtained for the Thiomonas strains used in this study. </plain></SENT>
+</text></p></caption><table frame="hsides" rules="groups"><thead><tr><th align="center"><text><SENT sid="80" pm="."><plain>Thiomonas strains </plain></SENT>
+</text></th><th align="center" colspan="8"><text><SENT sid="81" pm="."><plain>Arsenic-related phenotype/genotype </plain></SENT>
+</text></th><th align="center" colspan="5"><text><SENT sid="82" pm="."><plain>Growth with different electron donorsc </plain></SENT>
+</text></th><th align="center" colspan="2"><text><SENT sid="83" pm="."><plain>Influence of As(III) on final cell concentrationg </plain></SENT>
+</text></th></tr><tr><th/><th colspan="13"><text><SENT sid="84" pm="."><plain> </plain></SENT>
+</text></th><th/><th/></tr><tr><th/><th align="center"><text><SENT sid="85" pm="."><plain>As(III) Oxidation </plain></SENT>
+</text></th><th align="center" colspan="2"><text><SENT sid="86" pm="."><plain>MIC (mM) </plain></SENT>
+</text></th><th align="center"><text><SENT sid="87" pm="."><plain>Motilitya </plain></SENT>
+</text></th><th align="center"><text><SENT sid="88" pm="."><plain>Effect of arsenite on strain motilityb </plain></SENT>
+</text></th><th align="center" colspan="3"><text><SENT sid="89" pm="."><plain>PCR amplification of arsenic-related genes </plain></SENT>
+</text></th><th align="center"><text><SENT sid="90" pm="."><plain>As(III)d, e </plain></SENT>
+</text></th><th align="center"><text><SENT sid="91" pm="."><plain>YE + As(III)f </plain></SENT>
+</text></th><th align="center"><text><SENT sid="92" pm="."><plain>YEf </plain></SENT>
+</text></th><th align="center"><text><SENT sid="93" pm="."><plain>YE + S2O32- </plain></SENT>
+</text></th><th align="center"><text><SENT sid="94" pm="."><plain>S2O32-e </plain></SENT>
+</text></th><th/><th/></tr><tr><th/><th/><th colspan="2"><text><SENT sid="95" pm="."><plain> </plain></SENT>
+</text></th><th/><th/><th colspan="3"><text><SENT sid="96" pm="."><plain> </plain></SENT>
+</text></th><th/><th/><th/><th/><th/><th colspan="2"><text><SENT sid="97" pm="."><plain> </plain></SENT>
+</text></th></tr><tr><th/><th/><th align="center"><text><SENT sid="98" pm="."><plain>As(III) </plain></SENT>
+</text></th><th align="center"><text><SENT sid="99" pm="."><plain>As(V) </plain></SENT>
+</text></th><th/><th/><th align="center"><text><SENT sid="100" pm="."><plain>aoxAB </plain></SENT>
+</text></th><th align="center"><text><SENT sid="101" pm="."><plain>arsB1 </plain></SENT>
+</text></th><th align="center"><text><SENT sid="102" pm="."><plain>arsB2 </plain></SENT>
+</text></th><th/><th/><th/><th/><th/><th align="center"><text><SENT sid="103" pm="."><plain>YE 0.1 g L-1 </plain></SENT>
+</text></th><th align="center"><text><SENT sid="104" pm="."><plain>YE 0.2 g L-1 </plain></SENT>
+</text></th></tr></thead><tbody><tr><td align="center"><text><SENT sid="105" pm="."><plain>3As </plain></SENT>
+</text></td><td align="center"><text><SENT sid="106" pm="."><plain>+ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="107" pm="."><plain>10 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="108" pm="."><plain>100 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="109" pm="."><plain>2.9 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="110" pm="."><plain>/ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="111" pm="."><plain>+ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="112" pm="."><plain>+ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="113" pm="."><plain>+ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="114" pm="."><plain>- </plain></SENT>
+</text></td><td align="center"><text><SENT sid="115" pm="."><plain>+ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="116" pm="."><plain>++ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="117" pm="."><plain>+++ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="118" pm="."><plain>- </plain></SENT>
+</text></td><td align="center"><text><SENT sid="119" pm="."><plain>- (69%) </plain></SENT>
+</text></td><td align="center"><text><SENT sid="120" pm="."><plain>- (67%) </plain></SENT>
+</text></td></tr><tr><td align="center"><text><SENT sid="121" pm="."><plain>Ynys1 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="122" pm="."><plain>- </plain></SENT>
+</text></td><td align="center"><text><SENT sid="123" pm="."><plain>5 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="124" pm="."><plain>12.5 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="125" pm="."><plain>5.6 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="126" pm="."><plain>- (35%) </plain></SENT>
+</text></td><td align="center"><text><SENT sid="127" pm="."><plain>- </plain></SENT>
+</text></td><td align="center"><text><SENT sid="128" pm="."><plain>+ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="129" pm="."><plain>- </plain></SENT>
+</text></td><td align="center"><text><SENT sid="130" pm="."><plain>- </plain></SENT>
+</text></td><td align="center"><text><SENT sid="131" pm="."><plain>nd </plain></SENT>
+</text></td><td align="center"><text><SENT sid="132" pm="."><plain>- </plain></SENT>
+</text></td><td align="center"><text><SENT sid="133" pm="."><plain>+++ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="134" pm="."><plain>- </plain></SENT>
+</text></td><td align="center"><text><SENT sid="135" pm="."><plain>nd </plain></SENT>
+</text></td><td align="center"><text><SENT sid="136" pm="."><plain>nd </plain></SENT>
+</text></td></tr><tr><td align="center"><text><SENT sid="137" pm="."><plain>WJ68 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="138" pm="."><plain>+ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="139" pm="."><plain>10 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="140" pm="."><plain>&gt; 100 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="141" pm="."><plain>38.7 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="142" pm="."><plain>+ (6%) </plain></SENT>
+</text></td><td align="center"><text><SENT sid="143" pm="."><plain>+ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="144" pm="."><plain>+ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="145" pm="."><plain>- </plain></SENT>
+</text></td><td align="center"><text><SENT sid="146" pm="."><plain>- </plain></SENT>
+</text></td><td align="center"><text><SENT sid="147" pm="."><plain>nd </plain></SENT>
+</text></td><td align="center"><text><SENT sid="148" pm="."><plain>++ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="149" pm="."><plain>+++ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="150" pm="."><plain>- </plain></SENT>
+</text></td><td align="center"><text><SENT sid="151" pm="."><plain>nd </plain></SENT>
+</text></td><td align="center"><text><SENT sid="152" pm="."><plain>nd </plain></SENT>
+</text></td></tr><tr><td align="center"><text><SENT sid="153" pm="."><plain>Tm. arsenivorans </plain></SENT>
+</text></td><td align="center"><text><SENT sid="154" pm="."><plain>+ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="155" pm="."><plain>10 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="156" pm="."><plain>100 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="157" pm="."><plain>4.5 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="158" pm="."><plain>+ (24%) </plain></SENT>
+</text></td><td align="center"><text><SENT sid="159" pm="."><plain>+ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="160" pm="."><plain>- </plain></SENT>
+</text></td><td align="center"><text><SENT sid="161" pm="."><plain>+ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="162" pm="."><plain>++ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="163" pm="."><plain>++ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="164" pm="."><plain>++ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="165" pm="."><plain>+++ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="166" pm="."><plain>++ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="167" pm="."><plain>+ (25%) </plain></SENT>
+</text></td><td align="center"><text><SENT sid="168" pm="."><plain>/ </plain></SENT>
+</text></td></tr><tr><td align="center"><text><SENT sid="169" pm="."><plain>Tm. perometabolis </plain></SENT>
+</text></td><td align="center"><text><SENT sid="170" pm="."><plain>- </plain></SENT>
+</text></td><td align="center"><text><SENT sid="171" pm="."><plain>5 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="172" pm="."><plain>&gt; 100 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="173" pm="."><plain>0 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="174" pm="."><plain>/ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="175" pm="."><plain>- </plain></SENT>
+</text></td><td align="center"><text><SENT sid="176" pm="."><plain>+ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="177" pm="."><plain>- </plain></SENT>
+</text></td><td align="center"><text><SENT sid="178" pm="."><plain>- </plain></SENT>
+</text></td><td align="center"><text><SENT sid="179" pm="."><plain>nd </plain></SENT>
+</text></td><td align="center"><text><SENT sid="180" pm="."><plain>- </plain></SENT>
+</text></td><td align="center"><text><SENT sid="181" pm="."><plain>+++ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="182" pm="."><plain>- </plain></SENT>
+</text></td><td align="center"><text><SENT sid="183" pm="."><plain>nd </plain></SENT>
+</text></td><td align="center"><text><SENT sid="184" pm="."><plain>nd </plain></SENT>
+</text></td></tr></tbody></table><table-wrap-foot><p><text><SENT sid="185" pm="."><plain>a Diameter (mm) of swimming ring formed on 0.3% agar plates after 72 h incubation expressed as a difference with non motile strains (forming colonies of &lt; 3 mm diameter); bMotility was tested in the presence of 1.33 mM of arsenite: "+" indicates a diameter of swimming ring greater than in absence of arsenite, "-" a smaller one and "/" no change. cBasel medium (MCSM or m126) amended with either yeast extract (YE), thiosulfate or arsenite or combinations thereof. d5,33 mM in case of 3As, WJ68, and Tm. arsenivorans, 2.67 mM in case of Ynys1 and Tm. perometabolis. eGrowth is expressed as an increase of colony forming units (cfu) observed after 10 days; -, no increase; fTested with 0.1, 0.2, 0.3% or 0.5% YE in absence of As(III), with 0.1, 0.2 or 0.3% YE and 1.3 mM of As(III), or with 0.3% YE and 2.6 mM As(III), except for WJ68, tested in 0.5% YE, without As(III). g1.33 mM As(III) in MCSM. nd: no data. </plain></SENT>
+</text></p></table-wrap-foot></table-wrap></SecTag><p><text><SENT sid="186" pm="."><plain>The MIC of As(III) for strains 3As, WJ68 and T. arsenivorans was 10 mM, higher than for strains Ynys1 and T. perometabolis (Table 1). </plain></SENT>
+<SENT sid="187" pm="."><plain>Additionally, strain Ynys1 was more sensitive to As(V) than the other strains. </plain></SENT>
+<SENT sid="188" pm="."><plain>Arsenic resistance in bacteria is in part due to the expression of aox genes but also of the ars arsenic-resistance genes [8]. </plain></SENT>
+<SENT sid="189" pm="."><plain>Among these, arsC encodes an arsenate reductase and arsA and arsB encode an arsenite efflux pump. </plain></SENT>
+<SENT sid="190" pm="."><plain>Analysis of the Thiomonas sp. </plain></SENT>
+<SENT sid="191" pm="."><plain>3As genome (Arsène-Ploetze &amp; Bertin, unpublished) revealed the presence of two copies of the arsB gene, denoted arsB1 and arsB2. </plain></SENT>
+<SENT sid="192" pm="."><plain>These genes were found to be distantly related, sharing just 70.2% sequence identity. </plain></SENT>
+<SENT sid="193" pm="."><plain>In order to compare the occurrence, copy number and type of ars genes present in the different Thiomonas strains, PCR amplifications using generic arsB primers were performed. </plain></SENT>
+<SENT sid="194" pm="."><plain>As expected, RFLP and sequence analysis confirmed the presence of the arsB1 and arsB2 genes in strain 3As (Table 1). </plain></SENT>
+<SENT sid="195" pm="."><plain>In contrast, only the arsB1 gene could be detected using DNA from T. perometabolis, Ynys1 and WJ68, even when internal primers specific for the arsB2 gene were used. </plain></SENT>
+<SENT sid="196" pm="."><plain>Conversely, only the arsB2 gene was detected in T. arsenivorans. </plain></SENT>
+</text></p><p><text><SENT sid="197" pm="."><plain>The phylogeny of the arsB1 and arsB2 genes was analysed, excluding the sequences obtained using the arsB2 internal primers that were too short. </plain></SENT>
+<SENT sid="198" pm="."><plain>The arsB2 gene sequence for strain 3As was taken directly from the annotated genome (Arsène-Ploetze &amp; Bertin, unpublished). </plain></SENT>
+<SENT sid="199" pm="."><plain>The data showed that while they are all related to the arsB genes of Leptospirillum spp. and Acidithiobacillus caldus, the type 1 and type 2 genes formed two very distinct clades and have clearly diverged at an evolutionarily distant point in time (Figure. 1B). </plain></SENT>
+</text></p><p><text><SENT sid="200" pm="."><plain>The motility of Herminiimonas arsenicoxydans, an arsenic-oxidising bacterium is greater in the presence of arsenite [25]. </plain></SENT>
+<SENT sid="201" pm="."><plain>Motility tests revealed that the five Thiomonas strains reacted differently to the metalloid (Table 1). </plain></SENT>
+<SENT sid="202" pm="."><plain>Strain T. perometabolis was found to be non-motile irrespective of arsenite concentrations. </plain></SENT>
+<SENT sid="203" pm="."><plain>Among the motile strains, three distinct phenotypes were observed: those for whom motility was not affected by arsenite concentration (strain 3As); those who showed increased motility with increasing arsenite concentrations (strains T. arsenivorans and WJ68) and those who showed decreased motility with increasing arsenite concentration (Ynys1). </plain></SENT>
+<SENT sid="204" pm="."><plain>WJ68 was three to four times more motile than all of the other strains. </plain></SENT>
+<SENT sid="205" pm="."><plain>A concentration of 2.67 mM arsenite appeared to have an inhibitory effect on T. arsenivorans and WJ68 motility (data not shown). </plain></SENT>
+</text></p><p><text><SENT sid="206" pm="."><plain>All the physiological and genetic analyses revealed that the response to arsenic differed in the five Thiomonas strains; some of these differences were correlated with differences in the genetic content. </plain></SENT>
+</text></p></sec><sec><title><text><SENT sid="207" pm="."><plain>As(III) as an energy source, and the fixation of carbon dioxide </plain></SENT>
+</text></title><p><text><SENT sid="208" pm="."><plain>Only T. arsenivorans, 3As and WJ68 were able to grow in basal media with yeast extract as the sole energy source (Table 1). </plain></SENT>
+<SENT sid="209" pm="."><plain>During these growth experiments, soluble sulfate concentrations remained the same or decreased slightly (data not shown), indicating that energy was gained from the oxidation of compounds other than any trace RISCs in the yeast extract, most probably organic carbon. </plain></SENT>
+<SENT sid="210" pm="."><plain>These observations suggest that all strains except Ynys1 and T. perometabolis are organotrophic. </plain></SENT>
+<SENT sid="211" pm="."><plain>All strains were able to grow in the presence of YE and thiosulfate (Table 1). </plain></SENT>
+<SENT sid="212" pm="."><plain>In these thiosulfate-amended cultures, sulfate concentrations increased following incubation (data not shown), indicating that thiosulfate had been oxidised. </plain></SENT>
+<SENT sid="213" pm="."><plain>This suggests that all strains were able to use this RISC as an energy source and are therefore chemolithotrophic. </plain></SENT>
+<SENT sid="214" pm="."><plain>In all cases, greater growth occurred in thiosulfate-amended cultures, suggesting that mixotrophic conditions are optimal for the growth of these strains. </plain></SENT>
+<SENT sid="215" pm="."><plain>It was however observed that T. arsenivorans grew better in MCSM liquid medium, whereas T. perometabolis and Ynys1 grew better in m126 medium (3As and WJ68 grew equally well in both; data not shown). </plain></SENT>
+<SENT sid="216" pm="."><plain>MCSM contains 2 times less thiosulfate and suggests that the optimal thiosulfate concentration is lower in the case of T. arsenivorans. </plain></SENT>
+</text></p><p><text><SENT sid="217" pm="."><plain>Only T. arsenivorans was able to grow in basal media without yeast extract with either thiosulfate or arsenite as the sole energy source (Table 1). </plain></SENT>
+<SENT sid="218" pm="."><plain>Although direct cell enumeration of T. perometabolis cultures was not possible due to its propensity to form flocs during growth, no growth, flocular or otherwise, was observed in the YE-free media. </plain></SENT>
+<SENT sid="219" pm="."><plain>The growth of T. arsenivorans was stimulated by 1.33 mM As(III) in presence of 0.1 g L-1 yeast extract, but this positive effect was no longer detected in presence of 0.2 g L-1 yeast extract. </plain></SENT>
+<SENT sid="220" pm="."><plain>The ability of T. arsenivorans to grow autotrophically using As(III) as the sole energy source was confirmed by the observation of increasing quantities of carbon fixed as more As(III) was oxidised (Figure. 2). </plain></SENT>
+<SENT sid="221" pm="."><plain>This demonstrated that T. arsenivorans was able to use energy gained from the oxidation of As(III) to fix inorganic carbon. </plain></SENT>
+<SENT sid="222" pm="."><plain>In contrast, strain 3As was unable to fix inorganic carbon under the same conditions (in MCSM), as 1.33 mM As(III) was found to inhibit growth in presence of 0.1 or 0.2 g L-1 yeast extract (Table 1), and this strain was unable to grow in presence of As(III) as the sole energy source. </plain></SENT>
+</text></p><SecTag type="FIG"><fig id="F2" position="float"><label>Figure 2</label><caption><p><text><SENT sid="223" pm="."><plain>Carbon fixed as a product of As(III) oxidised by T. arsenivorans. </plain></SENT>
+<SENT sid="224" pm="."><plain>Error bars, where visible, show standard deviation; n = 3 for each data point. </plain></SENT>
+</text></p></caption><graphic xlink:href="1471-2180-9-127-2"/></fig></SecTag><p><text><SENT sid="225" pm="."><plain>Figure 2 shows an essentially linear relationship between carbon fixed and arsenic oxidised, corresponding to 3.9 mg C fixed for 1 g of As(III) oxidised, i.e. 0.293 mg C fixed mM-1 As(III). </plain></SENT>
+<SENT sid="226" pm="."><plain>It requires 40 J to produce 1 mg of organic carbon cellular material from CO2 [26]. </plain></SENT>
+<SENT sid="227" pm="."><plain>The energy produced from the oxidation of As(III) with O2 is 189 J mMol-1 [27]. </plain></SENT>
+<SENT sid="228" pm="."><plain>As a consequence, if 100% of this energy was used for carbon fixation, 4.73 mg C would be fixed for 1 mM As(III) oxidised. </plain></SENT>
+<SENT sid="229" pm="."><plain>Thus, in this experiment, 6% of the energy available from arsenic oxidation was used for carbon fixation. </plain></SENT>
+<SENT sid="230" pm="."><plain>This result is in accordance with the 5 to 10% range of efficiency for carbon fixation by various autotrophic bacteria [26]. </plain></SENT>
+</text></p></sec><sec><title><text><SENT sid="231" pm="."><plain>Enzymes involved in carbon metabolism and energy acquisition are expressed differently in T. arsenivorans and 3As in response to arsenic </plain></SENT>
+</text></title><p><text><SENT sid="232" pm="."><plain>Protein profiles expressed in MCSM or m126 media, in the presence and absence of arsenic were compared in each strain (Figure. 3, Table 2 and see Additional file 1). </plain></SENT>
+<SENT sid="233" pm="."><plain>In both strains, arsenic-specific enzymes (ArsA2 in T. arsenivorans, ArsC1 in 3As) were more abundant in the presence of As(III), suggesting that a typical arsenic-specific response occurred in both strains. </plain></SENT>
+<SENT sid="234" pm="."><plain>ArsA2 is part of the efflux pump with ArsB2 and is encoded by the ars2 operon. </plain></SENT>
+<SENT sid="235" pm="."><plain>Moreover, expression of a putative oxidoreductase (THI3148-like protein) was induced in the presence of arsenic. </plain></SENT>
+<SENT sid="236" pm="."><plain>This protein is conserved in At. caldus, with 90% amino-acid identity (Arsène-Ploetze &amp; Bertin, unpublished). </plain></SENT>
+<SENT sid="237" pm="."><plain>The At. caldus gene encoding this THI3148-like protein is embedded within an ars operon. </plain></SENT>
+<SENT sid="238" pm="."><plain>This protein is also conserved in more than 56 other bacteria, for example in Mycobacterium abscessus (51% identity) and Lactobacillus plantarum (48% identity). </plain></SENT>
+<SENT sid="239" pm="."><plain>In these two cases the corresponding gene was also found in the vicinity of ars genes. </plain></SENT>
+</text></p><SecTag type="TABLE"><table-wrap id="T2" position="float"><label>Table 2</label><caption><p><text><SENT sid="240" pm="."><plain>Arsenic-induced or repressed proteins in T. arsenivorans and Thiomonas sp. </plain></SENT>
+<SENT sid="241" pm="."><plain>3As. </plain></SENT>
+</text></p></caption><table frame="hsides" rules="groups"><thead><tr><th align="center"><text><SENT sid="242" pm="."><plain>Functional class </plain></SENT>
+</text></th><th align="center"><text><SENT sid="243" pm="."><plain>Metabolic pathway </plain></SENT>
+</text></th><th align="center"><text><SENT sid="244" pm="."><plain>Gene </plain></SENT>
+</text></th><th align="center"><text><SENT sid="245" pm="."><plain>Protein </plain></SENT>
+</text></th><th align="center" colspan="2"><text><SENT sid="246" pm="."><plain>Induction/repression by Asa </plain></SENT>
+</text></th></tr><tr><th/><th/><th/><th/><th colspan="2"><text><SENT sid="247" pm="."><plain> </plain></SENT>
+</text></th></tr><tr><th/><th/><th/><th/><th align="center"><text><SENT sid="248" pm="."><plain>T. arsenivorans </plain></SENT>
+</text></th><th align="center"><text><SENT sid="249" pm="."><plain>Thiomonas sp. </plain></SENT>
+<SENT sid="250" pm="."><plain>3As </plain></SENT>
+</text></th></tr></thead><tbody><tr><td align="center"><text><SENT sid="251" pm="."><plain>Energy and carbon metabolism </plain></SENT>
+</text></td><td align="center"><text><SENT sid="252" pm="."><plain>Calvin Cycle </plain></SENT>
+</text></td><td align="center"><text><SENT sid="253" pm="."><plain>rbcL </plain></SENT>
+</text></td><td align="center"><text><SENT sid="254" pm="."><plain>Ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit </plain></SENT>
+</text></td><td align="center"><text><SENT sid="255" pm="."><plain>+ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="256" pm="."><plain>- </plain></SENT>
+</text></td></tr><tr><td/><td/><td align="center"><text><SENT sid="257" pm="."><plain>cbbFC1 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="258" pm="."><plain>Fructose-1,6-bisphosphatase </plain></SENT>
+</text></td><td align="center"><text><SENT sid="259" pm="."><plain>+ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="260" pm="."><plain>0 </plain></SENT>
+</text></td></tr><tr><td/><td/><td align="center"><text><SENT sid="261" pm="."><plain>cbbA1 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="262" pm="."><plain>Fructose biphosphate aldolase </plain></SENT>
+</text></td><td align="center"><text><SENT sid="263" pm="."><plain>0 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="264" pm="."><plain>- </plain></SENT>
+</text></td></tr><tr><td/><td colspan="5"><text><SENT sid="265" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td/><td align="center"><text><SENT sid="266" pm="."><plain>TCA cycle/reductive carboxylate cycle </plain></SENT>
+</text></td><td align="center"><text><SENT sid="267" pm="."><plain>icd </plain></SENT>
+</text></td><td align="center"><text><SENT sid="268" pm="."><plain>Isocitrate dehydrogenase, specific for NADP+ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="269" pm="."><plain>+ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="270" pm="."><plain>0 </plain></SENT>
+</text></td></tr><tr><td/><td colspan="5"><text><SENT sid="271" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td/><td align="center"><text><SENT sid="272" pm="."><plain>Glyoxylate and dicarboxylate metabolism </plain></SENT>
+</text></td><td align="center"><text><SENT sid="273" pm="."><plain>aceB </plain></SENT>
+</text></td><td align="center"><text><SENT sid="274" pm="."><plain>Malate synthase A </plain></SENT>
+</text></td><td align="center"><text><SENT sid="275" pm="."><plain>+ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="276" pm="."><plain>0 </plain></SENT>
+</text></td></tr><tr><td/><td/><td align="center"><text><SENT sid="277" pm="."><plain>gltA </plain></SENT>
+</text></td><td align="center"><text><SENT sid="278" pm="."><plain>Citrate synthase </plain></SENT>
+</text></td><td align="center"><text><SENT sid="279" pm="."><plain>+ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="280" pm="."><plain>0 </plain></SENT>
+</text></td></tr><tr><td/><td/><td align="center"><text><SENT sid="281" pm="."><plain>aceA </plain></SENT>
+</text></td><td align="center"><text><SENT sid="282" pm="."><plain>Isocitrate lyase </plain></SENT>
+</text></td><td align="center"><text><SENT sid="283" pm="."><plain>0 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="284" pm="."><plain>+ </plain></SENT>
+</text></td></tr><tr><td/><td/><td align="center"><text><SENT sid="285" pm="."><plain>/ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="286" pm="."><plain>Tartrate dehydrogenase/decarboxylase (TDH) (D-malate dehydrogenase [decarboxylating]) </plain></SENT>
+</text></td><td align="center"><text><SENT sid="287" pm="."><plain>0 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="288" pm="."><plain>+ </plain></SENT>
+</text></td></tr><tr><td/><td colspan="5"><text><SENT sid="289" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td/><td align="center"><text><SENT sid="290" pm="."><plain>Glycolyse/gluconeogenesis </plain></SENT>
+</text></td><td align="center"><text><SENT sid="291" pm="."><plain>ppsA </plain></SENT>
+</text></td><td align="center"><text><SENT sid="292" pm="."><plain>Phosphoenolpyruvate synthase </plain></SENT>
+</text></td><td align="center"><text><SENT sid="293" pm="."><plain>+ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="294" pm="."><plain>- </plain></SENT>
+</text></td></tr><tr><td/><td/><td align="center"><text><SENT sid="295" pm="."><plain>aceE </plain></SENT>
+</text></td><td align="center"><text><SENT sid="296" pm="."><plain>Pyruvate dehydrogenase E1 component </plain></SENT>
+</text></td><td align="center"><text><SENT sid="297" pm="."><plain>+ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="298" pm="."><plain>- </plain></SENT>
+</text></td></tr><tr><td/><td/><td align="center"><text><SENT sid="299" pm="."><plain>lpdA </plain></SENT>
+</text></td><td align="center"><text><SENT sid="300" pm="."><plain>Dihydrolipoyl dehydrogenase (Pyruvate dehydrogenase E3 component) </plain></SENT>
+</text></td><td align="center"><text><SENT sid="301" pm="."><plain>+ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="302" pm="."><plain>0 </plain></SENT>
+</text></td></tr><tr><td/><td/><td align="center"><text><SENT sid="303" pm="."><plain>eno2 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="304" pm="."><plain>Enolase </plain></SENT>
+</text></td><td align="center"><text><SENT sid="305" pm="."><plain>0 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="306" pm="."><plain>- </plain></SENT>
+</text></td></tr><tr><td/><td colspan="5"><text><SENT sid="307" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td/><td align="center"><text><SENT sid="308" pm="."><plain>Thiosulfate oxydation </plain></SENT>
+</text></td><td align="center"><text><SENT sid="309" pm="."><plain>/ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="310" pm="."><plain>Putative sulfur oxidation protein SoxB </plain></SENT>
+</text></td><td align="center"><text><SENT sid="311" pm="."><plain>0 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="312" pm="."><plain>- </plain></SENT>
+</text></td></tr><tr><td colspan="6"><text><SENT sid="313" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="center"><text><SENT sid="314" pm="."><plain>Cellular processes, transport and binding proteins </plain></SENT>
+</text></td><td align="center"><text><SENT sid="315" pm="."><plain>Arsenic resistance </plain></SENT>
+</text></td><td align="center"><text><SENT sid="316" pm="."><plain>arsA2 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="317" pm="."><plain>Arsenical pump-driving ATPase </plain></SENT>
+</text></td><td align="center"><text><SENT sid="318" pm="."><plain>+ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="319" pm="."><plain>0 </plain></SENT>
+</text></td></tr><tr><td/><td colspan="5"><text><SENT sid="320" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td/><td/><td align="center"><text><SENT sid="321" pm="."><plain>arsC1 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="322" pm="."><plain>Arsenate reductase </plain></SENT>
+</text></td><td align="center"><text><SENT sid="323" pm="."><plain>0 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="324" pm="."><plain>+ </plain></SENT>
+</text></td></tr><tr><td/><td colspan="5"><text><SENT sid="325" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td/><td align="center"><text><SENT sid="326" pm="."><plain>High temperature resistance </plain></SENT>
+</text></td><td align="center"><text><SENT sid="327" pm="."><plain>hldD </plain></SENT>
+</text></td><td align="center"><text><SENT sid="328" pm="."><plain>ADP-L-glycero-D-manno-heptose-6-epimerase </plain></SENT>
+</text></td><td align="center"><text><SENT sid="329" pm="."><plain>+ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="330" pm="."><plain>0 </plain></SENT>
+</text></td></tr><tr><td/><td colspan="5"><text><SENT sid="331" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td/><td align="center"><text><SENT sid="332" pm="."><plain>General stress </plain></SENT>
+</text></td><td align="center"><text><SENT sid="333" pm="."><plain>groL </plain></SENT>
+</text></td><td align="center"><text><SENT sid="334" pm="."><plain>GroEL, 60 kDa chaperonin </plain></SENT>
+</text></td><td align="center"><text><SENT sid="335" pm="."><plain>+ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="336" pm="."><plain>0 </plain></SENT>
+</text></td></tr><tr><td/><td colspan="5"><text><SENT sid="337" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td/><td align="center"><text><SENT sid="338" pm="."><plain>Other stresses </plain></SENT>
+</text></td><td align="center"><text><SENT sid="339" pm="."><plain>ahpF </plain></SENT>
+</text></td><td align="center"><text><SENT sid="340" pm="."><plain>Alkyl hydroperoxide reductase subunit F </plain></SENT>
+</text></td><td align="center"><text><SENT sid="341" pm="."><plain>0 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="342" pm="."><plain>- </plain></SENT>
+</text></td></tr><tr><td/><td colspan="5"><text><SENT sid="343" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td/><td align="center"><text><SENT sid="344" pm="."><plain>Twitching/motility/secretion </plain></SENT>
+</text></td><td align="center"><text><SENT sid="345" pm="."><plain>/ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="346" pm="."><plain>Putative methyl-accepting chemotaxis protein </plain></SENT>
+</text></td><td align="center"><text><SENT sid="347" pm="."><plain>0 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="348" pm="."><plain>- </plain></SENT>
+</text></td></tr><tr><td/><td/><td colspan="4"><text><SENT sid="349" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td/><td/><td align="center"><text><SENT sid="350" pm="."><plain>/ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="351" pm="."><plain>Putative type IV pilus assembly protein PilM </plain></SENT>
+</text></td><td align="center"><text><SENT sid="352" pm="."><plain>0 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="353" pm="."><plain>- </plain></SENT>
+</text></td></tr><tr><td/><td colspan="5"><text><SENT sid="354" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td/><td align="center"><text><SENT sid="355" pm="."><plain>Cell division </plain></SENT>
+</text></td><td align="center"><text><SENT sid="356" pm="."><plain>/ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="357" pm="."><plain>Putative cell division protein </plain></SENT>
+</text></td><td align="center"><text><SENT sid="358" pm="."><plain>0 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="359" pm="."><plain>- </plain></SENT>
+</text></td></tr><tr><td colspan="6"><text><SENT sid="360" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="center"><text><SENT sid="361" pm="."><plain>DNA metabolism, transcription and protein synthesis </plain></SENT>
+</text></td><td align="center"><text><SENT sid="362" pm="."><plain>DNA bending, supercoiling, inversion </plain></SENT>
+</text></td><td align="center"><text><SENT sid="363" pm="."><plain>gyrA </plain></SENT>
+</text></td><td align="center"><text><SENT sid="364" pm="."><plain>DNA gyrase subunit A </plain></SENT>
+</text></td><td align="center"><text><SENT sid="365" pm="."><plain>+ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="366" pm="."><plain>- </plain></SENT>
+</text></td></tr><tr><td/><td colspan="5"><text><SENT sid="367" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td/><td align="center"><text><SENT sid="368" pm="."><plain>RNA degradation </plain></SENT>
+</text></td><td align="center"><text><SENT sid="369" pm="."><plain>pnp </plain></SENT>
+</text></td><td align="center"><text><SENT sid="370" pm="."><plain>Polyribonucleotide nucleotidyltransferase </plain></SENT>
+</text></td><td align="center"><text><SENT sid="371" pm="."><plain>+ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="372" pm="."><plain>- </plain></SENT>
+</text></td></tr><tr><td/><td colspan="5"><text><SENT sid="373" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td/><td align="center"><text><SENT sid="374" pm="."><plain>Protein synthesis </plain></SENT>
+</text></td><td align="center"><text><SENT sid="375" pm="."><plain>fusA </plain></SENT>
+</text></td><td align="center"><text><SENT sid="376" pm="."><plain>Elongation factor G (EF-G) </plain></SENT>
+</text></td><td align="center"><text><SENT sid="377" pm="."><plain>+ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="378" pm="."><plain>0 </plain></SENT>
+</text></td></tr><tr><td/><td/><td align="center"><text><SENT sid="379" pm="."><plain>tufA </plain></SENT>
+</text></td><td align="center"><text><SENT sid="380" pm="."><plain>Elongation factor Tu </plain></SENT>
+</text></td><td align="center"><text><SENT sid="381" pm="."><plain>+ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="382" pm="."><plain>0 </plain></SENT>
+</text></td></tr><tr><td/><td/><td align="center"><text><SENT sid="383" pm="."><plain>rpsB </plain></SENT>
+</text></td><td align="center"><text><SENT sid="384" pm="."><plain>30S ribosomal protein S2 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="385" pm="."><plain>+ </plain></SENT>
+</text></td><td align="center"><text><SENT sid="386" pm="."><plain>0 </plain></SENT>
+</text></td></tr><tr><td/><td/><td align="center"><text><SENT sid="387" pm="."><plain>rpsA </plain></SENT>
+</text></td><td align="center"><text><SENT sid="388" pm="."><plain>30S ribosomal protein S1 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="389" pm="."><plain>0 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="390" pm="."><plain>- </plain></SENT>
+</text></td></tr></tbody></table><table-wrap-foot><p><text><SENT sid="391" pm="."><plain>a + and -: these proteins are more or less abundant in the presence of As(III), respectively. </plain></SENT>
+<SENT sid="392" pm="."><plain>0: no difference observed (for details, see Additional File 1). </plain></SENT>
+</text></p></table-wrap-foot></table-wrap></SecTag><SecTag type="FIG"><fig id="F3" position="float"><label>Figure 3</label><caption><p><text><SENT sid="393" pm="."><plain>Differential proteomic analysis in T. arsenivorans and Thiomonas sp. </plain></SENT>
+<SENT sid="394" pm="."><plain>3As strains, in response to As(III). </plain></SENT>
+<SENT sid="395" pm="."><plain>On the gel presented are extracts obtained from (A) T. arsenivorans or (B)Thiomonas sp. </plain></SENT>
+<SENT sid="396" pm="."><plain>3As cultivated in the absence (left) or in the presence (right) of 2.7 mM As(III). </plain></SENT>
+<SENT sid="397" pm="."><plain>Spots that are circled showed significant differences of accumulation pattern when the two growth conditions were compared. </plain></SENT>
+<SENT sid="398" pm="."><plain>Protein sizes were evaluated by comparison with protein size standards (BenchMark™ Protein Ladder, Invitrogen). </plain></SENT>
+</text></p></caption><graphic xlink:href="1471-2180-9-127-3"/></fig></SecTag><p><text><SENT sid="399" pm="."><plain>The expression of several proteins involved in other metabolic pathways changed, suggesting that in the presence of arsenic, the general metabolism of T. arsenivorans and 3As was modified. </plain></SENT>
+<SENT sid="400" pm="."><plain>Indeed, enzymes involved in glyoxylate metabolism were more abundant in the presence of arsenic, suggesting that expression of such proteins is regulated in response to arsenic in both strains. </plain></SENT>
+<SENT sid="401" pm="."><plain>However, several changes observed were clearly different between both strains. </plain></SENT>
+<SENT sid="402" pm="."><plain>In T. arsenivorans, two proteins involved in CO2 fixation (ribulose-1,5-biphosphate carboxylase (RuBisCo) and fructose-1,6-biphosphatase) were more abundant when cells were grown in the presence of arsenic, whereas in Thiomonas sp. </plain></SENT>
+<SENT sid="403" pm="."><plain>3As, such proteins were less abundant in the presence of As(III). </plain></SENT>
+<SENT sid="404" pm="."><plain>In addition to these proteins, it was observed that enzymes involved in major carbon metabolism (glycolysis, neoglucogenesis) or energy metabolism (thiosulfate oxidation, oxidative phosphorylation) were less abundant in 3As in the presence of As(III). </plain></SENT>
+<SENT sid="405" pm="."><plain>This observation correlated with the phenotypic observation that the strain 3As grew better in the absence of arsenic (Table 1). </plain></SENT>
+</text></p></sec></sec></SecTag><SecTag type="DISCUSS"><sec><title><text><SENT sid="406" pm="."><plain>Discussion </plain></SENT>
+</text></title><p><text><SENT sid="407" pm="."><plain>Two groups could be distinguished within the Thiomonas strains studied: Group I comprises all the strains in this study except T. arsenivorans, which is part of a second group, Group II. </plain></SENT>
+<SENT sid="408" pm="."><plain>As described by Moreira and Amils [17], all of the strains grew better in mixotrophic media containing both thiosulfate and organic supplements, and used RISCs as an energy source. </plain></SENT>
+<SENT sid="409" pm="."><plain>This suggests that lithotrophy is a general characteristic of the Thiomonas genus. </plain></SENT>
+<SENT sid="410" pm="."><plain>In contrast, neither strain Ynys1 nor T. perometabolis could grow organotrophically in the absence of a reduced sulfur compound, suggesting that, despite previous findings, facultative organotrophy is not a general property of the Thiomonas genus. </plain></SENT>
+<SENT sid="411" pm="."><plain>To improve our understanding of these important arsenic-resistant bacteria, several metabolic and genetic properties were investigated. </plain></SENT>
+<SENT sid="412" pm="."><plain>It appears that much greater physiological differentiation regarding arsenic response was possible between these Thiomonas strains than may have been previously suggested. </plain></SENT>
+<SENT sid="413" pm="."><plain>Clearly organisms that are phylogenetically close can differ greatly physiologically, in particular concerning specific metabolic traits such as the metabolism of arsenic. </plain></SENT>
+<SENT sid="414" pm="."><plain>For example, the effects of arsenic on the motility of all strains appeared to be somewhat random, and cannot easily be related to any of the phylogenetic or physiological data obtained. </plain></SENT>
+<SENT sid="415" pm="."><plain>It is worth noting that both T. arsenivorans and WJ68 strains exhibited increased motility in the presence of arsenic. </plain></SENT>
+<SENT sid="416" pm="."><plain>This may indicate a potential energetic role of the element for these strains, as proposed for the arsenic-oxidising bacterium, H. arsenicoxydans [25]. </plain></SENT>
+</text></p><p><text><SENT sid="417" pm="."><plain>Other physiological divergences concern arsenic resistance. </plain></SENT>
+<SENT sid="418" pm="."><plain>Ynys1 and T. perometabolis were approximately twice as sensitive to As(III) as the other strains. </plain></SENT>
+<SENT sid="419" pm="."><plain>Moreover, the inhibitory effect of arsenite on Ynys1 motility suggests a greater susceptibility of this strain to the metalloid. </plain></SENT>
+<SENT sid="420" pm="."><plain>This could be due to the absence of aox or ars genes. </plain></SENT>
+<SENT sid="421" pm="."><plain>Indeed, these two strains are unable to oxidize As(III), probably as they lack aox genes. </plain></SENT>
+<SENT sid="422" pm="."><plain>Moreover, arsB2 genes were not detected in Ynys1 and T. perometabolis. </plain></SENT>
+<SENT sid="423" pm="."><plain>Therefore, it is probable that these two strains have only a single set of arsenic resistance genes that can be expressed. </plain></SENT>
+<SENT sid="424" pm="."><plain>Interestingly, WJ68 was found to be equally resistant to arsenic as these strains, yet no arsB2 gene could be amplified by PCR. </plain></SENT>
+<SENT sid="425" pm="."><plain>The same is true for T. arsenivorans, for which no arsB1 gene was detected by PCR, yet it was again as resistant as those strains shown to possess both the ars1 and ars2 operons. </plain></SENT>
+<SENT sid="426" pm="."><plain>One possible explanation is that WJ68 possesses two copies of the ars1 operon and T. arsenivorans has two copies of the ars2 operon. </plain></SENT>
+<SENT sid="427" pm="."><plain>Alternatively, the higher resistance capacities of T. arsenivorans, Thiomonas sp. </plain></SENT>
+<SENT sid="428" pm="."><plain>3As, and WJ68, as compared to Ynys1 and T. perometabolis may be due to greater As(III) oxidation capacity of these strains. </plain></SENT>
+</text></p><p><text><SENT sid="429" pm="."><plain>The arsenic response observed in T. arsenivorans and 3As revealed that the proteins involved in arsenic resistance (ars genes) were more highly expressed in the presence of arsenic, as shown previously for H. arsenicoxydans [25,28], Pseudomonas aeruginosa [29] and Comamonas sp. </plain></SENT>
+<SENT sid="430" pm="."><plain>[30]. </plain></SENT>
+<SENT sid="431" pm="."><plain>Therefore, such a feature seems to be a common arsenic response. </plain></SENT>
+<SENT sid="432" pm="."><plain>In H. arsenicoxydans, other proteins that were shown to be more abundant in the presence of arsenic were involved in oxidative stress, DNA repair and motility. </plain></SENT>
+<SENT sid="433" pm="."><plain>In this study, such proteins (hydroperoxide reductase, methyl-accepting chemotaxis protein, PilM) were induced in Thiomonas sp. </plain></SENT>
+<SENT sid="434" pm="."><plain>3As whereas in T. arsenivorans, only general stress proteins were induced. </plain></SENT>
+<SENT sid="435" pm="."><plain>These observations suggest that the response to the stress induced by arsenic involves different regulatory mechanisms in 3As and T. arsenivorans. </plain></SENT>
+<SENT sid="436" pm="."><plain>Contrary to this arsenic-specific response, the other arsenic-regulated proteins identified in the Thiomonas strains did not share a similar expression pattern with other arsenic-resistant bacteria. </plain></SENT>
+<SENT sid="437" pm="."><plain>Thus it appears that while there may be a common arsenic response between all the bacteria, the general metabolism may be differentially adapted to each environment from which these strains originated. </plain></SENT>
+<SENT sid="438" pm="."><plain>In particular, T. arsenivorans has unique traits in terms of arsenic, carbon and energy metabolism that distinguish it from the other strains examined. </plain></SENT>
+</text></p><p><text><SENT sid="439" pm="."><plain>Thiomonas arsenivorans can grow autotrophically using either As(III) or thiosulfate as the sole energy source. </plain></SENT>
+<SENT sid="440" pm="."><plain>Surprisingly, the differential protein expression analysis revealed that even in the presence of yeast extract, proteins involved in CO2 fixation through the Calvin-Benson-Bassham cycle and enzymes involved in the glycolysis/neoglucogenesis were expressed. </plain></SENT>
+<SENT sid="441" pm="."><plain>In addition, it was shown in the present study that T. arsenivorans induces expression of carbon fixation-specific enzymes in the presence of arsenic. </plain></SENT>
+<SENT sid="442" pm="."><plain>This observation was correlated with an increased CO2 fixation efficiency when arsenic concentration increased. </plain></SENT>
+<SENT sid="443" pm="."><plain>This suggests that an increase in cbb genes expression in the presence of arsenic improves its capacity to fix CO2. </plain></SENT>
+<SENT sid="444" pm="."><plain>On the other hand, the opposite observation was seen with Thiomonas sp. </plain></SENT>
+<SENT sid="445" pm="."><plain>3As. </plain></SENT>
+<SENT sid="446" pm="."><plain>Therefore, the proteomic results obtained from the present study suggest that these two Thiomonas strains react differently to their arsenic-contaminated environments. </plain></SENT>
+<SENT sid="447" pm="."><plain>The other differences observed concern DNA metabolism, transcription and protein synthesis. </plain></SENT>
+<SENT sid="448" pm="."><plain>It appears that, in the presence of arsenic, T. arsenivorans is still able to express proteins required for optimal growth whereas 3As is not. </plain></SENT>
+</text></p></sec></SecTag><SecTag type="CONCL"><sec><title><text><SENT sid="449" pm="."><plain>Conclusion </plain></SENT>
+</text></title><p><text><SENT sid="450" pm="."><plain>These observations revealed that carbon assimilation, energy acquisition and arsenic metabolism of these strains are linked. </plain></SENT>
+<SENT sid="451" pm="."><plain>However, they do not share a common mechanism, since metabolisms required for growth and carbon assimilation are stimulated in T. arsenivorans in the presence of arsenic, but repressed in Thiomonas sp. </plain></SENT>
+<SENT sid="452" pm="."><plain>3As. </plain></SENT>
+<SENT sid="453" pm="."><plain>Further work is needed to test if a common mechanism occurs to regulate carbon assimilation and arsenic response in other Thiomonas strains. </plain></SENT>
+<SENT sid="454" pm="."><plain>However, to our knowledge, this is the first example of such a link between arsenic metabolism and carbon assimilation. </plain></SENT>
+</text></p></sec></SecTag><SecTag type="METHODS"><sec sec-type="methods"><title><text><SENT sid="455" pm="."><plain>Methods </plain></SENT>
+</text></title><sec><title><text><SENT sid="456" pm="."><plain>Culture media </plain></SENT>
+</text></title><p><text><SENT sid="457" pm="."><plain>All strains except T. arsenivorans were routinely cultured on m126 (modified 126 medium) gelled or liquid medium. </plain></SENT>
+<SENT sid="458" pm="."><plain>Medium m126 contains: (g L-1) yeast extract (YE; 0.5); Na2S2O3 (5.0); KH2PO4 (1.5); Na2HPO4 (4.5); MgSO4·7H2O (0.1); (NH4)Cl (0.3), adjusted to pH 5.0 with H2SO4 prior to sterilisation. T. arsenivorans was routinely cultured on a modified MCSM medium (MCSM) [31] with vitamins and trace elements omitted, yeast extract added to a final concentration of 0.5 g L-1 and Na2S2O3 to a final concentration of 2.5 g L-1. </plain></SENT>
+<SENT sid="459" pm="."><plain>Variations of these media included omitting yeast extract and/or thiosulfate. </plain></SENT>
+<SENT sid="460" pm="."><plain>Where no yeast extract was included, trace elements were added, as described previously [32]. </plain></SENT>
+<SENT sid="461" pm="."><plain>Where required, the media were gelled by the addition of 12 g L-1 agar (final concentration). </plain></SENT>
+<SENT sid="462" pm="."><plain>Arsenite (As(III)) and arsenate (As(V)) were added to media to the desired concentration from sterile stocks of 667.4 mM of the metalloid ion in ddH2O, from NaAsO2 (Prolabo) and Na2HAsO4·7H20 (Prolabo) salts, respectively. </plain></SENT>
+</text></p></sec><sec><title><text><SENT sid="463" pm="."><plain>Physiological tests </plain></SENT>
+</text></title><p><text><SENT sid="464" pm="."><plain>Minimum inhibitory concentration (MIC) experiments were performed using gelled media, amended with a range of concentrations of either arsenite or arsenate. </plain></SENT>
+<SENT sid="465" pm="."><plain>Concentrations of 10, 5.0, 2.25, 1.25 and 0 mM As(III) or 100, 50, 25, 12.5, 6.3 and 0 mM As(V) were tested at 30°C for up to 10 days. </plain></SENT>
+<SENT sid="466" pm="."><plain>The ability of each strain to oxidise arsenite was tested in triplicate, in liquid media amended with 0.67 mM arsenite. </plain></SENT>
+<SENT sid="467" pm="."><plain>Detection of As(III) and As(V) was performed by inductively coupled plasma-atomic emission spectrometry (ICP-AES) as described by Weeger et al. [33]. </plain></SENT>
+<SENT sid="468" pm="."><plain>To test the ability of each strain to grow in the absence of a reduced inorganic sulfur source or organic carbon source, pre-cultures grown in standard media were harvested by centrifugation at 10 K g for 10 min, washed and resuspended in a basal medium (m126 medium with no thiosulfate or yeast extract). </plain></SENT>
+<SENT sid="469" pm="."><plain>These were then used to inoculate the test liquid media and incubated at 30°C for 10 days. </plain></SENT>
+<SENT sid="470" pm="."><plain>Soluble sulfate concentrations were determined turbidimetrically by the formation of insoluble barium sulfate, as described by Kolmert et al. [34]. </plain></SENT>
+<SENT sid="471" pm="."><plain>Bacterial growth in media containing YE was assessed using optical density at 600 nm. </plain></SENT>
+<SENT sid="472" pm="."><plain>Viable cell counts were used to measure growth in the media lacking YE, as described by Miles and Misra [35] using appropriate gelled media, as the autotrophic growth yield would be much lower. </plain></SENT>
+<SENT sid="473" pm="."><plain>Where YE was omitted, the media contained either the normal concentration of thiosulfate or 5.33 mM arsenite (or 2.67 mM for those strains sensitive to arsenite) as an electron donor. </plain></SENT>
+<SENT sid="474" pm="."><plain>In the case of arsenite-amended media, pre-cultures were grown in the presence of 2.67 mM arsenite. </plain></SENT>
+</text></p><p><text><SENT sid="475" pm="."><plain>To determine autotrophic growth yield as a product of As(III) oxidised, triplicate cultures were grown in liquid MCSM without YE or thiosulfate containing either 0.66 or 1.33 mM As(III), at 25°C in static conditions. </plain></SENT>
+<SENT sid="476" pm="."><plain>To test concentrations greater than 1.33 mM, initial cultures containing 1.33 mM As(III) were inoculated. </plain></SENT>
+<SENT sid="477" pm="."><plain>As soon as the As(III) had been oxidised, more As(III) was added from a concentrated (0.13 M) stock solution to a final concentration of 1.33 mM. </plain></SENT>
+<SENT sid="478" pm="."><plain>Once this had been oxidised, the process was repeated until the desired total quantity of As(III) had been added. </plain></SENT>
+<SENT sid="479" pm="."><plain>The oxidation of As(III) to As(V) was analysed as described by Battaglia-Brunet et al. [31]. </plain></SENT>
+<SENT sid="480" pm="."><plain>The pH was adjusted to pH 6.0 using a sterile NaOH solution before each As(III) addition. </plain></SENT>
+<SENT sid="481" pm="."><plain>Once all of the As(III) had been oxidised, each culture was centrifuged at 10 kg for 15 min and the pellet resuspended in 10 mL MCSM. </plain></SENT>
+<SENT sid="482" pm="."><plain>The total organic carbon concentration of this suspension was analysed using an OI ANALYTICAL 1010 apparatus according to the AFNOR NF EN 1484 method. </plain></SENT>
+<SENT sid="483" pm="."><plain>The influence of As(III) on final cell concentration in the presence of an organic substrate was determined with strains 3As and T. arsenivorans in MCSM complemented with 0.1 or 0.2 g L-1 yeast extract. </plain></SENT>
+<SENT sid="484" pm="."><plain>Final cell concentration was determined by measuring optical density at 620 nm. </plain></SENT>
+</text></p><p><text><SENT sid="485" pm="."><plain>Strain motility was assessed using growth media supplemented with 0.3% agar as described previously [36]. </plain></SENT>
+<SENT sid="486" pm="."><plain>Three separate cell cultures of each strain were analysed in triplicate. </plain></SENT>
+</text></p></sec><sec><title><text><SENT sid="487" pm="."><plain>Differential protein expression analysis </plain></SENT>
+</text></title><p><text><SENT sid="488" pm="."><plain>T. arsenivorans and Thiomonas sp. </plain></SENT>
+<SENT sid="489" pm="."><plain>3As strains were grown in MCSM and m126, respectively, with or without 2.7 mM As(III). </plain></SENT>
+<SENT sid="490" pm="."><plain>Cells were harvested by centrifugation (7 K g, 10 min, 4°C). </plain></SENT>
+<SENT sid="491" pm="."><plain>Cell lysis was performed as described previously [37]. </plain></SENT>
+<SENT sid="492" pm="."><plain>Proteins were precipitated using the 2-D Clean-up kit (Amersham Biosciences) and resuspended in rehydratation buffer (364 g L-1 thiourea, 1000 g L-1 urea, 25 g L-1 CHAPS, 0.6% (v/v) IPG buffer Pharmalyte, 10 g L-1 DTT and 0.01% (w/v) bromophenol blue). </plain></SENT>
+<SENT sid="493" pm="."><plain>Protein concentration was determined using the 2-D Quant kit (Amersham Biosciences). </plain></SENT>
+</text></p><p><text><SENT sid="494" pm="."><plain>Three hundred μg of this extract were loaded onto an 18 cm pH 4–7 IPG strip using the cup-loading technique (manifold, GE Healthcare Biosciences, Australia). </plain></SENT>
+<SENT sid="495" pm="."><plain>IEF was conducted using the IPGPhor system (10 min at 150 V, 10 min at 500 V, 10 min at 1,000 V, 1.5 h at 4,000 V, and 4 to 5 h at 8,000 V, total = 50 kVh; GE Healthcare Biosciences, Australia). </plain></SENT>
+<SENT sid="496" pm="."><plain>The second dimension was performed on 11.5% SDS-PAGE, using the EttanDAlt system (GE Healthcare Biosciences, Australia). </plain></SENT>
+<SENT sid="497" pm="."><plain>Gels were stained with Colloidal Brilliant Blue (CBB), and digitised using an Image Scanner (Amersham Pharmacia) and the LabScan software (v 3.0, Amersham Pharmacia Biotech). </plain></SENT>
+<SENT sid="498" pm="."><plain>Differential protein expression analysis was performed using the ImageMaster 2D platinum software (v. </plain></SENT>
+<SENT sid="499" pm="."><plain>6.01, GE Healthcare Biosciences, Australia), as previously described [37]. </plain></SENT>
+<SENT sid="500" pm="."><plain>Only spots with a Student's-t value greater than 2 (P value less than 0.05) and ratio greater than 2 were analysed. </plain></SENT>
+<SENT sid="501" pm="."><plain>The selected spots were cut from the 2D-gel. </plain></SENT>
+<SENT sid="502" pm="."><plain>Destaining, reduction/alkylation steps by the liquid handling robot QuadZ215 (Gilson International, France) and analyses by MALDI-TOF were performed as previously described [37]. </plain></SENT>
+<SENT sid="503" pm="."><plain>Tryptic mass searches retained only data with up to one missed tryptic cleavage and optional methionine oxidation, with mass accuracy limited to 50 ppm. </plain></SENT>
+<SENT sid="504" pm="."><plain>If necessary, unidentified proteins were subjected to Nano LC-MS/MS analysis. </plain></SENT>
+<SENT sid="505" pm="."><plain>The resulting digest solution was diluted 1:4 into Nano HPLC solvent A (97.9% H2O, 2% ACN and 0.1% (v/v) HCOOH). </plain></SENT>
+<SENT sid="506" pm="."><plain>The digested proteins were analysed using a CapLC capillary LC system (Waters, Altrincham, UK) coupled to a hybrid quadrupole orthogonal acceleration time-of-flight tandem mass spectrometer (Q-TOF Micro, Waters). </plain></SENT>
+<SENT sid="507" pm="."><plain>Diluted sample (5 μL) was first loaded, concentrated and cleaned up onto a C18 PepMap precolumn cartridge (LC Packings) and then separated on-line by the analytical reversed-phase capillary column (NanoEase C18, 75 μm i.d., 15 cm length; Waters) with a 200 μL min-1 flow rate. </plain></SENT>
+<SENT sid="508" pm="."><plain>The gradient profile used consisted of a linear gradient from 97% A (97.9% H2O, 2% ACN and 0.1% (v/v) HCOOH) to 95% B (98% ACN, 1.9% H2O and 0.1% (v/v) HCOOH) for 45 min followed by a linear gradient to 95% B for 3 min. </plain></SENT>
+<SENT sid="509" pm="."><plain>Internal calibration was assumed by the Lockspray module (Waters) that switches to a reference source (leucine enkephalin M2+ = 556.2551 m/z) every 10 seconds during the acquisition run. </plain></SENT>
+<SENT sid="510" pm="."><plain>The spray system (liquid junction) was used at 3.6 kV. </plain></SENT>
+<SENT sid="511" pm="."><plain>Mass data acquisitions were piloted by MassLynx 4.0 software (Waters). </plain></SENT>
+<SENT sid="512" pm="."><plain>Nano-LC-MS/MS data were collected by data-dependent scanning, that is, automated MS to MS/MS switching. </plain></SENT>
+<SENT sid="513" pm="."><plain>Fragmentation was performed using argon as the collision gas and with a collision energy profile optimised for various mass ranges of ion precursors. </plain></SENT>
+<SENT sid="514" pm="."><plain>Four ion precursors were allowed to be fragmented at the same time. </plain></SENT>
+<SENT sid="515" pm="."><plain>Mass data collected during a NanoLC-MS/MS analysis were processed automatically with the ProteinLynx Process (Waters) module. </plain></SENT>
+<SENT sid="516" pm="."><plain>Data analysis was performed with Mascot (Matrix Science Ltd., London, U.K.) against the in-house Thiomonas sp. </plain></SENT>
+<SENT sid="517" pm="."><plain>3As protein database with carbamidomethylation (Cys), oxidation (Met), 0.25 Da mass error and one miss cleavage. </plain></SENT>
+<SENT sid="518" pm="."><plain>All identifications were incorporated into the "InPact" proteomic database developed previously <ext-link ext-link-type="uri" xlink:href="http://inpact.u-strasbg.fr/~db/">http://inpact.u-strasbg.fr/~db/</ext-link>[38]. </plain></SENT>
+</text></p></sec><sec><title><text><SENT sid="519" pm="."><plain>Molecular microbiology </plain></SENT>
+</text></title><p><text><SENT sid="520" pm="."><plain>DNA was extracted and purified from liquid cultures of pure isolates using the Wizard genomic DNA extraction kit (Promega, U.S.A.). </plain></SENT>
+<SENT sid="521" pm="."><plain>The 16S rRNA genes were amplified by PCR using the 27f:1492r primer pair [39]. </plain></SENT>
+<SENT sid="522" pm="."><plain>A 743 nt-long fragment of the rpoA gene of each organism was amplified using the rpoAf2a:rpoAr2a primer pair (GGBGTGSTCCACGARTAY and GCRAGSACTTCCTTRATYTC, respectively). </plain></SENT>
+<SENT sid="523" pm="."><plain>The aoxAf:aoxABr primer pair (TGYACCCAYATGGGMTGYCC and CSATGGCTTGTTCRGTSASGTA, respectively) were used to amplify 1451 nt of the aoxA and aoxB genes, including the short (~27 nt) intragenic region. </plain></SENT>
+<SENT sid="524" pm="."><plain>The generic arsBf:arsBr primer pair (GGTGTGGAACATCGTCTGGAAYGCNAC and CAGGCCGTACACCACCAGRTACATNCC, respectively) were designed to amplify between 740 and 760 bp of both copies of the arsB gene in all Thiomonas strains. </plain></SENT>
+<SENT sid="525" pm="."><plain>Following subsequent analysis, arsB1- and arsB2-specific internal forward and reverse primers were designed. </plain></SENT>
+<SENT sid="526" pm="."><plain>The arsB1i2f:arsB1i2r primer pair (TGGCGTTCGTGATGGCNTGCGG and CACCGGAACACCAGCGSRTCYTTRAT, respectively) amplified 268 bp of the arsB1 gene, whereas the arsB2i2f:arsB2i1r primer pair (TGGCCGTGGCCTGTTYGCNTTYYT and ACCCAGCCAATACGAAAGGTNGCNGGRTC, respectively) amplified 417 bp of the arsB2 gene. </plain></SENT>
+<SENT sid="527" pm="."><plain>Virtual digestions of the arsB1 and arsB2 genes of strain 3As suggested that the two genes should be differentiated by restriction fragment length polymorphism (RFLP) analysis using the restriction enzyme RsaI. </plain></SENT>
+</text></p></sec><sec><title><text><SENT sid="528" pm="."><plain>Phylogenetic analysis </plain></SENT>
+</text></title><p><text><SENT sid="529" pm="."><plain>Sequences were aligned using the ClustalX alignment programme [40]. </plain></SENT>
+<SENT sid="530" pm="."><plain>SuperGene analysis was performed by concatenating the 16S rRNA and rpoA gene sequences of each organism, to improve the phylogenetic analysis as proposed recently [41]. </plain></SENT>
+<SENT sid="531" pm="."><plain>Neighbour-Joining trees were constructed using ClustalX, with bootstrap values determined from 1000 replications. </plain></SENT>
+<SENT sid="532" pm="."><plain>Maximum likelihood (ML) trees were constructed using the PhyML algorithm [42]. </plain></SENT>
+<SENT sid="533" pm="."><plain>The ModelGenerator programme [43] was used to select the optimal nucleotide substitution model for ML analysis. </plain></SENT>
+<SENT sid="534" pm="."><plain>Bootstrap values were determined from 500 replications. </plain></SENT>
+<SENT sid="535" pm="."><plain>A list of sequences generated during this study and their GenBank Accession IDs can be found in Table 3. </plain></SENT>
+</text></p><SecTag type="TABLE"><table-wrap id="T3" position="float"><label>Table 3</label><caption><p><text><SENT sid="536" pm="."><plain>PCR target and GenBank Accession IDs for strains used in this study. </plain></SENT>
+</text></p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left"><text><SENT sid="537" pm="."><plain>Strain </plain></SENT>
+</text></th><th align="center"><text><SENT sid="538" pm="."><plain>16S </plain></SENT>
+</text></th><th align="center"><text><SENT sid="539" pm="."><plain>rpoA </plain></SENT>
+</text></th><th align="center"><text><SENT sid="540" pm="."><plain>aoxAB </plain></SENT>
+</text></th><th align="center"><text><SENT sid="541" pm="."><plain>arsB1 </plain></SENT>
+</text></th><th align="center"><text><SENT sid="542" pm="."><plain>arsB2 </plain></SENT>
+</text></th></tr></thead><tbody><tr><td align="left"><text><SENT sid="543" pm="."><plain>3As </plain></SENT>
+</text></td><td align="center"><text><SENT sid="544" pm="."><plain><ext-link ext-link-type="gen" xlink:href="AM492684">AM492684</ext-link>a </plain></SENT>
+</text></td><td align="center"><text><SENT sid="545" pm="."><plain><ext-link ext-link-type="gen" xlink:href="EU339226">EU339226</ext-link> </plain></SENT>
+</text></td><td align="center"><text><SENT sid="546" pm="."><plain><ext-link ext-link-type="gen" xlink:href="EU339209">EU339209</ext-link> </plain></SENT>
+</text></td><td align="center"><text><SENT sid="547" pm="."><plain><ext-link ext-link-type="gen" xlink:href="EU339214">EU339214</ext-link> </plain></SENT>
+</text></td><td align="center"><text><SENT sid="548" pm="."><plain><ext-link ext-link-type="gen" xlink:href="EU339217">EU339217</ext-link> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="549" pm="."><plain>Ynys1 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="550" pm="."><plain><ext-link ext-link-type="gen" xlink:href="AF387302">AF387302</ext-link>a </plain></SENT>
+</text></td><td align="center"><text><SENT sid="551" pm="."><plain><ext-link ext-link-type="gen" xlink:href="EU339223">EU339223</ext-link> </plain></SENT>
+</text></td><td align="center"><text><SENT sid="552" pm="."><plain>n/d </plain></SENT>
+</text></td><td align="center"><text><SENT sid="553" pm="."><plain><ext-link ext-link-type="gen" xlink:href="EU339216">EU339216</ext-link> </plain></SENT>
+</text></td><td align="center"><text><SENT sid="554" pm="."><plain>n/d </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="555" pm="."><plain>WJ68 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="556" pm="."><plain><ext-link ext-link-type="gen" xlink:href="AY455805">AY455805</ext-link>a </plain></SENT>
+</text></td><td align="center"><text><SENT sid="557" pm="."><plain><ext-link ext-link-type="gen" xlink:href="EU339224">EU339224</ext-link> </plain></SENT>
+</text></td><td align="center"><text><SENT sid="558" pm="."><plain><ext-link ext-link-type="gen" xlink:href="EU339213">EU339213</ext-link> </plain></SENT>
+</text></td><td align="center"><text><SENT sid="559" pm="."><plain>n/s </plain></SENT>
+</text></td><td align="center"><text><SENT sid="560" pm="."><plain>n/d </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="561" pm="."><plain>T. arsenivorans </plain></SENT>
+</text></td><td align="center"><text><SENT sid="562" pm="."><plain><ext-link ext-link-type="gen" xlink:href="AY950676">AY950676</ext-link>a </plain></SENT>
+</text></td><td align="center"><text><SENT sid="563" pm="."><plain><ext-link ext-link-type="gen" xlink:href="EU339231">EU339231</ext-link> </plain></SENT>
+</text></td><td align="center"><text><SENT sid="564" pm="."><plain><ext-link ext-link-type="gen" xlink:href="EU304260">EU304260</ext-link>a </plain></SENT>
+</text></td><td align="center"><text><SENT sid="565" pm="."><plain>n/d </plain></SENT>
+</text></td><td align="center"><text><SENT sid="566" pm="."><plain><ext-link ext-link-type="gen" xlink:href="EU339222">EU339222</ext-link> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="567" pm="."><plain>T. perometabolis </plain></SENT>
+</text></td><td align="center"><text><SENT sid="568" pm="."><plain><ext-link ext-link-type="gen" xlink:href="AY455808">AY455808</ext-link>a </plain></SENT>
+</text></td><td align="center"><text><SENT sid="569" pm="."><plain><ext-link ext-link-type="gen" xlink:href="EU339230">EU339230</ext-link> </plain></SENT>
+</text></td><td align="center"><text><SENT sid="570" pm="."><plain>n/d </plain></SENT>
+</text></td><td align="center"><text><SENT sid="571" pm="."><plain><ext-link ext-link-type="gen" xlink:href="EU339215">EU339215</ext-link> </plain></SENT>
+</text></td><td align="center"><text><SENT sid="572" pm="."><plain>n/d </plain></SENT>
+</text></td></tr></tbody></table><table-wrap-foot><p><text><SENT sid="573" pm="."><plain>a Accession IDs from other studies; n/d, no data; n/s, sequence not submitted: the arsB1 and arsB2 sequences obtained with the internal primers were short and therefore were not submitted to the GenBank sequence repository. </plain></SENT>
+</text></p></table-wrap-foot></table-wrap></SecTag></sec></sec></SecTag><SecTag type="AUTH_CONT"><sec><title><text><SENT sid="574" pm="."><plain>Authors' contributions </plain></SENT>
+</text></title><p><text><SENT sid="575" pm="."><plain>CGB carried out the physiological and molecular genetic studies and drafted the manuscript. </plain></SENT>
+<SENT sid="576" pm="."><plain>MM carried out motility tests, analysed the proteomic data and helped to draft the manuscript. </plain></SENT>
+<SENT sid="577" pm="."><plain>FBB performed the carbon fixation experiments. </plain></SENT>
+<SENT sid="578" pm="."><plain>VK carried out the proteomic experiments. </plain></SENT>
+<SENT sid="579" pm="."><plain>CL-G performed the mass spectrometry analyses. </plain></SENT>
+<SENT sid="580" pm="."><plain>DL participated in physiological analyses. </plain></SENT>
+<SENT sid="581" pm="."><plain>PB and FA-P conceived of the study, participated in its design and coordination, and helped to draft the manuscript. </plain></SENT>
+<SENT sid="582" pm="."><plain>All authors read and commented on the manuscript. </plain></SENT>
+</text></p></sec></SecTag><SecTag type="SUPPL"><sec sec-type="supplementary-material"><title><text><SENT sid="583" pm="."><plain>Supplementary Material </plain></SENT>
+</text></title><supplementary-material content-type="local-data" id="S1"><caption><title><text><SENT sid="584" pm="."><plain>Additional file 1 </plain></SENT>
+</text></title><p><text><SENT sid="585" pm="."><plain>MS (Maldi or MS/MS) identification results of arsenic-induced proteins in T. arsenivorans and Thiomonas sp. </plain></SENT>
+<SENT sid="586" pm="."><plain>3As. </plain></SENT>
+<SENT sid="587" pm="."><plain>Protein profiles expressed in MCSM or m126 media, in the presence and absence of arsenic: detailed results of proteomic and mass spectrometry analyses. </plain></SENT>
+</text></p></caption><media xlink:href="1471-2180-9-127-S1.xls" mimetype="application" mime-subtype="vnd.ms-excel"><caption><p><text><SENT sid="588" pm="."><plain>Click here for file </plain></SENT>
+</text></p></caption></media></supplementary-material></sec></SecTag></body><back><SecTag type="ACK_FUND"><sec><title>Acknowledgements</title><p><text4fund><text><SENT sid="589" pm="."><plain>T. perometabolis was obtained from the Pasteur Institute, Paris, France. </plain></SENT>
+<SENT sid="590" pm="."><plain>The authors would like to thank Dr Violaine Bonnefoy and Dr Kevin Hallberg for providing the Thiomonas strains and their invaluable advice on all things Thiomonas and Dr Catherine Joulian for her help with functional gene primer design. </plain></SENT>
+</text></text4fund></p><p><text4fund><text><SENT sid="591" pm="."><plain>The study was financed by the ANR 07-BLAN-0118 project (Agence Nationale de la Recherche). </plain></SENT>
+<SENT sid="592" pm="."><plain>CGB was supported by a grant from the University Louis-Pasteur of Strasbourg. </plain></SENT>
+<SENT sid="593" pm="."><plain>MM was supported by a grant from ANR COBIAS project (PRECODD 2007, Agence Nationale de la Recherche). </plain></SENT>
+<SENT sid="594" pm="."><plain>This work was performed within the framework of the research network "Arsenic metabolism in Prokaryotes" (GDR2909-CNRS). </plain></SENT>
+</text></text4fund></p></sec></SecTag><SecTag type="REF"><ref-list><ref id="B1"><text><SENT sid="595" pm="."><plain>AbernathyCOLiuYPLongfellowDAposhianHVBeckBFowlerBGoyerRMenzerRRossmanTThompsonCArsenic: health effects, mechanisms of actions, and research issuesEnviron Health Perspect199910775935971037900710.2307/3434403 </plain></SENT>
+</text></ref><ref id="B2"><text><SENT sid="596" pm="."><plain>HallbergKBJohnsonDBMicrobiology of a wetland ecosystem constructed to remediate mine drainage from a heavy metal mineSci Total Environ20053381–2536615680626 </plain></SENT>
+</text></ref><ref id="B3"><text><SENT sid="597" pm="."><plain>OremlandRSStolzJFThe ecology of arsenicScience2003300562193994410.1126/science.108190312738852 </plain></SENT>
+</text></ref><ref id="B4"><text><SENT sid="598" pm="."><plain>CasiotCMorinGJuillotFBruneelOPersonnéJCLeblancMDuquesneKBonnefoyVElbaz-PoulichetFBacterial immobilization and oxidation of arsenic in acid mine drainage (Carnoulès creek, France)Water Res200337122929293610.1016/S0043-1354(03)00080-012767295 </plain></SENT>
+</text></ref><ref id="B5"><text><SENT sid="599" pm="."><plain>InskeepWPMacurREHamamuraNWarelowTPWardSASantiniJMDetection, diversity and expression of aerobic bacterial arsenite oxidase genesEnviron Microbiol20079493494310.1111/j.1462-2920.2006.01215.x17359265 </plain></SENT>
+</text></ref><ref id="B6"><text><SENT sid="600" pm="."><plain>PrasadKSSubramanianVPaulJPurification and characterization of arsenite oxidase from Arthrobacter spBiometals2009 in press 19214757 </plain></SENT>
+</text></ref><ref id="B7"><text><SENT sid="601" pm="."><plain>EllisPJConradsTHilleRKuhnPCrystal structure of the 100 kDa arsenite oxidase from Alcaligenes faecalis in two crystal forms at 1.64 A and 2.03 AStructure20019212513210.1016/S0969-2126(01)00566-411250197 </plain></SENT>
+</text></ref><ref id="B8"><text><SENT sid="602" pm="."><plain>SilverSPhungLTGenes and enzymes involved in bacterial oxidation and reduction of inorganic arsenicAppl Environ Microbiol20057125996081569190810.1128/AEM.71.2.599-608.2005 </plain></SENT>
+</text></ref><ref id="B9"><text><SENT sid="603" pm="."><plain>MullerDLièvremontDSimeonovaDDHubertJCLettMCArsenite oxidase aox genes from a metal-resistant beta-proteobacteriumJ Bacteriol200318511351411248604910.1128/JB.185.1.135-141.2003 </plain></SENT>
+</text></ref><ref id="B10"><text><SENT sid="604" pm="."><plain>SantiniJMHovenRN van denMolybdenum-containing arsenite oxidase of the chemolithoautotrophic arsenite oxidizer NT-26J Bacteriol20041866161416191499679110.1128/JB.186.6.1614-1619.2004 </plain></SENT>
+</text></ref><ref id="B11"><text><SENT sid="605" pm="."><plain>LebrunEBrugnaMBaymannFMullerDLièvremontDLettMCNitschkeWArsenite oxidase, an ancient bioenergetic enzymeMol Biol Evol200320568669310.1093/molbev/msg07112679550 </plain></SENT>
+</text></ref><ref id="B12"><text><SENT sid="606" pm="."><plain>DuquesneKLieutaudARatouchniakJMullerDLettMCBonnefoyVArsenite oxidation by a chemoautotrophic moderately acidophilic Thiomonas sp.: from the strain isolation to the gene studyEnviron Microbiol20081022823717894815 </plain></SENT>
+</text></ref><ref id="B13"><text><SENT sid="607" pm="."><plain>BruneelOPersonnéJCCasiotCLeblancMElbaz-PoulichetFMahlerBJLe FlècheAGrimontPAMediation of arsenic oxidation by Thiomonas sp. in acid-mine drainage (Carnoulès, France)J Appl Microbiol200395349249910.1046/j.1365-2672.2003.02004.x12911697 </plain></SENT>
+</text></ref><ref id="B14"><text><SENT sid="608" pm="."><plain>JohnsonDBHallbergKBBiogeochemistry of the compost bioreactor components of a composite acid mine drainage passive remediation systemSci Total Environ20053381–2819315680629 </plain></SENT>
+</text></ref><ref id="B15"><text><SENT sid="609" pm="."><plain>CouplandKBattaglia-BrunetFHallbergKBDictorMCGarridoFJohnsonDBTsezos AHM, Remondaki EOxidation of iron, sulfur and arsenic in mine waters and mine wastes: an important role of novel Thiomonas sppBiohydrometallurgy: a sustainable technology in evolution2004Zografou, Greece: National Technical University of Athens639646 </plain></SENT>
+</text></ref><ref id="B16"><text><SENT sid="610" pm="."><plain>KatayamaYUchinoYWoodAPKellyDPConfirmation of Thiomonas delicata (formerly Thiobacillus delicatus) as a distinct species of the genus Thiomonas Moreira and Amils 1997 with comments on some species currently assigned to the genusInt J Syst Evol Microbiol200656Pt 112553255710.1099/ijs.0.64299-017082389 </plain></SENT>
+</text></ref><ref id="B17"><text><SENT sid="611" pm="."><plain>MoreiraDAmilsRPhylogeny of Thiobacillus cuprinus and other mixotrophic thiobacilli: proposal for Thiomonas gen. novInt J Syst Bacteriol19974725225289103643 </plain></SENT>
+</text></ref><ref id="B18"><text><SENT sid="612" pm="."><plain>KellyDPUchinoYHuberHAmilsRWoodAPReassessment of the phylogenetic relationships of Thiomonas cuprinaInt J Syst Evol Microbiol200757Pt 112720272410.1099/ijs.0.65537-017978245 </plain></SENT>
+</text></ref><ref id="B19"><text><SENT sid="613" pm="."><plain>LondonJRittenbergSCThiobacillus perometabolis nov. sp., a non-autotrophic ThiobacillusArch Microbiol1967591218225 </plain></SENT>
+</text></ref><ref id="B20"><text><SENT sid="614" pm="."><plain>Katayama-FujimuraYKuraishiHEmendation of Thiobacillus perometabolis London and Rittenberg 1967Int J Sys Bacteriol198333650651 </plain></SENT>
+</text></ref><ref id="B21"><text><SENT sid="615" pm="."><plain>Battaglia-BrunetFJoulianCGarridoFDictorMCMorinDCouplandKBarrie JohnsonDHallbergKBBarangerPOxidation of arsenite by Thiomonas strains and characterization of Thiomonas arsenivorans sp. novAntonie van Leeuwenhoek20068919910810.1007/s10482-005-9013-216341463 </plain></SENT>
+</text></ref><ref id="B22"><text><SENT sid="616" pm="."><plain>HallbergKBJohnsonDBNovel acidophiles isolated from moderately acidic mine drainage watersHydrometallurgy20037113914810.1016/S0304-386X(03)00150-6 </plain></SENT>
+</text></ref><ref id="B23"><text><SENT sid="617" pm="."><plain>BodénanFBarangerPPiantonePLassinAAzaroualMGaucherEBraibantGArsenic behaviour in gold-ore mill tailing, Massif Central, France: hydrogeochemical study and investigation of in situ redox signaturesApplied Geochemistry2004191785180010.1016/j.apgeochem.2004.03.012 </plain></SENT>
+</text></ref><ref id="B24"><text><SENT sid="618" pm="."><plain>QuéméneurMHeinrich-SalmeronAMullerDLièvremontDJauzeinMBertinPNGarridoFJoulianCDiversity surveys and evolutionary relationships of aoxB genes in aerobic arsenite-oxidizing bacteriaAppl Environ Microbiol20087414456745731850292010.1128/AEM.02851-07 </plain></SENT>
+</text></ref><ref id="B25"><text><SENT sid="619" pm="."><plain>MullerDMédigueCKoechlerSBarbeVBarakatMTallaEBonnefoyVKrinEArsène-PloetzeFCarapitoCA tale of two oxidation states: bacterial colonization of arsenic-rich environmentsPLoS Genet200734e531743293610.1371/journal.pgen.0030053 </plain></SENT>
+</text></ref><ref id="B26"><text><SENT sid="620" pm="."><plain>ShockELHelgesonHCCalculation of the thermodynamic and transport properties of aqueous species at high pressures and temperatures: correlation algorithms for ionic species and equation of state predictions to 5 kb and 1000°CGeochimica and Cosmochimica Acta19885282009203610.1016/0016-7037(88)90181-0 </plain></SENT>
+</text></ref><ref id="B27"><text><SENT sid="621" pm="."><plain>StarkeyRLPrecipitation of Ferric Hydrate by Iron BacteriaScience1945102265653253310.1126/science.102.2656.53217730018 </plain></SENT>
+</text></ref><ref id="B28"><text><SENT sid="622" pm="."><plain>CarapitoCMullerDTurlinEKoechlerSDanchinAVan DorsselaerALeize-WagnerEBertinPNLettMCIdentification of genes and proteins involved in the pleiotropic response to arsenic stress in Caenibacter arsenoxydans, a metalloresistant beta-proteobacterium with an unsequenced genomeBiochimie200688659560610.1016/j.biochi.2005.11.00416380199 </plain></SENT>
+</text></ref><ref id="B29"><text><SENT sid="623" pm="."><plain>ParvatiyarKAlsabbaghEMOchsnerUAStegemeyerMASmulianAGHwangSHJacksonCRMcDermottTRHassettDJGlobal analysis of cellular factors and responses involved in Pseudomonas aeruginosa resistance to arseniteJ Bacteriol200518714485348641599520010.1128/JB.187.14.4853-4864.2005 </plain></SENT>
+</text></ref><ref id="B30"><text><SENT sid="624" pm="."><plain>ZhangYMaYFQiSWMengBChaudhryMTLiuSQLiuSJResponses to arsenate stress by Comamonas sp. strain CNB-1 at genetic and proteomic levelsMicrobiology2007153Pt 113713372110.1099/mic.0.2007/011403-017975079 </plain></SENT>
+</text></ref><ref id="B31"><text><SENT sid="625" pm="."><plain>Battaglia-BrunetFDictorMCGarridoFCrouzetCMorinDDekeyserKClarensMBarangerPAn arsenic(III)-oxidizing bacterial population: selection, characterization, and performance in reactorsJ Appl Microbiol200293465666710.1046/j.1365-2672.2002.01726.x12234349 </plain></SENT>
+</text></ref><ref id="B32"><text><SENT sid="626" pm="."><plain>BryanCGHallbergKBJohnsonDBMobilisation of metals in mineral tailings at the abandoned São Domingos copper mine (Portugal) by indigenous acidophilic bacteriaHydrometallurgy2006831–418419410.1016/j.hydromet.2006.03.023 </plain></SENT>
+</text></ref><ref id="B33"><text><SENT sid="627" pm="."><plain>WeegerWLièvremontDPerretMLagardeFHubertJ-CLeroyMLettM-COxidation of arsenite to arsenate by a bacterium isolated from an aquatic environmentBioMetals199912214114910.1023/A:100925501232810406083 </plain></SENT>
+</text></ref><ref id="B34"><text><SENT sid="628" pm="."><plain>KolmertÅWikströmPHallbergKBA fast and simple turbidimetric method for the determination of sulfate in sulfate-reducing bacterial culturesJ Microbiol Methods200041317918410.1016/S0167-7012(00)00154-810958962 </plain></SENT>
+</text></ref><ref id="B35"><text><SENT sid="629" pm="."><plain>MilesAAMisraSSEstimation of the bactericidal power of the bloodJ Hyg (London)193838732749 </plain></SENT>
+</text></ref><ref id="B36"><text><SENT sid="630" pm="."><plain>BertinPBenhabilesNKrinELaurent-WinterCTendengCTurlinEThomasADanchinABrasseurRThe structural and functional organization of H-NS-like proteins is evolutionarily conserved in gram-negative bacteriaMol Microbiol199931131932910.1046/j.1365-2958.1999.01176.x9987132 </plain></SENT>
+</text></ref><ref id="B37"><text><SENT sid="631" pm="."><plain>WeissSCarapitoCCleissJKoechlerSTurlinECoppeeJ-YHeymannMKuglerVStauffertMCruveillerSEnhanced structural and functional genome elucidation of the arsenite-oxidizing strain Herminiimonas arsenicoxydans by proteomics dataBiochimie20099119220310.1016/j.biochi.2008.07.01318852016 </plain></SENT>
+</text></ref><ref id="B38"><text><SENT sid="632" pm="."><plain>BertinPNMédigueCNormandPAdvances in environmental genomics: towards an integrated view of micro-organisms and ecosystemsMicrobiology2008154Pt 234735910.1099/mic.0.2007/011791-018227239 </plain></SENT>
+</text></ref><ref id="B39"><text><SENT sid="633" pm="."><plain>LaneDJGoodfellow ESM16S/23S sequencingNucleic acid techniques in bacterial systematics1991New-York: John Wiley and Sons115175 </plain></SENT>
+</text></ref><ref id="B40"><text><SENT sid="634" pm="."><plain>ThompsonJDGibsonTJPlewniakFJeanmouginFHigginsDGThe CLUSTAL_X windows interface: flexible strategies for multiple sequence alignment aided by quality analysis toolsNucleic Acids Res1997252448764882939679110.1093/nar/25.24.4876 </plain></SENT>
+</text></ref><ref id="B41"><text><SENT sid="635" pm="."><plain>GadagkarSRRosenbergMSKumarSInferring species phylogenies from multiple genes: concatenated sequence tree versus consensus gene treeJ Exp Zoolog B Mol Dev Evol20053041647410.1002/jez.b.2102615593277 </plain></SENT>
+</text></ref><ref id="B42"><text><SENT sid="636" pm="."><plain>GuindonSGascuelOA simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihoodSyst Biol200352569670410.1080/1063515039023552014530136 </plain></SENT>
+</text></ref><ref id="B43"><text><SENT sid="637" pm="."><plain>KeaneTMCreeveyCJPentonyMMNaughtonTJMcLnerneyJOAssessment of methods for amino acid matrix selection and their use on empirical data shows that ad hoc assumptions for choice of matrix are not justifiedBMC Evol Biol2006629471656316110.1186/1471-2148-6-29 </plain></SENT>
+</text></ref></ref-list></SecTag></back></article>

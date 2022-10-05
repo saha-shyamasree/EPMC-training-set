@@ -1,0 +1,664 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN" "archivearticle3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?DTDIdentifier.IdentifierValue article.dtd?><?DTDIdentifier.IdentifierType system?><?SourceDTD.DTDName article.dtd?><?SourceDTD.Version 1.0?><?ConverterInfo.XSLTName bmc2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">Virol J</journal-id><journal-title-group><journal-title>Virology Journal</journal-title></journal-title-group><issn pub-type="epub">1743-422X</issn><publisher><publisher-name>BioMed Central</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">3024232</article-id><article-id pub-id-type="publisher-id">1743-422X-7-373</article-id><article-id pub-id-type="pmid">21192819</article-id><article-id pub-id-type="doi">10.1186/1743-422X-7-373</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research</subject></subj-group></article-categories><title-group><article-title><SecTag type="TITLE"><text><SENT sid="0" pm="."><plain>Transient expression of βC1 protein differentially regulates host genes related to stress response, chloroplast and mitochondrial functions </plain></SENT>
+</text></SecTag></article-title></title-group><contrib-group><contrib contrib-type="author" id="A1"><name><surname>Andleeb</surname><given-names>Saiqa</given-names></name><xref ref-type="aff" rid="I1">1</xref><email>drsaiqa@gmail.com</email></contrib><contrib contrib-type="author" id="A2"><name><surname>Amin</surname><given-names>Imran</given-names></name><xref ref-type="aff" rid="I1">1</xref><email>imranamin1@yahoo.com</email></contrib><contrib contrib-type="author" id="A3"><name><surname>Bashir</surname><given-names>Aftab</given-names></name><xref ref-type="aff" rid="I1">1</xref><email>aftabbashir@nibge.org</email></contrib><contrib contrib-type="author" id="A4"><name><surname>Briddon</surname><given-names>Rob W</given-names></name><xref ref-type="aff" rid="I1">1</xref><email>rob.briddon@gmail.com</email></contrib><contrib contrib-type="author" corresp="yes" id="A5"><name><surname>Mansoor</surname><given-names>Shahid</given-names></name><xref ref-type="aff" rid="I1">1</xref><email>shahidmansoor7@gmail.com</email></contrib></contrib-group><aff id="I1"><label>1</label>Agricultural Biotechnology Division, National Institute for Biotechnology and Genetic Engineering, Faisalabad, Pakistan</aff><pub-date pub-type="collection"><year>2010</year></pub-date><pub-date pub-type="epub"><day>30</day><month>12</month><year>2010</year></pub-date><volume>7</volume><fpage>373</fpage><lpage>373</lpage><history><date date-type="received"><day>10</day><month>10</month><year>2010</year></date><date date-type="accepted"><day>30</day><month>12</month><year>2010</year></date></history><permissions><copyright-statement>Copyright ©2010 Andleeb et al; licensee BioMed Central Ltd.</copyright-statement><copyright-year>2010</copyright-year><copyright-holder>Andleeb et al; licensee BioMed Central Ltd.</copyright-holder><license license-type="open-access"><license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (&lt;url&gt;http://creativecommons.org/licenses/by/2.0&lt;/url&gt;), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xlink:href="http://www.virologyj.com/content/7/1/373"/><abstract><sec><title><text><SENT sid="1" pm="."><plain>Background </plain></SENT>
+</text></title><p><SecTag type="ABS"><text><SENT sid="2" pm="."><plain>Geminiviruses are emerging plant pathogens that infect a wide variety of crops including cotton, cassava, vegetables, ornamental plants and cereals. </plain></SENT>
+<SENT sid="3" pm="."><plain>The geminivirus disease complex consists of monopartite begomoviruses that require betasatellites for the expression of disease symptoms. </plain></SENT>
+<SENT sid="4" pm="."><plain>These complexes are widespread throughout the Old World and cause economically important diseases on several crops. </plain></SENT>
+<SENT sid="5" pm="."><plain>A single protein encoded by betasatellites, termed βC1, is a suppressor of gene silencing, inducer of disease symptoms and is possibly involved in virus movement. </plain></SENT>
+<SENT sid="6" pm="."><plain>Studies of the interaction of βC1 with hosts can provide useful insight into virus-host interactions and aid in the development of novel control strategies. </plain></SENT>
+<SENT sid="7" pm="."><plain>We have used the differential display technique to isolate host genes which are differentially regulated upon transient expression of the βC1 protein of chili leaf curl betasatellite (ChLCB) in Nicotiana tabacum. </plain></SENT>
+</text></SecTag></p></sec><sec><title><text><SENT sid="8" pm="."><plain>Results </plain></SENT>
+</text></title><p><SecTag type="ABS"><text><SENT sid="9" pm="."><plain>Through differential display analysis, eight genes were isolated from Nicotiana tabacum, at two and four days after infitration with βC1 of ChLCB, expressed under the control of the Cauliflower mosaic virus 35S promoter. </plain></SENT>
+<SENT sid="10" pm="."><plain>Cloning and sequence analysis of differentially amplified products suggested that these genes were involved in ATP synthesis, and acted as electron carriers for respiration and photosynthesis processes. </plain></SENT>
+<SENT sid="11" pm="."><plain>These differentially expressed genes (DEGs) play an important role in plant growth and development, cell protection, defence processes, replication mechanisms and detoxification responses. </plain></SENT>
+<SENT sid="12" pm="."><plain>Kegg orthology based annotation system analysis of these DEGs demonstrated that one of the genes, coding for polynucleotide nucleotidyl transferase, is involved in purine and pyrimidine metabolic pathways and is an RNA binding protein which is involved in RNA degradation. </plain></SENT>
+</text></SecTag></p></sec><sec><title><text><SENT sid="13" pm="."><plain>Conclusion </plain></SENT>
+</text></title><p><SecTag type="ABS"><text><SENT sid="14" pm="."><plain>βC1 differentially regulated genes are mostly involved in chloroplast and mitochondrial functions. βC1 also increases the expression of those genes which are involved in purine and pyrimidine metabolism. </plain></SENT>
+<SENT sid="15" pm="."><plain>This information gives a new insight into the interaction of βC1 with the host and can be used to understand host-virus interactions in follow-up studies. </plain></SENT>
+</text></SecTag></p></sec></abstract></article-meta></front><body><SecTag type="INTRO"><sec><title><text><SENT sid="16" pm="."><plain>Background </plain></SENT>
+</text></title><p><text><SENT sid="17" pm="."><plain>Geminiviruses are economically important plant pathogens and are characterized by twinned isometric particles containing single-stranded (ss)DNA genomes of 2.5-3.0 kb [1] that replicate through double-stranded (ds)DNA intermediates by a rolling-circle mechanism [2]. </plain></SENT>
+<SENT sid="18" pm="."><plain>The family Geminiviridae is divided into four genera, (Begomovirus, Mastrevirus, Curtovirus and Topocuvirus) that encompass viruses that differ in genome organization as well as their insect vectors. </plain></SENT>
+<SENT sid="19" pm="."><plain>Begomoviruses are transmitted by the whitefly Bemisia tabaci and have either monopartite or bipartite genomes. </plain></SENT>
+<SENT sid="20" pm="."><plain>Monopartite begomoviruses are often associated with circular, ssDNA satellites that are collectively referred to as betasatellites (formerly known as DNA β). </plain></SENT>
+<SENT sid="21" pm="."><plain>Betasatellites have recently been found to be associated with some bipartite begomoviruses and are required by some of their helper begomoviruses to induce bona fide disease symptoms in plants. </plain></SENT>
+<SENT sid="22" pm="."><plain>Numerous economically important diseases and even the earliest recorded plant viral disease are now known to be caused by begomovirus/betasatellite complexes [3,4]. </plain></SENT>
+</text></p><p><text><SENT sid="23" pm="."><plain>Betasatellites are widespread in the Old World, where monopartite begomoviruses are known to occur. </plain></SENT>
+<SENT sid="24" pm="."><plain>Numerous distinct betasatellites, from various economically important hosts and diverse locations, have been cloned and have been found in most cases to contribute significantly to disease symptoms [5]. </plain></SENT>
+<SENT sid="25" pm="."><plain>Analysis of betasatellite sequences reveals a highly conserved organization consisting of an adenine-rich region and a region of sequence highly conserved between all betasatellites (known as the satellite conserved region [SCR]). </plain></SENT>
+<SENT sid="26" pm="."><plain>The SCR contains a potential hairpin structure with the loop sequence TAA/GTATTAC that has similarity to the origins of replication of geminiviruses and nanoviruses. </plain></SENT>
+<SENT sid="27" pm="."><plain>Betasatellites encode only a single gene, known as the bC1, located on the complementary-sense strand, is conserved in position and size in all betasatellites [6,7]. </plain></SENT>
+</text></p><p><text><SENT sid="28" pm="."><plain>Chilli leaf curl betasatellite (ChLCB) is associated with chilli leaf curl disease (ChLCuD), a significant constrain to chilli production across the Indian subcontinent [8,9]. </plain></SENT>
+<SENT sid="29" pm="."><plain>Saeed et al. [5] demonstrated that tobacco plants transformed with the βC1 of Cotton leaf curl Multan betasatellite (CLCuMB) under the control of the Cauliflower mosaic virus 35S promoter, or with a dimer of CLCuMB, exhibited severe disease-like phenotypes, while plants transformed with a mutated version of the βC1 appeared normal. </plain></SENT>
+<SENT sid="30" pm="."><plain>Qazi et al. [10] showed that expression of CLCuMB βC1 from a Potato virus X vector induced symptoms typical of cotton leaf curl disease (CLCuD) in the absence of the helper begomovirus. </plain></SENT>
+<SENT sid="31" pm="."><plain>These results demonstrated that CLCuMB βC1 is the major determinant of symptoms of the CLCuD complex [10]. </plain></SENT>
+</text></p><p><text><SENT sid="32" pm="."><plain>The interactions between plants and viruses are complex and involve several types of responses that may or may not cause disease in the host [11]. </plain></SENT>
+<SENT sid="33" pm="."><plain>In compatible interactions, the invading virus is able to infect and replicate within a susceptible plant to cause disease. </plain></SENT>
+<SENT sid="34" pm="."><plain>Alternatively, the host may trigger innate immunity mechanisms that restrict virus movement and prevent disease onset. </plain></SENT>
+<SENT sid="35" pm="."><plain>In both situations, viral pathogens severely disturb plant growth and development, due to their effect on cellular metabolism [11]. </plain></SENT>
+<SENT sid="36" pm="."><plain>Viral infection produces a plethora of symptoms derived from biochemical and metabolic changes in cells, tissues and even in the whole plants which are susceptible and hypersensitive resistant hosts. </plain></SENT>
+<SENT sid="37" pm="."><plain>Huang et al. [12] and Sui et al. [13] demonstrated that plant viruses cause severe impact on host gene expression and protein activity due to the activation of a set of genes and the inactivation of others. </plain></SENT>
+<SENT sid="38" pm="."><plain>The gene expression profile in the host plant changes according to the timing and localization of the infection, as the virus spreads from cell to cell away from the site of inoculation [14,15]. </plain></SENT>
+</text></p><p><text><SENT sid="39" pm="."><plain>The present studies are aimed at identifying host genes and pathways that are induced by ChLCB βC1. </plain></SENT>
+<SENT sid="40" pm="."><plain>This may be achieved using differential RNA display technology. </plain></SENT>
+<SENT sid="41" pm="."><plain>This technique is based on "differential display reverse transcriptase polymerase chain reaction" (DDRT-PCR), first described by Liang and Pardee [16]. </plain></SENT>
+<SENT sid="42" pm="."><plain>This method has the advantage of technical simplicity, a lower bias against rare messages and a requirement of only small quantities of starting mRNA. </plain></SENT>
+<SENT sid="43" pm="."><plain>Several modifications of the original technique have been reported with some solutions to the key problems identified by some authors [17]. </plain></SENT>
+<SENT sid="44" pm="."><plain>Stress responses have been studied using DDRT-PCR in C. elegans and S. cerevisiae [18-20]. </plain></SENT>
+<SENT sid="45" pm="."><plain>DDRT-PCR has been applied in many laboratories to identify genes involved in signal cascades. </plain></SENT>
+</text></p><p><text><SENT sid="46" pm="."><plain>The identification of host genes affected by ChLCB βC1 may provide useful insights into virus-host interactions and provide targets for novel control strategies. </plain></SENT>
+<SENT sid="47" pm="."><plain>By differential display analysis we have identified N. tabacum genes differentially regulated in response to the transient expression of ChLCB βC1 protein. </plain></SENT>
+<SENT sid="48" pm="."><plain>Subsequently the effects of βC1 expression on each gene identified were verified by quantitative real time PCR analysis. </plain></SENT>
+</text></p></sec></SecTag><SecTag type="RESULTS,DISCUSS"><sec><title><text><SENT sid="49" pm="."><plain>Results and Discussion </plain></SENT>
+</text></title><p><text><SENT sid="50" pm="."><plain>We have made a further modification of the DDRT-PCR technique by utilizing the mRNA fraction instead of total RNA and by resolving the products of DDRT-PCR on 1% agarose gels stained with ethidium bromide [16]. </plain></SENT>
+<SENT sid="51" pm="."><plain>We have identified several genes which were differentially expressed at 2 dpi and 4 dpi. </plain></SENT>
+<SENT sid="52" pm="."><plain>Two different concentrations of cDNA (100 ng/μl and 10 ng/μl; Figures 1A-F) were used, of which ninety seven differentially expressed genes (DEGs) were amplified by different anchored and arbitrary primer pairs (Table 1; Figures 1A-F). </plain></SENT>
+<SENT sid="53" pm="."><plain>The anchored and arbitrary are random decamer primers, and used as reverse and forward primer for cDNA synthesis. </plain></SENT>
+<SENT sid="54" pm="."><plain>Agroinfiltration was used for transient expression of βC1 (ChLCB) under 35S promoter. </plain></SENT>
+<SENT sid="55" pm="."><plain>DDRT-PCR showed different bands of transcripts in comparison to control plants. </plain></SENT>
+<SENT sid="56" pm="."><plain>Some of the primer combinations did not yield an amplification product (Figures 1A-F). </plain></SENT>
+<SENT sid="57" pm="."><plain>At 2 dpi no difference was observed in control and infected plants as indicated in DD10 (B7, B18); DD11 (B15, B16, B19); and DD12 (B11, B19), respectively (Figures 1A-C). </plain></SENT>
+<SENT sid="58" pm="."><plain>On the other hand, at 4 dpi same pattern was also observed in DD10 (B2, B3, B4, B8, B10, B14, B17, B18, B20), DD11 (B2, B6, B7, B9, B10, B11, B12, B13, B16, B17, B18), and DD12 (B6, B7, B11, B14, B15) respectively (Figures 1D-F). </plain></SENT>
+</text></p><SecTag type="FIG"><fig id="F1" position="float"><label>Figure 1</label><caption><p><text><SENT sid="59" pm="."><plain>A. </plain></SENT>
+<SENT sid="60" pm="."><plain>Identification of genes differentially expressed in response to βC1 by differential display analysis at two and four days after infiltration. </plain></SENT>
+<SENT sid="61" pm="."><plain>In each combination of arbitrary and anchored primers, lane 1 represents 100 ng/μl of cDNA (pSAβC1pGreen0029), lane 2 shows 10 ng/μl of cDNA (pSAβC1pGreen0029) and lane 3 indicates 100 ng/μl pGreen0029 in Agrobacterium tumefaciens strain GV 3101. </plain></SENT>
+<SENT sid="62" pm="."><plain>Differential display analysis two days after inoculation with DD10 (B11-B20); B. </plain></SENT>
+<SENT sid="63" pm="."><plain>DD analysis two days after inoculation with DD11 (B11-B20); C. </plain></SENT>
+<SENT sid="64" pm="."><plain>DD analysis after two days of inoculation with DD12 (B11-B20); D. </plain></SENT>
+<SENT sid="65" pm="."><plain>DD analysis after four days of inoculation with DD10 (B1-B20); E. </plain></SENT>
+<SENT sid="66" pm="."><plain>DD analysis four days after inoculation with DD11 (B1-B20); F. </plain></SENT>
+<SENT sid="67" pm="."><plain>DD analysis four days after inoculation with DD12 (B1-B20). </plain></SENT>
+<SENT sid="68" pm="."><plain>The bands eluted for analysis are indicated (→). </plain></SENT>
+</text></p></caption><graphic xlink:href="1743-422X-7-373-1"/></fig></SecTag><SecTag type="TABLE"><table-wrap id="T1" position="float"><label>Table 1</label><caption><p><text><SENT sid="69" pm="."><plain>Sequences of oligonucleotide primers used in the study </plain></SENT>
+</text></p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left"><text><SENT sid="70" pm="."><plain>Use </plain></SENT>
+</text></th><th align="left"><text><SENT sid="71" pm="."><plain>Primer </plain></SENT>
+</text></th><th align="left"><text><SENT sid="72" pm="."><plain>Sequence </plain></SENT>
+</text></th></tr></thead><tbody><tr><td/><td align="left"><text><SENT sid="73" pm="."><plain>Anchored Primer </plain></SENT>
+</text></td><td/></tr><tr><td colspan="3"><text><SENT sid="74" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td/><td align="left"><text><SENT sid="75" pm="."><plain>DD10 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="76" pm="."><plain>5'-TTTTTTTTTTTG-3' </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="77" pm="."><plain>cDNA </plain></SENT>
+</text></td><td align="left"><text><SENT sid="78" pm="."><plain>DD11 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="79" pm="."><plain>5'-TTTTTTTTTTTC-3' </plain></SENT>
+</text></td></tr><tr><td/><td align="left"><text><SENT sid="80" pm="."><plain>DD12 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="81" pm="."><plain>5'-TTTTTTTTTTTA-3' </plain></SENT>
+</text></td></tr><tr><td colspan="3"><text><SENT sid="82" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td/><td align="left"><text><SENT sid="83" pm="."><plain>Arbitrary Primer </plain></SENT>
+</text></td><td/></tr><tr><td colspan="3"><text><SENT sid="84" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td/><td align="left"><text><SENT sid="85" pm="."><plain>B-01 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="86" pm="."><plain>5'-GTTTCGCTCC-3' </plain></SENT>
+</text></td></tr><tr><td/><td align="left"><text><SENT sid="87" pm="."><plain>B-02 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="88" pm="."><plain>5'-TGATCCCTGG-3' </plain></SENT>
+</text></td></tr><tr><td/><td align="left"><text><SENT sid="89" pm="."><plain>B-03 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="90" pm="."><plain>5'-CATCCCCCTG-3' </plain></SENT>
+</text></td></tr><tr><td/><td align="left"><text><SENT sid="91" pm="."><plain>B-04 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="92" pm="."><plain>5'-GGACTGGAGT-3' </plain></SENT>
+</text></td></tr><tr><td/><td align="left"><text><SENT sid="93" pm="."><plain>B-05 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="94" pm="."><plain>5'-TGCGCCCTTC-3' </plain></SENT>
+</text></td></tr><tr><td/><td align="left"><text><SENT sid="95" pm="."><plain>B-06 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="96" pm="."><plain>5'-TGCTCTGCCC-3' </plain></SENT>
+</text></td></tr><tr><td/><td align="left"><text><SENT sid="97" pm="."><plain>B-07 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="98" pm="."><plain>5'-GGTGACGCAG-3' </plain></SENT>
+</text></td></tr><tr><td/><td align="left"><text><SENT sid="99" pm="."><plain>B-08 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="100" pm="."><plain>5'-GTCCACACGG-3' </plain></SENT>
+</text></td></tr><tr><td/><td align="left"><text><SENT sid="101" pm="."><plain>B-09 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="102" pm="."><plain>5'-TGGGGGACTC-3' </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="103" pm="."><plain>DDRT-PCR </plain></SENT>
+</text></td><td align="left"><text><SENT sid="104" pm="."><plain>B-10 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="105" pm="."><plain>5'-CTGCTGGGAC-3' </plain></SENT>
+</text></td></tr><tr><td/><td align="left"><text><SENT sid="106" pm="."><plain>B-11 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="107" pm="."><plain>5'-GTAGACCCGT-3' </plain></SENT>
+</text></td></tr><tr><td/><td align="left"><text><SENT sid="108" pm="."><plain>B-12 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="109" pm="."><plain>5'-CCTTGACGCA-3' </plain></SENT>
+</text></td></tr><tr><td/><td align="left"><text><SENT sid="110" pm="."><plain>B-13 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="111" pm="."><plain>5'-TTCCCCCGCT-3' </plain></SENT>
+</text></td></tr><tr><td/><td align="left"><text><SENT sid="112" pm="."><plain>B-14 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="113" pm="."><plain>5'-TCCGCTCTGG-3' </plain></SENT>
+</text></td></tr><tr><td/><td align="left"><text><SENT sid="114" pm="."><plain>B-15 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="115" pm="."><plain>5'-GGAGGGTGTT-3' </plain></SENT>
+</text></td></tr><tr><td/><td align="left"><text><SENT sid="116" pm="."><plain>B-16 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="117" pm="."><plain>5'-TTTGCCCGGA-3' </plain></SENT>
+</text></td></tr><tr><td/><td align="left"><text><SENT sid="118" pm="."><plain>B-17 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="119" pm="."><plain>5'-AGGGAACGAG-3' </plain></SENT>
+</text></td></tr><tr><td/><td align="left"><text><SENT sid="120" pm="."><plain>B-18 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="121" pm="."><plain>5'-CCACAGCAGT-3' </plain></SENT>
+</text></td></tr><tr><td/><td align="left"><text><SENT sid="122" pm="."><plain>B-19 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="123" pm="."><plain>5'-ACCCCCGAAG-3' </plain></SENT>
+</text></td></tr><tr><td/><td align="left"><text><SENT sid="124" pm="."><plain>B-20 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="125" pm="."><plain>5'-GGACCCTTAC-3' </plain></SENT>
+</text></td></tr></tbody></table></table-wrap></SecTag><sec><title><text><SENT sid="126" pm="."><plain>Analysis of DEGs identified at two days post infiltration </plain></SENT>
+</text></title><p><text><SENT sid="127" pm="."><plain>Differentially expressed products were cloned and sequenced. </plain></SENT>
+<SENT sid="128" pm="."><plain>The identity of these differentially expressed genes was analysed using NCBI nucleotide data blast system. </plain></SENT>
+<SENT sid="129" pm="."><plain>The ratio of differentially expressed genes (SA1, SA2, SA3, SA4, SAA, SAB, SAC and SAD) expressed in a sample versus a calibrator (healthy plant and plant infiltrated with pGreen0029) in comparison to a reference gene (rubisco) is indicated in the Tables 2, 3 and 4. </plain></SENT>
+<SENT sid="130" pm="."><plain>The results of Delta Delta (Ct), Livak and the Pfaffi mathematical models indicated that SAA, SAB, SAD, SA1, SA2, and SA3 mRNA expression were upregulated in sample compared to the calibrator (plant inoculated with pGreen0029 and healthy plant). </plain></SENT>
+<SENT sid="131" pm="."><plain>Interestingly elevation of mRNA transcripts was also detected by RT-PCR (Figure 2A and 2B). </plain></SENT>
+<SENT sid="132" pm="."><plain>In contrast SAC and SA4 mRNA expression was down regulated in the sample compared to the calibrator (Figure 2A and 2B). </plain></SENT>
+<SENT sid="133" pm="."><plain>The calculated expression levels by these models is indicated in the Tables 2, 3 and 4. </plain></SENT>
+</text></p><SecTag type="TABLE"><table-wrap id="T2" position="float"><label>Table 2</label><caption><p><text><SENT sid="134" pm="."><plain>Conclusion of relative quantification methods of differentially expressed genes at two and four days after inoculation </plain></SENT>
+</text></p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left"><text><SENT sid="135" pm="."><plain>DEG </plain></SENT>
+</text></th><th align="left"><text><SENT sid="136" pm="."><plain>Length bps </plain></SENT>
+</text></th><th align="left"><text><SENT sid="137" pm="."><plain>Identity </plain></SENT>
+</text></th><th align="left"><text><SENT sid="138" pm="."><plain>Up/Down regulation </plain></SENT>
+</text></th></tr></thead><tbody><tr><td align="left"><text><SENT sid="139" pm="."><plain>SAA </plain></SENT>
+</text></td><td align="left"><text><SENT sid="140" pm="."><plain>(287) </plain></SENT>
+</text></td><td align="left"><text><SENT sid="141" pm="."><plain>S. lycopersicum WRKY transcription factor IId-1 splice </plain></SENT>
+</text></td><td align="left"><text><SENT sid="142" pm="."><plain>Upregulated </plain></SENT>
+</text></td></tr><tr><td colspan="4"><text><SENT sid="143" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="144" pm="."><plain>SAB </plain></SENT>
+</text></td><td align="left"><text><SENT sid="145" pm="."><plain>(231) </plain></SENT>
+</text></td><td align="left"><text><SENT sid="146" pm="."><plain>Putative Rieske iron-sulfur protein [A. thaliana]Length = 539, Rieske iron-sulfur protein Tic55 [P. sativum]Length = 553 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="147" pm="."><plain>Upregulated </plain></SENT>
+</text></td></tr><tr><td colspan="4"><text><SENT sid="148" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="149" pm="."><plain>SAC </plain></SENT>
+</text></td><td align="left"><text><SENT sid="150" pm="."><plain>(386) </plain></SENT>
+</text></td><td align="left"><text><SENT sid="151" pm="."><plain>N. tabacum mitochondrial DNA, complete genome Length = 430597 NADH dehydrogenase subunit 1 NADH dehydrogenase subunit 2, 846 bp at 5' side: </plain></SENT>
+</text></td><td align="left"><text><SENT sid="152" pm="."><plain>Down regulated </plain></SENT>
+</text></td></tr><tr><td colspan="4"><text><SENT sid="153" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="154" pm="."><plain>SAD </plain></SENT>
+</text></td><td align="left"><text><SENT sid="155" pm="."><plain>(262) </plain></SENT>
+</text></td><td align="left"><text><SENT sid="156" pm="."><plain>Quinonprotein alcohol dehydrogenase like M. truncatula </plain></SENT>
+</text></td><td align="left"><text><SENT sid="157" pm="."><plain>Upregulated </plain></SENT>
+</text></td></tr><tr><td colspan="4"><text><SENT sid="158" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="159" pm="."><plain>SA1 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="160" pm="."><plain>(442) </plain></SENT>
+</text></td><td align="left"><text><SENT sid="161" pm="."><plain>Trigger factor (chaperone in protein export) </plain></SENT>
+</text></td><td align="left"><text><SENT sid="162" pm="."><plain>Upregulated </plain></SENT>
+</text></td></tr><tr><td colspan="4"><text><SENT sid="163" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="164" pm="."><plain>SA2 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="165" pm="."><plain>(688) </plain></SENT>
+</text></td><td align="left"><text><SENT sid="166" pm="."><plain>A. thaliana calmodulin-binding receptor-like kinase </plain></SENT>
+</text></td><td align="left"><text><SENT sid="167" pm="."><plain>Upregulated </plain></SENT>
+</text></td></tr><tr><td colspan="4"><text><SENT sid="168" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="169" pm="."><plain>SA3 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="170" pm="."><plain>(772) </plain></SENT>
+</text></td><td align="left"><text><SENT sid="171" pm="."><plain>Polyribonucleotide nucleotidyltransferase </plain></SENT>
+</text></td><td align="left"><text><SENT sid="172" pm="."><plain>Upregulated </plain></SENT>
+</text></td></tr><tr><td colspan="4"><text><SENT sid="173" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="174" pm="."><plain>SA4 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="175" pm="."><plain>(283) </plain></SENT>
+</text></td><td align="left"><text><SENT sid="176" pm="."><plain>Chromosomal replication initiator protein DnaA </plain></SENT>
+</text></td><td align="left"><text><SENT sid="177" pm="."><plain>Down regulated </plain></SENT>
+</text></td></tr></tbody></table></table-wrap></SecTag><SecTag type="TABLE"><table-wrap id="T3" position="float"><label>Table 3</label><caption><p><text><SENT sid="178" pm="."><plain>Relative quantification methods of differentially expressed genes two days post inoculation. </plain></SENT>
+</text></p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left"><text><SENT sid="179" pm="."><plain>Genes </plain></SENT>
+</text></th><th align="left"><text><SENT sid="180" pm="."><plain>Identity </plain></SENT>
+</text></th><th align="left" colspan="2"><text><SENT sid="181" pm="."><plain>Relative quantification against Unit mass </plain></SENT>
+</text></th><th align="left" colspan="3"><text><SENT sid="182" pm="."><plain>Relative quantification Normalized to a reference gene </plain></SENT>
+</text></th></tr><tr><th/><th/><th colspan="5"><text><SENT sid="183" pm="."><plain> </plain></SENT>
+</text></th></tr><tr><th/><th/><th align="left"><text><SENT sid="184" pm="."><plain>Control </plain></SENT>
+</text></th><th align="left"><text><SENT sid="185" pm="."><plain>Healthy </plain></SENT>
+</text></th><th align="left"><text><SENT sid="186" pm="."><plain>Livak method </plain></SENT>
+</text></th><th align="left"><text><SENT sid="187" pm="."><plain>ΔCT Method </plain></SENT>
+</text></th><th align="left"><text><SENT sid="188" pm="."><plain>Pfaffi Method </plain></SENT>
+</text></th></tr></thead><tbody><tr><td align="left"><text><SENT sid="189" pm="."><plain>SAA </plain></SENT>
+</text></td><td align="left"><text><SENT sid="190" pm="."><plain>S. lycopersicum WRKY transcription factor IId-1 splice </plain></SENT>
+</text></td><td align="left"><text><SENT sid="191" pm="."><plain>2.32 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="192" pm="."><plain>1.32 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="193" pm="."><plain>0.737C/0.381H </plain></SENT>
+</text></td><td align="left"><text><SENT sid="194" pm="."><plain>0.942C/0.838H </plain></SENT>
+</text></td><td align="left"><text><SENT sid="195" pm="."><plain>0.737C/0.381H </plain></SENT>
+</text></td></tr><tr><td colspan="7"><text><SENT sid="196" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="197" pm="."><plain>SAB </plain></SENT>
+</text></td><td align="left"><text><SENT sid="198" pm="."><plain>Putative Rieske iron-sulfur protein [A. thaliana]Length = 539, Rieske iron-sulfur protein Tic55 [P. sativum]Length = 553 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="199" pm="."><plain>2.751 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="200" pm="."><plain>0.566 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="201" pm="."><plain>0.870C/0.162H </plain></SENT>
+</text></td><td align="left"><text><SENT sid="202" pm="."><plain>0.972C/0.728H </plain></SENT>
+</text></td><td align="left"><text><SENT sid="203" pm="."><plain>0.870C/0.162H </plain></SENT>
+</text></td></tr><tr><td colspan="7"><text><SENT sid="204" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="205" pm="."><plain>SAC </plain></SENT>
+</text></td><td align="left"><text><SENT sid="206" pm="."><plain>N. tabacum mitochondrial DNA, complete genome Length = 430597 NADH dehydrogenase subunit 1 NADH dehydrogenase subunit 2, 846 bp at 5' side </plain></SENT>
+</text></td><td align="left"><text><SENT sid="207" pm="."><plain>0.010 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="208" pm="."><plain>1.905 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="209" pm="."><plain>0.003C/0.547H </plain></SENT>
+</text></td><td align="left"><text><SENT sid="210" pm="."><plain>-0.672C/1.355H </plain></SENT>
+</text></td><td align="left"><text><SENT sid="211" pm="."><plain>0.003C/0.547H </plain></SENT>
+</text></td></tr><tr><td colspan="7"><text><SENT sid="212" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="213" pm="."><plain>SAD </plain></SENT>
+</text></td><td align="left"><text><SENT sid="214" pm="."><plain>Quinonprotein alcohol dehydrogenase like [M. truncatula] </plain></SENT>
+</text></td><td align="left"><text><SENT sid="215" pm="."><plain>5.205 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="216" pm="."><plain>0.829 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="217" pm="."><plain>1.647C/0.238H </plain></SENT>
+</text></td><td align="left"><text><SENT sid="218" pm="."><plain>1.167C/0.707H </plain></SENT>
+</text></td><td align="left"><text><SENT sid="219" pm="."><plain>1.647C/0.238H </plain></SENT>
+</text></td></tr></tbody></table></table-wrap></SecTag><SecTag type="TABLE"><table-wrap id="T4" position="float"><label>Table 4</label><caption><p><text><SENT sid="220" pm="."><plain>Relative quantification methods of differentially expressed genes four days post inoculation. </plain></SENT>
+</text></p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left"><text><SENT sid="221" pm="."><plain>Gene </plain></SENT>
+</text></th><th align="left"><text><SENT sid="222" pm="."><plain>Identity </plain></SENT>
+</text></th><th align="left" colspan="2"><text><SENT sid="223" pm="."><plain>Relative quantification against Unit mass </plain></SENT>
+</text></th><th align="left" colspan="3"><text><SENT sid="224" pm="."><plain>Relative quantification normalized to a reference gene </plain></SENT>
+</text></th></tr><tr><th/><th/><th colspan="5"><text><SENT sid="225" pm="."><plain> </plain></SENT>
+</text></th></tr><tr><th/><th/><th align="left"><text><SENT sid="226" pm="."><plain>Control </plain></SENT>
+</text></th><th align="left"><text><SENT sid="227" pm="."><plain>Healthy </plain></SENT>
+</text></th><th align="left"><text><SENT sid="228" pm="."><plain>Livak method </plain></SENT>
+</text></th><th align="left"><text><SENT sid="229" pm="."><plain>ΔCT Method </plain></SENT>
+</text></th><th align="left"><text><SENT sid="230" pm="."><plain>Pfaffi Method </plain></SENT>
+</text></th></tr></thead><tbody><tr><td align="left"><text><SENT sid="231" pm="."><plain>SA1 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="232" pm="."><plain>Trigger factor (chaperone in protein export) </plain></SENT>
+</text></td><td align="left"><text><SENT sid="233" pm="."><plain>2.88 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="234" pm="."><plain>17.75 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="235" pm="."><plain>1.443C/7.727H </plain></SENT>
+</text></td><td align="left"><text><SENT sid="236" pm="."><plain>1.08C/1.74H </plain></SENT>
+</text></td><td align="left"><text><SENT sid="237" pm="."><plain>1.443C/7.727H </plain></SENT>
+</text></td></tr><tr><td colspan="7"><text><SENT sid="238" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="239" pm="."><plain>SA2 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="240" pm="."><plain>A. thaliana calmodulin-binding receptor-like kinase </plain></SENT>
+</text></td><td align="left"><text><SENT sid="241" pm="."><plain>3.759 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="242" pm="."><plain>3.759 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="243" pm="."><plain>8.564 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="244" pm="."><plain>- </plain></SENT>
+</text></td><td align="left"><text><SENT sid="245" pm="."><plain>8.564 </plain></SENT>
+</text></td></tr><tr><td colspan="7"><text><SENT sid="246" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="247" pm="."><plain>SA3 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="248" pm="."><plain>Polyribonucleotide nucleotidyltransferase </plain></SENT>
+</text></td><td align="left"><text><SENT sid="249" pm="."><plain>1.32 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="250" pm="."><plain>1.70 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="251" pm="."><plain>0.664C/0.742H </plain></SENT>
+</text></td><td align="left"><text><SENT sid="252" pm="."><plain>0.790C/.837H </plain></SENT>
+</text></td><td align="left"><text><SENT sid="253" pm="."><plain>0.664C/0.742H </plain></SENT>
+</text></td></tr><tr><td colspan="7"><text><SENT sid="254" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="255" pm="."><plain>SA4 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="256" pm="."><plain>Chromosomal replication initiator protein DnaA </plain></SENT>
+</text></td><td align="left"><text><SENT sid="257" pm="."><plain>0.659 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="258" pm="."><plain>0.882 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="259" pm="."><plain>0.329C/0.253H </plain></SENT>
+</text></td><td align="left"><text><SENT sid="260" pm="."><plain>0.674C/0.706H </plain></SENT>
+</text></td><td align="left"><text><SENT sid="261" pm="."><plain>0.329C/0.253H </plain></SENT>
+</text></td></tr></tbody></table></table-wrap></SecTag><SecTag type="FIG"><fig id="F2" position="float"><label>Figure 2</label><caption><p><text><SENT sid="262" pm="."><plain>Quantitative real time RT-PCR analysis of DEGs identified in response to βC1 at two and four days after infiltration of N. tabacum. </plain></SENT>
+<SENT sid="263" pm="."><plain>SA1, SA2, SA3, SA4, SAA, SAB, SAC and SAD test samples with color indication represent the up and down regulation of differentially expressed genes as compared to calibrator having only pGreen0029 vector (SA1C, SA3C, SA4C, SAAC, SABC, SACC, SADC) and another healthy calibrator (A1H, A3H, A4H, HA, HB, HC and HD). </plain></SENT>
+<SENT sid="264" pm="."><plain>In both (A) and (B) R stand for reference gene and T for test samples. </plain></SENT>
+</text></p></caption><graphic xlink:href="1743-422X-7-373-2"/></fig></SecTag><p><text><SENT sid="265" pm="."><plain>The results indicated that SAA showed 76% nucleotide sequence identity with Solanum lycopersicum WRKY transcription factor IId-1 splice. </plain></SENT>
+<SENT sid="266" pm="."><plain>The results show that the SAA gene is upregulated (Figure 2) upon inoculation with the ChLCuB βC1 gene, which is a pathogenicity determinant [21-23], helps in viral movement, is involved in symptom induction [9,24,25], is a suppressor of gene silencing [26] and may be the target of a host response that up-regulates WRKY transcription factors [27]. </plain></SENT>
+<SENT sid="267" pm="."><plain>It has been shown that the transcription of WRKY genes are strongly and rapidly upregulated in response to wounding, pathogen infection or abiotic stresses in numerous plant species, as indicated in Figure 3[28]. </plain></SENT>
+<SENT sid="268" pm="."><plain>Infection of tobacco with Tobacco mosaic virus (TMV) or bacteria, or treatment with fungal elicitors, salicylic acid (SA) or H2O2, strongly induces several WRKY genes [29,30]. </plain></SENT>
+<SENT sid="269" pm="."><plain>This suggests that the expression of βC1 gene results in a stress response and the plant responds to these stresses by increasing the transcription of WRKY genes. </plain></SENT>
+</text></p><SecTag type="FIG"><fig id="F3" position="float"><label>Figure 3</label><caption><p><text><SENT sid="270" pm="."><plain>Schematic pathway showing the involvement of the differentially expressed genes (DEGs) in signal transduction pathways. </plain></SENT>
+<SENT sid="271" pm="."><plain>DEGs isolated from N. tabacum at two and four days after infiltration in response of βC1 are involved in different pathways during host protein interactions and also segregate in specific cellular compartments. </plain></SENT>
+<SENT sid="272" pm="."><plain>Chaperons, CRCK2 and WRKY transcription factors involved in Ca+ dependent signalling, salicylic acid signalling, osmotic and oxidative stress signalling and pathogen defence signalling pathways. </plain></SENT>
+<SENT sid="273" pm="."><plain>In contrast, NADH, Reisky iron sulphur protein and quinone protein are related to mitochondrial and chloroplast sysstems and act as electro carriers for respiration, photosynthesis by ATP synthesis. </plain></SENT>
+<SENT sid="274" pm="."><plain>The collective role of these DEGs are in defence, cell protection, respiration, photosynthesis, detoxification, plant growth and development. </plain></SENT>
+</text></p></caption><graphic xlink:href="1743-422X-7-373-3"/></fig></SecTag><p><text><SENT sid="275" pm="."><plain>SAB showed 68% nucleotide sequence identity with A. thaliana putative Rieske iron-sulfur protein (RISP) and 73% with P. sativum RISP. </plain></SENT>
+<SENT sid="276" pm="."><plain>The expression of SAB was upregulated in the response of ChLCB βC1 (Figure 2). </plain></SENT>
+<SENT sid="277" pm="."><plain>RISP was identified from expression of betaC1 gene [31] and is absolutely required for mitochondrial respiration (Figure 3) as reported earlier [32,33]. </plain></SENT>
+<SENT sid="278" pm="."><plain>Mitochondrial RISP is encoded by a nuclear gene, translated as a precursor protein in the cytoplasm and post-translationally imported into mitochondria. </plain></SENT>
+<SENT sid="279" pm="."><plain>Huang [34] demonstrated that the RISP gene family is differentially regulated; higher RISP levels occur in flowers than in leaves, stems and roots. </plain></SENT>
+<SENT sid="280" pm="."><plain>RISP is involved in energy production in the form of ATP, required for pollen development and must be supplied mainly by mitochondria. </plain></SENT>
+<SENT sid="281" pm="."><plain>Similarly, flower mitochondria could meet the high demand for energy either by increasing their metabolic activity to generate more ATP per mitochondrion or by increasing their number per cell so that more ATP is produced [35]. </plain></SENT>
+<SENT sid="282" pm="."><plain>It has been shown that expression of βC1 results in foliar enations [10], which is an indication of enhanced cell division. </plain></SENT>
+<SENT sid="283" pm="."><plain>Cell division is an energy requiring process. </plain></SENT>
+<SENT sid="284" pm="."><plain>Therefore one possible pathway to acquire energy is via RISP proteins (Figure 3). </plain></SENT>
+<SENT sid="285" pm="."><plain>However, this hypothesis will require further experimental confirmation. </plain></SENT>
+</text></p><p><text><SENT sid="286" pm="."><plain>The SAC DNA sequence shows 93% nucleotide sequence identity with both NADH dehydrogenase subunit 1 (ndh1) and NADH dehydrogenase subunit 2 (ndh2) of N. tabacum mitochondrial genes, also known as NADH oxidoreductase. </plain></SENT>
+<SENT sid="287" pm="."><plain>Similar to the SAB, it has been demonstrated that SAC is a N. tabacum mitochondrial protein and also involved in generation of cellular energy in the form of ATP by building the electrochemical potential in electron transport chain as indicated in (Figure 3) [35,36]. </plain></SENT>
+<SENT sid="288" pm="."><plain>The SAD transcript showed 47% nucleotide sequence identity with the M. truncatula quinon protein alcohol dehydrogenase. </plain></SENT>
+<SENT sid="289" pm="."><plain>The quinon protein alcohol dehydrogenases are involved in plant development and senescence, reducing the concentration of toxic amines during stress conditions, and providing hydrogen peroxide for wall stiffening and lignification (Figure 3). </plain></SENT>
+</text></p></sec><sec><title><text><SENT sid="290" pm="."><plain>Analysis of DEGs identified at four days post infiltration </plain></SENT>
+</text></title><p><text><SENT sid="291" pm="."><plain>Several genes were also identified that were differentially expressed at 4 dpi. </plain></SENT>
+<SENT sid="292" pm="."><plain>DEG SA1 shows 99% nucleotide sequence identity with trigger factor (chaperone in protein export) of P. acnes. </plain></SENT>
+<SENT sid="293" pm="."><plain>It has been suggested that molecular chaperones play a critical role in targeting proteins to the mitochondria, are involved in Ca+ dependent signaling pathway (Figure 3) and in the subsequent folding of the imported protein [37-39]. </plain></SENT>
+<SENT sid="294" pm="."><plain>It may be very useful to analyze the interaction of βC1 with chaperones through protein-protein interaction in future. </plain></SENT>
+<SENT sid="295" pm="."><plain>It has been shown that SA2 transcript belongs to the primary calcium receptor called calmodulin (CaM; Figure 3), which is a ubiquitous protein found in both plants and animals [40]. </plain></SENT>
+<SENT sid="296" pm="."><plain>It is located in cytoplasmic and nuclear compartments and can be attached to the plasma membrane in plant cells [41,42]. </plain></SENT>
+</text></p><p><text><SENT sid="297" pm="."><plain>SA2 showed 72% nucleotide sequence identity with A. thaliana calmodulin-binding receptor-like kinase 2 (CRCK2) and, interestingly, the expression of CRCK1 is up-regulated by cold and salt stresses, as well as the stress molecules ABA (abscisic acid) and hydrogen peroxide, suggesting that CRCK2 may be involved in osmotic and oxidative stress signal transduction pathways in plants [43]. </plain></SENT>
+<SENT sid="298" pm="."><plain>It has been suggested that CRCK2 protein is up regulated (Figure 2) during pathogen infection and also regulates the activities of a wide range of CaM binding proteins (CaMBPs), including metabolic enzymes, transcription factors such as WRKY group II d [44], ion channels, protein kinases/phosphatases and structural proteins [45,46], as indicated in Figure 3. </plain></SENT>
+</text></p><p><text><SENT sid="299" pm="."><plain>Transcript SA3 showed 92% nucleotide sequence identity with the polynucleotide nucleotidyltransferase from P. cryohalolentis K5 (PNPase; encoded by the pnp gene). </plain></SENT>
+<SENT sid="300" pm="."><plain>PNPase is an RNA binding protein, involved in post-transcriptional gene silencing, participates in RNA degradation [47] and plays a central role in adaptation to growth at low temperature [48]. </plain></SENT>
+<SENT sid="301" pm="."><plain>Previous studies identified PNPase in eubacteria [49-51], Drosophila melanogaster [52], plants [53,54], and even mice and humans [55,56]. </plain></SENT>
+<SENT sid="302" pm="."><plain>Here it has been identified in N. tabacum in the response of βC1 of ChLCB. </plain></SENT>
+<SENT sid="303" pm="."><plain>SA4 shows 90% nucleotide sequence identity with the chromosomal replication initiator protein DnaA. βC1 induces cell proliferation (enations) and a requirement for DnaA during cell division is thus consistent with this finding. </plain></SENT>
+<SENT sid="304" pm="."><plain>Sequence analysis of the cloned DEGs showed 8 of them to represent genes that have been previously characterized (Table 5), while the remainder represent genes of unknown function and hypothetical proteins predicted from sequence. </plain></SENT>
+<SENT sid="305" pm="."><plain>All these genes are associated with chloroplast and mitochondrial host compartments. </plain></SENT>
+</text></p><SecTag type="TABLE"><table-wrap id="T5" position="float"><label>Table 5</label><caption><p><text><SENT sid="306" pm="."><plain>Differentially expressed genes (DEGs) and their identities </plain></SENT>
+</text></p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left"><text><SENT sid="307" pm="."><plain>DEG </plain></SENT>
+</text></th><th align="left"><text><SENT sid="308" pm="."><plain>Length of amplified fragment </plain></SENT>
+</text></th><th align="left"><text><SENT sid="309" pm="."><plain>Identity </plain></SENT>
+</text></th><th align="left"><text><SENT sid="310" pm="."><plain>Accession No. </plain></SENT>
+</text></th><th align="left"><text><SENT sid="311" pm="."><plain>Identity </plain></SENT>
+</text></th></tr></thead><tbody><tr><td/><td/><td align="left"><text><SENT sid="312" pm="."><plain>Genes differentially expressed at two days after inoculation </plain></SENT>
+</text></td><td/><td/></tr><tr><td colspan="5"><text><SENT sid="313" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="314" pm="."><plain>SAA </plain></SENT>
+</text></td><td align="left"><text><SENT sid="315" pm="."><plain>287 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="316" pm="."><plain>S. lycopersicum WRKY transcription factor IId-1 splice </plain></SENT>
+</text></td><td align="left"><text><SENT sid="317" pm="."><plain>AY157059 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="318" pm="."><plain>(76%) </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="319" pm="."><plain>SAB </plain></SENT>
+</text></td><td align="left"><text><SENT sid="320" pm="."><plain>231 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="321" pm="."><plain>Putative Rieske iron-sulfur protein [A. thaliana]Length = 539, Rieske iron-sulfur protein Tic55 [P. sativum] Length = 553 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="322" pm="."><plain>NM128041 AJ000520 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="323" pm="."><plain>(68%)/(73%) </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="324" pm="."><plain>SAC </plain></SENT>
+</text></td><td align="left"><text><SENT sid="325" pm="."><plain>386 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="326" pm="."><plain>N. tabacum mitochondrial DNA, complete genome Length = 430597: NADH dehydrogenase subunit 1 and NADH dehydrogenase subunit 2, 846 bp at 5' side </plain></SENT>
+</text></td><td align="left"><text><SENT sid="327" pm="."><plain>BA000042 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="328" pm="."><plain>(93%) </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="329" pm="."><plain>SAD </plain></SENT>
+</text></td><td align="left"><text><SENT sid="330" pm="."><plain>262 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="331" pm="."><plain>Quinonprotein alcohol dehydrogenase like [M. truncatula] </plain></SENT>
+</text></td><td align="left"><text><SENT sid="332" pm="."><plain>ABE84009 ABE86610 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="333" pm="."><plain>(47%) </plain></SENT>
+</text></td></tr><tr><td colspan="5"><text><SENT sid="334" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td/><td/><td align="left"><text><SENT sid="335" pm="."><plain>Genes differentially expressed at four days after inoculation </plain></SENT>
+</text></td><td/><td/></tr><tr><td colspan="5"><text><SENT sid="336" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="337" pm="."><plain>SA1 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="338" pm="."><plain>442 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="339" pm="."><plain>Trigger factor (Chaperone protein) </plain></SENT>
+</text></td><td align="left"><text><SENT sid="340" pm="."><plain>AE017283 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="341" pm="."><plain>(99%) </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="342" pm="."><plain>SA2 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="343" pm="."><plain>688 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="344" pm="."><plain>A. thaliana calmodulin-binding receptor-like kinase 2 (CRCK2) </plain></SENT>
+</text></td><td align="left"><text><SENT sid="345" pm="."><plain>NM116255 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="346" pm="."><plain>(72%) </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="347" pm="."><plain>SA3 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="348" pm="."><plain>772 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="349" pm="."><plain>Polyribonucleotide nucleotidyltransferase </plain></SENT>
+</text></td><td align="left"><text><SENT sid="350" pm="."><plain>CP000323 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="351" pm="."><plain>(92%) </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="352" pm="."><plain>SA4 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="353" pm="."><plain>263 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="354" pm="."><plain>Chromosomal replication initiator protein DnaA </plain></SENT>
+</text></td><td align="left"><text><SENT sid="355" pm="."><plain>CP000653 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="356" pm="."><plain>(90%) </plain></SENT>
+</text></td></tr></tbody></table></table-wrap></SecTag><p><text><SENT sid="357" pm="."><plain>The results suggest that the DEGs identified in response to βC1 are involved in multiple pathways; oxidative stress signaling, Ca+ dependent signaling, salicylic acid signaling pathways (Figure 3). </plain></SENT>
+<SENT sid="358" pm="."><plain>Interestingly, these DEGs are related to specific cellular compartments, mitochondria and chloroplasts (Figure 3), where they act as electron carrier for respiration and photosynthesis by ATP synthesis (Figure 3). </plain></SENT>
+<SENT sid="359" pm="."><plain>Collectively these genes perform their roles in plant growth and development, detoxification responses, cell protection and defense against invading viral proteins or pathogen (Figure 3). </plain></SENT>
+</text></p></sec><sec><title><text><SENT sid="360" pm="."><plain>Analysis of DEGs using KOBAS </plain></SENT>
+</text></title><p><text><SENT sid="361" pm="."><plain>The DEGs responsive to ChLCB βC1 were analyzed using the KEGG orthology (KO) system, also called KOBAS (KO Based Annotation System). </plain></SENT>
+<SENT sid="362" pm="."><plain>This showed that polyribonucleotide nucleotidyltransferase is involved in the purine and pyrimidine metabolic pathways (Table 6 and 7). </plain></SENT>
+<SENT sid="363" pm="."><plain>These finding suggest that βC1 interact with host genes in such a manner to increase the amount of purines and pyrimidines in the cells and this is required for cell division which is induced by βC1. </plain></SENT>
+</text></p><SecTag type="TABLE"><table-wrap id="T6" position="float"><label>Table 6</label><caption><p><text><SENT sid="364" pm="."><plain>Result analysis of DEGs through KOBAS; KO Based Annotation System for the pathway identification </plain></SENT>
+</text></p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left"><text><SENT sid="365" pm="."><plain>Sequence identifier </plain></SENT>
+</text></th><th align="left"><text><SENT sid="366" pm="."><plain>KO term </plain></SENT>
+</text></th><th align="left"><text><SENT sid="367" pm="."><plain>KO definition </plain></SENT>
+</text></th><th align="left"><text><SENT sid="368" pm="."><plain>Rank </plain></SENT>
+</text></th><th align="left"><text><SENT sid="369" pm="."><plain>E-value </plain></SENT>
+</text></th><th align="left"><text><SENT sid="370" pm="."><plain>Score </plain></SENT>
+</text></th><th align="left"><text><SENT sid="371" pm="."><plain>Identity (%) </plain></SENT>
+</text></th><th align="left"><text><SENT sid="372" pm="."><plain>Blast hit </plain></SENT>
+</text></th></tr></thead><tbody><tr><td align="left"><text><SENT sid="373" pm="."><plain>SA3 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="374" pm="."><plain>K00962 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="375" pm="."><plain>Polyribonucleotide nucleotidyltransferase </plain></SENT>
+</text></td><td align="left"><text><SENT sid="376" pm="."><plain>1 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="377" pm="."><plain>1e-111 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="378" pm="."><plain>404.0 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="379" pm="."><plain>96.64 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="380" pm="."><plain>Pcr. </plain></SENT>
+<SENT sid="381" pm="."><plain>Pcryo 0080 </plain></SENT>
+</text></td></tr></tbody></table><table-wrap-foot><p><text><SENT sid="382" pm="."><plain>Each row corresponds to a query DNA or protein input by the user. </plain></SENT>
+<SENT sid="383" pm="."><plain>The first column contains sequence identifier extracted from the input. </plain></SENT>
+<SENT sid="384" pm="."><plain>The second column contains the assigned KO terms hyperlinked to detailed description in KEGG. </plain></SENT>
+<SENT sid="385" pm="."><plain>The third column contains KO term definition that this protein sequence belongs to this available protein in this program. </plain></SENT>
+<SENT sid="386" pm="."><plain>The fourth to seventh columns shows the rank, e-value, score and identity of the BLAST hit. </plain></SENT>
+<SENT sid="387" pm="."><plain>The last column contains the gene ID of the hit hyperlinked to the KEGG GENES dataset database. </plain></SENT>
+</text></p></table-wrap-foot></table-wrap></SecTag><SecTag type="TABLE"><table-wrap id="T7" position="float"><label>Table 7</label><caption><p><text><SENT sid="388" pm="."><plain>Summary of purine and pyrimidine metabolic pathways of Polynucleotide nucleotidyl transferase </plain></SENT>
+</text></p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left"><text><SENT sid="389" pm="."><plain>Query gene </plain></SENT>
+</text></th><th align="left"><text><SENT sid="390" pm="."><plain>Pathway </plain></SENT>
+</text></th><th align="left"><text><SENT sid="391" pm="."><plain>Count and ratio </plain></SENT>
+</text></th><th align="left"><text><SENT sid="392" pm="."><plain>p-value </plain></SENT>
+</text></th><th align="left"><text><SENT sid="393" pm="."><plain>q-value </plain></SENT>
+</text></th><th align="left"><text><SENT sid="394" pm="."><plain>Web site </plain></SENT>
+</text></th></tr></thead><tbody><tr><td align="left"><text><SENT sid="395" pm="."><plain>SA3 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="396" pm="."><plain>Pyrimidine metabolism </plain></SENT>
+</text></td><td align="left"><text><SENT sid="397" pm="."><plain>1/100% 44/1.53% </plain></SENT>
+</text></td><td align="left"><text><SENT sid="398" pm="."><plain>0.0153417015342 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="399" pm="."><plain>0.023709902371 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="400" pm="."><plain><ext-link ext-link-type="uri" xlink:href="http://www.genome.jp/kegg/catalog/org_list.html">http://www.genome.jp/kegg/catalog/org_list.html</ext-link><ext-link ext-link-type="uri" xlink:href="http://kobas.cbi.pku.edu.cn/help.do">http://kobas.cbi.pku.edu.cn/help.do</ext-link><ext-link ext-link-type="uri" xlink:href="http://kobas.cbi.pku.edu.cn">http://kobas.cbi.pku.edu.cn</ext-link><ext-link ext-link-type="uri" xlink:href="http://www.genome.jp/">http://www.genome.jp/</ext-link> </plain></SENT>
+</text></td></tr><tr><td colspan="5"><text><SENT sid="401" pm="."><plain> </plain></SENT>
+</text></td><td/></tr><tr><td align="left"><text><SENT sid="402" pm="."><plain>SA3 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="403" pm="."><plain>Purine metabolism </plain></SENT>
+</text></td><td align="left"><text><SENT sid="404" pm="."><plain>1/100% 68/2.37% </plain></SENT>
+</text></td><td align="left"><text><SENT sid="405" pm="."><plain>0.023709902371 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="406" pm="."><plain>0.023709902371 </plain></SENT>
+</text></td><td/></tr></tbody></table><table-wrap-foot><p><text><SENT sid="407" pm="."><plain>Table 4 described the first column shows the name of the pathway. </plain></SENT>
+<SENT sid="408" pm="."><plain>The second column lists the number and percentage of input genes or proteins involved in the pathway (top red in color) and the number and percentage of background genes or proteins involved in the pathway (bottom green in color). </plain></SENT>
+<SENT sid="409" pm="."><plain>The third and fourth columns list the p-value and q-value of the statistical significance, respectively. </plain></SENT>
+<SENT sid="410" pm="."><plain>Purine and pyrimidine metabolic pathways of (SA3) polynucleotide nucleotidyltransferase that is an RNA binding protein and involved in RNA degradation. </plain></SENT>
+</text></p></table-wrap-foot></table-wrap></SecTag></sec></sec></SecTag><SecTag type="CONCL"><sec><title><text><SENT sid="411" pm="."><plain>Conclusions </plain></SENT>
+</text></title><p><text><SENT sid="412" pm="."><plain>From all these related results it has been concluded that the DEGs in the response of βC1 of ChLCB under 35S cauliflower promoter are related to the chloroplast and mitochondria and are involved in the ATP synthesis, act as electron carriers for respiration and photosynthesis processes. </plain></SENT>
+<SENT sid="413" pm="."><plain>These DEGs play an important role in plant growth and development, cell protection, defence processes, replication mechanisms and detoxification responses as illustrated in Figure 3. </plain></SENT>
+</text></p></sec></SecTag><SecTag type="METHODS"><sec sec-type="methods"><title><text><SENT sid="414" pm="."><plain>Methods </plain></SENT>
+</text></title><sec><title><text><SENT sid="415" pm="."><plain>Cloning of βC1 of Chilli leaf curl betasatellite in pJIT163 </plain></SENT>
+</text></title><p><text><SENT sid="416" pm="."><plain>The βC1 of ChLCB was cloned under the control of the cauliflower mosaic virus 35S promoter in the pJIT163 plant expression vector. </plain></SENT>
+<SENT sid="417" pm="."><plain>A set of primers (ChβC135S(F) 5'-GCAAGCTTATGCACCACGTATATGAATTATGTCC-3'/ChβC135S(R) 5'- GCGAATTCTCACACACACACATTCGTACATAC-3'; having EcoRI and HindIII restriction sites, respectively) were designed to the reported sequence (accession no. AJ316032) to amplify a 450 bp DNA fragment containing the ChLCB βC1 gene. </plain></SENT>
+<SENT sid="418" pm="."><plain>The fragment was amplified with an initial 94°C for 5 min followed by 30 cycles of 94°C for 1 min, 50°C for 1 min, 72°C for 1 min. </plain></SENT>
+<SENT sid="419" pm="."><plain>A final extension at 72°C for 10 min was included. </plain></SENT>
+<SENT sid="420" pm="."><plain>The amplification product was analyzed by 1% agarose gel electrophoresis. </plain></SENT>
+<SENT sid="421" pm="."><plain>The amplified fragment and pJIT163 vector were restricted with EcoRI and HindIII restriction enzymes at 37°C overnight, precipitated with phenol-chloroform and ligated at 16°C overnight. </plain></SENT>
+<SENT sid="422" pm="."><plain>The ligated product was transformed into E. coli 10b. </plain></SENT>
+<SENT sid="423" pm="."><plain>The transformation mixture was then spread on 100 mg/ml LB ampicillin petri plates after incubation for one h at 37°C. </plain></SENT>
+<SENT sid="424" pm="."><plain>Plates were incubated overnight at 37°C and the next day colonies were cultured in LB containing ampicillin and placed overnight in a shaking water bath at 37°C. </plain></SENT>
+<SENT sid="425" pm="."><plain>Plasmid isolation from cultures was performed by miniprep method and recombinant clone was confirmed by digestion with EcoRI and HindIII. </plain></SENT>
+<SENT sid="426" pm="."><plain>The resultant recombinant clone was named pSAβC135S. </plain></SENT>
+</text></p></sec><sec><title><text><SENT sid="427" pm="."><plain>Transfer of expression cassette to binary vector and transformation of Agrobacterium tumefaciens </plain></SENT>
+</text></title><p><text><SENT sid="428" pm="."><plain>pSAβC135S and pGreen0029 were restricted with XhoI and XbaI endonuclease, ethanol precipitated and ligated at 16°C for 18 h. </plain></SENT>
+<SENT sid="429" pm="."><plain>This was used for transformation into E. coli and colonies were confirmed by restriction analysis. </plain></SENT>
+<SENT sid="430" pm="."><plain>Both pGreen0029 and pGreen0029 containing the expression cassette were transformed into Agrobacterium tumefaciens strain (GV 3101) by electroporation. </plain></SENT>
+<SENT sid="431" pm="."><plain>The transformation mixture was then spread on LB medium plates containing 50 μg/ml of kanamycin, 25 μg/ml of rifampicin and 100 μg/ml tetracycline antibiotics, after a one hour incubation at 28°C. </plain></SENT>
+<SENT sid="432" pm="."><plain>Plates were incubated at 28°C until colonies appeared. </plain></SENT>
+<SENT sid="433" pm="."><plain>After 48 hours, colonies were grown in LB liquid medium containing 50 μg/ml of kanamycin, 25 μg/ml of rifampicin and 100 μg/ml tetracycline, and placed at 28°C for 48 h. </plain></SENT>
+<SENT sid="434" pm="."><plain>The transformants were confirmed by PCR analysis using the primers ChβC135S(F)/ChβC135S(R). </plain></SENT>
+</text></p></sec><sec><title><text><SENT sid="435" pm="."><plain>Agroinfiltration of plants </plain></SENT>
+</text></title><p><text><SENT sid="436" pm="."><plain>Agrobacterium cultures were grown at 28°C for 48 h in liquid LB medium containing 50 μg/ml of kanamycin and 25 μg/ml of rifampicin. </plain></SENT>
+<SENT sid="437" pm="."><plain>The bacterial cells were pelleted at 4000 rpm for 10 min at 20°C and resuspended in 10 mM MgCl2 and 150 μg of acetosyringone per ml. </plain></SENT>
+<SENT sid="438" pm="."><plain>After a three hour incubation cells were infiltrated into young, fully expanded leaves of 4 week- old N. tabacum plants using a 5 ml syringe. </plain></SENT>
+</text></p></sec><sec><title><text><SENT sid="439" pm="."><plain>Isolation of messenger RNA and cDNA synthesis </plain></SENT>
+</text></title><p><text><SENT sid="440" pm="."><plain>Infiltrated of N. tabacum leaves infiltrated with pGreen0029 and pGreen0029 containing the βC1 expression cassette were collected two and four days after inoculation in liquid nitrogen. </plain></SENT>
+<SENT sid="441" pm="."><plain>Total RNA was extracted using Trizol reagent (Invitrogen, USA) following the manufacturer's instructions. </plain></SENT>
+<SENT sid="442" pm="."><plain>The integrity and purity of total RNA isolated from infected leaf samples was assessed by electrophoresis on 1% agarose gels. </plain></SENT>
+<SENT sid="443" pm="."><plain>The messenger RNA was isolated from total RNA using oligo (dT) cellulose columns (MRC, USA) according to the manufacturer's instructions. </plain></SENT>
+<SENT sid="444" pm="."><plain>The loaded columns were washed with binding buffer and mRNA was eluted. </plain></SENT>
+<SENT sid="445" pm="."><plain>The eluted mRNA was precipitated and dissolved in DEPC treated water. </plain></SENT>
+<SENT sid="446" pm="."><plain>Messenger RNA resulting from two and four days post infiltration samples were reverse transcribed to cDNA using Revert Aid H- First Strand cDNA synthesis kit, (Fermentas, USA). </plain></SENT>
+<SENT sid="447" pm="."><plain>Three reverse transcription reactions were carried out for each mRNA using three different anchored (T11M) primers (where M may be G, C or A). </plain></SENT>
+<SENT sid="448" pm="."><plain>The products of reverse transcriptions (cDNA) were stored at -20°C for differential display PCR amplifications. </plain></SENT>
+</text></p></sec><sec><title><text><SENT sid="449" pm="."><plain>Differential display analysis </plain></SENT>
+</text></title><p><text><SENT sid="450" pm="."><plain>PCR amplification of each cDNA (synthesized from mRNA isolated from two and four days post inoculation samples) was carried out in combination with one of the three anchored primers and one of the twenty arbitrary primers of the B-Series (as indicated in Table 1), providing 60 combinations in case of four days post inoculation and 29 combinations in the case of two days post inoculation. </plain></SENT>
+<SENT sid="451" pm="."><plain>PCR was carried out in a final reaction volume of 50 μl containing 2.5 μl (100 ng/μl and 10 ng/μl) of first strand cDNA, 5 μl of 10× PCR buffer, 4 μl MgCl2 (25 mM), 1 μl of dNTPs (10 mM each), 2 μl of anchord primer (250 ng/μl), 8 μl of arbitrary primer (100 ng/μl), 0.5 μl of Taq DNA Polymerase (5 U/μl; Fermentas, USA), 27 μl double distilled H2O. </plain></SENT>
+<SENT sid="452" pm="."><plain>The PCR amplification protocol included first cycle at 94°C for 4 min followed by 45 cycles of 36°C for 2 min, 72°C for 1 min, 94°C for 1 min; and a final extension step at 72°C for 10 min. </plain></SENT>
+<SENT sid="453" pm="."><plain>The amplified PCR products were resolved on 1% agarose gel and stained with ethidium bromide. </plain></SENT>
+</text></p></sec><sec><title><text><SENT sid="454" pm="."><plain>Cloning and sequencing of differentially expressed genes (DEGs) </plain></SENT>
+</text></title><p><text><SENT sid="455" pm="."><plain>The differentially expressed bands were excised from the gel and extracted by QIAGEN gel extraction kit and DNA extraction kit (MBI, Fermentas). </plain></SENT>
+<SENT sid="456" pm="."><plain>The eluted bands were ligated into pTZ57RT, and transformed into E. coli TOP 10 by the heat shocked method. </plain></SENT>
+<SENT sid="457" pm="."><plain>Plasmid DNA was isolated using the miniprep method and clones were confirmed by restriction analysis using EcoRI and PstI restriction enzymes. </plain></SENT>
+<SENT sid="458" pm="."><plain>Purified clones were sequenced using M13 (-20) forward and M13 (-26) reverse primers and BigDye terminator v 3.1 ABI Prism 310 Genetic analyzer (Applied Biosystems, USA) as decribed by the manufacturer. </plain></SENT>
+<SENT sid="459" pm="."><plain>Sequence information was stored, assembled and analysed using the Lasergene sequence analysis package (DNAStar Inc., Madison, WI, USA) running on an IBM compatible PC. </plain></SENT>
+</text></p></sec><sec><title><text><SENT sid="460" pm="."><plain>Analysis of DEGs using NCBI, KOBAS and RT-PCR </plain></SENT>
+</text></title><p><text><SENT sid="461" pm="."><plain>The nucleotide sequences were analyzed using BLAST; for blastn and blastx algorithms in NCBI. </plain></SENT>
+<SENT sid="462" pm="."><plain>Clusters of orthologus group of proteins were identified at NCBI <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/Blast.cgi">http://www.ncbi.nlm.nih.gov/Blast.cgi</ext-link> and KEGG orthology <ext-link ext-link-type="uri" xlink:href="http://www.genome.jp/">http://www.genome.jp/</ext-link>. </plain></SENT>
+<SENT sid="463" pm="."><plain>Real time quantitative PCR was performed to analyse expression of DEGs in relation to a reference gene and the calibrators at a constant level of fluorescence. </plain></SENT>
+<SENT sid="464" pm="."><plain>These were calculated with Delta Delta (Ct), Livak and the Pfaffi mathematical models of quantitative real time PCR method [57,58]. </plain></SENT>
+<SENT sid="465" pm="."><plain>For RT-PCR each sample was used in triplicate and the experiment was repeated three times to confirm the reproducibility of result. </plain></SENT>
+<SENT sid="466" pm="."><plain>The sequences of RT-PCR primers are shown in Table 8 and 9. </plain></SENT>
+</text></p><SecTag type="TABLE"><table-wrap id="T8" position="float"><label>Table 8</label><caption><p><text><SENT sid="467" pm="."><plain>After two days differentially expressed genes (DEGs) primer sequences for quantitative real time PCR </plain></SENT>
+</text></p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left"><text><SENT sid="468" pm="."><plain>Name of genes </plain></SENT>
+</text></th><th align="left"><text><SENT sid="469" pm="."><plain>Sequences of primers </plain></SENT>
+</text></th><th align="left"><text><SENT sid="470" pm="."><plain>MERS </plain></SENT>
+</text></th></tr></thead><tbody><tr><td align="left" colspan="3"><text><SENT sid="471" pm="."><plain>Primer sequences two days post inoculation of βC1 of ChLCB for Q-RTPCR analysis </plain></SENT>
+</text></td></tr><tr><td colspan="3"><text><SENT sid="472" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="473" pm="."><plain>SAA </plain></SENT>
+</text></td><td align="left"><text><SENT sid="474" pm="."><plain>SAA F: GAGACCCGGGATGTCCTGGCAAGAAAGCAT </plain></SENT>
+</text></td><td align="left"><text><SENT sid="475" pm="."><plain>(30 MERS) </plain></SENT>
+</text></td></tr><tr><td/><td align="left"><text><SENT sid="476" pm="."><plain>SAAQPCR:AATTACAAAAGAGCCCCTAAATCCCTAAGC </plain></SENT>
+</text></td><td align="left"><text><SENT sid="477" pm="."><plain>(30 MERS) </plain></SENT>
+</text></td></tr><tr><td/><td/><td/></tr><tr><td/><td align="left"><text><SENT sid="478" pm="."><plain>SAA F2: GGAGAGGGCAACCGATGA </plain></SENT>
+</text></td><td align="left"><text><SENT sid="479" pm="."><plain>(18 MERS) </plain></SENT>
+</text></td></tr><tr><td/><td align="left"><text><SENT sid="480" pm="."><plain>SAA QPCR2: CCCCTAAATCCCTAAGC </plain></SENT>
+</text></td><td align="left"><text><SENT sid="481" pm="."><plain>(17 MERS) </plain></SENT>
+</text></td></tr><tr><td/><td/><td/></tr><tr><td/><td align="left"><text><SENT sid="482" pm="."><plain>SAA F3: GGGACGATCGCCGGCGCCGG </plain></SENT>
+</text></td><td align="left"><text><SENT sid="483" pm="."><plain>(20 MERS) </plain></SENT>
+</text></td></tr><tr><td/><td align="left"><text><SENT sid="484" pm="."><plain>SAA QPCR3: TCACTACCCACCGTATC </plain></SENT>
+</text></td><td align="left"><text><SENT sid="485" pm="."><plain>(17 MERS) </plain></SENT>
+</text></td></tr><tr><td colspan="3"><text><SENT sid="486" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="487" pm="."><plain>SAB </plain></SENT>
+</text></td><td align="left"><text><SENT sid="488" pm="."><plain>SAB F: AATCCCCGGGATGTATGCTCCGAATCCCGC </plain></SENT>
+</text></td><td align="left"><text><SENT sid="489" pm="."><plain>(30 MERS) </plain></SENT>
+</text></td></tr><tr><td/><td align="left"><text><SENT sid="490" pm="."><plain>SABQPCR:CATAGTGATGTCGAAAGCAAAAGTAGGGCC </plain></SENT>
+</text></td><td align="left"><text><SENT sid="491" pm="."><plain>(30 MERS) </plain></SENT>
+</text></td></tr><tr><td/><td/><td/></tr><tr><td/><td align="left"><text><SENT sid="492" pm="."><plain>SAB F2: GTATGCTCCGAATCCCG </plain></SENT>
+</text></td><td align="left"><text><SENT sid="493" pm="."><plain>(17 MERS) </plain></SENT>
+</text></td></tr><tr><td/><td align="left"><text><SENT sid="494" pm="."><plain>SAB QPCR2: CAAAAGTAGGGCCTTCC </plain></SENT>
+</text></td><td align="left"><text><SENT sid="495" pm="."><plain>(17 MERS) </plain></SENT>
+</text></td></tr><tr><td/><td/><td/></tr><tr><td/><td align="left"><text><SENT sid="496" pm="."><plain>SAB F3: CCAGCTAAGGGAGGAATC </plain></SENT>
+</text></td><td align="left"><text><SENT sid="497" pm="."><plain>(18 MERS) </plain></SENT>
+</text></td></tr><tr><td/><td align="left"><text><SENT sid="498" pm="."><plain>SAB QPCR3: GGCCTTCCACTGTCTTCCTG </plain></SENT>
+</text></td><td align="left"><text><SENT sid="499" pm="."><plain>(20 MERS) </plain></SENT>
+</text></td></tr><tr><td colspan="3"><text><SENT sid="500" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="501" pm="."><plain>SAC </plain></SENT>
+</text></td><td align="left"><text><SENT sid="502" pm="."><plain>SAC F: TCCCCCCGGGATGTTTCAGGTTCACATGAA </plain></SENT>
+</text></td><td align="left"><text><SENT sid="503" pm="."><plain>(30 MERS) </plain></SENT>
+</text></td></tr><tr><td/><td align="left"><text><SENT sid="504" pm="."><plain>SACQPCR:TAGGCTATAGGTGGGGGACAATGTAGACTG </plain></SENT>
+</text></td><td align="left"><text><SENT sid="505" pm="."><plain>(30 MERS) </plain></SENT>
+</text></td></tr><tr><td/><td/><td/></tr><tr><td/><td align="left"><text><SENT sid="506" pm="."><plain>SAC F2: CACAACACGACTCCCTAC </plain></SENT>
+</text></td><td align="left"><text><SENT sid="507" pm="."><plain>(18 MERS) </plain></SENT>
+</text></td></tr><tr><td/><td align="left"><text><SENT sid="508" pm="."><plain>SAC QPCR2: GAAGTTGGGCCCACCTG </plain></SENT>
+</text></td><td align="left"><text><SENT sid="509" pm="."><plain>(17 MERS) </plain></SENT>
+</text></td></tr><tr><td/><td/><td/></tr><tr><td/><td align="left"><text><SENT sid="510" pm="."><plain>SAC F3: CTCCACGAGTCTTCATCCCC </plain></SENT>
+</text></td><td align="left"><text><SENT sid="511" pm="."><plain>(20 MERS) </plain></SENT>
+</text></td></tr><tr><td/><td align="left"><text><SENT sid="512" pm="."><plain>SAC QPCR3: CCGAGATCGAGAGCTTTC </plain></SENT>
+</text></td><td align="left"><text><SENT sid="513" pm="."><plain>(18 MERS) </plain></SENT>
+</text></td></tr><tr><td colspan="3"><text><SENT sid="514" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="515" pm="."><plain>SAD </plain></SENT>
+</text></td><td align="left"><text><SENT sid="516" pm="."><plain>SA D F; GGTGCCCGGGATGGCAGATCAGTGGAGTTG </plain></SENT>
+</text></td><td align="left"><text><SENT sid="517" pm="."><plain>(30 MERS) </plain></SENT>
+</text></td></tr><tr><td/><td align="left"><text><SENT sid="518" pm="."><plain>SADQPCR: GATTAGGTTCCCGTAGATAGATGCATAACC </plain></SENT>
+</text></td><td align="left"><text><SENT sid="519" pm="."><plain>(30 MERS) </plain></SENT>
+</text></td></tr><tr><td/><td/><td/></tr><tr><td/><td align="left"><text><SENT sid="520" pm="."><plain>SAD F2: AAGTTCTAATTCGGAGGG </plain></SENT>
+</text></td><td align="left"><text><SENT sid="521" pm="."><plain>(18 MERS) </plain></SENT>
+</text></td></tr><tr><td/><td align="left"><text><SENT sid="522" pm="."><plain>SAD QPCR2: TAGATAGATGCATAA </plain></SENT>
+</text></td><td align="left"><text><SENT sid="523" pm="."><plain>(17 MERS) </plain></SENT>
+</text></td></tr><tr><td/><td/><td/></tr><tr><td/><td align="left"><text><SENT sid="524" pm="."><plain>SAD F3: GTTAGCTTACTTAAACAG </plain></SENT>
+</text></td><td align="left"><text><SENT sid="525" pm="."><plain>(20 MERS) </plain></SENT>
+</text></td></tr><tr><td/><td align="left"><text><SENT sid="526" pm="."><plain>SAD QPCR3: TAGATGCATAACC </plain></SENT>
+</text></td><td align="left"><text><SENT sid="527" pm="."><plain>(17 MERS) </plain></SENT>
+</text></td></tr></tbody></table></table-wrap></SecTag><SecTag type="TABLE"><table-wrap id="T9" position="float"><label>Table 9</label><caption><p><text><SENT sid="528" pm="."><plain>After four days differentially expressed genes (DEGs) primer sequences for quantitative real time PCR </plain></SENT>
+</text></p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left"><text><SENT sid="529" pm="."><plain>Name of genes </plain></SENT>
+</text></th><th align="left"><text><SENT sid="530" pm="."><plain>Sequences of primers </plain></SENT>
+</text></th><th align="left"><text><SENT sid="531" pm="."><plain>MERS </plain></SENT>
+</text></th></tr></thead><tbody><tr><td align="left" colspan="3"><text><SENT sid="532" pm="."><plain>Primer sequences four days post inoculation of βC1 of ChLCB for Q-RTPCR analysis </plain></SENT>
+</text></td></tr><tr><td colspan="3"><text><SENT sid="533" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="534" pm="."><plain>SA1 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="535" pm="."><plain>SA1 F: GTCACCCGGGATGTGACGCCGACGGTCAAT </plain></SENT>
+</text></td><td align="left"><text><SENT sid="536" pm="."><plain>(30 MERS) </plain></SENT>
+</text></td></tr><tr><td/><td align="left"><text><SENT sid="537" pm="."><plain>SA1 QPCR: GGGCCGCACCATGGTCCTGCTGACTTACCG </plain></SENT>
+</text></td><td align="left"><text><SENT sid="538" pm="."><plain>(30 MERS) </plain></SENT>
+</text></td></tr><tr><td/><td/><td/></tr><tr><td/><td align="left"><text><SENT sid="539" pm="."><plain>SA1 F2: GACGGTCAATCCATGTAT </plain></SENT>
+</text></td><td align="left"><text><SENT sid="540" pm="."><plain>(18 MERS) </plain></SENT>
+</text></td></tr><tr><td/><td align="left"><text><SENT sid="541" pm="."><plain>SA1 QPCR2: GGTGTCAGGAGACCCCTTCCA </plain></SENT>
+</text></td><td align="left"><text><SENT sid="542" pm="."><plain>(17 MERS) </plain></SENT>
+</text></td></tr><tr><td/><td/><td/></tr><tr><td/><td align="left"><text><SENT sid="543" pm="."><plain>SA1 F3: GGTAGAGCCCCAGTCTTCCA </plain></SENT>
+</text></td><td align="left"><text><SENT sid="544" pm="."><plain>(20 MERS) </plain></SENT>
+</text></td></tr><tr><td/><td align="left"><text><SENT sid="545" pm="."><plain>SA1 QPCR3: GCACCCGCCCAACTCCACGG </plain></SENT>
+</text></td><td align="left"><text><SENT sid="546" pm="."><plain>(17 MERS) </plain></SENT>
+</text></td></tr><tr><td colspan="3"><text><SENT sid="547" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="548" pm="."><plain>SA2 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="549" pm="."><plain>SA2 F: AATACCCGGGATGATAAACATTTGGGGG </plain></SENT>
+</text></td><td align="left"><text><SENT sid="550" pm="."><plain>(30 MERS) </plain></SENT>
+</text></td></tr><tr><td/><td align="left"><text><SENT sid="551" pm="."><plain>SA2 QPCR: CCAATGTCTAGTCTTGATGCAAAATCAA </plain></SENT>
+</text></td><td align="left"><text><SENT sid="552" pm="."><plain>(30 MERS) </plain></SENT>
+</text></td></tr><tr><td/><td/><td/></tr><tr><td/><td align="left"><text><SENT sid="553" pm="."><plain>SA2 F2: CTAGTAAAGTTTTATGGATTCTTGGA </plain></SENT>
+</text></td><td align="left"><text><SENT sid="554" pm="."><plain>(17 MERS) </plain></SENT>
+</text></td></tr><tr><td/><td align="left"><text><SENT sid="555" pm="."><plain>SA2 QPCR2: ATGGATAATAGGGTGATCAGT </plain></SENT>
+</text></td><td align="left"><text><SENT sid="556" pm="."><plain>(17 MERS) </plain></SENT>
+</text></td></tr><tr><td/><td/><td/></tr><tr><td/><td align="left"><text><SENT sid="557" pm="."><plain>SA2 F3: CACTTGGACTGTGGTCCTG </plain></SENT>
+</text></td><td align="left"><text><SENT sid="558" pm="."><plain>(18 MERS) </plain></SENT>
+</text></td></tr><tr><td/><td align="left"><text><SENT sid="559" pm="."><plain>SA2 QPCR3: GTCAGCCACCTTAGCTCG </plain></SENT>
+</text></td><td align="left"><text><SENT sid="560" pm="."><plain>(20 MERS) </plain></SENT>
+</text></td></tr><tr><td colspan="3"><text><SENT sid="561" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="562" pm="."><plain>SA3 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="563" pm="."><plain>SA3 F: CGCGCCCGGGATGCATCTAGATTGTCCACA </plain></SENT>
+</text></td><td align="left"><text><SENT sid="564" pm="."><plain>(30 MERS) </plain></SENT>
+</text></td></tr><tr><td/><td align="left"><text><SENT sid="565" pm="."><plain>SA3 QPCR: TCAATCAGACGCGAGGTTAAGGTTTCAGAC </plain></SENT>
+</text></td><td align="left"><text><SENT sid="566" pm="."><plain>(30 MERS) </plain></SENT>
+</text></td></tr><tr><td/><td/><td/></tr><tr><td/><td align="left"><text><SENT sid="567" pm="."><plain>SA3 F2: GAAGGCTATGTAAACGAG </plain></SENT>
+</text></td><td align="left"><text><SENT sid="568" pm="."><plain>(18 MERS) </plain></SENT>
+</text></td></tr><tr><td/><td align="left"><text><SENT sid="569" pm="."><plain>SA3 QPCR2: GCTCTTCAAGGGTCGGGTTCAG </plain></SENT>
+</text></td><td align="left"><text><SENT sid="570" pm="."><plain>(17 MERS) </plain></SENT>
+</text></td></tr><tr><td/><td/><td/></tr><tr><td/><td align="left"><text><SENT sid="571" pm="."><plain>SA3 F3: GACTTGGTCGTCGCTGGTA </plain></SENT>
+</text></td><td align="left"><text><SENT sid="572" pm="."><plain>(20 MERS) </plain></SENT>
+</text></td></tr><tr><td/><td align="left"><text><SENT sid="573" pm="."><plain>SA3 QPCR3: GCTTGATCGCGTACAGG </plain></SENT>
+</text></td><td align="left"><text><SENT sid="574" pm="."><plain>(18 MERS) </plain></SENT>
+</text></td></tr><tr><td colspan="3"><text><SENT sid="575" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="576" pm="."><plain>SA4 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="577" pm="."><plain>SA4 F: GCGACCCGGGAtGCATCTAGATTTGGGGGA </plain></SENT>
+</text></td><td align="left"><text><SENT sid="578" pm="."><plain>(30 MERS) </plain></SENT>
+</text></td></tr><tr><td/><td align="left"><text><SENT sid="579" pm="."><plain>SA4 QPCR: AGAAACAGAAGATCTCTGGCTCAGTTTAGG </plain></SENT>
+</text></td><td align="left"><text><SENT sid="580" pm="."><plain>(30 MERS) </plain></SENT>
+</text></td></tr><tr><td/><td/><td/></tr><tr><td/><td align="left"><text><SENT sid="581" pm="."><plain>SA4 F2: TTCATGATTGTTGGCGCAC </plain></SENT>
+</text></td><td align="left"><text><SENT sid="582" pm="."><plain>(18 MERS) </plain></SENT>
+</text></td></tr><tr><td/><td align="left"><text><SENT sid="583" pm="."><plain>SA4 QPCR2: CTGATCTTCCTGTGGA </plain></SENT>
+</text></td><td align="left"><text><SENT sid="584" pm="."><plain>(17 MERS) </plain></SENT>
+</text></td></tr><tr><td/><td/><td/></tr><tr><td/><td align="left"><text><SENT sid="585" pm="."><plain>SA4 F3: CGGCATGACCCTGTGTAA </plain></SENT>
+</text></td><td align="left"><text><SENT sid="586" pm="."><plain>(20 MERS) </plain></SENT>
+</text></td></tr><tr><td/><td align="left"><text><SENT sid="587" pm="."><plain>SA4 QPCR: GGGGGACTCGCGCCAGG </plain></SENT>
+</text></td><td align="left"><text><SENT sid="588" pm="."><plain>(17 MERS) </plain></SENT>
+</text></td></tr></tbody></table></table-wrap></SecTag></sec></sec></SecTag><SecTag type="COMP_INT"><sec><title><text><SENT sid="589" pm="."><plain>Competing interests </plain></SENT>
+</text></title><p><text><SENT sid="590" pm="."><plain>The authors declare that they have no competing interests. </plain></SENT>
+</text></p></sec></SecTag><SecTag type="AUTH_CONT"><sec><title><text><SENT sid="591" pm="."><plain>Authors' contributions </plain></SENT>
+</text></title><p><text><SENT sid="592" pm="."><plain>SA conducted all the experimental work and drafted the manuscript. </plain></SENT>
+<SENT sid="593" pm="."><plain>AB and IA helped in the RT-PCR and DD-PCR analysis. </plain></SENT>
+<SENT sid="594" pm="."><plain>SM and RWB together designed the experiments. </plain></SENT>
+<SENT sid="595" pm="."><plain>IA and SM had proof-read and finalized the manuscript. </plain></SENT>
+<SENT sid="596" pm="."><plain>All authors read and approved the final manuscript. </plain></SENT>
+</text></p></sec></SecTag></body><back><SecTag type="ACK_FUND"><sec><title>Acknowledgements</title><p><text4fund><text><SENT sid="597" pm="."><plain>The work was supported by a Ministry of Science and Technology (MoST) project. </plain></SENT>
+<SENT sid="598" pm="."><plain>R.W.B. is supported by the Higher Education Commission (Pakistan) under the "Foreign Faculty Hiring Program". </plain></SENT>
+</text></text4fund></p></sec></SecTag><SecTag type="REF"><ref-list><ref id="B1"><text><SENT sid="599" pm="."><plain>Hanley-BowdoinLSettlageSBOrozcoBMNagarSRobertsonDGeminviruses: models for plant DNA replication, transcription, and cell cycle regulationCrit Rev Plant Sci1999187110610.1016/S0735-2689(99)00383-4 </plain></SENT>
+</text></ref><ref id="B2"><text><SENT sid="600" pm="."><plain>LaufsJTrautWHeyraudFMatzeitVRogersSGSchellJGronenbornBIn vitro cleavage and joining at the viral origin of replication by the replication initiator protein of tomato yellow leaf curl virusProc Natl Acad Sci USA1995923879388310.1073/pnas.92.9.38797732000 </plain></SENT>
+</text></ref><ref id="B3"><text><SENT sid="601" pm="."><plain>MansoorSBriddonRWZafarYStanleyJGeminivirus disease complexes: an emerging threatTrends Plant Sci2003812813410.1016/S1360-1385(03)00007-412663223 </plain></SENT>
+</text></ref><ref id="B4"><text><SENT sid="602" pm="."><plain>SaundersKBedfordIDYaharaTStanleyJThe earliest recorded plant virus diseaseNature200342283110.1038/422831a12712190 </plain></SENT>
+</text></ref><ref id="B5"><text><SENT sid="603" pm="."><plain>SaeedMBehjatniaSAMansoorSZafarYHasnainSRezaianMAA single complementary-sense transcript of a geminiviral DNA β satellite is determinant of pathogenicityMol Plant Microbe Interact20051871410.1094/MPMI-18-000715672813 </plain></SENT>
+</text></ref><ref id="B6"><text><SENT sid="604" pm="."><plain>SaundersKBedfordIDBriddonRWMarkhamPGWongSMStanleyJA unique virus complex causes Ageratum yellow vein diseaseProc Natl Acad Sci USA2000976890689510.1073/pnas.97.12.689010841581 </plain></SENT>
+</text></ref><ref id="B7"><text><SENT sid="605" pm="."><plain>ZhouXXieYPengYZhangZMalvastrum yellow vein virus, a new Begomovirus species associated with satellite DNA moleculeChi Sci Bull2003482205220910.1360/03wc0272 </plain></SENT>
+</text></ref><ref id="B8"><text><SENT sid="606" pm="."><plain>HussainMMansoorSAminIIramSZafarYMalikKABriddonRWFirst report of cotton leaf curl disease affecting chili peppersPlant Pathol200356906 </plain></SENT>
+</text></ref><ref id="B9"><text><SENT sid="607" pm="."><plain>BriddonRWBullSEAminIIdrisAMMansoorSBedfordIDDhawanPRishiNSiwatchSSAbdel-SalamAMBrownJKZafarYMarkhamPGDiversity of DNA β, a satellite molecule associated with some monopartite begomovirusesVirology200331210612110.1016/S0042-6822(03)00200-912890625 </plain></SENT>
+</text></ref><ref id="B10"><text><SENT sid="608" pm="."><plain>QaziJAminIMansoorSIqbalMJBriddonRWContribution of the satellite encoded gene βC1 to cotton leaf curl disease symptomsVirus Res200712813513910.1016/j.virusres.2007.04.00217482706 </plain></SENT>
+</text></ref><ref id="B11"><text><SENT sid="609" pm="."><plain>SoosaarJLBurch-SmithTMDinesh-KumarSPMechanisms of plant resistance to virusesNat Rev Microbiol2005378979810.1038/nrmicro123916132037 </plain></SENT>
+</text></ref><ref id="B12"><text><SENT sid="610" pm="."><plain>HuangZYeakleyJMGarciaEWHoldridgeJDFanJBWhithamSASalicylic acid-dependent expression of host genes in compatible Arabidopsis-virus interactionsPlant Physiol20051371147114910.1104/pp.104.05602815728340 </plain></SENT>
+</text></ref><ref id="B13"><text><SENT sid="611" pm="."><plain>SuiCFanZWongSMLiHCloning of cDNAs encoding the three subunits of oxygen evolving complex in Nicotiana benthamiana and gene expression changes in tobacco leaves infected with Tobacco mosaic virusPhysiol Mol Plant Pathol200668616810.1016/j.pmpp.2006.06.003 </plain></SENT>
+</text></ref><ref id="B14"><text><SENT sid="612" pm="."><plain>HaveldaZMauleAJComplex spatial responses to cucumber mosaic virus infection in susceptible Cucurbita pepo cotyledonsPlant Cell2000121975198610.1105/tpc.12.10.197511041891 </plain></SENT>
+</text></ref><ref id="B15"><text><SENT sid="613" pm="."><plain>KangBCYeamIJahnMMGenetics of plant virus resistanceAnnu Rev Phyto20054358162110.1146/annurev.phyto.43.011205.141140 </plain></SENT>
+</text></ref><ref id="B16"><text><SENT sid="614" pm="."><plain>LiangPPardeeABDifferential display of eukaryotic messenger RNA by means of the polymerase chain reactionScience199225796797110.1126/science.13543931354393 </plain></SENT>
+</text></ref><ref id="B17"><text><SENT sid="615" pm="."><plain>Yun-JeeKIMChae-llKWAKYoung-YunGUIn-TaekHChunJong-YoonAnnealing control primer system for identification of differentially expressed genes on agarose gelsBioTechniques20043642443415038158 </plain></SENT>
+</text></ref><ref id="B18"><text><SENT sid="616" pm="."><plain>CrauwelsMWinderickxJde WindeJHTheveleinJMIdentification of genes with nutrient-controlled expression by PCR-mapping in the yeast Saccharomyces cerevisiae.Yeast19971397398410.1002/(SICI)1097-0061(199708)13:10&lt;973::AID-YEA146&gt;3.0.CO;2-S9271111 </plain></SENT>
+</text></ref><ref id="B19"><text><SENT sid="617" pm="."><plain>GrossCWatsonKApplication of mRNA differential display to investigate gene expression in thermotolerant cells of Saccharomyces cerevisiae.Yeast19981443144210.1002/(SICI)1097-0061(19980330)14:5&lt;431::AID-YEA242&gt;3.0.CO;2-V9559551 </plain></SENT>
+</text></ref><ref id="B20"><text><SENT sid="618" pm="."><plain>TaweWNEschbachMLWalterRDHenkle-DuhrsenKIdentification of stress-responsive genes in Caenorhabditis elegans using RT-PCR differential displayNucleic Acids Res1998261621162710.1093/nar/26.7.16219512531 </plain></SENT>
+</text></ref><ref id="B21"><text><SENT sid="619" pm="."><plain>CuiXLiGWangDHuDZhouXA begomovirus DNA β encoded protein binds DNA, functions as a suppressor of RNA silencing, and targets the cell nucleusJ Virol200579107641077510.1128/JVI.79.16.10764-10775.200516051868 </plain></SENT>
+</text></ref><ref id="B22"><text><SENT sid="620" pm="."><plain>GopalPPravin KumarPSinilalBJoseJKasin YadunandamAUshaRDifferential roles of C4 and βC1 in mediating suppression of post-transcriptional gene silencing: evidence for transactivation by the C2 of Bhendi yellow vein mosaic virus, a monopartite begomovirusVirus Res200712391810.1016/j.virusres.2006.07.01416949698 </plain></SENT>
+</text></ref><ref id="B23"><text><SENT sid="621" pm="."><plain>SaundersKNormanAGucciardoSStanleyJThe DNA β satellite component associated with ageratum yellow vein disease encodes an essential pathogenicity protein (βC1)Virology2004324374710.1016/j.virol.2004.03.01815183051 </plain></SENT>
+</text></ref><ref id="B24"><text><SENT sid="622" pm="."><plain>BriddonRWMansoorSBedfordIDPinnerMSSaundersKStanleyJZafarYMalikKAMarkhamPGIdentification of DNA components required for induction of cotton leaf curl diseaseVirology200128523424310.1006/viro.2001.094911437658 </plain></SENT>
+</text></ref><ref id="B25"><text><SENT sid="623" pm="."><plain>JoseJUshaRBhendi yellow vein mosaic disease in India is caused by association of a DNA β satellite with a begomovirusVirology200330531031710.1006/viro.2002.176812573576 </plain></SENT>
+</text></ref><ref id="B26"><text><SENT sid="624" pm="."><plain>SharmaPMatsudaNBajetNBIkegamiMMolecular analysis of new isolates of Tomato leaf curl Philippines virus and an associated betasatellite occurring in the PhilippinesArch Virol2010DOI: 10.1007/s00705-010-0837-321053032 </plain></SENT>
+</text></ref><ref id="B27"><text><SENT sid="625" pm="."><plain>ZhangYFanWKinkemaMLiXDongXInteraction of NPR1 with basic leucine zipper protein transcription factors that bind sequences required for salicylic acid induction of the PR-1 geneProc Natl Acad Sci USA1999966523652810.1073/pnas.96.11.652310339621 </plain></SENT>
+</text></ref><ref id="B28"><text><SENT sid="626" pm="."><plain>EulgemTRushtonPJRobatzekSSomssichIEThe WRKY superfamily of plant transcription factorsTrends Plant Sci2000519920610.1016/S1360-1385(00)01600-910785665 </plain></SENT>
+</text></ref><ref id="B29"><text><SENT sid="627" pm="."><plain>ChenCChenZIsolation and characterization of two pathogen- and salicylic acid-induced genes encoding WRKY DNA-binding proteins from tobaccoPlant Mol Biol20004238739610.1023/A:100639931161510794538 </plain></SENT>
+</text></ref><ref id="B30"><text><SENT sid="628" pm="."><plain>VandenabeeleSVan der KelenKDatJGadjevIBoonefaesTMorsaSRottiersPSlootenLVan MontaguMZabeauMA comprehensive analysis of hydrogen peroxide-induced gene expression in tobaccoProc Natl Acad Sci USA2003100161131611810.1073/pnas.213661010014671332 </plain></SENT>
+</text></ref><ref id="B31"><text><SENT sid="629" pm="."><plain>RieskeJSZauggWSHansenREStudies on the electron transfer system. </plain></SENT>
+<SENT sid="630" pm="."><plain>LIX. </plain></SENT>
+<SENT sid="631" pm="."><plain>Distribution of iron and of the component giving an electron paramagnetic resonance signal at g = 1.90 in subfractions of complex 111J Biol Chem19642393023303014217891 </plain></SENT>
+</text></ref><ref id="B32"><text><SENT sid="632" pm="."><plain>BeckmannJDLjungdahlPOTrumpowerBLMutational analysis of the mitochondrial Rieske iron-sulfur protein of Sacchammyces cerevisiae. </plain></SENT>
+<SENT sid="633" pm="."><plain>1. </plain></SENT>
+<SENT sid="634" pm="."><plain>Construction of a RlPl deletion strain and isolation of temperature-sensitive mutantsJ Biol Chem1989264371337222645276 </plain></SENT>
+</text></ref><ref id="B33"><text><SENT sid="635" pm="."><plain>TrumpowerBLEdwardsCAPurification of a reconstitutively active iron-sulfur protein (oxidation-factor) from succinate-cytochrome c reductase complex of bovine heart mitochondriaJ Biol Chem197925486978706224062 </plain></SENT>
+</text></ref><ref id="B34"><text><SENT sid="636" pm="."><plain>HuangJStruckFMatzingerDFLevingsCSFunctional analysis in yeast of cDNA coding for the mitochondrial Rieske iron-sulfur protein of higher plantsProc Natl Acad Sci USA199188107161072010.1073/pnas.88.23.107161961737 </plain></SENT>
+</text></ref><ref id="B35"><text><SENT sid="637" pm="."><plain>BurrowsPASazanovLASvabZMaligaPNixonPJIdentification of a functional respiratory complex in chloroplasts through analysis of tobacco mutants containing disrupted plastid ndh genesEMBO J19981786887610.1093/emboj/17.4.8689463365 </plain></SENT>
+</text></ref><ref id="B36"><text><SENT sid="638" pm="."><plain>SazanovLABurrowsPANixonPJThe plastid ndh gene code for an NADH-specific dehydrogenase: Isolation of a complex I analogue from peathylakoid membranesProc Natl Acad Sci USA1998951319132410.1073/pnas.95.3.13199448329 </plain></SENT>
+</text></ref><ref id="B37"><text><SENT sid="639" pm="."><plain>HorstMOppligerWRospertSSchonfeldHJSchatzGAzemASequential action of two Hsp70 complexes during protein import into mitochondriaEMBO J1997161842184910.1093/emboj/16.8.18429155010 </plain></SENT>
+</text></ref><ref id="B38"><text><SENT sid="640" pm="."><plain>NeupertWProtein import into mitochondriaAnnu Rev Biochem19976686391710.1146/annurev.biochem.66.1.8639242927 </plain></SENT>
+</text></ref><ref id="B39"><text><SENT sid="641" pm="."><plain>RyanMTNaylorDJHojPBClarkMSHoogenraadNJThe role of molecular chaperones in mitochondrial protein import and foldingInt Rev Cytol199717412719310.1016/S0074-7696(08)62117-89161007 </plain></SENT>
+</text></ref><ref id="B40"><text><SENT sid="642" pm="."><plain>ZielinskiRECalmodulin and calmodulin binding proteins in plantsAnnu Rev Plant Physiol Plant Mol Biol19984669772510.1146/annurev.arplant.49.1.697 </plain></SENT>
+</text></ref><ref id="B41"><text><SENT sid="643" pm="."><plain>WhitePJBroadleyMRCalcium in plantsAnn Bot20039248751110.1093/aob/mcg16412933363 </plain></SENT>
+</text></ref><ref id="B42"><text><SENT sid="644" pm="."><plain>TrewavasASignal perception and transduction. </plain></SENT>
+<SENT sid="645" pm="."><plain>In BB Buchanan, W Gruissem, RL Jones, eds, Biochemistry and molecular biology of plantsAmerican Society of Plant Biologists Rockville20001962973 </plain></SENT>
+</text></ref><ref id="B43"><text><SENT sid="646" pm="."><plain>YangTChaudhuriSYangLChenYPoovaiahBWCalcium/calmodulin up-regulates a cytoplasmic receptor-like kinase in plantsJ Biol Chem2004279425524255910.1074/jbc.M40283020015292241 </plain></SENT>
+</text></ref><ref id="B44"><text><SENT sid="647" pm="."><plain>ChanYPLeeJHYooJHMooBCChoiMSKangYHLeeSMKimHSKangKYChungWSLimCOChoMJWRKY group IId transcription factors interact with calmodulinFEBS Lett20055791545155010.1016/j.febslet.2005.01.05715733871 </plain></SENT>
+</text></ref><ref id="B45"><text><SENT sid="648" pm="."><plain>SneddenWFrommHCalmodulin as a versatile calcium signal transducer in plantsNew Physiologist2001151356610.1046/j.1469-8137.2001.00154.x </plain></SENT>
+</text></ref><ref id="B46"><text><SENT sid="649" pm="."><plain>HoeflichKPIkuruMCalmodulin in action: diversity in target recognition and activation mechanismsCell200210873974210.1016/S0092-8674(02)00682-711955428 </plain></SENT>
+</text></ref><ref id="B47"><text><SENT sid="650" pm="."><plain>BernsteinJALinPHCohenSNLin-ChaoSGlobal analysis of Escherichia coli RNA degradosome function using DNA microarraysProc Natl Acad Sci USA20041012758276310.1073/pnas.030874710114981237 </plain></SENT>
+</text></ref><ref id="B48"><text><SENT sid="651" pm="."><plain>YamanakaKInouyeMSelective mRNA degradation by polynucleotide phosphorylase in cold shock adaptation in Escherichia coliJ Bacteriol20011832808281610.1128/JB.183.9.2808-2816.200111292800 </plain></SENT>
+</text></ref><ref id="B49"><text><SENT sid="652" pm="."><plain>FavaroRDehoGPolynucleotide phosphorylase-deficient mutants of Pseudomonas putidaJ Bacteriol20031855279528610.1128/JB.185.17.5279-5286.200312923102 </plain></SENT>
+</text></ref><ref id="B50"><text><SENT sid="653" pm="."><plain>GoverdeRLHuisin't VeldJHKustersJGMooiFRThe psychrotrophic bacterium Yersinia enterocolitica requires expression of pnp, the gene for polynucleotide phosphorylase, for growth at low temperature (5°C)Mol Microbiol19982855556910.1046/j.1365-2958.1998.00816.x9632258 </plain></SENT>
+</text></ref><ref id="B51"><text><SENT sid="654" pm="."><plain>SymmonsMFJonesGHLuisiBFA duplicated fold is the structural basis for polynucleotide phosphorylase catalytic activity, processivity, and regulationStructure Fold Des200081215122610.1016/S0969-2126(00)00521-911080643 </plain></SENT>
+</text></ref><ref id="B52"><text><SENT sid="655" pm="."><plain>LeszczynieckaMDeSalleRKangDCFisherPBThe origin of polynucleotide phosphorylase domainsMol Phylogenet Evol20043112313010.1016/j.ympev.2003.07.01215019613 </plain></SENT>
+</text></ref><ref id="B53"><text><SENT sid="656" pm="."><plain>KudlaJHayesRGruissemWPolyadenylation accelerates degradation of chloroplast mRNAEMBO J199615713771469003789 </plain></SENT>
+</text></ref><ref id="B54"><text><SENT sid="657" pm="."><plain>Yehudai-ResheffSHirshMSchusterGPolynucleotide phosphorylase functions as both an exonuclease and a poly(A) polymerase in spinach chloroplastsMol Cell Biol2001215408541610.1128/MCB.21.16.5408-5416.200111463823 </plain></SENT>
+</text></ref><ref id="B55"><text><SENT sid="658" pm="."><plain>LeszczynieckaMKangDCSarkarDSuZZHolmesMValerieKFisherPBIdentification and cloning of human polynucleotide phosphorylase, hPNPase old-35, in the context of terminal differentiation and cellular senescenceProc Natl Acad Sci USA200299166361664110.1073/pnas.25264369912473748 </plain></SENT>
+</text></ref><ref id="B56"><text><SENT sid="659" pm="."><plain>SarkarDLeszczynieckaMKangDCLebedevaIVValerieKDharKPanditaSFisherPBDown-regulation of Myc as a potential target for growth arrest induced by human polynucleotide phosphorylase (hPNPaseold-35) in human melanoma cellsJ Biol Chem2003278245422455110.1074/jbc.M30242120012721301 </plain></SENT>
+</text></ref><ref id="B57"><text><SENT sid="660" pm="."><plain>PfaffiMWHageleitMValidities of mRNA quantification using recombinant RNA and recombinant DNA external calibration curves in real time RT-PCRBiotechnol Lett20012327528210.1023/A:1005658330108 </plain></SENT>
+</text></ref><ref id="B58"><text><SENT sid="661" pm="."><plain>MichaelWPA new mathematical model for relative quantification in real time RT-PCRNucleic Acids Res20012920012007 </plain></SENT>
+</text></ref></ref-list></SecTag></back></article>

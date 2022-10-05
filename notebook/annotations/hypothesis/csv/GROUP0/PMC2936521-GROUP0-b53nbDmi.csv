@@ -1,0 +1,423 @@
+id,group_id,source,exact,prefix,suffix,anno_type,position_type,start,end,tags,all,origin_tags,comment,user,title,created
+yBp1YMmDEem2jucqtbCqWw,b53nbDmi,https://europepmc.org/articles/PMC2936521/,calcitonin gene-related peptide receptor," SNP rs709595, P=7.0×10−7). The ", (CRCP) is approximately 200 kb ,TextQuoteSelector,TextPositionSelector,17850,17890,WS_GP,no,WS_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:05:44.266571+00:00
+y962jMmFEemfIaf8IYoDdw,b53nbDmi,https://europepmc.org/articles/PMC2936521/,"
+NAV3","(0.25)1.8×10−7
+heart rate12q21.2","/SYT1
+rs1449460 G/A2/60.08−1.36 ",TextQuoteSelector,TextPositionSelector,21251,21256,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:20:09.494965+00:00
+xwvSYMmGEemc71vTTGrotg,b53nbDmi,https://europepmc.org/articles/PMC2936521/,MDS,an the GWA using the first four , components as covariates. If th,TextQuoteSelector,TextPositionSelector,53025,53028,WT_GP,no,[WT_GP],,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:27:10.983180+00:00
+xJWdvsmFEemEgieUC-ibog,b53nbDmi,https://europepmc.org/articles/PMC2936521/,RNF7,"6)7.5×10−7
+heart rate3q24
+RASA2/","
+rs6440031 G/A1/00.901.33 (0.25)",TextQuoteSelector,TextPositionSelector,21189,21193,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:19:57.374926+00:00
+wa9h2MmGEemc7U8FEUXG3w,b53nbDmi,https://europepmc.org/articles/PMC2936521/,obesity,"lipoproteins, glucose, insulin, "," indices, blood pressure, life-s",TextQuoteSelector,TextPositionSelector,46260,46267,CRT_DS,no,CRT_DS,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:27:02.022804+00:00
+vchnZMmFEem4XevSHPzA3Q,b53nbDmi,https://europepmc.org/articles/PMC2936521/,RASA2,"1 (0.06)7.5×10−7
+heart rate3q24
+","/RNF7
+rs6440031 G/A1/00.901.33 (",TextQuoteSelector,TextPositionSelector,21183,21188,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:19:46.117093+00:00
+uo7GeMmGEem2nH_bgdkaGA,b53nbDmi,https://europepmc.org/articles/PMC2936521/,NIA,l Aging Study funded by NIH and ," since 2000, there are 1,202 sub",TextQuoteSelector,TextPositionSelector,44967,44970,WT_GP,no,[WT_GP],,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:26:50.088377+00:00
+tDJKtsmGEem8i18jimhljQ,b53nbDmi,https://europepmc.org/articles/PMC2936521/,Composite, definitively characterize this., scoringWe considered whether a ,TextQuoteSelector,TextPositionSelector,37406,37415,WT_OG,no,[WT_OG],,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:26:39.525463+00:00
+rImJtMmGEemf0atKDOR3mQ,b53nbDmi,https://europepmc.org/articles/PMC2936521/,"
+ODZ3","1.55 (0.31)8.2×10−7
+weight4q35.1","
+rs6552560 T/C3/70.231.35 (0.25)",TextQuoteSelector,TextPositionSelector,22557,22562,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:26:26.515130+00:00
+rFDi4MmFEemFWWMmm0hYmg,b53nbDmi,https://europepmc.org/articles/PMC2936521/,CSMD3,"36)7.3×10−7
+glucose8q23.2
+KCNV1/","
+rs3019325* G/C0/60.70−0.31 (0.0",TextQuoteSelector,TextPositionSelector,21120,21125,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:19:16.704146+00:00
+prC8jsmFEemKCZOhuS8wog,b53nbDmi,https://europepmc.org/articles/PMC2936521/,KCNV1,"77 (0.36)7.3×10−7
+glucose8q23.2
+","/CSMD3
+rs3019325* G/C0/60.70−0.3",TextQuoteSelector,TextPositionSelector,21114,21119,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:19:07.359355+00:00
+ppTsTMmGEemddQ_eOT5P5g,b53nbDmi,https://europepmc.org/articles/PMC2936521/,CNNM1,"10−7
+waist circumference10q24.2
+","
+rs17568778 C/A1/00.92−1.55 (0.3",TextQuoteSelector,TextPositionSelector,22497,22502,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:26:16.603397+00:00
+op5SVMmGEemNm6_PSGtX9Q,b53nbDmi,https://europepmc.org/articles/PMC2936521/,SHPK,"10−7
+waist circumference17p13.2
+","
+rs7210277* C/T0/10.91−0.39 (0.0",TextQuoteSelector,TextPositionSelector,22423,22427,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:26:09.911735+00:00
+oksipsmFEemv0b9duxO1Ig,b53nbDmi,https://europepmc.org/articles/PMC2936521/,SNX13,"0.12)7.1×10−7
+glucose7p21.1
+AHR/","
+rs10260737 G/A2/120.89−1.77 (0.",TextQuoteSelector,TextPositionSelector,21051,21056,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:18:59.852325+00:00
+nBtrpsmGEemkWBP3ZKP9aw,b53nbDmi,https://europepmc.org/articles/PMC2936521/,BLID,"aist circumference11q24.1
+SORL1/","
+rs7121446 G/A1/70.78−1.09 (0.21",TextQuoteSelector,TextPositionSelector,22350,22354,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:25:59.130565+00:00
+m0Vt1smFEem-k4OYSV3CIw,b53nbDmi,https://europepmc.org/articles/PMC2936521/,KHDRBS3,"11)5.8×10−7
+glucose8q24.22
+ZFAT/","
+rs12548494* C/G0/10.93−0.6 (0.1",TextQuoteSelector,TextPositionSelector,20983,20990,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:18:48.201791+00:00
+l-EO9smGEemVPJ8RCK9E8w,b53nbDmi,https://europepmc.org/articles/PMC2936521/,SORL1,"10−8
+waist circumference11q24.1
+","/BLID
+rs7121446 G/A1/70.78−1.09 ",TextQuoteSelector,TextPositionSelector,22344,22349,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:25:52.034105+00:00
+kfs7aMmDEema6OtEnWdofA,b53nbDmi,https://europepmc.org/articles/PMC2936521/,insulin receptor ,fusion gene also containing the ,that was shown to be responsible,TextQuoteSelector,TextPositionSelector,17553,17570,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:04:13.682344+00:00
+kdU1asmFEem0Pnvt2xOPLQ,b53nbDmi,https://europepmc.org/articles/PMC2936521/,AHR,".6 (0.12)7.1×10−7
+glucose7p21.1
+","/SNX13
+rs10260737 G/A2/120.89−1.",TextQuoteSelector,TextPositionSelector,21047,21050,MIS_GP,no,MIS_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:18:32.315141+00:00
+kBdFqsmGEemCvEs8-MSY9A,b53nbDmi,https://europepmc.org/articles/PMC2936521/,STX16,"ircumference
+
+20q13.32
+
+APCDD1L/","
+
+rs127430* G/A
+
+2/13
+
+0.86
+−0.3",TextQuoteSelector,TextPositionSelector,22262,22267,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:25:38.784392+00:00
+jRB4CsmFEem8hPtoyW-y3A,b53nbDmi,https://europepmc.org/articles/PMC2936521/,LOC642587,"7)4.3×10−7
+glucose1q32.1
+PLXNA2/","
+rs12069004* C/T0/10.91−0.54 (0.",TextQuoteSelector,TextPositionSelector,20910,20919,MIS_GP,no,MIS_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:18:24.343132+00:00
+iLxQosmGEemfI_8DFTof9A,b53nbDmi,https://europepmc.org/articles/PMC2936521/,APCDD1L,"
+waist circumference
+
+20q13.32
+
+","/STX16
+
+rs127430* G/A
+
+2/13
+
+0.8",TextQuoteSelector,TextPositionSelector,22254,22261,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:25:26.554549+00:00
+hAxI-MmDEemGrJcOs-kHpA,b53nbDmi,https://europepmc.org/articles/PMC2936521/,beta-chimerin,"ocus (rs3793275, P=5.8×10−9), a ", that has recently been describe,TextQuoteSelector,TextPositionSelector,17461,17474,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:03:50.243783+00:00
+h-LPkMmFEemCap-Ul2tN2Q,b53nbDmi,https://europepmc.org/articles/PMC2936521/,PLXNA2,"36 (0.27)4.3×10−7
+glucose1q32.1
+","/LOC642587
+rs12069004* C/T0/10.9",TextQuoteSelector,TextPositionSelector,20903,20909,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:18:15.700419+00:00
+gewZnsmEEemfSQsQBuDj-g,b53nbDmi,https://europepmc.org/articles/PMC2936521/,GJA1,"LDL-cholesterol6q22.31
+C6orf170/","
+rs7738656 G/A
+1/0
+0.84−42.39 (8",TextQuoteSelector,TextPositionSelector,19219,19223,CRT_GP,yes,[CRT_GP][ALL],,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:10:56.123192+00:00
+gK6lAMmFEemSrD-7qjFHcA,b53nbDmi,https://europepmc.org/articles/PMC2936521/,SPHK1,"2.7×10−7
+glucose17q25.1
+PRPSAP1/","
+rs9909931 G/A2/30.191.36 (0.27)",TextQuoteSelector,TextPositionSelector,20843,20848,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:18:03.330681+00:00
+g-dgOsmGEemfTQ8ouyzUtg,b53nbDmi,https://europepmc.org/articles/PMC2936521/,SOX14,"10−7
+triglycerides3q22.3
+IL20RB/","
+rs12330441 T/G2/40.93−9.54 (1.8",TextQuoteSelector,TextPositionSelector,22174,22179,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:25:18.423236+00:00
+fTyz1MmGEemPO3sz_psQtA,b53nbDmi,https://europepmc.org/articles/PMC2936521/,IL20RB,"41)2.9×10−7
+triglycerides3q22.3
+","/SOX14
+rs12330441 T/G2/40.93−9.5",TextQuoteSelector,TextPositionSelector,22167,22173,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:25:07.170880+00:00
+fTvVLsmEEem7qruYVls7wQ,b53nbDmi,https://europepmc.org/articles/PMC2936521/,C6orf170,"1.6×10−8
+LDL-cholesterol6q22.31
+","/GJA1
+rs7738656 G/A
+1/0
+0.84−42.",TextQuoteSelector,TextPositionSelector,19210,19218,CRT_GP,yes,[CRT_GP][ALL],,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:10:48.172057+00:00
+fIzfSMmDEemHHjd0trz8Ug,b53nbDmi,https://europepmc.org/articles/PMC2936521/,CHN2,in levels with variation in the ," locus (rs3793275, P=5.8×10−9), ",TextQuoteSelector,TextPositionSelector,17423,17427,CRT_GP,yes,[CRT_GP][ALL],,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:03:37.610954+00:00
+eUUlSsmGEemowDNuwUPYFg,b53nbDmi,https://europepmc.org/articles/PMC2936521/,NRXN1,"4×10−7
+triglycerides2p16.3
+FSHR/","
+rs6726786* G/T1/30.89−2.09 (0.4",TextQuoteSelector,TextPositionSelector,22099,22104,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:25:00.602887+00:00
+e69SjsmFEemHKjNvvPNGpA,b53nbDmi,https://europepmc.org/articles/PMC2936521/,PRPSAP1,"7 (0.09)2.7×10−7
+glucose17q25.1
+","/SPHK1
+rs9909931 G/A2/30.191.36 ",TextQuoteSelector,TextPositionSelector,20835,20842,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:17:55.158519+00:00
+dxW_mMmEEemZam9n0wMMGg,b53nbDmi,https://europepmc.org/articles/PMC2936521/,APOC1,"LDL-cholesterol
+
+19q13.33
+
+APOE/","
+
+rs7412 T/C
+
+1/1
+
+0.07
+−69.74 (",TextQuoteSelector,TextPositionSelector,19134,19139,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:10:38.000710+00:00
+dOKaBsmFEemSq0vqlfFHbA,b53nbDmi,https://europepmc.org/articles/PMC2936521/,PRKRIR,"6)1.9×10−7
+glucose11q13.5
+WNT11/","
+rs12807555* G/T0/10.90−0.47 (0.",TextQuoteSelector,TextPositionSelector,20770,20776,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:17:43.583355+00:00
+dD4OhMmDEemY5DPvVXIFpw,b53nbDmi,https://europepmc.org/articles/PMC2936521/,hypertriglyceridemia, have been implicated in pseudo-,", caused by high levels of glyce",TextQuoteSelector,TextPositionSelector,17189,17209,MIS_DS,no,MIS_DS,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:03:23.661287+00:00
+c_5FgMmGEemHJW-ElIjfZA,b53nbDmi,https://europepmc.org/articles/PMC2936521/,FSHR,"38)2.4×10−7
+triglycerides2p16.3
+","/NRXN1
+rs6726786* G/T1/30.89−2.0",TextQuoteSelector,TextPositionSelector,22094,22098,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:24:51.627503+00:00
+bxjdksmFEemqLzc0PuLAQg,b53nbDmi,https://europepmc.org/articles/PMC2936521/,WNT11,"8 (0.36)1.9×10−7
+glucose11q13.5
+","/PRKRIR
+rs12807555* G/T0/10.90−0",TextQuoteSelector,TextPositionSelector,20764,20769,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:17:33.992369+00:00
+bSAMvMmGEem7fa_xFjwvuw,b53nbDmi,https://europepmc.org/articles/PMC2936521/,CHCHD9,"×10−8
+triglycerides9q21.2
+PSAT1/","
+rs13290397* C/G1/30.89−1.98 (0.",TextQuoteSelector,TextPositionSelector,22024,22030,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:24:40.147434+00:00
+atvDxsmEEemOiktVPf8z1Q,b53nbDmi,https://europepmc.org/articles/PMC2936521/,KCNE2,"DL-cholesterol
+
+21q22.11
+
+MRPS6/","
+
+rs8131349* A/G
+
+0/1
+
+0.06
+17.6",TextQuoteSelector,TextPositionSelector,19047,19052,CRT_GP,yes,[CRT_GP][ALL],,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:10:17.527224+00:00
+akDgssmFEem0PMfVdoHkHw,b53nbDmi,https://europepmc.org/articles/PMC2936521/,EGFL6,"2)1.5×10−7
+glucoseXp22.2
+ATXN3L/","
+rs5979903 T/C1/00.061.88 (0.36)",TextQuoteSelector,TextPositionSelector,20703,20708,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:17:25.894053+00:00
+_Y3muMmEEemUPmuDG8JcpQ,b53nbDmi,https://europepmc.org/articles/PMC2936521/,ASAM,".68)4.7×10−7
+systolic BP11q24.1
+","/GRAMD1B
+rs11822822 G/A
+2/4
+0.24",TextQuoteSelector,TextPositionSelector,19365,19369,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:14:23.532550+00:00
+_2lE3smCEemYwz-9Q7qXzg,b53nbDmi,https://europepmc.org/articles/PMC2936521/,Cardiovascular disease,r articles in PMC.Go to:Abstract, (CVD) is the leading cause of d,TextQuoteSelector,TextPositionSelector,10994,11016,CRT_DS,yes,[CRT_DS][ALL],,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:00:07.636872+00:00
+ZUqLMMmFEemqLgPyjkAXVg,b53nbDmi,https://europepmc.org/articles/PMC2936521/,ATXN3L,"61 (0.12)1.5×10−7
+glucoseXp22.2
+","/EGFL6
+rs5979903 T/C1/00.061.88 ",TextQuoteSelector,TextPositionSelector,20696,20702,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:17:17.564823+00:00
+Z-cgvsmGEemljt9YCXRIaw,b53nbDmi,https://europepmc.org/articles/PMC2936521/,PSAT1,"7)
+1.8×10−8
+triglycerides9q21.2
+","/CHCHD9
+rs13290397* C/G1/30.89−1",TextQuoteSelector,TextPositionSelector,22018,22023,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:24:31.326161+00:00
+YtuH4smEEemVM_MLczlJXA,b53nbDmi,https://europepmc.org/articles/PMC2936521/,MRPS6,"0−7
+
+LDL-cholesterol
+
+21q22.11
+
+","/KCNE2
+
+rs8131349* A/G
+
+0/1
+
+0.0",TextQuoteSelector,TextPositionSelector,19041,19046,CRT_GP,yes,[CRT_GP][ALL],,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:10:04.110007+00:00
+XplUbMmDEemSqZcGX0ecAA,b53nbDmi,https://europepmc.org/articles/PMC2936521/,GK, gene encoding glycerol kinase (,"), in which mutations have been ",TextQuoteSelector,TextPositionSelector,17134,17136,MIS_GP,no,MIS_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:02:47.319453+00:00
+XOFtksmFEem-kuP-4DNRZQ,b53nbDmi,https://europepmc.org/articles/PMC2936521/,TK2,"0.15)5.9×10−7
+glucose16q21
+CDH5/","
+rs4783595 T/C2/10.87−1.67 (0.31",TextQuoteSelector,TextPositionSelector,20576,20579,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:17:03.528299+00:00
+WpjeBMmEEemY7VOUEK-32Q,b53nbDmi,https://europepmc.org/articles/PMC2936521/,SSTR1,"07)1.7×10−7
+insulin14q13.3
+TTC6/","
+rs10498337 T/G
+1/0
+0.81−9.3 (1.",TextQuoteSelector,TextPositionSelector,18964,18969,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:09:50.247986+00:00
+WejJ1MmDEemBx9-YDlctTg,b53nbDmi,https://europepmc.org/articles/PMC2936521/,glycerol kinase,gene and near the gene encoding ," (GK), in which mutations have b",TextQuoteSelector,TextPositionSelector,17117,17132,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:02:39.582941+00:00
+WKrK1MmFEem8gxcy_yyYjQ,b53nbDmi,https://europepmc.org/articles/PMC2936521/,CDH5,".76 (0.15)5.9×10−7
+glucose16q21
+","/TK2
+rs4783595 T/C2/10.87−1.67 (",TextQuoteSelector,TextPositionSelector,20571,20575,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:16:56.415641+00:00
+VX6D7MmEEem5yT-fh8Ikkg,b53nbDmi,https://europepmc.org/articles/PMC2936521/,TTC6,"8 (1.07)1.7×10−7
+insulin14q13.3
+","/SSTR1
+rs10498337 T/G
+1/0
+0.81−9",TextQuoteSelector,TextPositionSelector,18959,18963,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:09:41.702610+00:00
+UbBhmMmGEemY8xNGkJNlQA,b53nbDmi,https://europepmc.org/articles/PMC2936521/,RFX2,".14)4.1×10−7
+systolic BP19p13.3
+","
+rs1046391* G/T0/10.860.21 (0.04",TextQuoteSelector,TextPositionSelector,21636,21640,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:23:54.115885+00:00
+UGdP0smFEem47RuZo-YzPg,b53nbDmi,https://europepmc.org/articles/PMC2936521/,VASH1,"(SE)
+P
+distolic BP14q24.3
+ESRRB/","
+rs17104804 G/A1/20.92−0.76 (0.1",TextQuoteSelector,TextPositionSelector,20510,20515,CRT_GP,yes,[CRT_GP][ALL],,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:16:42.556963+00:00
+U34JiMmDEemlfueb3BYSkQ,b53nbDmi,https://europepmc.org/articles/PMC2936521/,IL1RAPL1, on the X chromosome within the , gene and near the gene encoding,TextQuoteSelector,TextPositionSelector,17076,17084,CRT_GP,yes,[CRT_GP][ALL],,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:02:28.645923+00:00
+T2puCMmEEemNSD8WZ-fwmg,b53nbDmi,https://europepmc.org/articles/PMC2936521/,TGIF1,")1.3×10−7
+insulin18p11.31
+MRLC2/","
+rs1613695* G/A
+0/1
+0.95−5.68 (1",TextQuoteSelector,TextPositionSelector,18894,18899,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:09:31.500238+00:00
+SN5O2MmEEemHJXs9JCyrmQ,b53nbDmi,https://europepmc.org/articles/PMC2936521/,MRLC2," (0.92)1.3×10−7
+insulin18p11.31
+","/TGIF1
+rs1613695* G/A
+0/1
+0.95−5",TextQuoteSelector,TextPositionSelector,18888,18893,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:09:20.514291+00:00
+SJEHosmGEemWLqvfezpy8g,b53nbDmi,https://europepmc.org/articles/PMC2936521/,MSI2,"8 (0.04)7.5×10−7
+LDL17q22
+AKAP1/","
+rs8073909 T/C1/00.64−1.41 (0.27",TextQuoteSelector,TextPositionSelector,21512,21516,CRT_GP,yes,[CRT_GP][ALL],,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:23:38.700442+00:00
+S5CFbsmFEemAoCfcEwiHcg,b53nbDmi,https://europepmc.org/articles/PMC2936521/,ESRRB,"FBeta (SE)
+P
+distolic BP14q24.3
+","/VASH1
+rs17104804 G/A1/20.92−0.7",TextQuoteSelector,TextPositionSelector,20504,20509,CRT_GP,yes,[CRT_GP][ALL],,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:16:34.397853+00:00
+Qx1tfsmGEemc7O8m4ZqiVA,b53nbDmi,https://europepmc.org/articles/PMC2936521/,AKAP1,".200.18 (0.04)7.5×10−7
+LDL17q22
+","/MSI2
+rs8073909 T/C1/00.64−1.41 ",TextQuoteSelector,TextPositionSelector,21506,21511,CRT_GP,yes,[CRT_GP][ALL],,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:23:29.716881+00:00
+QP1uEMmEEemNlnd5S-hpwg,b53nbDmi,https://europepmc.org/articles/PMC2936521/,FAM46A,"4)9.8×10−8
+insulin6q14.1
+BCKDHB/","
+rs16892328* C/T
+0/1
+0.94−4.93 (",TextQuoteSelector,TextPositionSelector,18820,18826,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:09:07.200552+00:00
+PHAfCsmEEem0NONfJD5-Qg,b53nbDmi,https://europepmc.org/articles/PMC2936521/,BCKDHB,"55 (0.84)9.8×10−8
+insulin6q14.1
+","/FAM46A
+rs16892328* C/T
+0/1
+0.94",TextQuoteSelector,TextPositionSelector,18813,18819,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:08:59.530273+00:00
+P63YmMmDEemHGhcUuEN64g,b53nbDmi,https://europepmc.org/articles/PMC2936521/,insulin,d metabolic traits (glucose and ,). Genotyping was performed on t,TextQuoteSelector,TextPositionSelector,15530,15537,MIS_GP,yes,[MIS_GP][ALL],,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:01:55.493410+00:00
+P5rJLMmFEemEfy_cLH-WXQ,b53nbDmi,https://europepmc.org/articles/PMC2936521/,ZNF572,"aist circumference8q24.13
+MTSS1/","
+rs891541* A/G
+4/7
+0.294.55 (0.9",TextQuoteSelector,TextPositionSelector,19857,19863,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:16:14.357098+00:00
+OwD-rsmFEemEMBOe_aA4hg,b53nbDmi,https://europepmc.org/articles/PMC2936521/,MTSS1,"10−7
+waist circumference8q24.13
+","/ZNF572
+rs891541* A/G
+4/7
+0.294.",TextQuoteSelector,TextPositionSelector,19851,19856,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:16:06.730985+00:00
+OYaszsmDEemOgTOI7pLnVQ,b53nbDmi,https://europepmc.org/articles/PMC2936521/,high density lipoprotein," lipoprotein cholesterol (LDL), "," cholesterol (HDL), total choles",TextQuoteSelector,TextPositionSelector,15408,15432,WT_GP,no,[WT_GP],,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:01:45.181662+00:00
+NjNvcMmEEem-io86VKsHUw,b53nbDmi,https://europepmc.org/articles/PMC2936521/,SMOX,"78)
+5.8×10−9
+insulin20p13
+RNF24/","
+rs6052399* T/C
+0/1
+0.93−4.55 (0",TextQuoteSelector,TextPositionSelector,18750,18754,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:08:49.085105+00:00
+NH2SdsmGEemVOqdrycHafQ,b53nbDmi,https://europepmc.org/articles/PMC2936521/,FRMD4A,"64−1.41 (0.27)1.4×10−7
+LDL10p13
+","
+rs11258628* A/T0/10.92−0.69 (0.",TextQuoteSelector,TextPositionSelector,21567,21573,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:23:05.295009+00:00
+MhfB_MmEEemWJXvGRT9kkg,b53nbDmi,https://europepmc.org/articles/PMC2936521/,RNF24,"63 (0.78)
+5.8×10−9
+insulin20p13
+","/SMOX
+rs6052399* T/C
+0/1
+0.93−4.",TextQuoteSelector,TextPositionSelector,18744,18749,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:08:42.183018+00:00
+M_y5aMmFEemQJ_NHhrKX4g,b53nbDmi,https://europepmc.org/articles/PMC2936521/,ZFAT,"otal cholesterol8q24.22
+ST3GAL1/","
+rs4897695* C/G
+1/6
+0.9113.66 (2",TextQuoteSelector,TextPositionSelector,19775,19779,CRT_GP,yes,[CRT_GP][ALL],,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:15:54.808500+00:00
+LlJRismFEemp5l_6i48K3g,b53nbDmi,https://europepmc.org/articles/PMC2936521/,ST3GAL1,"1×10−7
+total cholesterol8q24.22
+","/ZFAT
+rs4897695* C/G
+1/6
+0.9113.",TextQuoteSelector,TextPositionSelector,19767,19774,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:15:45.313995+00:00
+Iaz4hsmFEemfy1txFiPG-w,b53nbDmi,https://europepmc.org/articles/PMC2936521/,ABLIM2,".6×10−8
+total cholesterol4p16.1
+","
+rs6829649 T/G
+1/2
+0.87−50.96 (9",TextQuoteSelector,TextPositionSelector,19608,19614,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:15:24.149328+00:00
+FUtkKsmEEem8gkvfZmI2xA,b53nbDmi,https://europepmc.org/articles/PMC2936521/,HERPUD1,"8.4×10−7
+HDL-cholesterol16q12.2
+","/CETP
+rs247616* T/C
+4/2
+0.333.77",TextQuoteSelector,TextPositionSelector,18604,18611,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:07:53.849960+00:00
+FJgiHMmDEemZXzvloZgHqw,b53nbDmi,https://europepmc.org/articles/PMC2936521/,APOE,"d P=9.7×10−24), and rs445925 at ", with LDL levels (combined P=8.7,TextQuoteSelector,TextPositionSelector,12001,12005,CRT_GP,yes,[CRT_GP][ALL],,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:00:43.307034+00:00
+EJ8WGsmEEemc35_Yg0FvCA,b53nbDmi,https://europepmc.org/articles/PMC2936521/,RNF217,")7.0×10−7
+glucose6q22.31
+NKAIN2/","
+rs781718* G/A
+1/4
+0.89−3.46 (0.",TextQuoteSelector,TextPositionSelector,18531,18537,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:07:46.028561+00:00
+EAlnsMmDEemlfVtakupq_A,b53nbDmi,https://europepmc.org/articles/PMC2936521/,CETP,trongly replicated: rs247616 in , with HDL levels (combined P=9.7,TextQuoteSelector,TextPositionSelector,11940,11944,CRT_GP,yes,[CRT_GP][ALL],,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:00:35.556861+00:00
+Dz-z3MmFEemH4ksfx5EQpA,b53nbDmi,https://europepmc.org/articles/PMC2936521/,VPS13C,".6×10−7
+systolic BP15q22.1
+RORA/","
+rs726914 G/A
+2/0
+0.629.21 (1.83",TextQuoteSelector,TextPositionSelector,19446,19452,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:14:53.318115+00:00
+C_eG4smEEemPMEsoWqi1ow,b53nbDmi,https://europepmc.org/articles/PMC2936521/,NKAIN2,"2 (1.73)7.0×10−7
+glucose6q22.31
+","/RNF217
+rs781718* G/A
+1/4
+0.89−3",TextQuoteSelector,TextPositionSelector,18524,18530,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:07:38.335308+00:00
+CB4pCMmFEemNmivhNXPBKA,b53nbDmi,https://europepmc.org/articles/PMC2936521/,RORA,".12)5.6×10−7
+systolic BP15q22.1
+","/VPS13C
+rs726914 G/A
+2/0
+0.629.2",TextQuoteSelector,TextPositionSelector,19441,19445,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:14:41.276901+00:00
+BpmwTsmEEemquY-vbrXW4w,b53nbDmi,https://europepmc.org/articles/PMC2936521/,ABCB11,"3)7.0×10−7
+glucose2q24.3
+G6PC2, ","
+rs853773 A/G
+4/1
+0.53−8.72 (1.7",TextQuoteSelector,TextPositionSelector,18460,18466,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:07:29.337542+00:00
+AxNmhMmGEemHI7fmy2b8Og,b53nbDmi,https://europepmc.org/articles/PMC2936521/,TM7SF3," (0.08)5.6×10−7
+insulin12p11.23
+","
+rs1552257* C/T4/100.200.18 (0.0",TextQuoteSelector,TextPositionSelector,21448,21454,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:21:42.289311+00:00
+AqZziMmDEem2ix8Sjw6Lvw,b53nbDmi,https://europepmc.org/articles/PMC2936521/,CVD,AbstractCardiovascular disease (,) is the leading cause of death ,TextQuoteSelector,TextPositionSelector,11018,11021,MIS_DS,yes,[MIS_DS][ALL],,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:00:13.033626+00:00
+Anj67MmEEem2lENtE6JRiQ,b53nbDmi,https://europepmc.org/articles/PMC2936521/,G6PC2,"18 (1.43)7.0×10−7
+glucose2q24.3
+",", ABCB11
+rs853773 A/G
+4/1
+0.53−8",TextQuoteSelector,TextPositionSelector,18453,18458,CRT_GP,yes,[CRT_GP][ALL],,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:07:22.277273+00:00
+AnSk0smFEemNmFuVNrRBlQ,b53nbDmi,https://europepmc.org/articles/PMC2936521/,GRAMD1B,".7×10−7
+systolic BP11q24.1
+ASAM/","
+rs11822822 G/A
+2/4
+0.2410.74 (2",TextQuoteSelector,TextPositionSelector,19370,19377,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:14:31.563543+00:00
+9lPjrMmEEemYzF_AVQY6Rw,b53nbDmi,https://europepmc.org/articles/PMC2936521/,SGCD,"0−7
+LDL-cholesterol5q33.2
+KIF4B/","
+rs10044666* G/T
+1/3
+0.72−8.57 (",TextQuoteSelector,TextPositionSelector,19296,19300,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:14:11.360318+00:00
+9AWBjMmEEemfHqfXfR5KIA,b53nbDmi,https://europepmc.org/articles/PMC2936521/,KIF4B,")2.5×10−7
+LDL-cholesterol5q33.2
+","/SGCD
+rs10044666* G/T
+1/3
+0.72−8",TextQuoteSelector,TextPositionSelector,19290,19295,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:14:07.338075+00:00
+8MJqNMmFEemc6-OPgkoefA,b53nbDmi,https://europepmc.org/articles/PMC2936521/,BUD13,"27)7.4×10−7
+height11q23.3
+CADM1/","
+rs1144036 C/T1/00.161.17 (0.23)",TextQuoteSelector,TextPositionSelector,21323,21328,CRT_GP,yes,[CRT_GP][ALL],,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:21:11.452056+00:00
+72ByFMmDEemOiO87UM7c4w,b53nbDmi,https://europepmc.org/articles/PMC2936521/,CDH6," (SE)
+P
+diastolic BP5p13.3
+CDH9/","
+rs7704530 G/A
+2/3
+0.268.44 (1.5",TextQuoteSelector,TextPositionSelector,18324,18328,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:06:50.291751+00:00
+6oaztsmDEemOhwvAdh5wow,b53nbDmi,https://europepmc.org/articles/PMC2936521/,CDH9,"FBeta (SE)
+P
+diastolic BP5p13.3
+","/CDH6
+rs7704530 G/A
+2/3
+0.268.44",TextQuoteSelector,TextPositionSelector,18319,18323,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:06:42.163526+00:00
+6J4ymMmFEemFW7dFT_67VQ,b53nbDmi,https://europepmc.org/articles/PMC2936521/,CADM1,"36 (0.27)7.4×10−7
+height11q23.3
+","/BUD13
+rs1144036 C/T1/00.161.17 ",TextQuoteSelector,TextPositionSelector,21317,21322,CRT_GP,yes,[CRT_GP][ALL],,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:20:57.923076+00:00
+4bvbdMmFEemJQcMtfMpnqw,b53nbDmi,https://europepmc.org/articles/PMC2936521/,PSG3,"7 (0.23)2.4×10−7
+height19q13.32
+","
+rs8103264* C/G2/100.93−0.38 (0.",TextQuoteSelector,TextPositionSelector,21384,21388,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:20:46.442760+00:00
+4T6gDMmDEemtg2szweiNtg,b53nbDmi,https://europepmc.org/articles/PMC2936521/,hypertension,s been previously implicated in , in a small candidate gene assoc,TextQuoteSelector,TextPositionSelector,18121,18133,CRT_DS,yes,[CRT_DS][ALL],,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:06:26.528170+00:00
+2ptSYMmGEemqNZ8Enn8BqQ,b53nbDmi,https://europepmc.org/articles/PMC2936521/,CNV,"hip containing 670,000 SNPs and "," probes from 2,442 YF participan",TextQuoteSelector,TextPositionSelector,47701,47704,WT_OG,yes,[WT_OG][ALL],,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:27:43.967425+00:00
+2QhAjMmDEemCtLfoLKf04g,b53nbDmi,https://europepmc.org/articles/PMC2936521/,calcitonin gene-related peptide,he top SNP (see Figure S1). The , is a vasodilator [16] and its r,TextQuoteSelector,TextPositionSelector,18011,18042,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:06:12.752954+00:00
+2MvMQMmFEemSrc89woJTRw,b53nbDmi,https://europepmc.org/articles/PMC2936521/,SYT1,"1.8×10−7
+heart rate12q21.2
+NAV3/","
+rs1449460 G/A2/60.08−1.36 (0.27",TextQuoteSelector,TextPositionSelector,21257,21261,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:20:31.344951+00:00
+0oo-usmGEemVPedMmwO7og,b53nbDmi,https://europepmc.org/articles/PMC2936521/,APOA5,ect (P=1.6×10−8). A region near , that had been previously implic,TextQuoteSelector,TextPositionSelector,23514,23519,CRT_GP,yes,[CRT_GP][ALL],,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:27:30.428285+00:00
+0YurvsmDEemVMXfIM4T1mw,b53nbDmi,https://europepmc.org/articles/PMC2936521/,CRCP, gene-related peptide receptor (,) is approximately 200 kb from t,TextQuoteSelector,TextPositionSelector,17892,17896,CRT_GP,yes,[CRT_GP][ALL],,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:06:00.304691+00:00
+-drD6MmDEemrUDdm8PDk3g,b53nbDmi,https://europepmc.org/articles/PMC2936521/,TPST1,"57)1.1×10−7
+diastolic BP7q11.21
+","
+rs709595 C/G
+8/17
+0.397.18 (1.4",TextQuoteSelector,TextPositionSelector,18391,18396,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T11:07:07.945224+00:00
+-X0c2smCEemrS7do9LWOxQ,b53nbDmi,https://europepmc.org/articles/PMC2936521/,Cardiovascular Disease,inal Genome-Wide Association of , Risk Factors in the Bogalusa He,TextQuoteSelector,TextPositionSelector,6227,6249,MIS_DS,no,MIS_DS,,acct:vanitha_hg@hypothes.is,Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.,2019-08-28T10:59:57.624345+00:00

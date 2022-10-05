@@ -1,0 +1,531 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archivearticle1.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">PLoS One</journal-id><journal-id journal-id-type="iso-abbrev">PLoS ONE</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-id journal-id-type="pmc">plosone</journal-id><journal-title-group><journal-title>PLoS ONE</journal-title></journal-title-group><issn pub-type="epub">1932-6203</issn><publisher><publisher-name>Public Library of Science</publisher-name><publisher-loc>San Francisco, USA</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">3651197</article-id><article-id pub-id-type="pmid">23675470</article-id><article-id pub-id-type="publisher-id">PONE-D-12-38949</article-id><article-id pub-id-type="doi">10.1371/journal.pone.0063280</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Biology</subject><subj-group><subject>Computational Biology</subject><subj-group><subject>Genomics</subject><subj-group><subject>Genome Analysis Tools</subject><subj-group><subject>Genetic Maps</subject></subj-group></subj-group></subj-group></subj-group><subj-group><subject>Genomics</subject><subj-group><subject>Genome Analysis Tools</subject><subj-group><subject>Genetic Maps</subject></subj-group></subj-group></subj-group><subj-group><subject>Model Organisms</subject><subj-group><subject>Animal Models</subject><subj-group><subject>Mouse</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Medicine</subject><subj-group><subject>Hematology</subject><subj-group><subject>Anemia</subject><subj-group><subject>Iron Deficiency Anemia</subject></subj-group></subj-group></subj-group><subj-group><subject>Nutrition</subject><subj-group><subject>Micronutrient Deficiencies</subject></subj-group></subj-group></subj-group></article-categories><title-group><article-title><SecTag type="TITLE"><text><SENT sid="0" pm="."><plain>Fine-Mapping and Genetic Analysis of the Loci Affecting Hepatic Iron Overload in Mice </plain></SENT>
+</text></SecTag></article-title><alt-title alt-title-type="running-head">Fine-Mapping Hepatic Iron Overload in Mice</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Guo</surname><given-names>Xin</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Zhang</surname><given-names>Zhuzhen</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Zhang</surname><given-names>Fan</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Tao</surname><given-names>Yunlong</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>An</surname><given-names>Peng</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Wu</surname><given-names>Qian</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Wang</surname><given-names>Chia-Yu</given-names></name><xref ref-type="aff" rid="aff3">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Knutson</surname><given-names>Mitchell D.</given-names></name><xref ref-type="aff" rid="aff3">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Wang</surname><given-names>Fudi</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref><xref ref-type="corresp" rid="cor1">
+<sup>*</sup>
+</xref></contrib></contrib-group><aff id="aff1">
+<label>1</label>
+<addr-line>Key Laboratory of Nutrition and Metabolism, Shanghai Key Laboratory of Pediatric Gastroenterology and Nutrition, Institute for Nutritional Sciences, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Graduate School of the Chinese Academy of Sciences, Shanghai, China</addr-line>
+</aff><aff id="aff2">
+<label>2</label>
+<addr-line>Department of Nutrition, Institute of
+Nutrition and Food Safety, School of Public Health, Collaborative Innovation Center for Diagnosis and Treatment of Infectious Diseases, Zhejiang University, Hangzhou,
+P.R. China</addr-line>
+</aff><aff id="aff3">
+<label>3</label>
+<addr-line>Department of Food Science and Human Nutrition, University of Florida, Gainesville, Florida, United States of America</addr-line>
+</aff><contrib-group><contrib contrib-type="editor"><name><surname>Di Cunto</surname><given-names>Ferdinando</given-names></name><role>Editor</role><xref ref-type="aff" rid="edit1"/></contrib></contrib-group><aff id="edit1">
+<addr-line>University of Turin, Italy</addr-line>
+</aff><author-notes><corresp id="cor1">* E-mail: <email>fwang@zju.edu.cn</email></corresp><fn fn-type="COI-statement"><p><text><SENT sid="1" pm="."><plain>Competing Interests: The authors have declared that no competing interests exist. </plain></SENT>
+</text></p></fn><fn fn-type="con"><p><text><SENT sid="2" pm="."><plain>Conceived and designed the experiments: XG FW. </plain></SENT>
+<SENT sid="3" pm="."><plain>Performed the experiments: XG ZZ FZ YT PA QW CW MK. </plain></SENT>
+<SENT sid="4" pm="."><plain>Analyzed the data: XG FW. </plain></SENT>
+<SENT sid="5" pm="."><plain>Contributed reagents/materials/analysis tools: FW. </plain></SENT>
+<SENT sid="6" pm="."><plain>Wrote the paper: XG FW. </plain></SENT>
+</text></p></fn></author-notes><pub-date pub-type="collection"><year>2013</year></pub-date><pub-date pub-type="epub"><day>10</day><month>5</month><year>2013</year></pub-date><volume>8</volume><issue>5</issue><elocation-id>e63280</elocation-id><history><date date-type="received"><day>10</day><month>12</month><year>2012</year></date><date date-type="accepted"><day>29</day><month>3</month><year>2013</year></date></history><permissions><copyright-statement>© 2013 Guo et al</copyright-statement><copyright-year>2013</copyright-year><copyright-holder>Guo et al</copyright-holder><license xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are properly credited.</license-p></license></permissions><abstract><p><SecTag type="ABS"><text><SENT sid="7" pm="."><plain>The liver, as the major organ for iron storage and production of hepcidin, plays pivotal roles in maintaining mammalian iron homeostasis. </plain></SENT>
+<SENT sid="8" pm="."><plain>A previous study showed that Quantitative Trait Loci (QTLs) on chromosome 7 (Chr7) and 16 (Chr16) may control hepatic non-heme iron overload in an F2 intercross derived from C57BL/6J (B6) and SWR/J (SWR) mice. </plain></SENT>
+<SENT sid="9" pm="."><plain>In this study, we aimed to validate the existence of these loci and identify the genes responsible for the phenotypic variations by generating congenic mice carrying SWR chromosome segments expanding these QTLs (D7Mit68-D7Mit71 and D16Mit125-D16Mit185, respectively). </plain></SENT>
+<SENT sid="10" pm="."><plain>We excluded involvement of Chr7 based on the lack of iron accumulation in congenic mice. </plain></SENT>
+<SENT sid="11" pm="."><plain>In contrast, liver iron accumulation was observed in Chr16 congenic mice. </plain></SENT>
+<SENT sid="12" pm="."><plain>Through use of a series of subcongenic murine lines the interval on Chr16 was further fine-mapped to a 0.8 Mb segment spanning 11 genes. </plain></SENT>
+<SENT sid="13" pm="."><plain>We found that the mRNA expression pattern in the liver remained unchanged for all 11 genes tested. </plain></SENT>
+<SENT sid="14" pm="."><plain>Most importantly, we detected 4 missense mutations in 3 candidate genes including Sidt1 (P172R), Spice1(R708S), Boc (Q1051R) and Boc (S450-insertion in B6 allele) in the liver of SWR homozygous congenic mice. </plain></SENT>
+<SENT sid="15" pm="."><plain>To further delineate potential modifier gene(s), we reconstituted seven candidate genes, Sidt1, Boc, Zdhhc23, Gramd1c, Atp6v1a, Naa50 and Gtpbp8, in mouse liver through hydrodynamic transfection. </plain></SENT>
+<SENT sid="16" pm="."><plain>However, we were unable to detect significant changes in liver iron levels upon reconstitution of these candidate genes. </plain></SENT>
+<SENT sid="17" pm="."><plain>Taken together, our work provides strong genetic evidence of the existence of iron modifiers on Chr16. </plain></SENT>
+<SENT sid="18" pm="."><plain>Moreover, we were able to delineate the phenotypically responsible region to a 0.8 Mb region containing 11 coding genes, 3 of which harbor missense mutations, using a series of congenic mice. </plain></SENT>
+</text></SecTag></p></abstract><funding-group><funding-statement>This work was supported by the research grants from the Ministry of Science and Technology of China (973 Program) (grant numbers 2009CB941404, 2011CB966200, 2012BAD33B05); The National Natural Science Foundation of China (grant numbers 31225013, 31030039, 10979071, 30970665); Science &amp; Technology Commission of Shanghai Municipality grant (grant number 10JC1416800). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement></funding-group><counts><page-count count="1"/></counts></article-meta></front><body><SecTag type="INTRO"><sec id="s1"><title><text><SENT sid="19" pm="."><plain>Introduction </plain></SENT>
+</text></title><p><text><SENT sid="20" pm="."><plain>Iron has an essential function in mammalian metabolism [1] as it is a functional component of hemoglobin, myoglobin, cytochromes, and other non-heme enzymes involved in oxygen transport, ATP generation, and detoxification. </plain></SENT>
+<SENT sid="21" pm="."><plain>Free iron is also a potent oxidant that promotes the formation of toxic radicals. </plain></SENT>
+<SENT sid="22" pm="."><plain>Consequently, iron metabolism is tightly regulated through complex regulatory mechanisms at both cellular and systemic levels. </plain></SENT>
+<SENT sid="23" pm="."><plain>Systemic iron balance is accomplished through the regulation of iron absorption in the intestine, recycling in the spleen, and storage in the liver [2]. </plain></SENT>
+<SENT sid="24" pm="."><plain>Dysregulation of iron metabolism causes common diseases in mammals that are characterized by iron status; iron-overload is a result of genetic hemochromatosis and iron depletion causes iron-deficiency anemia. </plain></SENT>
+</text></p><p><text><SENT sid="25" pm="."><plain>The liver is important for systemic iron homeostasis. </plain></SENT>
+<SENT sid="26" pm="."><plain>It is the major organ for iron storage, and iron within the liver can be mobilized to meet the demands of other organs [3]. </plain></SENT>
+<SENT sid="27" pm="."><plain>Furthermore, hepcidin, the major iron regulator that controls iron absorption in the intestine, is produced mainly in the liver and secreted into circulation [4]. </plain></SENT>
+<SENT sid="28" pm="."><plain>Although many critical discoveries have been made regarding the regulation of iron homeostasis, gaps still exist in our understanding of the details of iron metabolism [5]. </plain></SENT>
+<SENT sid="29" pm="."><plain>The clinical course of hemochromatosis is highly variable, indicating that genetic modifiers may contribute to the complexity of this disease [6], and these variations could make individuals more or less susceptible to the pathological processes of iron metabolism disorders. </plain></SENT>
+<SENT sid="30" pm="."><plain>Identification of such genetic modifiers may help us better understand disease pathogenesis and provide novel insights into the detailed molecular control of iron homeostasis. </plain></SENT>
+</text></p><p><text><SENT sid="31" pm="."><plain>Mice are powerful model organisms for investigating iron-related human genetic diseases [7] as it is possible to perform functional studies on candidate genes under controlled environmental factors with defined genetic crosses. </plain></SENT>
+<SENT sid="32" pm="."><plain>Genome-wide quantitative trait loci (QTL) analysis and forward genetic approaches have been successfully used to identify the genetic loci and specific genes that control iron-related quantitative traits such as tissue iron status and red blood cell parameters [8], [9]. </plain></SENT>
+<SENT sid="33" pm="."><plain>Previous studies showed marked differences in the concentrations of liver and spleen non-heme iron content among inbred mouse strains [10]. </plain></SENT>
+<SENT sid="34" pm="."><plain>C57BL mice have low liver and spleen iron content while SWR/J mice have much higher levels. </plain></SENT>
+<SENT sid="35" pm="."><plain>This difference may partially explain the variance in response to infection and susceptibility to uroporphyria between strains [11]. </plain></SENT>
+<SENT sid="36" pm="."><plain>In the past, positional cloning approaches have been successfully used to identify the potent modifiers controlling the variation of iron metabolism between mouse strains [10]. </plain></SENT>
+<SENT sid="37" pm="."><plain>Many putative QTLs affecting iron status have been found, however, few have been validated and genes responsible for these traits remain to be identified [12], [13], [14]. </plain></SENT>
+<SENT sid="38" pm="."><plain>In a recent study, Grant et al. undertook QTL analysis to examine the genetic basis of variability in liver and spleen iron content between C57BL/6J and SWR mice. </plain></SENT>
+<SENT sid="39" pm="."><plain>The results showed that QTLs on chromosomes 2, 7, and 16 control liver non-heme iron content in C57BL/6J×SWR F2 male mice [15]. </plain></SENT>
+<SENT sid="40" pm="."><plain>For two QTLs, on Chr16 and Chr7, the SWR alleles were associated with higher iron levels in male mice. </plain></SENT>
+<SENT sid="41" pm="."><plain>In contrast, for the QTL on Chr2 higher iron levels in both liver and spleen were associated with the C57BL/6J allele. </plain></SENT>
+<SENT sid="42" pm="."><plain>However, the modifier genes controlling these QTLs remain to be identified. </plain></SENT>
+</text></p><p><text><SENT sid="43" pm="."><plain>In this study, we used forward genetic approaches to identify the gene(s) accountable for the variability of hepatic iron accumulation based on the previous QTL analysis. </plain></SENT>
+<SENT sid="44" pm="."><plain>Generating a series of congenic mouse models, we validated the previously identified QTL on chromosome 16 and refined it to an 830 Kb interval that contains 11 coding genes. </plain></SENT>
+<SENT sid="45" pm="."><plain>Three genes among these have non-synonymous coding sequence variations, which make them strong candidates for being involved in iron metabolism. </plain></SENT>
+<SENT sid="46" pm="."><plain>Although the in vivo functional test did not identify specific candidates, our work represents progress in positional cloning of the novel iron metabolism modifier present on Chr16 in mouse liver. </plain></SENT>
+</text></p></sec></SecTag><SecTag type="METHODS"><sec sec-type="materials|methods" id="s2"><title><text><SENT sid="47" pm="."><plain>Materials and Methods </plain></SENT>
+</text></title><sec id="s2a"><title><text><SENT sid="48" pm="."><plain>Mice and diet </plain></SENT>
+</text></title><p><text><SENT sid="49" pm="."><plain>Mice were fed a standard rodent laboratory diet (232 mg iron/kg) from SLRC Laboratory Animal Co. </plain></SENT>
+<SENT sid="50" pm="."><plain>Ltd. </plain></SENT>
+<SENT sid="51" pm="."><plain>All experimental protocols were approved by the Institutional Animal Care and Use Committee of the Chinese Academy of Sciences [16]. </plain></SENT>
+<SENT sid="52" pm="."><plain>For iron-rich diet experiments, 8-week-old mice were fed an iron-rich diet (8.3 g of carbonyl iron per kg) of egg-white–based AIN-76A-diets (Research Diets, Inc., New Brunswick, NJ) for 1 week before sacrificing. </plain></SENT>
+</text></p></sec><sec id="s2b"><title><text><SENT sid="53" pm="."><plain>Development and analysis of chromosome 16 and 7 congenic mice </plain></SENT>
+</text></title><p><text><SENT sid="54" pm="."><plain>The B6×SWR F1 progeny were backcrossed to B6 to get N2 progeny that harbor different SWR genomic regions. </plain></SENT>
+<SENT sid="55" pm="."><plain>Congenic strains were then developed by continuous backcrossing of N2 progeny to B6 mice with MIT SSLP markers-assisted tracing of the SWR chromosome 16 segment of interest. </plain></SENT>
+<SENT sid="56" pm="."><plain>During backcrossing, we selected mice containing 20 Mb of SWR on chromosome 16 between markers D16Mit125-D16Mit185. </plain></SENT>
+<SENT sid="57" pm="."><plain>After backcrossing with C57BL/6J for five generations, we consider the congenic mice to have a pure C57BL/6J background and backcrossing continued (N≥9) [10]. </plain></SENT>
+<SENT sid="58" pm="."><plain>The heterozygous mice of the initial Line1 were backcrossed to B6 to generate subcongenic lines. </plain></SENT>
+<SENT sid="59" pm="."><plain>The original chromosome 7 congenic line was developed using the same crossing strategy by tracing the SWR chromosome 7 segment between D7Mit68 and D7Mit71. </plain></SENT>
+<SENT sid="60" pm="."><plain>All iron phenotype analyses were performed using 8-week-old males unless otherwise indicated. </plain></SENT>
+<SENT sid="61" pm="."><plain>Genotyping primers are listed in Table S1. </plain></SENT>
+</text></p></sec><sec id="s2c"><title><text><SENT sid="62" pm="."><plain>Genomic DNA sequence analysis </plain></SENT>
+</text></title><p><text><SENT sid="63" pm="."><plain>DNA segments of every exon and intron-exon boundary of the candidate genes were amplified using PCR and the sequences were aligned in comparison with B6 using Lasergene software (DNASTAR). </plain></SENT>
+<SENT sid="64" pm="."><plain>All sequencing data has been deposited in GenBank and the Accession numbers are listed in  Table 1 . </plain></SENT>
+</text></p><SecTag type="TABLE"><table-wrap id="pone-0063280-t001" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0063280.t001</object-id><label>Table 1</label><caption><title><text><SENT sid="65" pm="."><plain>Summary of genomic DNA sequencing results in the candidate interval. </plain></SENT>
+</text></title></caption><alternatives><graphic id="pone-0063280-t001-1" xlink:href="pone.0063280.t001"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1"><text><SENT sid="66" pm="."><plain>Gene </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="67" pm="."><plain>Accession number </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="68" pm="."><plain>Polymorphism </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="69" pm="."><plain>Position in gene </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="70" pm="."><plain>Protein Variation </plain></SENT>
+</text></td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1"><text><SENT sid="71" pm="."><plain>Sidt1 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="72" pm="."><plain>rs4179590 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="73" pm="."><plain>G/A </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="74" pm="."><plain>Exon3 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text></text></td></tr><tr><td align="left" rowspan="1" colspan="1"><text></text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="75" pm="."><plain>rs4179589 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="76" pm="."><plain>G/C </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="77" pm="."><plain>Exon3 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="78" pm="."><plain>P172R </plain></SENT>
+</text></td></tr><tr><td align="left" rowspan="1" colspan="1"><text></text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="79" pm="."><plain>rs51960690 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="80" pm="."><plain>G/A </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="81" pm="."><plain>Exon10 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text></text></td></tr><tr><td align="left" rowspan="1" colspan="1"><text></text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="82" pm="."><plain>rs50972129 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="83" pm="."><plain>A/G </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="84" pm="."><plain>Exon10 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text></text></td></tr><tr><td align="left" rowspan="1" colspan="1"><text></text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="85" pm="."><plain>rs4179517 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="86" pm="."><plain>A/G </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="87" pm="."><plain>Intron11–12 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text></text></td></tr><tr><td align="left" rowspan="1" colspan="1"><text></text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="88" pm="."><plain>rs4179515 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="89" pm="."><plain>G/A </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="90" pm="."><plain>Exon12 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text></text></td></tr><tr><td align="left" rowspan="1" colspan="1"><text></text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="91" pm="."><plain>rs48139623 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="92" pm="."><plain>A/G </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="93" pm="."><plain>Intron14–15 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text></text></td></tr><tr><td align="left" rowspan="1" colspan="1"><text></text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="94" pm="."><plain>rs32704753 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="95" pm="."><plain>G/A </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="96" pm="."><plain>Exon16 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text></text></td></tr><tr><td align="left" rowspan="1" colspan="1"><text></text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="97" pm="."><plain>rs4179510 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="98" pm="."><plain>T/C </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="99" pm="."><plain>Exon16 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text></text></td></tr><tr><td align="left" rowspan="1" colspan="1"><text></text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="100" pm="."><plain>rs4179504 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="101" pm="."><plain>A/G </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="102" pm="."><plain>Exon18 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text></text></td></tr><tr><td align="left" rowspan="1" colspan="1"><text><SENT sid="103" pm="."><plain>Spice1 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="104" pm="."><plain>rs4179702 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="105" pm="."><plain>C/A </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="106" pm="."><plain>Exon14 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="107" pm="."><plain>R708S </plain></SENT>
+</text></td></tr><tr><td align="left" rowspan="1" colspan="1"><text></text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="108" pm="."><plain>rs31418354 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="109" pm="."><plain>T/C </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="110" pm="."><plain>Exon14 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text></text></td></tr><tr><td align="left" rowspan="1" colspan="1"><text><SENT sid="111" pm="."><plain>Boc </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="112" pm="."><plain>NW_001030584.1 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="113" pm="."><plain>CGT insertion </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="114" pm="."><plain>Exon8 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="115" pm="."><plain>S450-insertion </plain></SENT>
+</text></td></tr><tr><td align="left" rowspan="1" colspan="1"><text></text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="116" pm="."><plain>rs4179917 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="117" pm="."><plain>C/A </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="118" pm="."><plain>Intron11–12 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text></text></td></tr><tr><td align="left" rowspan="1" colspan="1"><text></text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="119" pm="."><plain>rs4179913 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="120" pm="."><plain>C/T </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="121" pm="."><plain>Exon16 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text></text></td></tr><tr><td align="left" rowspan="1" colspan="1"><text></text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="122" pm="."><plain>rs45694900 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="123" pm="."><plain>A/G </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="124" pm="."><plain>Exon16 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text></text></td></tr><tr><td align="left" rowspan="1" colspan="1"><text></text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="125" pm="."><plain>rs4179908 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="126" pm="."><plain>T/C </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="127" pm="."><plain>Exon19 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="128" pm="."><plain>Q1051R </plain></SENT>
+</text></td></tr><tr><td align="left" rowspan="1" colspan="1"><text></text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="129" pm="."><plain>rs4179907 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="130" pm="."><plain>G/A </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="131" pm="."><plain>3′UTR </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text></text></td></tr><tr><td align="left" rowspan="1" colspan="1"><text><SENT sid="132" pm="."><plain>Wdr52 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="133" pm="."><plain>rs4179728 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="134" pm="."><plain>A/G </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="135" pm="."><plain>Exon3 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text></text></td></tr><tr><td align="left" rowspan="1" colspan="1"><text></text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="136" pm="."><plain>rs4179729 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="137" pm="."><plain>T/C </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="138" pm="."><plain>Exon3 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text></text></td></tr><tr><td align="left" rowspan="1" colspan="1"><text></text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="139" pm="."><plain>rs4179745 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="140" pm="."><plain>T/C </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="141" pm="."><plain>Intron10–11 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text></text></td></tr><tr><td align="left" rowspan="1" colspan="1"><text></text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="142" pm="."><plain>ENSMUSSNP328538 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="143" pm="."><plain>C/A </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="144" pm="."><plain>Intron14–15 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text></text></td></tr><tr><td align="left" rowspan="1" colspan="1"><text></text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="145" pm="."><plain>rs32712110 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="146" pm="."><plain>T/C </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="147" pm="."><plain>Exon17 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text></text></td></tr><tr><td align="left" rowspan="1" colspan="1"><text></text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="148" pm="."><plain>rs4179843 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="149" pm="."><plain>C/T </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="150" pm="."><plain>Intron26–27 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text></text></td></tr><tr><td align="left" rowspan="1" colspan="1"><text></text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="151" pm="."><plain>rs4179872 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="152" pm="."><plain>T/C </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="153" pm="."><plain>Exon28 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text></text></td></tr><tr><td align="left" rowspan="1" colspan="1"><text></text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="154" pm="."><plain>rs31418356 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="155" pm="."><plain>C/T </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="156" pm="."><plain>Intron28–29 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text></text></td></tr><tr><td align="left" rowspan="1" colspan="1"><text></text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="157" pm="."><plain>rs32712642 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="158" pm="."><plain>C/T </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text><SENT sid="159" pm="."><plain>Exon31 </plain></SENT>
+</text></td><td align="left" rowspan="1" colspan="1"><text></text></td></tr></tbody></table></alternatives></table-wrap></SecTag></sec><sec id="s2d"><title><text><SENT sid="160" pm="."><plain>Measurements of tissue non-heme iron, heme, and serum iron </plain></SENT>
+</text></title><p><text><SENT sid="161" pm="."><plain>Quantitative measurement of tissue non-heme iron and serum iron parameters were performed as previously described [17]. </plain></SENT>
+<SENT sid="162" pm="."><plain>Heme content was measured using QuantiChrom™ Heme Assay Kit (BioAssay Systems, DIHM-250) according to the manual and was normalized using protein concentrations. </plain></SENT>
+</text></p></sec><sec id="s2e"><title><text><SENT sid="163" pm="."><plain>Quantitative RT-PCR </plain></SENT>
+</text></title><p><text><SENT sid="164" pm="."><plain>Quantitative RT-PCR (qPCR) was performed as described previously [16]. </plain></SENT>
+<SENT sid="165" pm="."><plain>Raw data was normalized to internal β-actin and presented as relative expression levels. </plain></SENT>
+<SENT sid="166" pm="."><plain>All primers for qPCR are described in Table S2. </plain></SENT>
+</text></p></sec><sec id="s2f"><title><text><SENT sid="167" pm="."><plain>Western blots </plain></SENT>
+</text></title><p><text><SENT sid="168" pm="."><plain>Western blots were performed as previously described [16]. </plain></SENT>
+<SENT sid="169" pm="."><plain>Primary antibodies used are as follows: rabbit anti-H-ferritin (1∶1000 dilution, Alpha Diagnostics International), rabbit anti-L-ferritin (1∶1000 dilution, ABCAM), rabbit anti-flag(1∶1000 dilution, cell signaling), rabbit anti-Sidt1(1∶1000 dilution, Santa Cruz), rabbit anti-β-actin (1∶2000 dilution, Sigma), rabbit anti-mouse ferroportin(1∶1000).Quantification of western blots was performed using Quantity One (Bio-Rad) according to the manual. </plain></SENT>
+</text></p></sec><sec id="s2g"><title><text><SENT sid="170" pm="."><plain>Constructs and plasmids </plain></SENT>
+</text></title><p><text><SENT sid="171" pm="."><plain>Full-length mouse cDNA of candidates including Zdhhc23, Gramd1c, Atp6v1a, Naa50, Sidt1, Boc and Gtpbp8 were obtained from Open Biosystems. </plain></SENT>
+<SENT sid="172" pm="."><plain>We first cloned each gene's CDS into pCMV-3Tag-3A (Agilent Technologies) with a C-terminally expressed 3×Flag tag. </plain></SENT>
+<SENT sid="173" pm="."><plain>The 3×flag fusion proteins were then subcloned into the final pLive Vector (Mirus, Madison, WI) for Hydrodynamic-based transfection. </plain></SENT>
+<SENT sid="174" pm="."><plain>For cell-based iron uptake assays, CDS of mSidt1 (B6 and SWR allele) was cloned into pCMV-Sport6 (Open Biosystems). </plain></SENT>
+<SENT sid="175" pm="."><plain>Mutagenesis: The pCMV-Sidt1-SWR clone containing the P172R mutation was constructed using the QuikChange® II Site-Directed Mutagenesis Kit(Stratagene) following the manufacturer's instructions. </plain></SENT>
+</text></p></sec><sec id="s2h"><title><text><SENT sid="176" pm="."><plain>Hydrodynamic-based transfection in vivo </plain></SENT>
+</text></title><p><text><SENT sid="177" pm="."><plain>The pLive Vector designed for prolonged expression of transgenes in mouse liver was purchased from Mirus (Madison, WI). </plain></SENT>
+<SENT sid="178" pm="."><plain>All plasmid DNAs were purified with the Endofree Plasmid Maxi Kit (Qiagen). </plain></SENT>
+<SENT sid="179" pm="."><plain>A total of 30 ug purified plasmid DNA was delivered into the livers of 6-week-old C57BL/6J male mice by hydrodynamic tail vein injection of the plasmid in a 10% body volume of saline. </plain></SENT>
+</text></p></sec><sec id="s2i"><title><text><SENT sid="180" pm="."><plain>Measurement of iron uptake </plain></SENT>
+</text></title><p><text><SENT sid="181" pm="."><plain>HEK 293T cells were transiently transfected with mSidt1 (B6 and SWR allele), mZip14 [18], or an empty vector for 48 h (Fugene HD, Roche). </plain></SENT>
+<SENT sid="182" pm="."><plain>Prior to uptake, cells were washed twice with serum-free medium (SFM) and incubated at 37°C for 1 h in SFM containing 2% BSA to deplete cells of transferrin and to block nonspecific binding. </plain></SENT>
+<SENT sid="183" pm="."><plain>The uptake buffer (130 mM NaCl, 10 mM KCl, 1 mM CaCl2 and 1 mM MgSO4) was adjusted to the indicated pH value (7.5, 6.5, and 5.5) using HEPES buffers [19], [20]. </plain></SENT>
+<SENT sid="184" pm="."><plain>For uptake, cells were incubated with 2 µM 59Fe-ferric citrate in SFM in the presence of 1 mM L-ascorbic acid for 2 h at 37°C, followed by washing three times with iron chelator solution (1 mM bathophenanthroline sulfonate and 1 m M diethylenetriaminepenta acetic acid) to remove any surface-bound iron. </plain></SENT>
+<SENT sid="185" pm="."><plain>Cells were lysed in buffer containing 0.2 N NaOH and 0.2% SDS. </plain></SENT>
+<SENT sid="186" pm="."><plain>Radioactivity was determined by gamma counting, and protein concentration was determined colorimetrically by using the RC DC protein assay (Bio-Rad). </plain></SENT>
+<SENT sid="187" pm="."><plain>Three independent assays were performed in triplicate. </plain></SENT>
+</text></p></sec><sec id="s2j"><title><text><SENT sid="188" pm="."><plain>Statistical analysis </plain></SENT>
+</text></title><p><text><SENT sid="189" pm="."><plain>Data are presented as mean ± SEM. </plain></SENT>
+<SENT sid="190" pm="."><plain>All experiments were performed in triplicate. </plain></SENT>
+<SENT sid="191" pm="."><plain>Student's t-test was used for comparison between two groups (unpaired, 2-tailed). P&lt;0.05 was considered significant. </plain></SENT>
+</text></p></sec></sec></SecTag><SecTag type="RESULTS"><sec id="s3"><title><text><SENT sid="192" pm="."><plain>Results </plain></SENT>
+</text></title><sec id="s3a"><title><text><SENT sid="193" pm="."><plain>Validation that the QTL on Chromosome 16 affects basal liver non-heme iron content </plain></SENT>
+</text></title><p><text><SENT sid="194" pm="."><plain>A previous linkage analysis by Grant et al. identified two QTLs, one on Chr7 and one on Chr16, affecting basal non-heme iron content in murine liver [21]. </plain></SENT>
+<SENT sid="195" pm="."><plain>The microsatellite markers nearest the calculated peak of the QTLs were identified as D7Mit71 and D16Mit30. </plain></SENT>
+<SENT sid="196" pm="."><plain>To extend on this study, congenic mice were created for Chr7 and Chr16 by producing F1 hybrids between C57BL/6J and SWR, followed by at least nine successive backcrosses to the C57BL/6J parental strain. </plain></SENT>
+<SENT sid="197" pm="."><plain>The genome interval transferred in the original congenic lines spanned from D7Mit68 to D7Mit71 and from D16Mit125 to D16Mit185 ( Figure 1A ). </plain></SENT>
+<SENT sid="198" pm="."><plain>The regions extended beyond the confidence interval to ensure that all the genetic factors that could contribute to the QTL-associated phenotype would be transferred to the resulting congenics. </plain></SENT>
+</text></p><SecTag type="FIG"><fig id="pone-0063280-g001" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0063280.g001</object-id><label>Figure 1</label><caption><title><text><SENT sid="199" pm="."><plain>Haplotypes and quantitative measurements of tissue iron in original congenic strains of chromosome 16 and 7. </plain></SENT>
+</text></title><p><text><SENT sid="200" pm="."><plain>(A) Schematic of original congenic lines carrying portions of SWR chromosomes 7 and 16 (black) on a B6 (grey) background. </plain></SENT>
+<SENT sid="201" pm="."><plain>(B) Liver and spleen non-heme iron concentrations of Chr16 Line 1. </plain></SENT>
+<SENT sid="202" pm="."><plain>(C) Liver and spleen non-heme iron concentrations of congenic lines of Chr7 Line 1. </plain></SENT>
+<SENT sid="203" pm="."><plain>(D) Serum iron, unsaturated iron binding capacity (UIBC) and total iron binding capacity (TIBC), and (E) Serum transferrin saturations (Tf%) measurement of Chr16 Line 1. </plain></SENT>
+<SENT sid="204" pm="."><plain>Data represent mean ± SEM. </plain></SENT>
+<SENT sid="205" pm="."><plain>N.S: no significance, * P&lt;0.05, ** P&lt;0.01. n&gt;5 for each group. </plain></SENT>
+</text></p></caption><graphic xlink:href="pone.0063280.g001"/></fig></SecTag><p><text><SENT sid="206" pm="."><plain>We used an intercross strategy to determine the iron phenotype of the SWR homozygous (s/s) progeny of each congenic mouse at the age of 8 weeks. </plain></SENT>
+<SENT sid="207" pm="."><plain>The Chr16s/s congenics containing the SWR haplotype between D16Mit125 to D16Mit30 showed significantly higher liver non-heme iron content compared with Chr16b/b controls, indicating that the previously detected QTL fell in this region ( Figure 1B ). </plain></SENT>
+<SENT sid="208" pm="."><plain>In contrast, the Chr7s/s congenics containing the chromosome 7 segments did not show significant differences in liver non-heme iron content compared with the Chr7b/b controls ( Figure 1C ). </plain></SENT>
+<SENT sid="209" pm="."><plain>Moreover, Chr16s/s congenics also showed significantly higher serum iron levels and transferrin (Tf)-saturation levels compared with Chr16b/b controls ( Figure 1D, 1E ). </plain></SENT>
+<SENT sid="210" pm="."><plain>No significant changes in iron non-heme content of spleen or other major organs (Figure S1) were found in Chr16 congenics. </plain></SENT>
+<SENT sid="211" pm="."><plain>Thus, we chose the Chr16 congenic line for further study. </plain></SENT>
+</text></p></sec><sec id="s3b"><title><text><SENT sid="212" pm="."><plain>Fine mapping of the QTL on Chromosome 16 with congenic mice </plain></SENT>
+</text></title><p><text><SENT sid="213" pm="."><plain>To fine-map the QTL on Chr16, we continuously backcrossed the initial Chr16 congenic line 1 with B6 mice to generate subcongenic lines carrying various SWR chromosome segments between D16Mit125 and D16Mit185 ( Figure 2A ). </plain></SENT>
+<SENT sid="214" pm="."><plain>Six subcongenic lines were developed successfully. </plain></SENT>
+<SENT sid="215" pm="."><plain>We then examined the iron phenotype of these lines. </plain></SENT>
+<SENT sid="216" pm="."><plain>Out of the six congenic lines, three lines of s/s homozygous (Chr16 line 2, line 3, and line 4) showed significant increases in liver non-heme iron content, which were consistent with the original line 1 ( Figure 2B, 2C, 2D ). </plain></SENT>
+<SENT sid="217" pm="."><plain>In contrast, the other three lines of s/s homozygous mice (Chr16 line 5, line 6, and line 7) did not show such differences (Figure S2A, S2B, S2C). </plain></SENT>
+</text></p><SecTag type="FIG"><fig id="pone-0063280-g002" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0063280.g002</object-id><label>Figure 2</label><caption><title><text><SENT sid="218" pm="."><plain>Haplotypes and iron phenotype analysis of subcongenic lines of Chr16. </plain></SENT>
+</text></title><p><text><SENT sid="219" pm="."><plain>(A) Map of subcongenic lines derived from the original line. </plain></SENT>
+<SENT sid="220" pm="."><plain>(B–D) Measurement of liver and spleen non-heme iron of congenic Line 2, Line 3, and Line 4 (n&gt;5 per group). </plain></SENT>
+<SENT sid="221" pm="."><plain>(E) Serum iron, unsaturated iron binding capacity (UIBC), and total iron binding capacity (TIBC), and (F) Serum transferrin saturation (Tf %) measurement of congenic Line 3. </plain></SENT>
+<SENT sid="222" pm="."><plain>Data represent mean ± SEM. * P&lt;0.05, ** P&lt;0.01. </plain></SENT>
+</text></p></caption><graphic xlink:href="pone.0063280.g002"/></fig></SecTag><p><text><SENT sid="223" pm="."><plain>Congenic line 3 contained the smallest critical region spanning from D16Mit379 to D16Mf1, and thus, was used for further study. </plain></SENT>
+<SENT sid="224" pm="."><plain>The s/s homozygous of line 3 also showed significantly higher serum iron and transferrin saturation levels compared with b/b homozygous controls ( Figure 2E, 2F ). </plain></SENT>
+</text></p></sec><sec id="s3c"><title><text><SENT sid="225" pm="."><plain>Expression profile of iron-related genes in congenic mice </plain></SENT>
+</text></title><p><text><SENT sid="226" pm="."><plain>The candidate gene(s) underlying this QTL may affect iron homeostasis through modification of known iron-regulatory pathway(s) and iron-related genes. </plain></SENT>
+<SENT sid="227" pm="."><plain>Thus, we examined the expression of some iron-related genes in the liver and intestine of congenic mice. </plain></SENT>
+<SENT sid="228" pm="."><plain>Consistent with higher hepatic non-heme iron content, the ferritin protein levels, an indicator of intracellular iron levels, were significantly higher in the s/s homozygous mice compared with the b/b homozygous controls ( Figure 3A ). </plain></SENT>
+</text></p><SecTag type="FIG"><fig id="pone-0063280-g003" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0063280.g003</object-id><label>Figure 3</label><caption><title><text><SENT sid="229" pm="."><plain>Expression profile of selected iron-related genes in congenic liver and duodenum. </plain></SENT>
+</text></title><p><text><SENT sid="230" pm="."><plain>Ferritin-L protein expression in liver (A) and ferroportin1 and ferritin-H expression in duodenum (C) of Chr16b/b and Chr16s/s mice were assessed by western blot. </plain></SENT>
+<SENT sid="231" pm="."><plain>Quantification of protein levels normalized to actin was performed using densitometry in three independent experiments. </plain></SENT>
+<SENT sid="232" pm="."><plain>Relative mRNA levels of selected iron-related genes were measured by qRT-PCR in liver (B) and duodenum (D) of Chr16 congenics and are represented as ratios normalized to Chr16b/b, which was defined as 1.0. n&gt; = 5 for each group. </plain></SENT>
+<SENT sid="233" pm="."><plain>Data represent mean ± SEM. * P&lt;0.05, ** P&lt;0.01. </plain></SENT>
+</text></p></caption><graphic xlink:href="pone.0063280.g003"/></fig></SecTag><p><text><SENT sid="234" pm="."><plain>The qPCR results showed a 1.7-fold upregulation in the expression of the iron-related gene, Hmox1, in Chr16s/s congenic livers compared with Chr16b/b control livers, which was consistent with the hepatic iron accumulation ( Figure 3B ). </plain></SENT>
+<SENT sid="235" pm="."><plain>Complex regulatory mechanisms control the expression of Hmox1; this protein can be induced by iron, oxidative stress and inflammatory stimuli. </plain></SENT>
+<SENT sid="236" pm="."><plain>In addition, Hmox1 can be regulated by cellular heme level through the transcription factor Bach1 [22], [23]. </plain></SENT>
+<SENT sid="237" pm="."><plain>We found significant increases in heme content and the expression of Fth1, another downstream target of Bach1, in Chr16s/s congenic livers compared with Chr16b/b controls. </plain></SENT>
+<SENT sid="238" pm="."><plain>We also detected a significant increase in expression of Sod1 and Gpx4, which are involved in the anti-oxidant response (Figure S3A, S3B). </plain></SENT>
+<SENT sid="239" pm="."><plain>In contrast, we found no significant changes in mRNA levels of pro-inflammatory cytokines including IL-6, TNF-α, or IL-1β in Chr16s/s congenic liver or spleen (Figure S3C) indicating that the inflammatory status in our models is normal. </plain></SENT>
+<SENT sid="240" pm="."><plain>Taken together, we found a significant increase in heme content and oxidative stress level as indicated by the increase in expression of Sod1 and Gpx4 in Chr16s/s liver. </plain></SENT>
+<SENT sid="241" pm="."><plain>It is likely that the increase in iron and oxidative levels contributed to the upregulation in expression of Hmox1 in Chr16s/s liver. </plain></SENT>
+<SENT sid="242" pm="."><plain>Furthermore, there were no differences in gene expression of other iron-related genes in livers and spleen from b/b and s/s mice ( Figure 3B   and Figure S3D). </plain></SENT>
+</text></p><p><text><SENT sid="243" pm="."><plain>In systemic iron metabolism, intestinal iron absorption can influence hepatic iron content, which reflects whole body iron stores. </plain></SENT>
+<SENT sid="244" pm="."><plain>Thus, we examined the expression of some genes controlling intestinal iron absorption. </plain></SENT>
+<SENT sid="245" pm="."><plain>Western blots showed comparable protein levels of Ferroportin1 ( Figure 3C ), the major iron-exporter, in duodenal enterocytes. </plain></SENT>
+<SENT sid="246" pm="."><plain>H-ferritin is required to maintain intestinal iron efflux and H-ferritin deletion in the intestine increases body iron stores and transferrin saturation [24]. </plain></SENT>
+<SENT sid="247" pm="."><plain>As our congenic models displayed similar iron-related phenotypes, we tested whether there was an H-ferritin expression difference in the duodenum in Chr16s/s congenics. </plain></SENT>
+<SENT sid="248" pm="."><plain>However, both qPCR and western blot results indicated that there were no differences in H-ferritin expression at the mRNA or protein levels ( Figure 3C ). </plain></SENT>
+<SENT sid="249" pm="."><plain>Additionally, qPCR results showed no significant differences in the expression of selected genes involved in intestinal iron absorption ( Figure 3D ) between Chr16s/s and Chr16b/b groups. </plain></SENT>
+</text></p></sec><sec id="s3d"><title><text><SENT sid="250" pm="."><plain>Analysis of the candidate genes through genomic DNA sequencing and mRNA expression profiling </plain></SENT>
+</text></title><p><text><SENT sid="251" pm="."><plain>Iron phenotype analysis of the congenic lines refined the candidate interval of chromosome 16 to an 830 kb region ( Figure 4A ). </plain></SENT>
+<SENT sid="252" pm="."><plain>The Ensembl database (Ensembl Genes 67) indicated that 11 candidate genes are located within this critical region (Table S3). </plain></SENT>
+<SENT sid="253" pm="."><plain>None of these candidate genes have previously been reported to have a direct role in iron metabolism. </plain></SENT>
+<SENT sid="254" pm="."><plain>We speculate that the gene(s) underlying this QTL may either have a coding sequence variation that changes the function of the protein or a regulatory sequence variation that could cause differences in gene expression levels between the two parental strains. </plain></SENT>
+<SENT sid="255" pm="."><plain>Exon sequencing all of 11 genes in the critical interval ( Figure 4B ) identified 27 SNPs across four genes ( Table 1 ). </plain></SENT>
+<SENT sid="256" pm="."><plain>Among these, three genes have coding sequence changes: Sidt1 (P172R), Spice1 (R708S), Boc (Q1051R and S450-insertion in B6 allele). </plain></SENT>
+</text></p><SecTag type="FIG"><fig id="pone-0063280-g004" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0063280.g004</object-id><label>Figure 4</label><caption><title><text><SENT sid="257" pm="."><plain>Fine mapping of the QTL on Chr16 and candidate genes in the critical interval. </plain></SENT>
+</text></title><p><text><SENT sid="258" pm="."><plain>(A) Refinement of the Chr16 QTL location using sublines. </plain></SENT>
+<SENT sid="259" pm="."><plain>Genotyping markers defining the boundaries are indicated across the top. </plain></SENT>
+<SENT sid="260" pm="."><plain>The black portion of the lines indicates homozygosity for SWR alleles while grey indicates the B6 background. </plain></SENT>
+<SENT sid="261" pm="."><plain>Liver iron status was grouped as normal (less than 55 mg/g) or high (higher than 70 mg/g) by an arbitrary cut-off and is shown on the right of each panel. </plain></SENT>
+<SENT sid="262" pm="."><plain>(B) The critical candidate region was localized to an 840 kb region as indicated by the vertical arrow. </plain></SENT>
+<SENT sid="263" pm="."><plain>Arrows indicate the direction of transcription. </plain></SENT>
+<SENT sid="264" pm="."><plain>(C) Haplotype panel of inbred mouse strains for the four non-synonymous SNPs. </plain></SENT>
+<SENT sid="265" pm="."><plain>Genotypes of SNPs were ascertained by direct DNA sequence analysis. </plain></SENT>
+<SENT sid="266" pm="."><plain>Alleles identical to B6 alleles are shown in grey and alleles identical to SWR alleles are shown in black. </plain></SENT>
+<SENT sid="267" pm="."><plain>(D) Relative mRNA expression of candidate genes in Chr16 congenic mouse liver. </plain></SENT>
+<SENT sid="268" pm="."><plain>Expression of candidate genes is reported as relative expression levels using β-actin as an internal control in each group. </plain></SENT>
+<SENT sid="269" pm="."><plain>The Chr16s/s: Chr16b/b ratios indicate relative expression levels of the Chr16s/s group normalized to the Chr16s/s group, which was defined as 1.0. </plain></SENT>
+</text></p></caption><graphic xlink:href="pone.0063280.g004"/></fig></SecTag><p><text><SENT sid="270" pm="."><plain>We evaluated the conservation of these four non-synonymous variations by exon sequencing between mouse strains that exhibited differing liver iron statuses. </plain></SENT>
+<SENT sid="271" pm="."><plain>All of the four variations showed consistently different haplotypes between low liver iron strains (C57BL/6J and C57BL/10J [10]) and high liver iron strains (FVB/J, DBA/2J and Blab/cJ) ( Figure 4C ). </plain></SENT>
+</text></p><p><text><SENT sid="272" pm="."><plain>Boc has an insertion of a Ser residue in C57BL strains that makes it different from all other mouse strains and species tested. </plain></SENT>
+<SENT sid="273" pm="."><plain>Moreover, Boc also contained a Q1051R variation, which is conserved in some other mammalian species (Figure S4A, S4B). </plain></SENT>
+</text></p><p><text><SENT sid="274" pm="."><plain>The P172R amino acid substitution in Sidt1 is unique to C57BL strains, altering a residue that is conserved between mouse strains and primates (Figure S4C). </plain></SENT>
+<SENT sid="275" pm="."><plain>While Spice1 has an R708S variation at a poorly conserved residue (Figure S4D). </plain></SENT>
+</text></p><p><text><SENT sid="276" pm="."><plain>To test whether the expression variations of these candidates contributes to the QTL, we examined the expression profile of all 11 candidates in congenic mouse livers using qPCR. </plain></SENT>
+<SENT sid="277" pm="."><plain>None of the investigated genes exhibited significant differences in their mRNA expression levels in liver, intestine, or spleen in Chr16s/s mice compared with Chr16b/b controls ( Figure 4D  , Figure S5A, S5B). </plain></SENT>
+<SENT sid="278" pm="."><plain>To Further investigate the possible involvement of these candidates in iron metabolism, we performed expression profiling of candidates in livers of mice treated with an iron-rich diet. </plain></SENT>
+<SENT sid="279" pm="."><plain>After mice were fed a high iron diet for 1 week, we detected a 10-fold upregulation of hepatic non-heme iron content (data not shown) and significant decrease in TfR1 expression. </plain></SENT>
+<SENT sid="280" pm="."><plain>We found a significant increase in expression of Naa50 and Gtpbp8 and significant decrease in expression of Zdhhc23 in livers of mice with iron overload (Figure S5C). </plain></SENT>
+<SENT sid="281" pm="."><plain>The expression of other candidates was not affected. </plain></SENT>
+</text></p></sec><sec id="s3e"><title><text><SENT sid="282" pm="."><plain>Overexpression and functional testing of candidates in vivo </plain></SENT>
+</text></title><p><text><SENT sid="283" pm="."><plain>As expression profiling analysis did not identify a candidate(s) that could be used for a functional study, we aimed to overexpress each candidate in the liver to test their possible function in iron metabolism. </plain></SENT>
+<SENT sid="284" pm="."><plain>Hydrodynamics-based transfection of the liver is a rapid delivery approach with which to study novel gene function in vivo. </plain></SENT>
+<SENT sid="285" pm="."><plain>In fact, this well-established technique has been previously shown not only to successfully deliver expression constructs to the liver with high efficiency, but also to maintain long-term expression of target genes [25]. </plain></SENT>
+<SENT sid="286" pm="."><plain>For this purpose, we generated expression constructs of six candidates with previously identified specific biological functions and successfully expressed them in C57BL/6J wild-type mouse liver [26], [27], [28], [29], [30], [31]. </plain></SENT>
+<SENT sid="287" pm="."><plain>Six-week-old C57BL/6J mice were injected with 30 µg of construct DNA via hydrodynamic tail vein injection. </plain></SENT>
+<SENT sid="288" pm="."><plain>Four weeks after injection, the expression of candidates in the liver was confirmed by western blot ( Figure 5A ). </plain></SENT>
+<SENT sid="289" pm="."><plain>We then analyzed the iron phenotype of these mice. </plain></SENT>
+<SENT sid="290" pm="."><plain>None of the six candidates showed the ability to alter hepatic non-heme iron content after successful overexpression in liver ( Figure 5B ). </plain></SENT>
+<SENT sid="291" pm="."><plain>Further, we did not detect a significant change in expression of iron-related genes (Figure S6) or in serum iron or transferrin saturation (data not shown). </plain></SENT>
+</text></p><SecTag type="FIG"><fig id="pone-0063280-g005" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0063280.g005</object-id><label>Figure 5</label><caption><title><text><SENT sid="292" pm="."><plain>Overexpression of candidate genes in mouse liver and iron phenotype analysis. </plain></SENT>
+</text></title><p><text><SENT sid="293" pm="."><plain>Candidate genes were delivered to the mice through hydrodynamic transfection. </plain></SENT>
+<SENT sid="294" pm="."><plain>Four weeks after injection, livers were subjected to analysis (n = 5 male mice for each group). </plain></SENT>
+<SENT sid="295" pm="."><plain>(A) Overexpression of candidate genes in mouse liver was examined by western blot. </plain></SENT>
+<SENT sid="296" pm="."><plain>Each lane represents an individual mouse in each group. </plain></SENT>
+<SENT sid="297" pm="."><plain>(B) Liver non-heme iron content of each group was examined (n = 5 male mice for each group). </plain></SENT>
+<SENT sid="298" pm="."><plain>(C) Overexpression of mSidt1-B6 and mSidt1-SWR in mouse liver was examined by western blot. </plain></SENT>
+<SENT sid="299" pm="."><plain>(D) Liver non-heme iron content of each group was measured (n = 5 male mice for each group). </plain></SENT>
+<SENT sid="300" pm="."><plain>(E,F) Analysis of mSidt1(B6 and SWR alleles) in an iron uptake assay. </plain></SENT>
+<SENT sid="301" pm="."><plain>HEK 293T cells were transiently transfected with empty vector, mSidt1-B6, mSidt1-SWR, and mZip14. </plain></SENT>
+<SENT sid="302" pm="."><plain>48 h after transfection, cells were harvested and 20 ug of protein was used for western blot analysis to verify expression of mSidt1 (B6 and SWR). </plain></SENT>
+<SENT sid="303" pm="."><plain>Radioactivity was detected by gamma counter and normalized using protein concentrations. </plain></SENT>
+<SENT sid="304" pm="."><plain>Similar results were obtained in three independent experiments with triplicates. </plain></SENT>
+<SENT sid="305" pm="."><plain>Data represent mean ± SEM. </plain></SENT>
+<SENT sid="306" pm="."><plain>N.S: no significance, * P&lt;0.05, ** P&lt;0.01. </plain></SENT>
+</text></p></caption><graphic xlink:href="pone.0063280.g005"/></fig></SecTag><p><text><SENT sid="307" pm="."><plain>Among the candidates, Sidt1 encodes a mouse gene homologous with Systemic RNAi Deficient-1 in C. elegans, a multi-span transmembrane protein necessary for systemic RNAi activity [32]. </plain></SENT>
+<SENT sid="308" pm="."><plain>A recent study identified Sidt1 as an active dsRNA-gated dsRNA channel [33]. </plain></SENT>
+<SENT sid="309" pm="."><plain>In mice, Sidt1 protein is located on hepatocyte plasma membranes [34]. </plain></SENT>
+<SENT sid="310" pm="."><plain>Furthermore, sequence analysis and biochemical experiments suggest that Sidt1 proteins are composed of an N-terminal extracellular domain followed by 9–12 predicted transmembrane regions, and that the extracellular domain controls its intrinsic ability to transport dsRNA [35]. </plain></SENT>
+<SENT sid="311" pm="."><plain>The P172R variation detected between B6 and SWR mice is located in the extracellular N-terminus of mSidt1. </plain></SENT>
+<SENT sid="312" pm="."><plain>We speculated that this variation may affect protein function and thus selected Sidt1 as a strong candidate for this study. </plain></SENT>
+<SENT sid="313" pm="."><plain>Hydrodynamics-based transfection was used to test the function of mSidt1 (B6 and SWR alleles) in the mouse liver. </plain></SENT>
+<SENT sid="314" pm="."><plain>However, after successful overexpression of the two proteins in mouse liver ( Figure 5C ), no significant changes in liver iron were found compared with empty vector controls ( Figure 5D ). </plain></SENT>
+<SENT sid="315" pm="."><plain>We next attempted a cell-based in vitro functional assay to look for evidence of the possible involvement of this molecule in iron metabolism. </plain></SENT>
+<SENT sid="316" pm="."><plain>Bioinformatics predicts that Sidt1 may function as a transmembrane cation metal ion transporter [36]. </plain></SENT>
+<SENT sid="317" pm="."><plain>We performed a non-transferrin-bound iron (NTBI) uptake assay to test whether mouse Sidt1 harbors the ability to function as an iron transporter. </plain></SENT>
+<SENT sid="318" pm="."><plain>HEK 293T cells were transiently transfected with mSidt1-B6, mSidt1-SWR, mZip14, or empty vector. </plain></SENT>
+<SENT sid="319" pm="."><plain>Western blot analysis revealed successful expression of Sidt1 protein ( Figure 5E ). </plain></SENT>
+<SENT sid="320" pm="."><plain>However, overexpression of mSidt1 (both B6 allele and SWR allele) did not increase the uptake of NTBI ( Figure 5F ) at different pH values. </plain></SENT>
+<SENT sid="321" pm="."><plain>In all assays, mZip14 was included as a positive control [18]. </plain></SENT>
+<SENT sid="322" pm="."><plain>Moreover, a transferrin-bound iron (TBI) uptake assay showed that mSidt1 did not mediate TBI uptake either (data not shown). </plain></SENT>
+<SENT sid="323" pm="."><plain>Thus, we conclude that mSidt1 does not directly mediate iron uptake into cells. </plain></SENT>
+</text></p></sec></sec></SecTag><SecTag type="DISCUSS"><sec id="s4"><title><text><SENT sid="324" pm="."><plain>Discussion </plain></SENT>
+</text></title><p><text><SENT sid="325" pm="."><plain>For studies of susceptibility and phenotypic variations in many diseases, characterization of the genetic architecture and identification of the genes that act as modifiers of complex traits are important, but difficult, studies. </plain></SENT>
+<SENT sid="326" pm="."><plain>Systemic iron homeostasis is a complex trait influenced by multiple genetic factors. </plain></SENT>
+<SENT sid="327" pm="."><plain>QTL mapping accompanied by positional cloning has been used previously to identify novel genes involved in iron homeostasis. </plain></SENT>
+<SENT sid="328" pm="."><plain>In fact, many putative QTLs have been identified by classic intercrosses of different mouse strains with varied iron statuses [12], [13], [14]. </plain></SENT>
+<SENT sid="329" pm="."><plain>However, it is believed that the true number of QTLs is smaller than reported [37] as few have been validated or fine-mapped through use of congenic mouse models. </plain></SENT>
+</text></p><p><text><SENT sid="330" pm="."><plain>In our study, we provided evidence to verify the QTL previously identified on Chr16, which is responsible for the difference in basal hepatic iron levels between B6 and SWR mice. </plain></SENT>
+<SENT sid="331" pm="."><plain>The QTL was then refined from a 20 Mb interval down to a 0.8 Mb interval containing only 11 genes. </plain></SENT>
+<SENT sid="332" pm="."><plain>Although we failed to verify any candidate genes specifically involved in systemic iron homeostasis, our study still represents a step forward in positional cloning of this QTL and provides a foundation for further identification of the novel functions of these genes in iron metabolism. </plain></SENT>
+</text></p><p><text><SENT sid="333" pm="."><plain>We first investigated these candidates using genomic DNA sequencing and mRNA expression profiles. </plain></SENT>
+<SENT sid="334" pm="."><plain>We then performed an unbiased functional screen on several candidates using hydrodynamic-based overexpression in the liver. </plain></SENT>
+<SENT sid="335" pm="."><plain>While the overexpression of candidate genes was successful, none of the seven candidates tested altered liver iron status. </plain></SENT>
+<SENT sid="336" pm="."><plain>This method is both rapid and relatively high-throughput making it an ideal assay for our study; however, its range is somewhat limited. </plain></SENT>
+<SENT sid="337" pm="."><plain>It is possible that candidate genes may function in organs other than liver to influence liver iron status, considering that both the serum iron and transferrin saturation are high in Chr16s/s congenics. </plain></SENT>
+<SENT sid="338" pm="."><plain>Thus, liver-specific overexpression of the candidates may not reveal function. </plain></SENT>
+<SENT sid="339" pm="."><plain>The knockout mouse approach may prove to be a better strategy by which to study these candidate genes, and we plan to employ this tactic in future studies. </plain></SENT>
+</text></p><p><text><SENT sid="340" pm="."><plain>In some cases, QTLs may result from several polymorphisms residing in one gene or closely linked genes rather than a single genetic variation [38], [39], [40]. </plain></SENT>
+<SENT sid="341" pm="."><plain>In our study, we have identified a total of 27 polymorphisms in four candidates ( Table 1 ). </plain></SENT>
+<SENT sid="342" pm="."><plain>However, it would be prohibitively laborious to perform functional tests on each candidate variation as well as their different combinations. </plain></SENT>
+</text></p><p><text><SENT sid="343" pm="."><plain>Among the candidate genes, three have non-synonymous coding sequence variations. Sidt1 has a conserved P172R variation represented in C57BL strains (Pro). </plain></SENT>
+<SENT sid="344" pm="."><plain>Previous studies indicated that Sidt1 functions as an active dsRNA channel [34] and bioinformatics analysis suggested that Sidt1 may possess iron transporter activity [41]. </plain></SENT>
+<SENT sid="345" pm="."><plain>Thus, we selected Sidt1 for our first functional study. </plain></SENT>
+<SENT sid="346" pm="."><plain>Two forms of Sidt1 (B6 and SWR alleles) were overexpressed in liver but failed to change hepatic iron content. </plain></SENT>
+<SENT sid="347" pm="."><plain>A cell transfection assay also ruled out the possibility that mouse Sidt1 acts as a direct NTBI transporter. </plain></SENT>
+<SENT sid="348" pm="."><plain>However, it is possible that Sidt1 could uptake some other solutes and in turn, affect iron homeostasis. </plain></SENT>
+<SENT sid="349" pm="."><plain>Future studies will be required to assess this possibility. </plain></SENT>
+</text></p><p><text><SENT sid="350" pm="."><plain>Boc has two non-synonymous variations, with the Ser450 insertion variation being highly conserved between mouse strains and other species making it a relatively strong candidate. </plain></SENT>
+<SENT sid="351" pm="."><plain>However, Boc gene expression in the liver is low and its only reported function is during neural development [26], [42]. </plain></SENT>
+<SENT sid="352" pm="."><plain>Considering this, overexpression of Boc in the liver may not fully reflect its role in vivo. </plain></SENT>
+<SENT sid="353" pm="."><plain>The available Boc knockout mouse model should provide a superior method with which to assess Boc's possible role in iron metabolism [26]. Spice1 also has a non-synonymous variation. </plain></SENT>
+<SENT sid="354" pm="."><plain>However, as a novel gene without validated in vivo functions, it is hard to predict its possible role or mechanism of action in iron metabolism. </plain></SENT>
+</text></p><p><text><SENT sid="355" pm="."><plain>Among the candidates genes, Atp6v1a is reported to be involved in iron metabolism. Atp6v1a, ATPase H+ transporting lysosomal V1 subunit A, belongs to the V-type ATPase protein family. </plain></SENT>
+<SENT sid="356" pm="."><plain>This protein complex is responsible for pumping protons from the cytoplasm to the lumen of organelles and plays important roles in endosomal acidification, which is important for the endocytic pathway [28]. </plain></SENT>
+<SENT sid="357" pm="."><plain>V-type ATPase inhibitors have been shown to affect transferrin recycling and iron uptake [43], [44]. </plain></SENT>
+<SENT sid="358" pm="."><plain>Additionally, Nieland, et al. found two sulfonamide compounds that could reversibly inhibit transferrin-mediated iron uptake through alteration of endosomal and lysosomal pH by inhibiting V-ATPase's ATP hydrolysis activity [45]. </plain></SENT>
+<SENT sid="359" pm="."><plain>The zebrafish (Danio rerio) orthologue of Atp6v1a has a critical role in embryonic acid secretion and ion balance [46]. </plain></SENT>
+<SENT sid="360" pm="."><plain>Together these findings strongly implicate Atp6v1a in iron metabolism; however, we did not find any coding sequence variations or expression differences in this gene in our congenic mouse models. </plain></SENT>
+<SENT sid="361" pm="."><plain>Nonetheless, the possibility remains that there are variations in Atp6v1a protein levels, including protein content and subcellular localization, in our models. </plain></SENT>
+<SENT sid="362" pm="."><plain>Further studies are necessary for detailed investigation of Atp6v1a's role in iron metabolism. </plain></SENT>
+</text></p><p><text><SENT sid="363" pm="."><plain>Using the iron rich diet-treated mouse model, we detected 3 genes (Zdhhc23, Naa50 and Gtpbp8) with changes in expression induced by severe hepatic iron overload. </plain></SENT>
+<SENT sid="364" pm="."><plain>Among these genes, Zdhhc23 (zinc finger, DHHC domain containing 23) is a palmitoyl-transferase involved in protein palmitoylation. Zdhhc23 is reported to control the palmitoylation of calcium-activated potassium channels, which is important for the surface expression of these ion channels [27]. </plain></SENT>
+<SENT sid="365" pm="."><plain>Also, palmitoylation is important for cell-surface expression, spatial organization, and activity of many other ion channels [47]. </plain></SENT>
+<SENT sid="366" pm="."><plain>The decreased expression of Zdhhc23 in iron overload liver may represent a response to iron accumulation by regulation of the activities of ion channels that could potentially be responsible for iron metabolism. </plain></SENT>
+<SENT sid="367" pm="."><plain>Whether these genes are involved in iron metabolism will require further study. </plain></SENT>
+</text></p><p><text><SENT sid="368" pm="."><plain>Hemochromatosis is a typical iron-related disorder characterized by excessive iron-overload in the liver and other parenchymal organs. </plain></SENT>
+<SENT sid="369" pm="."><plain>Genetic mutations affecting hamp1 expression or the hepcidin-Ferroportin1 axis can cause this syndrome. </plain></SENT>
+<SENT sid="370" pm="."><plain>In our congenic models, we found that the expression of hamp1 is normal and the signaling pathways controlling hepcidin expression examined (BMP-HJV, TfR2-HFE, and inflammation pathways) are intact. </plain></SENT>
+<SENT sid="371" pm="."><plain>We also did not find gene expression changes in Fpn1. </plain></SENT>
+<SENT sid="372" pm="."><plain>Thus, we inferred that the candidate modifier(s) may affect liver iron homeostasis through pathways other than hepcidin regulation. </plain></SENT>
+</text></p><p><text><SENT sid="373" pm="."><plain>We found a significant increase in both liver and serum iron levels in Chr16s/s congenics, which implied co-upregulation of these traits by the candidate genes [37]. </plain></SENT>
+<SENT sid="374" pm="."><plain>Moreover, this indicated the causal link between upregulation of intestinal iron absorption and elevated hepatic iron content. </plain></SENT>
+<SENT sid="375" pm="."><plain>Although we did not find significant changes in the expression levels of genes involved in iron absorption (DMT-1, Dcytb, Hephestin, Ferroportin1 and H-Ferritin) between Chr16s/s congenics and Chr16b/b controls, we still could not rule out the possibility that changes in intestinal iron absorption may partially contribute to the elevated hepatic iron accumulation. </plain></SENT>
+<SENT sid="376" pm="."><plain>More comprehensive approaches including intestinal radioactive iron absorption assays are needed to fully investigate this possibility. </plain></SENT>
+</text></p><p><text><SENT sid="377" pm="."><plain>Mouse heme oxygenase 1 (Hmox1) catabolizes cellular heme to biliverdin, carbon monoxide, and free iron [48]. </plain></SENT>
+<SENT sid="378" pm="."><plain>This process is crucial for the expulsion of iron from tissue stores. Hmox1 KO mice showed low serum iron and anemia while they had mild iron loading in liver and kidney at 50 weeks of age [49]. Hmox1 expression is regulated by heme, iron, oxidative stress and inflammatory stimuli [22]. </plain></SENT>
+<SENT sid="379" pm="."><plain>In our model, we concluded that the upregulation of Hmox1 expression in congenic liver is induced by elevated iron and heme content and oxidative stress level. </plain></SENT>
+</text></p><p><text><SENT sid="380" pm="."><plain>The differences in hepatic iron status in these mice could contribute to predisposition to iron-related disorders. </plain></SENT>
+<SENT sid="381" pm="."><plain>SWR mouse strains are more susceptible to uroporphyria [11] and are more resistant to hepatic protoporphyria [50], which are caused by some iron-chelating drugs. </plain></SENT>
+<SENT sid="382" pm="."><plain>In our congenic model, the differences in hepatic iron levels could not be explained by variations in known iron-related genes and thus, the novel modifier identified in this region may confer predisposition to these iron-related disorders in different mouse strains. </plain></SENT>
+</text></p><p><text><SENT sid="383" pm="."><plain>In summary, we validated and fine-mapped the QTL on Chr16 controlling hepatic iron accumulation. </plain></SENT>
+<SENT sid="384" pm="."><plain>Using sequencing data and expression profile analyses, we identified three strong candidates, Sidt1, Boc, and Spice1, which had non-synonymous variations. </plain></SENT>
+<SENT sid="385" pm="."><plain>This study could guide future work for identification of a novel genetic modifier involved in iron metabolism. </plain></SENT>
+</text></p></sec></SecTag><SecTag type="SUPPL"><sec sec-type="supplementary-material" id="s5"><title><text><SENT sid="386" pm="."><plain>Supporting Information </plain></SENT>
+</text></title><supplementary-material content-type="local-data" id="pone.0063280.s001"><label>Figure S1</label><caption><p><text><SENT sid="387" pm="."><plain>Measurements of non-heme iron content of organs including heart, kidney, lung, and pancreas of original Chr16 congenic mice (n&gt; = 5 for each group, 8 weeks). Data represent mean ± SEM, N.S: no significance. </plain></SENT>
+</text></p><p><text><SENT sid="388" pm="."><plain>(TIF) </plain></SENT>
+</text></p></caption><media xlink:href="pone.0063280.s001.tif"><caption><p><text><SENT sid="389" pm="."><plain>Click here for additional data file. </plain></SENT>
+</text></p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pone.0063280.s002"><label>Figure S2</label><caption><p><text><SENT sid="390" pm="."><plain>Measurement of liver and spleen non-heme iron contents of congenic line 5, line 6, and line 7. Data represent mean ± SEM, N.S: no significance, n = 5 for each group. </plain></SENT>
+</text></p><p><text><SENT sid="391" pm="."><plain>(TIF) </plain></SENT>
+</text></p></caption><media xlink:href="pone.0063280.s002.tif"><caption><p><text><SENT sid="392" pm="."><plain>Click here for additional data file. </plain></SENT>
+</text></p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pone.0063280.s003"><label>Figure S3</label><caption><p><text><SENT sid="393" pm="."><plain>(A) Measurement of liver heme iron contents of Chr16 congenic line 3. </plain></SENT>
+<SENT sid="394" pm="."><plain>(B) Relative mRNA expression of Fth1, Sod1 and Gpx4 in congenic mouse liver. </plain></SENT>
+<SENT sid="395" pm="."><plain>(C) Relative mRNA expression of IL-6, TNF-α and IL-1β in Chr16 congenic mouse liver and spleen. </plain></SENT>
+<SENT sid="396" pm="."><plain>(D) Relative mRNA levels of Fpn1 and TfR1 in congenic spleen. </plain></SENT>
+<SENT sid="397" pm="."><plain>Expression of indicated genes is reported as relative expression levels using β-actin as an internal control in each group. </plain></SENT>
+<SENT sid="398" pm="."><plain>The Chr16s/s: Chr16b/b ratios indicate relative expression levels of the Chr16s/s group normalized to the Chr16s/s group, which was defined as 1.0. n&gt;5 for each group. </plain></SENT>
+<SENT sid="399" pm="."><plain>Data represent mean ± SEM, N.S: no significance. * P&lt;0.05, ** P&lt;0.01. </plain></SENT>
+</text></p><p><text><SENT sid="400" pm="."><plain>(TIF) </plain></SENT>
+</text></p></caption><media xlink:href="pone.0063280.s003.tif"><caption><p><text><SENT sid="401" pm="."><plain>Click here for additional data file. </plain></SENT>
+</text></p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pone.0063280.s004"><label>Figure S4</label><caption><p><text><SENT sid="402" pm="."><plain>Conservation of the non-synonymous variations detected in genes  Boc ,  Sidt1 , and  Spice1  across species. The position of each fragment is indicated by the numbers on the right and sources of sequences are shown on the left. </plain></SENT>
+<SENT sid="403" pm="."><plain>The alignments were performed by the Clustal W Method. </plain></SENT>
+<SENT sid="404" pm="."><plain>The black shading indicates residues that match the consensus.(A) Boc of C57BL alleles has unique Ser450 insertions, a polymorphism not previously reported. </plain></SENT>
+<SENT sid="405" pm="."><plain>(B) Boc also has a Q1051R variation at a conserved residue. </plain></SENT>
+<SENT sid="406" pm="."><plain>(C) Sidt1 has a P172R variation and the residue is conserved between humans and rodents. </plain></SENT>
+<SENT sid="407" pm="."><plain>(D) Spice1 shows an R708S variation at a poorly conserved residue. </plain></SENT>
+</text></p><p><text><SENT sid="408" pm="."><plain>(TIF) </plain></SENT>
+</text></p></caption><media xlink:href="pone.0063280.s004.tif"><caption><p><text><SENT sid="409" pm="."><plain>Click here for additional data file. </plain></SENT>
+</text></p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pone.0063280.s005"><label>Figure S5</label><caption><p><text><SENT sid="410" pm="."><plain>Relative mRNA expression of candidate genes in Chr16 congenic mouse intestine (A) and spleen (B). The Chr16s/s: Chr16b/b ratios indicate relative expression levels of the Chr16s/s group normalized to the Chr16s/s group, which was defined as 1.0. </plain></SENT>
+<SENT sid="411" pm="."><plain>(C) Relative mRNA expression of candidate genes in mice liver treated with iron rich diet. </plain></SENT>
+<SENT sid="412" pm="."><plain>The ratios represent the relative expression values normalized to control group, which was defined as 1.0. β-actin was as an internal control in each group. n&gt; = 5 for each group. </plain></SENT>
+<SENT sid="413" pm="."><plain>Data represent mean ± SEM, N.S: no significance. * P&lt;0.05, ** P&lt;0.01. </plain></SENT>
+</text></p><p><text><SENT sid="414" pm="."><plain>(TIF) </plain></SENT>
+</text></p></caption><media xlink:href="pone.0063280.s005.tif"><caption><p><text><SENT sid="415" pm="."><plain>Click here for additional data file. </plain></SENT>
+</text></p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pone.0063280.s006"><label>Figure S6</label><caption><p><text><SENT sid="416" pm="."><plain>Relative mRNA expression of iron related genes in mouse liver overexpressed the indicated candidate genes through hydrodynamic transfection. n = 5 male mice for each group, β-actin was used as an internal control and data was represent as ratios of pLIVE control relative to candidate genes group. </plain></SENT>
+<SENT sid="417" pm="."><plain>Data represent mean ± SEM, N.S: no significance. </plain></SENT>
+</text></p><p><text><SENT sid="418" pm="."><plain>(TIF) </plain></SENT>
+</text></p></caption><media xlink:href="pone.0063280.s006.tif"><caption><p><text><SENT sid="419" pm="."><plain>Click here for additional data file. </plain></SENT>
+</text></p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pone.0063280.s007"><label>Table S1</label><caption><p><text><SENT sid="420" pm="."><plain>Sequences of genotyping primers. </plain></SENT>
+</text></p><p><text><SENT sid="421" pm="."><plain>(DOCX) </plain></SENT>
+</text></p></caption><media xlink:href="pone.0063280.s007.docx"><caption><p><text><SENT sid="422" pm="."><plain>Click here for additional data file. </plain></SENT>
+</text></p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pone.0063280.s008"><label>Table S2</label><caption><p><text><SENT sid="423" pm="."><plain>Sequences of oligonucleotide primers for Real-time PCR. </plain></SENT>
+</text></p><p><text><SENT sid="424" pm="."><plain>(DOCX) </plain></SENT>
+</text></p></caption><media xlink:href="pone.0063280.s008.docx"><caption><p><text><SENT sid="425" pm="."><plain>Click here for additional data file. </plain></SENT>
+</text></p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pone.0063280.s009"><label>Table S3</label><caption><p><text><SENT sid="426" pm="."><plain>Interval candidate gene accession numbers. </plain></SENT>
+</text></p><p><text><SENT sid="427" pm="."><plain>(DOCX) </plain></SENT>
+</text></p></caption><media xlink:href="pone.0063280.s009.docx"><caption><p><text><SENT sid="428" pm="."><plain>Click here for additional data file. </plain></SENT>
+</text></p></caption></media></supplementary-material></sec></SecTag></body><back><SecTag type="ACK_FUND"><ack><p><text4fund><text><SENT sid="429" pm="."><plain>We appreciate the other members of the Wang laboratory for providing scientific comments for the manuscript. </plain></SENT>
+</text></text4fund></p></ack></SecTag><SecTag type="REF"><ref-list><title>References</title><ref id="pone.0063280-Kaplan1"><text><SENT sid="430" pm="."><plain>1 KaplanJ, De DomenicoI, WardDM (2008) Regulation of iron acquisition and storage: consequences for iron-linked disorders. Nature Reviews Molecular Cell Biology 9: 72–81.17987043 </plain></SENT>
+</text></ref><ref id="pone.0063280-Andrews1"><text><SENT sid="431" pm="."><plain>2 AndrewsNC (2008) Forging a field: the golden age of iron biology. Blood 112: 219–230.18606887 </plain></SENT>
+</text></ref><ref id="pone.0063280-Zhang1"><text><SENT sid="432" pm="."><plain>3 ZhangZ, ZhangF, GuoX, AnP, TaoY, et al (2012) Ferroportin1 in hepatocytes and macrophages is required for the efficient mobilization of body iron stores. Hepatology  </plain></SENT>
+</text></ref><ref id="pone.0063280-Ganz1"><text><SENT sid="433" pm="."><plain>4 GanzT (2003) Hepcidin, a key regulator of iron metabolism and mediator of anemia of inflammation. Blood 102: 783–788.12663437 </plain></SENT>
+</text></ref><ref id="pone.0063280-Andrews2"><text><SENT sid="434" pm="."><plain>5 AndrewsNC, SchmidtPJ (2007) Iron homeostasis. Annu Rev Physiol 69: 69–85.17014365 </plain></SENT>
+</text></ref><ref id="pone.0063280-Whitlock1"><text><SENT sid="435" pm="."><plain>6 WhitlockEP, GarlitzBA, HarrisEL, BeilTL, SmithPR (2006) Screening for hereditary hemochromatosis: A systematic review for the US Preventive Services Task Force. Annals of Internal Medicine 145: 209–223.16880463 </plain></SENT>
+</text></ref><ref id="pone.0063280-Andrews3"><text><SENT sid="436" pm="."><plain>7 AndrewsNC (2000) Iron homeostasis: insights from genetics and animal models. Nat Rev Genet 1: 208–217.11252750 </plain></SENT>
+</text></ref><ref id="pone.0063280-Bartnikas1"><text><SENT sid="437" pm="."><plain>8 BartnikasTB, ParkerCC, ChengR, CampagnaDR, LimJE, et al (2012) QTLs for murine red blood cell parameters in LG/J and SM/J F(2) and advanced intercross lines. Mamm Genome 23: 356–366.22322356 </plain></SENT>
+</text></ref><ref id="pone.0063280-McCreedy1"><text><SENT sid="438" pm="."><plain>9 McCreedyRA, FleetJC (2009) Forward genetics used to identify new gene Mon1a with critical role in controlling macrophage iron metabolism and iron recycling from erythrocytes. Nutr Rev 67: 607–610.19785692 </plain></SENT>
+</text></ref><ref id="pone.0063280-Wang1"><text><SENT sid="439" pm="."><plain>10 WangF, ParadkarPN, CustodioAO, McVey WardD, FlemingMD, et al (2007) Genetic variation in Mon1a affects protein trafficking and modifies macrophage iron loading in mice. Nat Genet 39: 1025–1032.17632513 </plain></SENT>
+</text></ref><ref id="pone.0063280-Gorman1"><text><SENT sid="440" pm="."><plain>11 GormanN, WaltonHS, BementWJ, HonsingerCP, SzakacsJG, et al (1999) Role of small differences in CYP1A2 in the development of uroporphyria produced by iron and 5-aminolevulinate in C57BL/6 and SWR strains of mice. Biochem Pharmacol 58: 375–382.10423181 </plain></SENT>
+</text></ref><ref id="pone.0063280-Ajioka1"><text><SENT sid="441" pm="."><plain>12 AjiokaRS, LeBoeufRC, GillespieRR, AmonLM, KushnerJP (2007) Mapping genes responsible for strain-specific iron phenotypes in murine chromosome substitution strains. Blood Cells Mol Dis 39: 199–205.17493847 </plain></SENT>
+</text></ref><ref id="pone.0063280-Bensaid1"><text><SENT sid="442" pm="."><plain>13 BensaidM, FruchonS, MazeresC, BahramS, RothMP, et al (2004) Multigenic control of hepatic iron loading in a murine model of hemochromatosis. Gastroenterology 126: 1400–1408.15131800 </plain></SENT>
+</text></ref><ref id="pone.0063280-Jones1"><text><SENT sid="443" pm="."><plain>14 JonesBC, BeardJL, GibsonJN, UngerEL, AllenRP, et al (2007) Systems genetic analysis of peripheral iron parameters in the mouse. Am J Physiol Regul Integr Comp Physiol 293: R116–124.17475678 </plain></SENT>
+</text></ref><ref id="pone.0063280-Smith1"><text><SENT sid="444" pm="."><plain>15 SmithAG, GrantGR, RobinsonSW, EdwardsRE, ClothierB, et al (2006) Multiple polymorphic loci determine basal hepatic and splenic iron status in mice. Hepatology 44: 174–185.16799992 </plain></SENT>
+</text></ref><ref id="pone.0063280-Zhang2"><text><SENT sid="445" pm="."><plain>16 ZhangZ, ZhangF, AnP, GuoX, ShenY, et al (2011) Ferroportin1 deficiency in mouse macrophages impairs iron homeostasis and inflammatory responses. Blood 118: 1912–1922.21705499 </plain></SENT>
+</text></ref><ref id="pone.0063280-Torrance1"><text><SENT sid="446" pm="."><plain>17 TorranceJD, BothwellTH (1980) Tissue iron store. Methods in hematology 90–115. </plain></SENT>
+</text></ref><ref id="pone.0063280-Liuzzi1"><text><SENT sid="447" pm="."><plain>18 LiuzziJP, AydemirF, NamH, KnutsonMD, CousinsRJ (2006) Zip14 (Slc39a14) mediates non-transferrin-bound iron uptake into cells. Proc Natl Acad Sci U S A 103: 13612–13617.16950869 </plain></SENT>
+</text></ref><ref id="pone.0063280-Gunshin1"><text><SENT sid="448" pm="."><plain>19 GunshinH, MackenzieB, BergerUV, GunshinY, RomeroMF, et al (1997) Cloning and characterization of a mammalian proton-coupled metal-ion transporter. Nature 388: 482–488.9242408 </plain></SENT>
+</text></ref><ref id="pone.0063280-Mackenzie1"><text><SENT sid="449" pm="."><plain>20Mackenzie (1999) Selected techniques in membrane transport. </plain></SENT>
+<SENT sid="450" pm="."><plain>In: Van Winkle LJ, ed. </plain></SENT>
+<SENT sid="451" pm="."><plain>Biomembrane Transport. </plain></SENT>
+<SENT sid="452" pm="."><plain>San Diego: Academic Press. </plain></SENT>
+<SENT sid="453" pm="."><plain>Artif Intell Med: 327–342. </plain></SENT>
+</text></ref><ref id="pone.0063280-Grant1"><text><SENT sid="454" pm="."><plain>21 GrantGR, RobinsonSW, EdwardsRE, ClothierB, DaviesR, et al (2006) Multiple polymorphic loci determine basal hepatic and splenic iron status in mice. Hepatology 44: 174–185.16799992 </plain></SENT>
+</text></ref><ref id="pone.0063280-Paine1"><text><SENT sid="455" pm="."><plain>22 PaineA, Eiz-VesperB, BlasczykR, ImmenschuhS (2010) Signaling to heme oxygenase-1 and its anti-inflammatory therapeutic potential. Biochem Pharmacol 80: 1895–1903.20643109 </plain></SENT>
+</text></ref><ref id="pone.0063280-Hintze1"><text><SENT sid="456" pm="."><plain>23 HintzeKJ, KatohY, IgarashiK, TheilEC (2007) Bach1 repression of ferritin and thioredoxin reductase1 is heme-sensitive in cells and in vitro and coordinates expression with heme oxygenase1, beta-globin, and NADP(H) quinone (oxido) reductase1. J Biol Chem 282: 34365–34371.17901053 </plain></SENT>
+</text></ref><ref id="pone.0063280-Vanoaica1"><text><SENT sid="457" pm="."><plain>24 VanoaicaL, DarshanD, RichmanL, SchumannK, KuhnLC (2010) Intestinal ferritin H is required for an accurate control of iron absorption. Cell Metab 12: 273–282.20816093 </plain></SENT>
+</text></ref><ref id="pone.0063280-Bell1"><text><SENT sid="458" pm="."><plain>25 BellJB, Podetz-PedersenKM, AronovichEL, BelurLR, McIvorRS, et al (2007) Preferential delivery of the Sleeping Beauty transposon system to livers of mice by hydrodynamic injection. Nat Protoc 2: 3153–3165.18079715 </plain></SENT>
+</text></ref><ref id="pone.0063280-Okada1"><text><SENT sid="459" pm="."><plain>26 OkadaA, CharronF, MorinS, ShinDS, WongK, et al (2006) Boc is a receptor for sonic hedgehog in the guidance of commissural axons. Nature 444: 369–373.17086203 </plain></SENT>
+</text></ref><ref id="pone.0063280-Tian1"><text><SENT sid="460" pm="."><plain>27 TianL, McClaffertyH, KnausHG, RuthP, ShipstonMJ (2012) Distinct acyl protein transferases and thioesterases control surface expression of calcium-activated potassium channels. J Biol Chem 287: 14718–14725.22399288 </plain></SENT>
+</text></ref><ref id="pone.0063280-Lafourcade1"><text><SENT sid="461" pm="."><plain>28 LafourcadeC, SoboK, Kieffer-JaquinodS, GarinJ, van der GootFG (2008) Regulation of the V-ATPase along the endocytic pathway occurs through reversible subunit association and membrane localization. PLoS One 3: e2758.18648502 </plain></SENT>
+</text></ref><ref id="pone.0063280-Evjenth1"><text><SENT sid="462" pm="."><plain>29 EvjenthR, HoleK, KarlsenOA, ZieglerM, ArnesenT, et al (2009) Human Naa50p (Nat5/San) displays both protein N alpha- and N epsilon-acetyltransferase activity. J Biol Chem 284: 31122–31129.19744929 </plain></SENT>
+</text></ref><ref id="pone.0063280-Gao1"><text><SENT sid="463" pm="."><plain>30 GaoL, ShenWT, YanP, TuoDC, LiXY, et al (2012) A set of host proteins interacting with papaya ringspot virus NIa-Pro protein identified in a yeast two-hybrid system. Acta Virol 56: 25–30.22404606 </plain></SENT>
+</text></ref><ref id="pone.0063280-Doerks1"><text><SENT sid="464" pm="."><plain>31 DoerksT, StraussM, BrendelM, BorkP (2000) GRAM, a novel domain in glucosyltransferases, myotubularins and other putative membrane-associated proteins. Trends Biochem Sci 25: 483–485.11050430 </plain></SENT>
+</text></ref><ref id="pone.0063280-Winston1"><text><SENT sid="465" pm="."><plain>32 WinstonWM, MolodowitchC, HunterCP (2002) Systemic RNAi in C. elegans requires the putative transmembrane protein SID-1. Science 295: 2456–2459.11834782 </plain></SENT>
+</text></ref><ref id="pone.0063280-Feinberg1"><text><SENT sid="466" pm="."><plain>33 FeinbergEH, HunterCP (2003) Transport of dsRNA into cells by the transmembrane protein SID-1. Science 301: 1545–1547.12970568 </plain></SENT>
+</text></ref><ref id="pone.0063280-Wolfrum1"><text><SENT sid="467" pm="."><plain>34 WolfrumC, ShiS, JayaprakashKN, JayaramanM, WangG, et al (2007) Mechanisms and optimization of in vivo delivery of lipophilic siRNAs. Nat Biotechnol 25: 1149–1157.17873866 </plain></SENT>
+</text></ref><ref id="pone.0063280-Pratt1"><text><SENT sid="468" pm="."><plain>35 PrattAJ, RamboRP, LauPW, MacRaeIJ (2012) Preparation and characterization of the extracellular domain of human Sid-1. PLoS One 7: e33607.22509261 </plain></SENT>
+</text></ref><ref id="pone.0063280-Pei1"><text><SENT sid="469" pm="."><plain>36 PeiJ, MillayDP, OlsonEN, GrishinNV (2011) CREST - a large and diverse superfamily of putative transmembrane hydrolases. Biol Direct 6: 37.21733186 </plain></SENT>
+</text></ref><ref id="pone.0063280-McLachlan1"><text><SENT sid="470" pm="."><plain>37 McLachlanS, LeeSM, SteeleTM, HawthornePL, ZapalaMA, et al (2011) In silico QTL mapping of basal liver iron levels in inbred mouse strains. Physiol Genomics 43: 136–147.21062905 </plain></SENT>
+</text></ref><ref id="pone.0063280-Glazier1"><text><SENT sid="471" pm="."><plain>38 GlazierAM, NadeauJH, AitmanTJ (2002) Finding genes that underlie complex traits. Science 298: 2345–2349.12493905 </plain></SENT>
+</text></ref><ref id="pone.0063280-Stam1"><text><SENT sid="472" pm="."><plain>39 StamLF, LaurieCC (1996) Molecular dissection of a major gene effect on a quantitative trait: the level of alcohol dehydrogenase expression in Drosophila melanogaster. Genetics 144: 1559–1564.8978044 </plain></SENT>
+</text></ref><ref id="pone.0063280-Aitman1"><text><SENT sid="473" pm="."><plain>40 AitmanTJ, GlazierAM, WallaceCA, CooperLD, NorsworthyPJ, et al (1999) Identification of Cd36 (Fat) as an insulin-resistance gene causing defective fatty acid and glucose metabolism in hypertensive rats. Nat Genet 21: 76–83.9916795 </plain></SENT>
+</text></ref><ref id="pone.0063280-Pei2"><text><SENT sid="474" pm="."><plain>41 PeiJ, MillayDP, OlsonEN, GrishinNV (2011) CREST–a large and diverse superfamily of putative transmembrane hydrolases. Biol Direct 6: 37.21733186 </plain></SENT>
+</text></ref><ref id="pone.0063280-Allen1"><text><SENT sid="475" pm="."><plain>42 AllenBL, SongJY, IzziL, AlthausIW, KangJS, et al (2011) Overlapping roles and collective requirement for the coreceptors GAS1, CDO, and BOC in SHH pathway function. Dev Cell 20: 775–787.21664576 </plain></SENT>
+</text></ref><ref id="pone.0063280-Straud1"><text><SENT sid="476" pm="."><plain>43 StraudS, ZubovychI, De BrabanderJK, RothMG (2010) Inhibition of iron uptake is responsible for differential sensitivity to V-ATPase inhibitors in several cancer cell lines. PLoS One 5: e11629.20661293 </plain></SENT>
+</text></ref><ref id="pone.0063280-Baravalle1"><text><SENT sid="477" pm="."><plain>44 BaravalleG, SchoberD, HuberM, BayerN, MurphyRF, et al (2005) Transferrin recycling and dextran transport to lysosomes is differentially affected by bafilomycin, nocodazole, and low temperature. Cell Tissue Res 320: 99–113.15714281 </plain></SENT>
+</text></ref><ref id="pone.0063280-Nieland1"><text><SENT sid="478" pm="."><plain>45 NielandTJ, FengY, BrownJX, ChuangTD, BuckettPD, et al (2004) Chemical genetic screening identifies sulfonamides that raise organellar pH and interfere with membrane traffic. Traffic 5: 478–492.15180825 </plain></SENT>
+</text></ref><ref id="pone.0063280-Horng1"><text><SENT sid="479" pm="."><plain>46 HorngJL, LinLY, HuangCJ, KatohF, KanekoT, et al (2007) Knockdown of V-ATPase subunit A (atp6v1a) impairs acid secretion and ion balance in zebrafish (Danio rerio). Am J Physiol Regul Integr Comp Physiol 292: R2068–2076.17272665 </plain></SENT>
+</text></ref><ref id="pone.0063280-Shipston1"><text><SENT sid="480" pm="."><plain>47 ShipstonMJ (2011) Ion channel regulation by protein palmitoylation. J Biol Chem 286: 8709–8716.21216969 </plain></SENT>
+</text></ref><ref id="pone.0063280-Ryter1"><text><SENT sid="481" pm="."><plain>48 RyterSW, AlamJ, ChoiAM (2006) Heme oxygenase-1/carbon monoxide: from basic science to therapeutic applications. Physiol Rev 86: 583–650.16601269 </plain></SENT>
+</text></ref><ref id="pone.0063280-Poss1"><text><SENT sid="482" pm="."><plain>49 PossKD, TonegawaS (1997) Heme oxygenase 1 is required for mammalian iron reutilization. Proc Natl Acad Sci U S A 94: 10919–10924.9380735 </plain></SENT>
+</text></ref><ref id="pone.0063280-Smith2"><text><SENT sid="483" pm="."><plain>50 SmithAG, ClothierB, FrancisJE, GibbsAH, De MatteisF, et al (1997) Protoporphyria induced by the orally active iron chelator 1,2-diethyl-3-hydroxypyridin-4-one in C57BL/10ScSn mice. Blood 89: 1045–1051.9028337 </plain></SENT>
+</text></ref></ref-list></SecTag></back></article>

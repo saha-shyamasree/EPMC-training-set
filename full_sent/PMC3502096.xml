@@ -1,0 +1,418 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" xml:lang="en"><?DTDIdentifier.IdentifierValue article.dtd?><?DTDIdentifier.IdentifierType system?><?SourceDTD.DTDName article.dtd?><?SourceDTD.Version 1.0?><?ConverterInfo.XSLTName bmc2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">Epigenetics Chromatin</journal-id><journal-id journal-id-type="iso-abbrev">Epigenetics Chromatin</journal-id><journal-title-group><journal-title>Epigenetics &amp; Chromatin</journal-title></journal-title-group><issn pub-type="epub">1756-8935</issn><publisher><publisher-name>BioMed Central</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">3502096</article-id><article-id pub-id-type="publisher-id">1756-8935-5-16</article-id><article-id pub-id-type="pmid">22958419</article-id><article-id pub-id-type="doi">10.1186/1756-8935-5-16</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research</subject></subj-group></article-categories><title-group><article-title><SecTag type="TITLE"><text><SENT sid="0" pm="."><plain>Spatial organization of the chicken beta-globin gene domain in erythroid cells of embryonic and adult lineages </plain></SENT>
+</text></SecTag></article-title></title-group><contrib-group><contrib contrib-type="author" id="A1"><name><surname>Ulianov</surname><given-names>Sergey V</given-names></name><xref ref-type="aff" rid="I1">1</xref><xref ref-type="aff" rid="I2">2</xref><email>sergey.v.ulyanov@gmail.com</email></contrib><contrib contrib-type="author" id="A2"><name><surname>Gavrilov</surname><given-names>Alexey A</given-names></name><xref ref-type="aff" rid="I1">1</xref><xref ref-type="aff" rid="I3">3</xref><email>aleksey.a.gavrilov@gmail.com</email></contrib><contrib contrib-type="author" corresp="yes" id="A3"><name><surname>Razin</surname><given-names>Sergey V</given-names></name><xref ref-type="aff" rid="I1">1</xref><xref ref-type="aff" rid="I2">2</xref><xref ref-type="aff" rid="I4">4</xref><email>sergey.v.razin@usa.net</email></contrib></contrib-group><aff id="I1"><label>1</label>Institute of Gene Biology of the Russian Academy of Sciences, 34/5 Vavilov str., 119334, Moscow, Russia</aff><aff id="I2"><label>2</label>Faculty of Biology, M.V. Lomonosov Moscow State University, 1/12 Leninskie gory, 119992, Moscow, Russia</aff><aff id="I3"><label>3</label>University of Oslo, Center for Medical Studies in Russia, Moscow, Russia</aff><aff id="I4"><label>4</label>LIA 1066 French-Russian joint cancer research laboratory</aff><pub-date pub-type="collection"><year>2012</year></pub-date><pub-date pub-type="epub"><day>7</day><month>9</month><year>2012</year></pub-date><volume>5</volume><fpage>16</fpage><lpage>16</lpage><history><date date-type="received"><day>2</day><month>5</month><year>2012</year></date><date date-type="accepted"><day>16</day><month>8</month><year>2012</year></date></history><permissions><copyright-statement>Copyright ©2012 Ulyanov et al.; licensee BioMed Central Ltd.</copyright-statement><copyright-year>2012</copyright-year><copyright-holder>Ulyanov et al.; licensee BioMed Central Ltd.</copyright-holder><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.0"><license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/2.0">http://creativecommons.org/licenses/by/2.0</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xlink:href="http://www.epigeneticsandchromatin.com/content/5/1/16"/><abstract><sec><title><text><SENT sid="1" pm="."><plain>Background </plain></SENT>
+</text></title><p><SecTag type="ABS"><text><SENT sid="2" pm="."><plain>The β-globin gene domains of vertebrate animals constitute popular models for studying the regulation of eukaryotic gene transcription. </plain></SENT>
+<SENT sid="3" pm="."><plain>It has previously been shown that in the mouse the developmental switching of globin gene expression correlates with the reconfiguration of an active chromatin hub (ACH), a complex of promoters of transcribed genes with distant regulatory elements. </plain></SENT>
+<SENT sid="4" pm="."><plain>Although it is likely that observations made in the mouse β-globin gene domain are also relevant for this locus in other species, the validity of this supposition still lacks direct experimental evidence. </plain></SENT>
+<SENT sid="5" pm="."><plain>Here, we have studied the spatial organization of the chicken β-globin gene domain. </plain></SENT>
+<SENT sid="6" pm="."><plain>This domain is of particular interest because it represents the perfect example of the so-called ‘strong’ tissue-specific gene domain flanked by insulators, which delimit the area of preferential sensitivity to DNase I in erythroid cells. </plain></SENT>
+</text></SecTag></p></sec><sec><title><text><SENT sid="7" pm="."><plain>Results </plain></SENT>
+</text></title><p><SecTag type="ABS"><text><SENT sid="8" pm="."><plain>Using chromosome conformation capture (3C), we have compared the spatial configuration of the β-globin gene domain in chicken red blood cells (RBCs) expressing embryonic (3-day-old RBCs) and adult (9-day-old RBCs) β-globin genes. </plain></SENT>
+<SENT sid="9" pm="."><plain>In contrast to observations made in the mouse model, we found that in the chicken, the early embryonic β-globin gene, Ε, did not interact with the locus control region in RBCs of embryonic lineage (3-day RBCs), where this gene is actively transcribed. </plain></SENT>
+<SENT sid="10" pm="."><plain>In contrast to the mouse model, a strong interaction of the promoter of another embryonic β-globin gene, ρ, with the promoter of the adult β-globin gene, βA, was observed in RBCs from both 3-day and 9-day chicken embryos. </plain></SENT>
+<SENT sid="11" pm="."><plain>Finally, we have demonstrated that insulators flanking the chicken β-globin gene domain from the upstream and from the downstream interact with each other, which places the area characterized by lineage-specific sensitivity to DNase I in a separate chromatin loop. </plain></SENT>
+</text></SecTag></p></sec><sec><title><text><SENT sid="12" pm="."><plain>Conclusions </plain></SENT>
+</text></title><p><SecTag type="ABS"><text><SENT sid="13" pm="."><plain>Taken together, our results strongly support the ACH model but show that within a domain of tissue-specific genes, the active status of a promoter does not necessarily correlate with the recruitment of this promoter to the ACH. </plain></SENT>
+</text></SecTag></p></sec></abstract><SecTag type="KEYWORD"><kwd-group><kwd>β-globin genes</kwd><kwd>Active chromatin hub</kwd><kwd>Insulator</kwd><kwd>Chicken RBCs</kwd></kwd-group></SecTag></article-meta></front><body><SecTag type="INTRO"><sec><title><text><SENT sid="14" pm="."><plain>Background </plain></SENT>
+</text></title><p><text><SENT sid="15" pm="."><plain>The domain of chicken beta-globin genes is located on chromosome 1 and has a length of approximately 33 kb. </plain></SENT>
+<SENT sid="16" pm="."><plain>It includes a cluster of four beta-globin genes: ρ (HBG1), βH (HBE1), βA (HBG2) and Ε (HBE) and several distant regulatory regions, which are marked with sites of hypersensitivity to DNase I (HS) and are necessary for the regulation of transcription, replication and chromatin status of the domain [1,2]. </plain></SENT>
+<SENT sid="17" pm="."><plain>The locus control region of the domain (LCR) is located upstream of the embryonic β-globin gene ρ and is composed of three blocks co-localizing with the erythroid cell-specific HSs 1 to 3 [3,4]. </plain></SENT>
+<SENT sid="18" pm="."><plain>A constitutive HS4 located upstream of the LCR marks the position of the well-studied CTCF-dependent (CTCF ‐ Ð¡Ð¡Ð¡TC-binding protein factor) insulator [5-9]. </plain></SENT>
+<SENT sid="19" pm="."><plain>The CTCF-dependent enhancer-blocking element is also located at the downstream end of the domain in the area marked by the so-called 3′ constitutive HS [10,11]. </plain></SENT>
+<SENT sid="20" pm="."><plain>In addition to the LCR, the domain also possesses an internal enhancer (β/Ε-enhancer), which is located between the genes βA and Ε and is believed to contribute to the control of the activity of both genes [12-14]. </plain></SENT>
+<SENT sid="21" pm="."><plain>The partitioning of tasks between the LCR and the β/Ε-enhancer is not quite clear. </plain></SENT>
+<SENT sid="22" pm="."><plain>The results of experiments with transgenic mice carrying the chicken β-globin gene domain [4] suggested that the expression of one of the embryonic genes (ρ) is controlled by the LCR, while the expression of the other embryonic gene (Ε) is controlled by the β/Ε-enhancer. </plain></SENT>
+<SENT sid="23" pm="."><plain>In addition, both regulatory elements appeared to be necessary for the correct developmental expression of the adult β-globin genes [3]. </plain></SENT>
+<SENT sid="24" pm="."><plain>The domain of the chicken β-globin gene represents one of the best-studied genomic areas in higher eukaryotes [15]. </plain></SENT>
+<SENT sid="25" pm="."><plain>This domain possesses all of the characteristic features of the so-called closed or strong chromatin domains [16,17], which change the pattern of sensitivity to DNase I in a cell lineage-specific fashion. </plain></SENT>
+<SENT sid="26" pm="."><plain>Detailed studies of the distribution of different histone modifications along the domain have contributed much to the present knowledge about the histone code [18,19]. </plain></SENT>
+<SENT sid="27" pm="."><plain>Nevertheless, the mechanisms of transcriptional switching of chicken β-globin gene expression remain poorly understood [15]. </plain></SENT>
+<SENT sid="28" pm="."><plain>The developmental switching of globin gene transcription is typical for all vertebrate organisms [2]. </plain></SENT>
+<SENT sid="29" pm="."><plain>In chickens, the first molecules of hemaglobin appear in embryonic erythroblasts 32 h after fertilization [20]. </plain></SENT>
+<SENT sid="30" pm="."><plain>The beta-chains of the hemaglobin represent the products of genes ρ and Ε, which are transcribed from the 2nd to the 5th day of the embryonic development. </plain></SENT>
+<SENT sid="31" pm="."><plain>After the 5th day a new population of erythroid cells expressing the genes of fetal and adult globins βН and βA appears. </plain></SENT>
+<SENT sid="32" pm="."><plain>These cells gradually replace the embryonic-type erythroblasts that express genes 1ρ and Ε[21]. </plain></SENT>
+<SENT sid="33" pm="."><plain>In erythroblasts of adult lineage, the transcription of embryonic β-type globin genes is repressed. </plain></SENT>
+</text></p><SecTag type="FIG"><fig id="F1" position="float"><label>Figure 1</label><caption><p><text><SENT sid="34" pm="."><plain>Analysis of β-globin mRNA levels in chicken 3-day and 9-day embryonic red blood cells. The vertical axis shows the relative amounts of β-globin gene primary transcripts, as determined by RT-qPCR analysis of RNA samples prepared from the blood of 3- and 9-day old chicken embryos. (A) Normalization of data to the level of β-actin mRNA. (B) Normalization of data to the amount of cells used for RNA preparation. </plain></SENT>
+<SENT sid="35" pm="."><plain>The amounts of β-globin gene transcripts detected in different RNA samples were normalized to the number of cells used for preparation of these RNA samples. </plain></SENT>
+<SENT sid="36" pm="."><plain>The amount of the most abundant transcript (ρ-transcript in 3-day RBCs) was set as 100 relative units and the other data were normalized to this value. </plain></SENT>
+<SENT sid="37" pm="."><plain>The error bars represent the S.E.M. for two independent experiments. </plain></SENT>
+</text></p></caption><graphic xlink:href="1756-8935-5-16-1"/></fig></SecTag><p><text><SENT sid="38" pm="."><plain>Recent studies of the spatial configuration of the mouse and human β-globin gene domain suggest that in erythroid cells, all regulatory elements of the domain become assembled into a common activation complex (the ACH) where the promoters of different globin genes are recruited in a developmental stage-specific fashion [22-24]. </plain></SENT>
+</text></p><p><text><SENT sid="39" pm="."><plain>In the present work, we have analyzed the spatial configuration of the chicken β-globin gene domain in circulating red blood cells (RBCs) both before (3-day RBCs) and after (9-day RBCs) the β-globin switching. </plain></SENT>
+<SENT sid="40" pm="."><plain>Using the quantitative chromosome conformation capture assay (3C-qPCR) [25,26], we have demonstrated that the switching of chicken β-globin gene expression correlates with prominent changes in the spatial configuration of the domain. </plain></SENT>
+<SENT sid="41" pm="."><plain>However, the observed spectrum of changes does not perfectly fit the simplistic model that postulates that only the transcriptionally active genes are recruited to the ACH. </plain></SENT>
+</text></p></sec></SecTag><SecTag type="RESULTS"><sec sec-type="results"><title><text><SENT sid="42" pm="."><plain>Results </plain></SENT>
+</text></title><sec><title><text><SENT sid="43" pm="."><plain>Measurement of β-globin mRNA levels in red blood cells of 3- and 9-day-old chicken embryos </plain></SENT>
+</text></title><p><text><SENT sid="44" pm="."><plain>We first estimated the relative levels of primary transcripts of each of the β-globin genes in RBCs (red blood cells) of 3-and 9-day-old chicken embryos using reverse transcription with subsequent TaqMan™ real-time PCR. </plain></SENT>
+<SENT sid="45" pm="."><plain>To exclude the spliced mRNA from this analysis, we used test amplicons that spanned exon-intron junctions. </plain></SENT>
+<SENT sid="46" pm="."><plain>The results obtained (Figure 1) were consistent with the previously reported data [1,21]. </plain></SENT>
+<SENT sid="47" pm="."><plain>In 3-day RBCs, only embryonic Ε and ρ genes were actively transcribed, with the level of ρ transcripts being approximately 4.5-fold higher than the level of Ε transcripts. </plain></SENT>
+<SENT sid="48" pm="."><plain>In 9-day RBCs, transcripts of all four β-globin genes were detected, and as expected, the transcript of the βA gene was the most abundant. </plain></SENT>
+<SENT sid="49" pm="."><plain>The presence of small amounts of Ε and ρ gene transcripts in 9-day RBCs is again consistent with a previous observation that approximately 10% of chicken embryonic RBCs express Ε- and ρ-globin even on the 10th day of development [1]. </plain></SENT>
+</text></p><SecTag type="FIG"><fig id="F2" position="float"><label>Figure 2</label><caption><p><text><SENT sid="50" pm="."><plain>MboI and NlaIII q3C analysis of the chicken β-globin gene domain. </plain></SENT>
+<SENT sid="51" pm="."><plain>(A) Map showing the positions of genes and known regulatory elements of the chicken β-globin gene domain. </plain></SENT>
+<SENT sid="52" pm="."><plain>The open boxes indicate genes, the blue lines represent exons, and the arrows indicate the direction of transcription. </plain></SENT>
+<SENT sid="53" pm="."><plain>The closed green boxes show HSs. </plain></SENT>
+<SENT sid="54" pm="."><plain>Upstream insulator, downstream enhancer-blocking elements and the β/Ε enhancer are shown by orange ellipses. FOLR1 - gene encoding folate receptor, transcribed in earlier erythroid progenitors; HAS - tissue-specific erythroid DNase I-hypersensitive site; HS1-3 - locus control region (LCR) of β-globin gene domain; OR51M1 - open reading frame for odorant receptor. </plain></SENT>
+<SENT sid="55" pm="."><plain>The map was made using nucleotide sequences NW_001471556 and L17432.1 [GenBank:NW_001471556, GenBank:L17432.1]. (B-G) The relative frequencies of crosslinking of the anchor fragments containing the HS2 (B), ρ-promoter (C), upstream portion of gene βA(D), β/Ε-enhancer (E), upstream portion of gene Ε(F) and Ε-promoter (G). (B-F) show results of MboI 3C analysis and (G) shows the results of NlaIII 3C analysis. </plain></SENT>
+<SENT sid="56" pm="."><plain>The dark grey rectangle in each panel indicates the anchor DNA fragment, and the light grey rectangles indicate the test fragments. </plain></SENT>
+<SENT sid="57" pm="."><plain>The white rectangles indicate the restriction fragments that were not analyzed. </plain></SENT>
+<SENT sid="58" pm="."><plain>The borders between neighboring fragments are indicated by dark grey lines. </plain></SENT>
+<SENT sid="59" pm="."><plain>The tailless arrows represent the primers used for q3C analysis. </plain></SENT>
+<SENT sid="60" pm="."><plain>The positions of test fragments on the restriction map are plotted on the x-axis. </plain></SENT>
+<SENT sid="61" pm="."><plain>The cross-linking frequencies are plotted on the y-axis; the highest cross-linking frequency observed was set as 100 relative units (the cross-linking frequency between the fragment containing the ρ-promoter and the fragment containing the βA gene in 3-day RBCs for MboI 3C analysis, and the cross-linking frequency between the fragment containing HS2 and the fragment containing HS1 in 3-day RBCs for NlaIII 3C analysis (data not shown)). </plain></SENT>
+<SENT sid="62" pm="."><plain>The results of 3C analysis for 3-day RBCs, 9-day RBCs and CEF are shown by the blue, red and green lines, respectively. </plain></SENT>
+<SENT sid="63" pm="."><plain>The error bars represent the S.E.M. for three (B-F) or two (G) independent experiments. </plain></SENT>
+</text></p></caption><graphic xlink:href="1756-8935-5-16-2"/></fig></SecTag><p><text><SENT sid="64" pm="."><plain>To be able to compare the relative levels of transcription of different globin genes in 3-day and 9-day RBCs, the experimentally detected amounts of globin gene primary transcripts were normalized to the experimentally detected amount of β-actin mRNA (Figure 1A). </plain></SENT>
+<SENT sid="65" pm="."><plain>However, it is worth mentioning that the total amount of RNA routinely extracted from the same number of 3-day and 9-day RBCs was much higher in the case of 3-day RBCs (approximately 50 μg and 1.7 μg from 10 million 3-day and 9-day RBCs, respectively). </plain></SENT>
+<SENT sid="66" pm="."><plain>Consequently, the amounts of mRNAs of housekeeping genes differ drastically in samples prepared from the same number of 3-day and 9-day RBCs. </plain></SENT>
+<SENT sid="67" pm="."><plain>For this reason, normalization to the amount of cells (3-day and 9-day RBCs) used for the extraction of RNA (Figure 1B) appears to be more appropriate for comparison of the absolute levels of globin gene transcription in these cells. </plain></SENT>
+<SENT sid="68" pm="."><plain>Indeed, using this normalization one can see that total amounts of β-globin gene transcripts are comparable in 3-day and 9-day RBCs while the spectrums of transcribed β-globin genes are different. </plain></SENT>
+</text></p></sec><sec><title><text><SENT sid="69" pm="."><plain>Interaction of the locus control region and β/Ε enhancer with promoters of β-globin genes in red blood cells of 3-day and 9-day chicken embryos </plain></SENT>
+</text></title><p><text><SENT sid="70" pm="."><plain>The quantitative chromosome conformation capture (3C-qPCR) assay was used to investigate the spatial organization of the chicken β-globin gene domain in RBCs of 3- and 9-day-old embryos. </plain></SENT>
+<SENT sid="71" pm="."><plain>It is well known that the accurate analysis and interpretation of raw 3C data is not a trivial task [27], and it can be difficult to distinguish the relevant chromatin interactions from background and cross-linking artifacts. </plain></SENT>
+<SENT sid="72" pm="."><plain>One problem in the interpretation of the 3C data is that neighboring restriction fragments are always ligated to a certain extent due to cross-links between nucleosomal proteins, even if these fragments are not involved in the assembly of a chromatin hub. </plain></SENT>
+<SENT sid="73" pm="."><plain>To discriminate the functionally relevant interactions from the background cross-linking, we performed the 3C analysis of the β-globin gene domain in chicken embryonic fibroblasts (CEF). </plain></SENT>
+<SENT sid="74" pm="."><plain>These cells do not express globin genes. </plain></SENT>
+<SENT sid="75" pm="."><plain>Thus, there are good reasons to expect that the domain in these cells does not adopt any functionally relevant spatial configuration. </plain></SENT>
+</text></p><p><text><SENT sid="76" pm="."><plain>In the main set of 3C experiments, we used MboI restriction enzyme digestion to cleave the DNA before the proximity ligation. </plain></SENT>
+<SENT sid="77" pm="."><plain>This enzyme cuts the β-globin gene domain into a number of relatively small fragments, such that the promoters of β-globin genes and regulatory elements were located in different restriction fragments separated by several cleavage sites. </plain></SENT>
+<SENT sid="78" pm="."><plain>It was thus possible to independently analyze all of these regulatory elements. </plain></SENT>
+<SENT sid="79" pm="."><plain>In some cases, however, it was not possible to place the primers and TaqMan™ probes exactly on the regulatory element under study due to the small size of the corresponding restriction fragment or the presence of repetitive sequences. </plain></SENT>
+<SENT sid="80" pm="."><plain>In these cases, the primers and TaqMan™ probes were placed at the adjacent restriction fragments. </plain></SENT>
+<SENT sid="81" pm="."><plain>For example, for βA and Ε genes, the probes were placed at the fragments located just downstream of the promoters. </plain></SENT>
+</text></p><p><text><SENT sid="82" pm="."><plain>We have first fixed the anchor at the restriction fragment containing HS2 (a part of β-globin domain LCR). </plain></SENT>
+<SENT sid="83" pm="."><plain>In the 3-day RBCs, this anchor was shown to interact preferentially with the fragments containing the promoter of the embryonic gene ρ, the adult gene βA and the β/Ε-enhancer (Figure 2B, blue curve). </plain></SENT>
+<SENT sid="84" pm="."><plain>In addition, an elevated frequency of interaction of the HS2 with the upstream and the downstream insulators of the β-globin gene domain was observed. </plain></SENT>
+<SENT sid="85" pm="."><plain>Interestingly, no interaction of the HS2 with the embryonic gene Ε was detected. </plain></SENT>
+<SENT sid="86" pm="."><plain>As expected, no interaction between any of the functional elements studied was detected in embryonic fibroblasts (Figure 2B, green curve). </plain></SENT>
+<SENT sid="87" pm="."><plain>In 9-day RBCs the frequency of interactions of the HS2 with the βA gene increased. </plain></SENT>
+<SENT sid="88" pm="."><plain>In addition, a strong interaction between the HS2 and the promoter of βH gene was established (Figure 2B, red curve). </plain></SENT>
+<SENT sid="89" pm="."><plain>The validity of the observations made with the anchor placed at HS2 was confirmed in experiments with the anchor placed on the promoter of the ρ gene (Figure 2C), the upstream portion of the βA gene (Figure 2D), the upstream portion of the Ε gene (Figure 2F) and the β/Ε-enhancer (Figure 2E). </plain></SENT>
+<SENT sid="90" pm="."><plain>The anchor placed on the promoter of the ρ gene demonstrated strong interaction frequencies with the HSs 1‐3 of the LCR in 3-day RBCs (Figure 2C, blue curve). </plain></SENT>
+<SENT sid="91" pm="."><plain>The frequency of interaction of this anchor with the HS1 remained about the same in 9-day RBCs while the frequencies of interaction with the HSs 2 and 3 decreased (Figure 2C, red curve). </plain></SENT>
+<SENT sid="92" pm="."><plain>Unexpectedly, in 3-day RBCs the promoter of the ρ gene demonstrated a strong interaction with the upstream region of the βA gene. </plain></SENT>
+<SENT sid="93" pm="."><plain>The frequency of this interaction decreased in 9-day RBCs but still remained quite prominent (Figure 2C, blue and red curves). </plain></SENT>
+<SENT sid="94" pm="."><plain>The interaction between ρ and βA genes was also observed in embryonic fibroblasts (Figure 2C, green curve). </plain></SENT>
+<SENT sid="95" pm="."><plain>It may thus reflect some internal feature of the β-globin gene domain spatial organization that is not related to the transcriptional status of the domain. </plain></SENT>
+<SENT sid="96" pm="."><plain>The interaction between the βA and ρ gene promoters observed in the experiment with the anchor placed on the ρ gene promoter was confirmed in the reciprocal experiment with the anchor placed on the upstream part of the βA gene (Figure 2D, all curves). </plain></SENT>
+<SENT sid="97" pm="."><plain>No interaction of the ρ gene promoter with the promoter of the minor adult βH gene was observed in 3-day RBC (Figure 2C, blue curve). </plain></SENT>
+<SENT sid="98" pm="."><plain>In contrast, in the same cells (3-day RBC) the upstream region of the βA gene demonstrated strong interactions with both the ρ and βH gene promoters (Figure 2D, blue curve). </plain></SENT>
+<SENT sid="99" pm="."><plain>As expected, the upstream region of the βA gene demonstrated a strong interaction with the HSs 1 to 3 of the LCR in 9-day RBCs, but not in 3-day RBCs (Figure 2D, red and blue curves). </plain></SENT>
+<SENT sid="100" pm="."><plain>A strong interaction of the βA gene with the β/Ε enhancer was also observed in 9-day but not in 3-day RBCs (Figure 2D, red and blue curves). </plain></SENT>
+<SENT sid="101" pm="."><plain>Although in this particular case the anchor (the upstream part of the βA gene) and the test-fragment (β/Ε enhancer) are located close to each other, the much higher interaction frequency observed in 9-day RBCs comparing to 3-day RBCs and CEF argues for the existence of functionally relevant interaction between the βA gene and the β/Ε enhancer in 9-day RBCs. </plain></SENT>
+<SENT sid="102" pm="."><plain>This conclusion is supported by the results of a reciprocal experiment with the anchor placed on the β/Ε enhancer. </plain></SENT>
+<SENT sid="103" pm="."><plain>Again, in 9-day RBCs the frequency of interaction of the β/Ε enhancer with the upstream part of the βA gene was much higher in 9-day RBCs than in 3-day RBCs and CEF (Figure 2E). </plain></SENT>
+<SENT sid="104" pm="."><plain>The interaction of the β/Ε enhancer with the three HSs of the LCR and the promoter of ρ gene was observed in both 3-day and 9-day RBCs, but not in CEF. </plain></SENT>
+<SENT sid="105" pm="."><plain>On the other hand, interaction of the β/Ε enhancer with the promoter of gene βH was observed only in 9-day RBCs (Figure 2E, red curve). </plain></SENT>
+<SENT sid="106" pm="."><plain>No interaction of the β/Ε enhancer with the gene Ε was observed in either of the cell lines studied (Figure 2E). </plain></SENT>
+<SENT sid="107" pm="."><plain>In full accord with this observation, the anchor placed on the upstream area of the gene Ε showed no interaction with any of the test fragments studied in either erythroid or non-erythroid cells (Figure 2F). </plain></SENT>
+<SENT sid="108" pm="."><plain>Thus it appears that the Ε gene does not interact with any of the remote regulatory elements of the domain. </plain></SENT>
+<SENT sid="109" pm="."><plain>To verify this interesting observation, we performed 3C experiments using digestion with another restriction enzyme, NlaIII. </plain></SENT>
+<SENT sid="110" pm="."><plain>Distribution of NlaIII recognition sites along the β-globin gene domain allows fixation of the anchor exactly on the promoter of the gene Ε. </plain></SENT>
+<SENT sid="111" pm="."><plain>Using this anchor we performed 3C analysis of the β-globin domain configuration in 3-day RBCs and in CEF. </plain></SENT>
+<SENT sid="112" pm="."><plain>Again, no interaction of the Ε gene promoter with any of the remote regulatory elements was observed (Figure 2G). </plain></SENT>
+<SENT sid="113" pm="."><plain>As a matter of fact, the frequencies of interaction of the Ε gene promoter with all tested fragments of the β-globin gene domain were very similar in 3-day RBCs that express the Ε gene and in embryonic fibroblasts that do not express globin genes at all. </plain></SENT>
+</text></p></sec><sec><title><text><SENT sid="114" pm="."><plain>Interaction between the upstream and the downstream insulators of the β-globin gene domain </plain></SENT>
+</text></title><p><text><SENT sid="115" pm="."><plain>Figure 3 demonstrates the results of 3C experiments with the anchors placed on either upstream or downstream insulators of the β-globin gene domain. </plain></SENT>
+<SENT sid="116" pm="."><plain>It is evident that in both 3-day and 9-day RBCs, the insulators strongly interact with each other, thus forming a loop harboring the entire β-globin gene domain. </plain></SENT>
+<SENT sid="117" pm="."><plain>In addition, in 9-day RBCs, both insulators demonstrate an interaction with the β/Ε enhancer, while in 3-day RBCs, the upstream insulator interacts with the βA gene. </plain></SENT>
+<SENT sid="118" pm="."><plain>Finally, in both the 3-day and the 9-day RBCs, both insulators show some interaction with the LCR. </plain></SENT>
+<SENT sid="119" pm="."><plain>In embryonic fibroblasts neither the interaction between the upstream and the downstream insulators of the β-globin gene domain nor an interaction of these insulators with any of the internal fragments of the domain was observed (Figure 3A/B, green curves). </plain></SENT>
+</text></p><SecTag type="FIG"><fig id="F3" position="float"><label>Figure 3</label><caption><p><text><SENT sid="120" pm="."><plain>MboI q3C analysis of spatial interactions of β-globin boundary insulators. The relative frequencies of cross-linking of the anchor fragments containing the 5′-insulator (A) and 3′-insulator (B) of the chicken β-globin gene domain. </plain></SENT>
+<SENT sid="121" pm="."><plain>All designations are as described in Figure 2. </plain></SENT>
+</text></p></caption><graphic xlink:href="1756-8935-5-16-3"/></fig></SecTag></sec></sec></SecTag><SecTag type="DISCUSS"><sec sec-type="discussion"><title><text><SENT sid="122" pm="."><plain>Discussion </plain></SENT>
+</text></title><p><text><SENT sid="123" pm="."><plain>The current model of the enhancer action suggests that enhancers directly interact with target promoters [23,28-30]. </plain></SENT>
+<SENT sid="124" pm="."><plain>As a result, an assembly of regulatory elements, called the active chromatin hub (ACH), forms. </plain></SENT>
+<SENT sid="125" pm="."><plain>One or several enhancers present in the ACH may control the activity of one or several promoters recruited to the ACH [23,29]. </plain></SENT>
+<SENT sid="126" pm="."><plain>The transcriptional switching of murine β-globin gene expression correlates with a reconfiguration of the ACH [24]. </plain></SENT>
+<SENT sid="127" pm="."><plain>The aim of the present study was to determine whether the developmental switching of chicken β-globin gene transcription depends on the spatial reconfiguration of the β-globin gene domain. </plain></SENT>
+<SENT sid="128" pm="."><plain>The study of the chicken β-globin gene domain is particularly interesting for two reasons. </plain></SENT>
+<SENT sid="129" pm="."><plain>First, this domain is the best example of the so-called closed chromatin domains [17], as the upstream and the downstream insulators perfectly delimit the area of preferential sensitivity to DNase I in erythroid cells [31], which is not the case in mouse and human β-globin gene domains [32,33]. </plain></SENT>
+<SENT sid="130" pm="."><plain>Second, the chicken β-globin gene domain contains an internal enhancer element in addition to the upstream locus control region [12]. </plain></SENT>
+<SENT sid="131" pm="."><plain>Once again, this is not the case in the mouse or human. </plain></SENT>
+<SENT sid="132" pm="."><plain>Hence, the regulation of chicken β-globin gene expression may differ from regulation of β-globin gene expression in the mouse and human. </plain></SENT>
+</text></p><p><text><SENT sid="133" pm="."><plain>The results of the present study showed that in erythroid cells there is a clear interaction of the upstream and the downstream insulators of the chicken β-globin gene domain. </plain></SENT>
+<SENT sid="134" pm="."><plain>As a result, the domain should be organized in a closed loop. </plain></SENT>
+<SENT sid="135" pm="."><plain>Although we have not studied the mechanism of this loop formation, it is very probable that CTCF is involved, as both insulators possess CTCF-binding sites [9,10] and it was shown that CTCF might mediate an interaction between distant genomic elements [34,35]. </plain></SENT>
+<SENT sid="136" pm="."><plain>It is also likely that the β-globin loop ends are fixed at the nuclear matrix, as the 5′ insulator of the chicken β-globin gene domain has been reported to interact with the nuclear matrix [36]. </plain></SENT>
+<SENT sid="137" pm="."><plain>This type of spatial organization perfectly explains the fact that in the chicken β-globin gene domain, the area demonstrating the cell-lineage-specific sensitivity to DNase I perfectly co-localizes with the genomic segment flanked by insulators. </plain></SENT>
+<SENT sid="138" pm="."><plain>In agreement with this model, the interaction between the upstream and the downstream insulators of the chicken β-globin gene domain was not observed in non-erythroid cells where the domain is not preferentially sensitive to DNase I [37]. </plain></SENT>
+<SENT sid="139" pm="."><plain>In should be mentioned, however, that in mouse and human the insulators flanking the β-globin gene domain from the upstream and the downstream also interact with each other [22,24,34], although the chromatin loop established by this interaction does not correspond to the region of preferential sensitivity to DNase I [32]. </plain></SENT>
+</text></p><p><text><SENT sid="140" pm="."><plain>The most interesting feature of the spatial organization of the chicken β-globin gene domain is that the embryonic β-globin gene Ε interacts with neither the LCR nor the β/Ε enhancer. </plain></SENT>
+<SENT sid="141" pm="."><plain>This does not exclude the possibility that the β/Ε enhancer located at a short distance upstream of the Ε gene can activate this gene promoter by some tracking mechanism. </plain></SENT>
+<SENT sid="142" pm="."><plain>However, an activation effect of the LCR on Ε gene transcription seems very improbable. </plain></SENT>
+<SENT sid="143" pm="."><plain>In this respect, it is of interest that in the chicken α-globin gene domain, the embryonic gene π also does not interact with any of the known distant regulatory elements of the domain [38]. </plain></SENT>
+<SENT sid="144" pm="."><plain>It is thus likely that in the chicken, both α-type and β-type early embryonic globin genes possess an autonomous regulatory system. </plain></SENT>
+</text></p><p><text><SENT sid="145" pm="."><plain>In regard to the composition of the β-globin domain ACH in 3-day and 9-day RBCs, we noted several unexpected features. </plain></SENT>
+<SENT sid="146" pm="."><plain>First of all, the HS2 of LCR shows a significant frequency of interaction with the promoter of the βA gene already in 3-day RBCs where the level of this gene transcription is very low. </plain></SENT>
+<SENT sid="147" pm="."><plain>Still it is detectable. </plain></SENT>
+<SENT sid="148" pm="."><plain>Furthermore, it was reported that the βA gene is transcribed to some extend even in 2-day RBCs [39]. </plain></SENT>
+<SENT sid="149" pm="."><plain>Hence, the interaction of the βA gene with the LCR in 3-day RBCs may be functionally relevant. </plain></SENT>
+<SENT sid="150" pm="."><plain>On the other hand, we observed a strong interaction between the promoters of the ρ and βA genes, which was especially prominent in 3-day RBCs in which the level of the βA gene transcription is very low. </plain></SENT>
+<SENT sid="151" pm="."><plain>The functional significance of this interaction is not clear at the moment. </plain></SENT>
+<SENT sid="152" pm="."><plain>The fact that it was detected also in non-erythroid cells suggests that it may reflect some inherent feature of the β-globin gene domain spatial organization that is not directly related to the assembly of ACH. </plain></SENT>
+<SENT sid="153" pm="."><plain>It is of interest that despite the above-mentioned interaction between the ρ and βA promoters, the levels of interaction of these promoters with the LCR-HS2 differ significantly in 3-day RBCs (where the promoter of gene ρ interacts preferentially with the LCR-HS2) and 9-day RBCs (where the promoter of gene βA interacts preferentially with the LCR-HS2). </plain></SENT>
+<SENT sid="154" pm="."><plain>Thus, it is likely that the fine structure of the β-globin ACH is quite different in 3-day and 9-day RBCs. </plain></SENT>
+<SENT sid="155" pm="."><plain>We suggest that in 3-day RBCs, the promoter of gene ρ directly interacts with the LCR while the promoter of gene βA is passively pulled to the complex due to the interaction of βA and ρ. </plain></SENT>
+<SENT sid="156" pm="."><plain>In 9-day RBCs the situation is reversed. </plain></SENT>
+<SENT sid="157" pm="."><plain>Thus, in spite of interaction with each other, the genes ρ and βA demonstrate developmental stage-specific association with the LCR which correlates with the expression status of these genes. </plain></SENT>
+<SENT sid="158" pm="."><plain>Even more evident developmental stage-specific recruitment to the ACH shows the promoter of the minor adult β-type globin gene βH. </plain></SENT>
+<SENT sid="159" pm="."><plain>The promoter of this gene demonstrates either no interaction or a strong interaction with the LCR at days 3 and 9 of the embryo development, respectively. </plain></SENT>
+<SENT sid="160" pm="."><plain>Finally, it should be mentioned that in both 3-day and 9-day RBCs, a significant level of interaction between the βA and βH promoters was observed. </plain></SENT>
+<SENT sid="161" pm="."><plain>Taking into consideration the fact that the anchors placed on the LCR-HS2 and ρ gene promoter demonstrated no interaction with βH and a strong interaction with βA in 3-day RBCs, one must assume that at this developmental stage, the promoters of the two adult β-type globin genes can either interact with each other outside the ACH or the βA promoter can be recruited to the ACH via interaction with the ρ gene promoter. </plain></SENT>
+<SENT sid="162" pm="."><plain>The two alternative configurations of the β-globin domain ACH in 3-day RBCs are shown in Figure 4. </plain></SENT>
+</text></p><SecTag type="FIG"><fig id="F4" position="float"><label>Figure 4</label><caption><p><text><SENT sid="163" pm="."><plain>β-globin active chromatin hubs in the nuclei of 3-day and 9-day red blood cells of chicken embryos. The filled disks designate ACH, and the blue ellipses show protein complexes assembled on the boundary insulators. </plain></SENT>
+</text></p></caption><graphic xlink:href="1756-8935-5-16-4"/></fig></SecTag><p><text><SENT sid="164" pm="."><plain>In 9-day RBCs, the level of mutual interaction of most of the regulatory elements of the β-globin gene domain increases compared to the levels in 3-day RBCs. </plain></SENT>
+<SENT sid="165" pm="."><plain>These observations may reflect more compact packaging of the domain as a whole. </plain></SENT>
+<SENT sid="166" pm="."><plain>Thus, it should be noted that 9-day RBCs differ drastically from the 3-day RBCs in the total amount of RNA, including rRNA, present in the cell (see the first section of the results). </plain></SENT>
+<SENT sid="167" pm="."><plain>Evidently, the 9-day RBCs are less metabolically active compared to 3-day RBCs. </plain></SENT>
+<SENT sid="168" pm="."><plain>In other words, they possess certain features of mature chicken erythrocytes, which have non-active nuclei. </plain></SENT>
+<SENT sid="169" pm="."><plain>Nevertheless, the globin genes are still transcribed in the majority of 9-day RBCs [40]. </plain></SENT>
+<SENT sid="170" pm="."><plain>Thus, the concept that the apparently more compact spatial organization of the β-globin gene domain in 9-day RBCs may simply reflect the presence of a substantial portion of mature erythrocytes in the analyzed cell population would not be correct. </plain></SENT>
+<SENT sid="171" pm="."><plain>Rather, the β-globin gene domain suffers a certain amount of pressure because it is a part of the chromosomal territory that gradually acquires a more compact configuration. </plain></SENT>
+<SENT sid="172" pm="."><plain>Regardless, it remains active and possesses certain features of an active chromatin domain, including a preferential sensitivity to DNase I, even in the compact nuclei of mature chicken erythrocytes [41]. </plain></SENT>
+<SENT sid="173" pm="."><plain>The spatial isolation of this domain from the surrounding chromatin by the formation of a distinct chromatin loop via interaction of the flanking insulators may be of major importance. </plain></SENT>
+</text></p></sec></SecTag><SecTag type="CONCL"><sec sec-type="conclusions"><title><text><SENT sid="174" pm="."><plain>Conclusions </plain></SENT>
+</text></title><p><text><SENT sid="175" pm="."><plain>In this work, we have analyzed the spatial configuration of the chicken β-globin gene domain in red blood cells of embryonic and adult lineages. </plain></SENT>
+<SENT sid="176" pm="."><plain>The obtained results strongly support the active chromatin hub model, as it has been found that distant regulatory elements located upstream of the β-globin gene cluster form a complex with the β/Ε enhancer located in the downstream portion of the cluster. </plain></SENT>
+<SENT sid="177" pm="."><plain>Promoters of all β-globin genes, with the exception of embryonic gene Ε, are recruited to this complex, demonstrating a specificity of interaction with the LCR in respect to the developmental stage. </plain></SENT>
+<SENT sid="178" pm="."><plain>The embryonic β-globin gene Ε does not interact with any of the distal regulatory elements; thus, it is likely to possess an autonomous regulatory system. </plain></SENT>
+<SENT sid="179" pm="."><plain>In both 3-day and 9-day RBCs the upstream and the downstream insulators of the chicken β-gene domain interact with each other, thus placing the domain in a separate chromatin loop. </plain></SENT>
+<SENT sid="180" pm="."><plain>This may explain the fact that in chickens, the borders of erythroid cell-specific domain with preferential sensitivity to DNase I perfectly co-localize with the borders of β-globin gene domain marked by insulators. </plain></SENT>
+</text></p></sec></SecTag><SecTag type="METHODS"><sec sec-type="methods"><title><text><SENT sid="181" pm="."><plain>Methods </plain></SENT>
+</text></title><sec><title><text><SENT sid="182" pm="."><plain>Real-time reverse transcriptase polymerase chain reaction (RT-PCR) </plain></SENT>
+</text></title><p><text><SENT sid="183" pm="."><plain>Chicken red blood cells (RBCs) were collected from 3- and 9-day embryos and directly used for analysis. </plain></SENT>
+<SENT sid="184" pm="."><plain>Chicken embryonic fibroblasts (CEFs) were isolated from 9-day embryos according to the standard protocol [42] and grown in DMEM supplemented with 8% FBS and 2% chicken serum. </plain></SENT>
+<SENT sid="185" pm="."><plain>Total RNA was extracted using the TRIzol™ Reagent (Invitrogen, Life Technologies, Carlsbad, CA, USA) and was treated with DNase I (Fermentas, Vilnius, Lithuania) to remove residual DNA. </plain></SENT>
+<SENT sid="186" pm="."><plain>RNA (0.5 μg) was reverse transcribed in a total volume of 20 μl for 1 h at 42°C using 0.2 μg of random hexamers and 200 U of reverse transcriptase M-MuLV (Fermentas, Vilnius, Lithuania) in the presence of 20 U of ribonuclease inhibitor (Fermentas, Vilnius, Lithuania). </plain></SENT>
+<SENT sid="187" pm="."><plain>The resulting cDNA was analyzed by TaqMan™ real-time PCR. </plain></SENT>
+<SENT sid="188" pm="."><plain>For β-globin genes, the amplicons were designed in such a way that they spanned intron-exon junctions. </plain></SENT>
+<SENT sid="189" pm="."><plain>For β-actin gene the amplicon was within an exon. </plain></SENT>
+<SENT sid="190" pm="."><plain>The PCR primers and TaqMan™ probes are presented in Table 1. </plain></SENT>
+</text></p><SecTag type="TABLE"><table-wrap position="float" id="T1"><label>Table 1</label><caption><p><text><SENT sid="191" pm="."><plain>Primers and TaqMan™ probes used for analysis of β-globin primary transcripts and β-actin mRNA levels </plain></SENT>
+</text></p></caption><table frame="hsides" rules="groups" border="1"><colgroup><col align="left"/><col align="left"/></colgroup><thead valign="top"><tr><th colspan="2" align="center"><text><SENT sid="192" pm="."><plain>Primers </plain></SENT>
+</text></th></tr></thead><tbody valign="top"><tr><td align="left" valign="bottom"><text><SENT sid="193" pm="."><plain>Rho F </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="194" pm="."><plain>CAGAACACTGGGGTTTGGCT </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="195" pm="."><plain>Rho R </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="196" pm="."><plain>GGCCAGCACAATGATGAGG </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="197" pm="."><plain>BetaH F </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="198" pm="."><plain>CCAGAGGTTCTTTGCGTCC </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="199" pm="."><plain>BetaH R </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="200" pm="."><plain>CTCAGTCCTATAACTCCTGCCTA </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="201" pm="."><plain>BetaA F </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="202" pm="."><plain>TACACTTCTGTTCCCCATCTCTC </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="203" pm="."><plain>BetaA R </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="204" pm="."><plain>CCAAAGGACGCAAAGAACC </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="205" pm="."><plain>Epsilon F </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="206" pm="."><plain>TAGGCAAAGAGTGAGCATTCG </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="207" pm="."><plain>Epsilon R </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="208" pm="."><plain>GCCAGGACGATGATCAGGAT </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="209" pm="."><plain>Beta-actin F </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="210" pm="."><plain>TGGACTCTGGTGATGGTGT </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="211" pm="."><plain>Beta-actin R </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="212" pm="."><plain>TCTCTCTCGGCTGTGGTGG </plain></SENT>
+</text></td></tr><tr><td colspan="2" align="center" valign="bottom"><text><SENT sid="213" pm="."><plain>TaqMan™ probes </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="214" pm="."><plain>Rho </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="215" pm="."><plain>FAM-CTCCACACC(T-BHQ1)TGCTTACCCCATTG-PO4 </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="216" pm="."><plain>BetaH </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="217" pm="."><plain>FAM-ACAACA(T-BHQ1)CAAGAAGAGCTTTGCCCAG-PO4 </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="218" pm="."><plain>BetaA </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="219" pm="."><plain>FAM-CTGATCGTC(T-BHQ`)ACCCCTGGACCCAGA-PO4 </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="220" pm="."><plain>Epsilon </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="221" pm="."><plain>FAM-CTGTGCTTGG(T-BHQ1)GGGAAGAGGGGAT-PO4 </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="222" pm="."><plain>Beta-actin </plain></SENT>
+</text></td><td align="left"><text><SENT sid="223" pm="."><plain>FAM-TCTATGAAGGC(T-BHQ1)ACGCCCTCCCCC-PO4 </plain></SENT>
+</text></td></tr></tbody></table><table-wrap-foot><p><text><SENT sid="224" pm="."><plain>5′-3′ sequences are presented. </plain></SENT>
+<SENT sid="225" pm="."><plain>Sequences [GenBank:NW_001471556] for β-globin and [GenBank:NC_006101] for β-actin primers were used. </plain></SENT>
+</text></p></table-wrap-foot></table-wrap></SecTag></sec><sec><title><text><SENT sid="226" pm="."><plain>3C analysis </plain></SENT>
+</text></title><p><text><SENT sid="227" pm="."><plain>The 3C analysis was performed as described [43] with minor modifications. </plain></SENT>
+<SENT sid="228" pm="."><plain>Briefly, 7.5×107 cells were fixed in DMEM/serum with 2% formaldehyde for 10 min at room temperature. </plain></SENT>
+<SENT sid="229" pm="."><plain>The reaction was stopped by adding glycine to a concentration of 0.125 M and placing the samples on ice. </plain></SENT>
+<SENT sid="230" pm="."><plain>Cross-linked cells were washed with cold PBS and lysed by incubation for 10 min in ice-cold lysis buffer (10 mM Tris (pH 8.0), 10 mM NaCl, 0.2% NP-40, protease inhibitor cocktail R1321 (Fermentas, Vilnius, Lithuania)). </plain></SENT>
+<SENT sid="231" pm="."><plain>The nuclei were harvested, and aliquots containing 3.75×107 nuclei were frozen in liquid nitrogen and stored at ‐70°C. </plain></SENT>
+</text></p><p><text><SENT sid="232" pm="."><plain>Approximately 1.25×107 nuclei were suspended in 0.25 ml of an appropriate 1.2x restriction buffer, SDS was added to a final concentration of 0.3%, and the solution was incubated with shaking at 37°C for 1 h. </plain></SENT>
+<SENT sid="233" pm="."><plain>The solution was then diluted 2-fold with the same restriction buffer, and Triton X-100 was added to a final concentration of 1.8% (to sequester the SDS) followed by incubation at the same conditions for another hour. </plain></SENT>
+<SENT sid="234" pm="."><plain>After incubation, 400 U of MboI (NEB, Hitchin, UK) or NlaIII (Fermentas, Vilnius, Lithuania) was added, and the digestion was performed for 20 h at 37°C with continuous shaking. </plain></SENT>
+<SENT sid="235" pm="."><plain>The reaction was terminated by the addition of SDS to a final concentration of 1.3% and incubation at 65°C for 20 min. </plain></SENT>
+<SENT sid="236" pm="."><plain>The solution was diluted by adding 7 ml of 1x ligation buffer (50 mM Tris (pH 7.5), 10 mM MgCl2, 10 mM DTT, 1 mM ATP). </plain></SENT>
+<SENT sid="237" pm="."><plain>Triton X-100 was added to a final concentration of 1%, and the solution was incubated at 37°C for 1 h while shaking. </plain></SENT>
+<SENT sid="238" pm="."><plain>T4 DNA Ligase (100 U, Fermentas, Vilnius, Lithuania) was then added, and DNA was ligated at 14-16°C for 5 h followed by further incubation at room temperature for 30 min with slow agitation. </plain></SENT>
+<SENT sid="239" pm="."><plain>Cross-links were reversed by incubation at 65°C for 16 h in the presence of 500 μg of Proteinase K (Sigma). </plain></SENT>
+<SENT sid="240" pm="."><plain>After cross-link reversion, 300 μg of RNase A was added, and the RNA was digested at 37°C for 45 min. </plain></SENT>
+<SENT sid="241" pm="."><plain>DNA was purified by extraction with phenol (pH 8.0), followed by precipitation with ethanol in the presence of 120 μg of glycogen (Fermentas, Vilnius, Lithuania). </plain></SENT>
+</text></p><p><text><SENT sid="242" pm="."><plain>The efficacy of restriction enzyme digestion in 3C reactions was checked using PCR stop analysis and was found to be more than 80% for different sites throughout the locus under study (data not shown). </plain></SENT>
+</text></p><p><text><SENT sid="243" pm="."><plain>To generate a random ligation control, 8 μg of a bacterial artificial chromosome containing the chicken β-globin gene domain along with the flanking areas [CHORI BACPAC Resources Center:TAM32-28 J3] was digested with Sau3A or NlaIII and then ligated at a high DNA concentration. </plain></SENT>
+</text></p><p><text><SENT sid="244" pm="."><plain>The TaqMan™ real-time PCR technology was employed to analyze the ligation products. </plain></SENT>
+<SENT sid="245" pm="."><plain>Primers and TaqMan™ probes for PCR were designed using the DNA sequence [GenBank: NW_001471556] and Primer Premier 5 computer software (PREMIER Biosoft International, Palo Alto, CA, USA). </plain></SENT>
+<SENT sid="246" pm="."><plain>The sequences of the primers and TaqMan™ probes are present in Table 2. </plain></SENT>
+<SENT sid="247" pm="."><plain>A real-time PCR reaction in a total volume of 20 μl included 20‐100 ng of a 3C DNA template or the same amount of digested and re-ligated chicken genomic DNA along with 3, 0.3, 0,003 or 0,0003 ng of the control BAC template, 1x PCR buffer (50 mM Tris (pH 8.6), 50 mM KCl, 1.5 mM MgCl2, 0.1% Tween 20), 10 pmol of each primer, 5 pmol of a TaqMan™ probe (5′-FAM dye, inside BHQ-1quencher), 4 nmol of each dNTP and 0.75 U of Hot start Taq DNA polymerase (Sibenzyme, Novosibirsk, Russia). </plain></SENT>
+<SENT sid="248" pm="."><plain>The reaction was performed as follows: initial denaturation for 5 min at 94°C, 50 cycles of 15 s at 94°C and 60 s at 60°C followed by reading the plate. </plain></SENT>
+<SENT sid="249" pm="."><plain>All real-time PCR component reactions were aliquoted and stored at ‐70°C until required for PCR with each new primer pair. </plain></SENT>
+</text></p><SecTag type="TABLE"><table-wrap position="float" id="T2"><label>Table 2</label><caption><p><text><SENT sid="250" pm="."><plain>Primers and TaqMan™ probes used for 3C analysis </plain></SENT>
+</text></p></caption><table frame="hsides" rules="groups" border="1"><colgroup><col align="left"/><col align="left"/></colgroup><thead valign="top"><tr><th align="left"><text><SENT sid="251" pm="."><plain>  </plain></SENT>
+</text></th><th align="left"><text><SENT sid="252" pm="."><plain>Primers for MboI 3C analysis </plain></SENT>
+</text></th></tr></thead><tbody valign="top"><tr><td align="left" valign="bottom"><text><SENT sid="253" pm="."><plain>HS4 (anchor) </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="254" pm="."><plain>GAGAATCGGGTGCAGGCTT </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="255" pm="."><plain>HS4 -|- HS3 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="256" pm="."><plain>GCGTGGATAGAAGTAAACTGGAA </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="257" pm="."><plain>HS3 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="258" pm="."><plain>GCAGTCCCAGGTTGCACAA </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="259" pm="."><plain>HS2 (anchor) </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="260" pm="."><plain>CACCGTCAGCATACATTGCT </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="261" pm="."><plain>HS2 -|- HS1 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="262" pm="."><plain>CAGGACCACCGTTACCCAT </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="263" pm="."><plain>HS1 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="264" pm="."><plain>TCAGGAACCGTGGGTGTGT </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="265" pm="."><plain>HS1 -|- Rho </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="266" pm="."><plain>ACAACTCCAAGGGATGAAGC </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="267" pm="."><plain>Rho (anchor) </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="268" pm="."><plain>AGGGAGACTACGAATGCTGC </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="269" pm="."><plain>Rho -|- betaH </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="270" pm="."><plain>AATGGAAAGGTTCTGTCTCAGC </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="271" pm="."><plain>BetaH </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="272" pm="."><plain>CTGAGCCCCACCCTGATG </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="273" pm="."><plain>BetaH -|- BetaA </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="274" pm="."><plain>ACTATGTCCATCCCAGCTCCA </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="275" pm="."><plain>BetaA (anchor) </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="276" pm="."><plain>AGCCCCACTGCCATCCTT </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="277" pm="."><plain>BetaA -|- Beta/eps enh </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="278" pm="."><plain>TCACGGAGCACCTACAACCA </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="279" pm="."><plain>Beta/eps enh (anchor) </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="280" pm="."><plain>CTATCAAGACTTGCACAGACCTT </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="281" pm="."><plain>Beta/eps enh -|- Epsilon </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="282" pm="."><plain>AGTGATTCTATGGAGGAAGGCA </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="283" pm="."><plain>Epsilon (anchor) </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="284" pm="."><plain>GCGACAAGTTGCACGTGG </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="285" pm="."><plain>3′HS (anchor) </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="286" pm="."><plain>GGGCATTTCTACAGAGAGCAA </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="287" pm="."><plain>Downstream to 3′HS </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="288" pm="."><plain>CCACATCTGCCAAGAGCCT </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="289" pm="."><plain>ERCC3 test </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="290" pm="."><plain>CAAATCTGACAGCCGCTTAGA </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="291" pm="."><plain>ERCC3 (anchor) </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="292" pm="."><plain>CTCGATGAAGTACATACTATTCCTG </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="293" pm="."><plain>  </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="294" pm="."><plain>Primers for NlaIII 3C analysis </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="295" pm="."><plain>HS4 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="296" pm="."><plain>GTGGATTGAAGGATGCTGAG </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="297" pm="."><plain>HS4 -|- HS3 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="298" pm="."><plain>CCAAAGGACCCCAGGACTA </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="299" pm="."><plain>HS3 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="300" pm="."><plain>TGACACAGCACAAAAGTGAGC </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="301" pm="."><plain>HS3 -|- HS2 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="302" pm="."><plain>AGCAATGTATGCTGACGGTG </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="303" pm="."><plain>HS2 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="304" pm="."><plain>AAATACATCCCATCCTGGTGTTC </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="305" pm="."><plain>HS2 -|- HS1 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="306" pm="."><plain>CAGGAAAAGCCTTACTTCAAATG </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="307" pm="."><plain>HS1 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="308" pm="."><plain>CCGCTGCTCAGTGTCACAC </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="309" pm="."><plain>HS1 -|- Rho </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="310" pm="."><plain>CGAAGTAGGGAACCTCAACA </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="311" pm="."><plain>Rho </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="312" pm="."><plain>AGGAGGGGAGTAAAAGGGAG </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="313" pm="."><plain>BetaH </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="314" pm="."><plain>CCCTGAACGATGAGTAGGAAGT </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="315" pm="."><plain>BetaA </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="316" pm="."><plain>CAGCTCTGCAGCTCTATACCG </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="317" pm="."><plain>Beta/eps enh </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="318" pm="."><plain>TTAATCCTCCCTGGATCATTTC </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="319" pm="."><plain>Beta/eps enh -|- Epsilon </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="320" pm="."><plain>GCTCTGCTTACATTCACATCCA </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="321" pm="."><plain>Epsilon (anchor) </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="322" pm="."><plain>AGCGCTGCCCTACCAGAC </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="323" pm="."><plain>Epsilon -|- 3′HS </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="324" pm="."><plain>AGCAGCCTGCAGAGGGAT </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="325" pm="."><plain>3′HS </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="326" pm="."><plain>GGGCATTTCTACAGAGAGCAA </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="327" pm="."><plain>ERCC3 test </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="328" pm="."><plain>CAAATCTGACAGCCGCTTAGA </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="329" pm="."><plain>ERCC3 (anchor) </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="330" pm="."><plain>CTCGATGAAGTACATACTATTCCTG </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="331" pm="."><plain>  </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="332" pm="."><plain>TaqMan™ probes for MboI 3C analysis </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="333" pm="."><plain>HS4 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="334" pm="."><plain>FAM-ATTCCCTGTCC(T-BHQ1)GTCCCACAGCTGT-PO4 </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="335" pm="."><plain>HS2 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="336" pm="."><plain>FAM-AATTTGTGA(T-BHQ1)GGACTTCAGGCCCAT-PO4 </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="337" pm="."><plain>Rho </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="338" pm="."><plain>FAM-AAAGGAGCTGAC(T-BHQ1)CATGCTAGCCCAG-PO4 </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="339" pm="."><plain>BetaA </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="340" pm="."><plain>FAM-TTTGCCTCC(T-BHQ1)TTGGGAACCTCTCC-PO4 </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="341" pm="."><plain>Beta/eps enh </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="342" pm="."><plain>FAM-CAGTTCTCCGAG(T-BHQ1)CTGACTTTGGAGTCT-PO4 </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="343" pm="."><plain>Epsilon </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="344" pm="."><plain>FAM-TTTGCCTCC(T-BHQ1)TTGGGAACCTCTCC-PO4 </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="345" pm="."><plain>3′HS </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="346" pm="."><plain>FAM-CAGTTCTCCGAG(T-BHQ1)CTGACTTTGGAGTCT-PO4 </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="347" pm="."><plain>ERCC3 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="348" pm="."><plain>FAM-TGGAGTGGCT(T-BHQ1)AAAAGTCGAGAGTGG-PO4 </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="349" pm="."><plain>  </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="350" pm="."><plain>TaqMan™ probes for NlaIII 3C analysis </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="351" pm="."><plain>HS2 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="352" pm="."><plain>FAM-AAGTG(T-BHQ1)CCCAGCTCCTGTTCTCCCAC-PO4 </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="353" pm="."><plain>Epsilon </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="354" pm="."><plain>FAM-CCTTTCTC(T-BHQ1)GAAAAGGGGCCCAGGT-PO4 </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="355" pm="."><plain>ERCC3 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="356" pm="."><plain>FAM-TGGAGTGGCT(T-BHQ1)AAAAGTCGAGAGTGG-PO4 </plain></SENT>
+</text></td></tr></tbody></table><table-wrap-foot><p><text><SENT sid="357" pm="."><plain>5′-3′ sequences are presented. </plain></SENT>
+<SENT sid="358" pm="."><plain>Sequences [GenBank:NW_001471556] for β-globin and [GenBank:NC_006094] for ERCC3 primers were used. </plain></SENT>
+<SENT sid="359" pm="."><plain>Symbol ”-|-”designates primers located in linkers between functional elements within the domain. </plain></SENT>
+</text></p></table-wrap-foot></table-wrap></SecTag><p><text><SENT sid="360" pm="."><plain>To account for the qualitative and quantitative differences of independently prepared 3C samples, the qPCR data for each sample were normalized to the results obtained by using primers for the housekeeping gene, ERCC3 (encodes the ATP-dependent DNA-helicase, a component of the complex TFIIH), located in an area that presumably possesses the same structure of chromatin in all types of cells. </plain></SENT>
+<SENT sid="361" pm="."><plain>The research was approved by the institute ethics governing board. </plain></SENT>
+</text></p></sec></sec></SecTag><SecTag type="ABBR"><sec><title><text><SENT sid="362" pm="."><plain>Abbreviations </plain></SENT>
+</text></title><p><text><SENT sid="363" pm="."><plain>ACH: Active chromatin hub; bp: base pair; CEF: Chicken embryonic fibroblast; CTCF: CCCTC-binding factor; HS: Site of hypersensitivity to DNase I; LCR: Locus control region; RBC: Red blood cell; RT-qPCR: real-time reverse transcriptase polymerase chain reaction; 3C-qPCR: quantitative chromosome conformation capture assay. </plain></SENT>
+</text></p></sec></SecTag><SecTag type="COMP_INT"><sec><title><text><SENT sid="364" pm="."><plain>Competing interests </plain></SENT>
+</text></title><p><text><SENT sid="365" pm="."><plain>The authors declare that they have no competing interests. </plain></SENT>
+</text></p></sec></SecTag><sec><title><text><SENT sid="366" pm="."><plain>Authors’ contributions </plain></SENT>
+</text></title><p><text><SENT sid="367" pm="."><plain>SVU, AAG, and SVR designed the studies; SVU performed the studies; SVU, AAG, and SVR analyzed the data; and SVU, AAG, and SVR prepared the manuscript. </plain></SENT>
+<SENT sid="368" pm="."><plain>All authors read and approved the final manuscript. </plain></SENT>
+</text></p></sec></body><back><SecTag type="ACK_FUND"><sec><title>Acknowledgements</title><p><text4fund><text><SENT sid="369" pm="."><plain>This work was supported by the Ministry of Science and Education of the Russian Federation (contracts 16.740.11.0353, 14.740.12.1344 and 16.740.11.0483), by the Russian Foundation for Support of Basic Research (grants 11-04-00361-Ð°, 11-04-91334-NNIO_Ð° and 12-04-00036-Ð°), by the Presidium of the Russian Academy of Sciences (grants from the Program on Molecular and Cellular Biology), by a grant from the President of the Russian Federation for young scientists (MK-3813.2012.4) and by Dmitri Zimin’s foundation ”Dynasty”. </plain></SENT>
+<SENT sid="370" pm="."><plain>Experiments were performed using the equipment of IGB RAS facilities supported by the Ministry of Science and Education of the Russian Federation (contract 16.552.11.7067). </plain></SENT>
+<SENT sid="371" pm="."><plain>The work of Sergey Ulianov was also supported in part by the Russian Federation (Order 220) research grant. </plain></SENT>
+</text></text4fund></p></sec></SecTag><SecTag type="REF"><ref-list><ref id="B1"><text><SENT sid="372" pm="."><plain>ReitmanMFelsenfeldGDevelopmental regulation of topoisomerase II sites and DNase I-hypersensitive sites in the chicken beta-globin locusMol Cell Biol199010277427862160585 </plain></SENT>
+</text></ref><ref id="B2"><text><SENT sid="373" pm="."><plain>GuerreroGDelgado-OlguinPEscamilla-Del-ArenalMFurlan-MagarilMRebollarEDe La Rosa-VelazquezIASoto-ReyesERincon-AranoHValdes-QuezadaCValadez-GrahamVRecillas-TargaFGlobin genes transcriptional switching, chromatin structure and linked lessons to epigenetics in cancer: a comparative overviewComp Biochem Physiol A Mol Integr Physiol200714775076010.1016/j.cbpa.2006.10.03717188536 </plain></SENT>
+</text></ref><ref id="B3"><text><SENT sid="374" pm="."><plain>ReitmanMLeeEWestphalHFunction of the upstream hypersensitive sites of the chicken beta-globin gene cluster in miceNucleic Acids Res1995231790179410.1093/nar/23.10.17907784184 </plain></SENT>
+</text></ref><ref id="B4"><text><SENT sid="375" pm="."><plain>MasonMMLeeEWestphalHReitmanMExpression of the chicken b-globin cluster in mice: correct developmental expression and distributed controlMol Cell Biol1995154074147799949 </plain></SENT>
+</text></ref><ref id="B5"><text><SENT sid="376" pm="."><plain>ChungJHWhiteleyMFelsenfeldGA 5′ element of the chicken beta-globin domain serves as an insulator in human erythroid cells and protects against position effect in DrosophilaCell19937450551410.1016/0092-8674(93)80052-G8348617 </plain></SENT>
+</text></ref><ref id="B6"><text><SENT sid="377" pm="."><plain>PikaartMJRecillas-TargaFFelsenfeldGLoss of transcriptional activity of a transgene is accompanied by DNA methylation and histone deacetylation and is prevented by insulatorsGen Dev1998122852286210.1101/gad.12.18.2852 </plain></SENT>
+</text></ref><ref id="B7"><text><SENT sid="378" pm="."><plain>Recillas-TargaFPikaartMJBurgess-BeusseBBellACLittMDWestAGGasznerMFelsenfeldGPosition-effect protection and enhancer blocking by the chicken beta-globin insulator are separable activitiesProc Natl Acad Sci USA2002996883688810.1073/pnas.10217939912011446 </plain></SENT>
+</text></ref><ref id="B8"><text><SENT sid="379" pm="."><plain>Recillas-TargaFBellACFelsenfeldGPositional enhancer-blocking activity of the chicken beta-globin insulator in transiently transfected cellsProc Natl Acad Sci USA199996143541435910.1073/pnas.96.25.1435410588709 </plain></SENT>
+</text></ref><ref id="B9"><text><SENT sid="380" pm="."><plain>BellACWestAGFelsenfeldGThe protein CTCF is required for the enhancer-blocking activity of vertebrate insulatorsCell19999838739610.1016/S0092-8674(00)81967-410458613 </plain></SENT>
+</text></ref><ref id="B10"><text><SENT sid="381" pm="."><plain>SaitohNBellACRecillas-TargaFWestAGSimpsonMPikaartMFelsenfeldGStructural and functional conservation at the boundaries of the chicken beta-globin domainEMBO J2000192315232210.1093/emboj/19.10.231510811622 </plain></SENT>
+</text></ref><ref id="B11"><text><SENT sid="382" pm="."><plain>Burgess-BeusseBFarrellCGasznerMLittMMutskovVRecillas-TargaFSimpsonMWestAFelsenfeldGThe insulation of genes from external enhancers and silencing chromatinProc Natl Acad Sci USA2002Suppl 4164331643712154228 </plain></SENT>
+</text></ref><ref id="B12"><text><SENT sid="383" pm="."><plain>ChoiOEngelJDA 3′ enhancer is required for temporal and tissue-specific transcriptional activation of the chicken adult β-globin geneNature198632373173410.1038/323731a03022151 </plain></SENT>
+</text></ref><ref id="B13"><text><SENT sid="384" pm="."><plain>EmersonBMNickolJMJacksonPDFelsenfeldGAnalysis of the tissue-specific enhancer at the 3′ end of the chicken adult beta-globin geneProc Natl Acad Sci USA1987844786479010.1073/pnas.84.14.47863474625 </plain></SENT>
+</text></ref><ref id="B14"><text><SENT sid="385" pm="."><plain>ReitmanMLeeEWestphalHFelsenfeldGSite-independent expression of the chicken beta A-globin gene in transgenic miceNature199034874975210.1038/348749a02175398 </plain></SENT>
+</text></ref><ref id="B15"><text><SENT sid="386" pm="."><plain>Recillas-TargaFRazinSVChromatin domains and regulation of gene expression: familiar and enigmatic clusters of chicken globin genesCrit Rev Eukaryot Gene Expr20011122724211693962 </plain></SENT>
+</text></ref><ref id="B16"><text><SENT sid="387" pm="."><plain>DillonNSabbatiniPFunctional gene expression domains: defining the functional units of eukaryotic gene regulationBio Essays200022657665 </plain></SENT>
+</text></ref><ref id="B17"><text><SENT sid="388" pm="."><plain>RazinSVFarrellCMRecillas-TargaFGenomic domains and regulatory elements operating at the domain levelInt Rev Cytol20032266312512921236 </plain></SENT>
+</text></ref><ref id="B18"><text><SENT sid="389" pm="."><plain>LittMDSimpsonMRecillas-TargaFPrioleauMNFelsenfeldGTransitions in histone acetylation reveal boundaries of three separately regulated neighboring lociEMBO J2001202224223510.1093/emboj/20.9.222411331588 </plain></SENT>
+</text></ref><ref id="B19"><text><SENT sid="390" pm="."><plain>LittMDSimpsonMGasznerMAllisCDFelsenfeldGCorrelation between histone lysine methylation and developmental changes at the chicken beta-globin locusScience20012932453245510.1126/science.106441311498546 </plain></SENT>
+</text></ref><ref id="B20"><text><SENT sid="391" pm="."><plain>GroudineMHoltzerHScherrerKTherwathALineage-dependent transcription of globin genesCell1974324324710.1016/0092-8674(74)90138-X4434472 </plain></SENT>
+</text></ref><ref id="B21"><text><SENT sid="392" pm="."><plain>BrunsGAIngramVMErythropoiesis in the developing chick embryoDev Biol19733045545910.1016/0012-1606(73)90102-44703681 </plain></SENT>
+</text></ref><ref id="B22"><text><SENT sid="393" pm="."><plain>TolhuisBPalstraRJSplinterEGrosveldFde LaatWLooping and interaction between hypersensitive sites in the active beta-globin locusMol Cell2002101453146510.1016/S1097-2765(02)00781-512504019 </plain></SENT>
+</text></ref><ref id="B23"><text><SENT sid="394" pm="."><plain>de LaatWGrosveldFSpatial organization of gene expression: the active chromatin hubChromosome Res20031144745910.1023/A:102492262672612971721 </plain></SENT>
+</text></ref><ref id="B24"><text><SENT sid="395" pm="."><plain>PalstraRJTolhuisBSplinterENijmeijerRGrosveldFde LaatWThe beta-globin nuclear compartment in development and erythroid differentiationNat Genet20033519019410.1038/ng124414517543 </plain></SENT>
+</text></ref><ref id="B25"><text><SENT sid="396" pm="."><plain>HagegeHKlousPBraemCSplinterEDekkerJCathalaGde LaatWForneTQuantitative analysis of chromosome conformation capture assays (3C-qPCR)Nat Protoc200721722173310.1038/nprot.2007.24317641637 </plain></SENT>
+</text></ref><ref id="B26"><text><SENT sid="397" pm="."><plain>GavrilovAEivazovaEPriozhkovaILipinskiMRazinSVassetzkyYChromosome conformation capture (from 3C to 5C) and its ChIP-based modificationMethods Mol Biol200956717118810.1007/978-1-60327-414-2_1219588093 </plain></SENT>
+</text></ref><ref id="B27"><text><SENT sid="398" pm="."><plain>DekkerJThe three ’ s of chromosome conformation capture: controls, controls, controlsNat Methods20063172110.1038/nmeth82316369547 </plain></SENT>
+</text></ref><ref id="B28"><text><SENT sid="399" pm="."><plain>WijgerdeMGrosveldFFraserPTranscription complex stability and chromatin dynamics in vivoNature199537720921310.1038/377209a07675106 </plain></SENT>
+</text></ref><ref id="B29"><text><SENT sid="400" pm="."><plain>WestAGFraserPRemote control of gene transcriptionHum Mol Genet200514110111110.1093/hmg/ddi104 </plain></SENT>
+</text></ref><ref id="B30"><text><SENT sid="401" pm="."><plain>ZhuXLingJZhangLPiWWuMTuanDA facilitated tracking and transcription mechanism of long-range enhancer functionNucleic Acids Res2007355532554410.1093/nar/gkm59517704132 </plain></SENT>
+</text></ref><ref id="B31"><text><SENT sid="402" pm="."><plain>KukushkinANSvetlikovaSBPospelovVAA structure of potentially active and inactive genes of chicken erythrocyte chromatin upon decondensationNucleic Acids Res1988168555856910.1093/nar/16.17.85553419926 </plain></SENT>
+</text></ref><ref id="B32"><text><SENT sid="403" pm="."><plain>BulgerMSchubelerDBenderMAHamiltonJFarrellCMHardisonRCGroudineMA complex chromatin landscape revealed by patterns of nuclease sensitivity and histone modification within the mouse beta-globin locusMol Cell Biol2003235234524410.1128/MCB.23.15.5234-5244.200312861010 </plain></SENT>
+</text></ref><ref id="B33"><text><SENT sid="404" pm="."><plain>SchubelerDFrancastelCCimboraDMReikAMartinDIKGroudineMNuclear localization and histone acetilation: a pathway for chromatin opening and transcription activation of the human β-globin locusGen200014940950 </plain></SENT>
+</text></ref><ref id="B34"><text><SENT sid="405" pm="."><plain>SplinterEHeathHKoorenJPalstraRJKlousPGrosveldFGaljartNde LaatWCTCF mediates long-range chromatin looping and local histone modification in the beta-globin locusGenes Dev2006202349235410.1101/gad.39950616951251 </plain></SENT>
+</text></ref><ref id="B35"><text><SENT sid="406" pm="."><plain>KurukutiSTiwariVKTavoosidanaGPugachevaEMurrellAZhaoZLobanenkovVReikWOhlssonRCTCF binding at the H19 imprinting control region mediates maternally inherited higher-order chromatin conformation to restrict enhancer access to Igf2Proc Natl Acad Sci USA2006103106841068910.1073/pnas.060032610316815976 </plain></SENT>
+</text></ref><ref id="B36"><text><SENT sid="407" pm="."><plain>YusufzaiTMFelsenfeldGThe 5′-HS4 chicken beta-globin insulator is a CTCF-dependent nuclear matrix-associated elementProc Natl Acad Sci USA20041018620862410.1073/pnas.040293810115169959 </plain></SENT>
+</text></ref><ref id="B37"><text><SENT sid="408" pm="."><plain>WoodWIFelsenfeldGChromatin structure of the chicken beta-globin gene region. </plain></SENT>
+<SENT sid="409" pm="."><plain>Sensitivity to DNase I, micrococcal nuclease, and DNase IIJ Biol Chem1982257773077366282852 </plain></SENT>
+</text></ref><ref id="B38"><text><SENT sid="410" pm="."><plain>IoudinkovaESUlianovSVBuninaDIarovaiaOVGavrilovAARazinSVThe inactivation of the pi gene in chicken erythroblasts of adult lineage is not mediated by packaging of the embryonic part of the alpha-globin gene domain into a repressive heterochromatin-like structureEpigenetics201161481148810.4161/epi.6.12.1821522139578 </plain></SENT>
+</text></ref><ref id="B39"><text><SENT sid="411" pm="."><plain>AlevCMcIntyreBANagaiHShinMShinmyozuKJaktLMShengGBetaA, the major beta globin in definitive red blood cells, is present from the onset of primitive erythropoiesis in chickenDev Dyn20082371193119710.1002/dvdy.2151018351667 </plain></SENT>
+</text></ref><ref id="B40"><text><SENT sid="412" pm="."><plain>IarovaiaOVBorounovaVVPhilonenkoESKantidzeOLVassetzkyYSRazinSVIn embryonic chicken erythrocytes actively transcribed alpha globin genes are not associated with the nuclear matrixJ Cell Biochem200910617017810.1002/jcb.2198719003974 </plain></SENT>
+</text></ref><ref id="B41"><text><SENT sid="413" pm="."><plain>GoldsmithMERelease of a globin gene enriched chromatin fraction from chicken erythrocyte nuclei following DNase II digestionNucleic Acids Res198196471648510.1093/nar/9.23.64716275364 </plain></SENT>
+</text></ref><ref id="B42"><text><SENT sid="414" pm="."><plain>SilimAEl AzharyMARoyRSA simple technique for preparation of chicken-embryo-skin cell culturesAvian Dis19822618218510.2307/15900396284112 </plain></SENT>
+</text></ref><ref id="B43"><text><SENT sid="415" pm="."><plain>GavrilovAARazinSVSpatial configuration of the chicken {alpha}-globin gene domain: immature and active chromatin hubsNucleic Acids Res2008364629464010.1093/nar/gkn42918621783 </plain></SENT>
+</text></ref></ref-list></SecTag></back></article>

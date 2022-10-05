@@ -1,0 +1,569 @@
+<!DOCTYPE article  PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN" "archivearticle3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?DTDIdentifier.IdentifierValue article.dtd?><?DTDIdentifier.IdentifierType system?><?SourceDTD.DTDName article.dtd?><?SourceDTD.Version 1.0?><?ConverterInfo.XSLTName bmc2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">Mol Cancer</journal-id><journal-title-group><journal-title>Molecular Cancer</journal-title></journal-title-group><issn pub-type="epub">1476-4598</issn><publisher><publisher-name>BioMed Central</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">2987983</article-id><article-id pub-id-type="publisher-id">1476-4598-9-284</article-id><article-id pub-id-type="pmid">20979663</article-id><article-id pub-id-type="doi">10.1186/1476-4598-9-284</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research</subject></subj-group></article-categories><title-group><article-title><SecTag type="TITLE"><text><SENT sid="0" pm="."><plain>Influence of wild-type MLL on glucocorticoid sensitivity and response to DNA-damage in pediatric acute lymphoblastic leukemia </plain></SENT>
+</text></SecTag></article-title></title-group><contrib-group><contrib contrib-type="author" id="A1"><name><surname>Beesley</surname><given-names>Alex H</given-names></name><xref ref-type="aff" rid="I1">1</xref><email>alex@ichr.uwa.edu.au</email></contrib><contrib contrib-type="author" id="A2"><name><surname>Rampellini</surname><given-names>Janelle L</given-names></name><xref ref-type="aff" rid="I1">1</xref><email>jrampellini@meddent.uwa.edu.au</email></contrib><contrib contrib-type="author" id="A3"><name><surname>Palmer</surname><given-names>Misty-Lee</given-names></name><xref ref-type="aff" rid="I1">1</xref><xref ref-type="aff" rid="I3">3</xref><email>mistyleepalmer@gmail.com</email></contrib><contrib contrib-type="author" id="A4"><name><surname>Heng</surname><given-names>Jasmin YS</given-names></name><xref ref-type="aff" rid="I1">1</xref><email>jheng@ichr.uwa.edu.au</email></contrib><contrib contrib-type="author" id="A5"><name><surname>Samuels</surname><given-names>Amy L</given-names></name><xref ref-type="aff" rid="I1">1</xref><email>asamuels@ichr.uwa.edu.au</email></contrib><contrib contrib-type="author" id="A6"><name><surname>Firth</surname><given-names>Martin J</given-names></name><xref ref-type="aff" rid="I2">2</xref><email>martyf@ichr.uwa.edu.au</email></contrib><contrib contrib-type="author" id="A7"><name><surname>Ford</surname><given-names>Jette</given-names></name><xref ref-type="aff" rid="I1">1</xref><email>jford@ichr.uwa.edu.au</email></contrib><contrib contrib-type="author" corresp="yes" id="A8"><name><surname>Kees</surname><given-names>Ursula R</given-names></name><xref ref-type="aff" rid="I1">1</xref><email>labadmin@ichr.uwa.edu.au</email></contrib></contrib-group><aff id="I1"><label>1</label>Division of Children's Leukaemia and Cancer Research, Telethon Institute for Child Health Research, University of Western Australia Centre for Child Health Research, Perth, Australia</aff><aff id="I2"><label>2</label>Division of Biostatistics and Genetic Epidemiology, Telethon Institute for Child Health Research, University of Western Australia Centre for Child Health Research, Perth, Australia</aff><aff id="I3"><label>3</label>Curtin University of Technology School of Pharmacy, Perth, Western Australia</aff><pub-date pub-type="collection"><year>2010</year></pub-date><pub-date pub-type="epub"><day>28</day><month>10</month><year>2010</year></pub-date><volume>9</volume><fpage>284</fpage><lpage>284</lpage><history><date date-type="received"><day>11</day><month>1</month><year>2010</year></date><date date-type="accepted"><day>28</day><month>10</month><year>2010</year></date></history><permissions><copyright-statement>Copyright ©2010 Beesley et al; licensee BioMed Central Ltd.</copyright-statement><copyright-year>2010</copyright-year><copyright-holder>Beesley et al; licensee BioMed Central Ltd.</copyright-holder><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.0"><license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/2.0">http://creativecommons.org/licenses/by/2.0</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xlink:href="http://www.molecular-cancer.com/content/9/1/284"/><abstract><sec><title><text><SENT sid="1" pm="."><plain>Background </plain></SENT>
+</text></title><p><SecTag type="ABS"><text><SENT sid="2" pm="."><plain>Rearrangement of the mixed-lineage leukemia gene (MLL) is found in 80% of infant acute lymphoblastic leukemia (ALL) and is associated with poor prognosis and resistance to glucocorticoids (GCs). </plain></SENT>
+<SENT sid="3" pm="."><plain>We have recently observed that GC resistance in T-ALL cell lines is associated with a proliferative metabolism and reduced expression of MLL. </plain></SENT>
+<SENT sid="4" pm="."><plain>In this study we have further explored the relationship between MLL status and GC sensitivity. </plain></SENT>
+</text></SecTag></p></sec><sec><title><text><SENT sid="5" pm="."><plain>Results </plain></SENT>
+</text></title><p><SecTag type="ABS"><text><SENT sid="6" pm="."><plain>Negative correlation of MLL expression with GC resistance in 15 T-ALL cell lines was confirmed by quantitative RT-PCR. </plain></SENT>
+<SENT sid="7" pm="."><plain>The absence of MLL-rearrangements suggested that this relationship represented expression of wild-type MLL. </plain></SENT>
+<SENT sid="8" pm="."><plain>Analysis of MLL expression patterns revealed a negative relationship with cellular metabolism, proliferation and anti-apoptotic transcriptional networks. In silico analysis of published data demonstrated that reduced levels of MLL mRNA are associated with relapse and prednisolone resistance in T-ALL patients and adverse clinical outcome in children with MLL-rearranged ALL. </plain></SENT>
+<SENT sid="9" pm="."><plain>RNAi knockdown of MLL expression in T-ALL cell lines significantly increased resistance to dexamethasone and gamma irradiation indicating an important role for wild-type MLL in the control of cellular apoptosis. </plain></SENT>
+</text></SecTag></p></sec><sec><title><text><SENT sid="10" pm="."><plain>Conclusions </plain></SENT>
+</text></title><p><SecTag type="ABS"><text><SENT sid="11" pm="."><plain>The data suggests that reduced expression of wild-type MLL can contribute to GC resistance in ALL patients both with and without MLL-translocations. </plain></SENT>
+</text></SecTag></p></sec></abstract></article-meta></front><body><SecTag type="INTRO"><sec><title><text><SENT sid="12" pm="."><plain>Background </plain></SENT>
+</text></title><p><text><SENT sid="13" pm="."><plain>Among pediatric subtypes of acute lymphoblastic leukemia (ALL), infants and those with T-lineage ALL are particularly resistant to glucocorticoids (GCs), one of the most important classes of drug for this disease [1]. </plain></SENT>
+<SENT sid="14" pm="."><plain>Rearrangement of the mixed lineage leukemia gene (MLL) gene affects 80% of ALL in infants and is associated with a particularly poor prognosis [2,3]. MLL is located at 11q23 and encodes a histone methyltransferase that through its regulation of HOX genes is essential for normal mammalian development and hematopoiesis [4]. </plain></SENT>
+<SENT sid="15" pm="."><plain>A unique feature of the MLL locus is that it is subject to an extremely wide variety of rearrangements, including translocations with &gt;50 partner genes on various chromosomes, as well as deletions, inversions, internal duplications and gene amplifications [4-6]. </plain></SENT>
+<SENT sid="16" pm="."><plain>There are conflicting reports on the relative GC responses of patients with different MLL translocations [7,8], but those with t(4;11) translocations appear particularly resistant [3,8,9]. </plain></SENT>
+<SENT sid="17" pm="."><plain>The biological basis for the documented GC resistance of patients with MLL-disease has not been explored but has generally been assumed to be due to the oncogenic effects of translocated MLL fusion proteins. </plain></SENT>
+</text></p><p><text><SENT sid="18" pm="."><plain>Despite the clinical importance of GCs for the treatment of ALL, detailed knowledge about the transduction pathways leading to GC-induced apoptosis in lymphoid tissues remains limited [10]. </plain></SENT>
+<SENT sid="19" pm="."><plain>Recently we performed transcriptional profiling of a panel of T-ALL cell lines and reported that GC resistance was associated with a proliferative metabolism [11]. </plain></SENT>
+<SENT sid="20" pm="."><plain>We also observed that GC resistance profiles were significantly correlated with reduced expression of MLL. </plain></SENT>
+<SENT sid="21" pm="."><plain>In this study we have further investigated the relationship between MLL expression and GC sensitivity in T-ALL and provide evidence that it is the wild-type expression of the gene, rather than the effect of translocations, that appears to be critical for determining a resistant phenotype. </plain></SENT>
+<SENT sid="22" pm="."><plain>This novel finding may help to explain why GC-resistance is a common feature of most patients with MLL-disease despite the wide variety of possible gene rearrangements </plain></SENT>
+</text></p></sec></SecTag><SecTag type="METHODS"><sec sec-type="methods"><title><text><SENT sid="23" pm="."><plain>Methods </plain></SENT>
+</text></title><sec><title><text><SENT sid="24" pm="."><plain>Cell lines and drug sensitivity profiling </plain></SENT>
+</text></title><p><text><SENT sid="25" pm="."><plain>The cell line panel has been previously described and comprised nine T-ALL lines derived in our own laboratory from pediatric ALL bone marrow specimens (PER cell lines), plus six additional T-ALL cell lines obtained from external sources [12,13]. </plain></SENT>
+<SENT sid="26" pm="."><plain>Cell lines were grown in RPMI-1640 supplemented with 2 mM L-glutamine, 10 nM 2-mercaptoethanol and 10-20% heat-inactivated fetal calf serum. </plain></SENT>
+<SENT sid="27" pm="."><plain>The media for PER-cell lines contained additional non-essential amino acids and pyruvate, whilst 300 units/ml interleukin-2 is required for growth of PER-427 and PER-487. </plain></SENT>
+<SENT sid="28" pm="."><plain>The sensitivity of the T-ALL cell lines to methylprednisolone (MPRED) and dexamethasone (DEX) has been previously published [12] and was measured using the MTT assay with drugs incubated over four days. </plain></SENT>
+<SENT sid="29" pm="."><plain>The IC50 (drug concentration that inhibits cell growth by 50%) was used as the measure of drug resistance. </plain></SENT>
+</text></p></sec><sec><title><text><SENT sid="30" pm="."><plain>Gene Expression Profiling </plain></SENT>
+</text></title><p><text><SENT sid="31" pm="."><plain>Briefly, RNA was extracted from cell lines in exponential growth phase and hybridized to Affymetrix HG-U133A microarrays [11,14]. </plain></SENT>
+<SENT sid="32" pm="."><plain>Microarray data were normalized using robust multi-array analysis (RMA) and all passed quality control criteria for noise, background, absent/present calls, and 3'/5' signal ratios for ACTB and GAPDH. </plain></SENT>
+<SENT sid="33" pm="."><plain>To interrogate the biological pathways represented by MLL expression profiles we used Gene Set Enrichment Analysis (GSEA) [15]. </plain></SENT>
+<SENT sid="34" pm="."><plain>The median value of the five MLL probe sets present on the HG-U133A was calculated for each cell line, and correlated across the panel against all other probe sets on the array using Pearson's correlation as metric (GSEA v2.0, May 2006, 10,000 permutations). </plain></SENT>
+<SENT sid="35" pm="."><plain>GSEA examines ranked lists of genes for enrichment of biological pathways contained within four different databases: C1 (genomic loci), C2 (curated biological pathways), C3 (genes with common regulatory motifs), and C4 (computational gene networks). </plain></SENT>
+<SENT sid="36" pm="."><plain>Since not all genes within a given biological pathway are expected to be regulated in the same direction, rankings were performed using absolute correlation values as previously described [11]. </plain></SENT>
+<SENT sid="37" pm="."><plain>Published microarray data used for in silico analysis [14,16-18] was downloaded from publicly available depositories or authors' websites. </plain></SENT>
+</text></p></sec><sec><title><text><SENT sid="38" pm="."><plain>Real-time quantitative RT-PCR </plain></SENT>
+</text></title><p><text><SENT sid="39" pm="."><plain>Real-time quantitative RT-PCR (qRT-PCR) was performed on total RNA from cell lines in accordance with standard Applied Biosystems protocols (Foster City, CA) and in accordance with our published methods [19]. </plain></SENT>
+<SENT sid="40" pm="."><plain>All experiments were run in duplicates on an ABI 7700 sequence detector and data normalized to expression of beta-actin (ACTB). </plain></SENT>
+<SENT sid="41" pm="."><plain>Primers and probe for MLL and GILZ qRT-PCR were purchased from Applied Biosystems (ABI Assays on Demand); the MLL assay targeted exons 30-31 (Refseq NM_005933). </plain></SENT>
+</text></p></sec><sec><title><text><SENT sid="42" pm="."><plain>RNAi knockdown of MLL expression </plain></SENT>
+</text></title><p><text><SENT sid="43" pm="."><plain>Three pSM2 retroviral RNAi vectors for MLL (V2HS_196843, V2HS_198375, V2HS_214961) and a non-silencing (NS) control vector were obtained from Open Biosystems (Huntsville, USA). </plain></SENT>
+<SENT sid="44" pm="."><plain>For optimal mammalian expression, shRNA inserts were subcloned with EcoRI and XhoI into MSCV-LMP (MSCV/LTRmiR30-PIGΔRI, a generous gift from Prof. </plain></SENT>
+<SENT sid="45" pm="."><plain>Scott Lowe, Cold Spring Harbour Laboratory [20]), which contains GFP and puromycin selection cassettes and drives miR30-shRNA expression using the retroviral 5'LTR. </plain></SENT>
+<SENT sid="46" pm="."><plain>V2HS_198375 (MLL198) was found to suppress MLL expression most efficiently in transient transfection experiments and was used for subsequent experiments. </plain></SENT>
+<SENT sid="47" pm="."><plain>The retroviral packaging cell line PA317 (selected in HAT medium) was transfected with linearised miR30-shRNA plasmid DNA (for both NS control and MLL198) using Lipofectamine, and GFP-positive cells were selected with puromycin. </plain></SENT>
+<SENT sid="48" pm="."><plain>Stably transfected retroviral-producing PA317 cell lines were γ-irradiated (30 Gy) and incubated at 37°C overnight before co-culture with PER-117 cells for 48 hours. </plain></SENT>
+<SENT sid="49" pm="."><plain>Retrovirally infected PER-117 cells were subsequently removed and selected with puromycin to generate cell lines stably expressing shRNA for MLL (MLL-KD) or the NS control (MLL-Scr). </plain></SENT>
+<SENT sid="50" pm="."><plain>Efficiency of RNAi knockdown for MLL was assessed both by qRT-PCR as described above, and by immunoblot of nuclear protein extracted from cell lines in log-phase growth using standard methods. </plain></SENT>
+<SENT sid="51" pm="."><plain>Antibodies used were mouse anti-MLLC/HRX, clone 9-12 (Upstate Cell Signaling Solutions, Temecula, CA), which detects the C-terminal proteolytic fragment of MLL (~180 kDa), and mouse anti-human β-actin as loading control (Pan Actin Ab-5 (ACTN05) NeoMarkers, Fremont CA). </plain></SENT>
+<SENT sid="52" pm="."><plain>Densitometric quantitation of protein bands from multiple extractions taken at independent time points and from different cell-line stocks was performed using ImageJ software <ext-link ext-link-type="uri" xlink:href="http://rsbweb.nih.gov/ij/">http://rsbweb.nih.gov/ij/</ext-link>, with MLL expression normalized to β-actin loading. </plain></SENT>
+</text></p></sec><sec><title><text><SENT sid="53" pm="."><plain>Cellular assays </plain></SENT>
+</text></title><p><text><SENT sid="54" pm="."><plain>Cell growth and viability were measured using the Vi-CELL XR Viable Cell Analyzer (Beckman Coulter). </plain></SENT>
+<SENT sid="55" pm="."><plain>Cells in exponential growth phase were seeded at 5 × 105 ml-1 in a 96-well plate in the presence or absence of dexamethasone (10 μg/ml - 258 μg/ml, Mayne Pharma Pty Ltd, VIC, Australia), 0.025 μg/ml cytarabine (ARAC; Pharmacia Pty Ltd, NSW, Australia), 0.01 μg/ml methotrexate (MTX; David Bull Laboratories), or 1 Gy gamma-irradiation, and incubated for two days at 37°C before measuring cell survival. </plain></SENT>
+<SENT sid="56" pm="."><plain>Each drug concentration or condition was tested in triplicate and data were normalised to values obtained from untreated cells. </plain></SENT>
+<SENT sid="57" pm="."><plain>For metabolic assays, cells in exponential growth were seeded at 5 × 105 ml-1 in fresh media and incubated for two days at 37°C before harvesting supernatants. </plain></SENT>
+<SENT sid="58" pm="."><plain>Glucose and lactate supernatant concentrations were measured using the Amplex Red kit (Invitrogen, Australia), substituting lactate oxidase (Sigma, Australia) as required. </plain></SENT>
+<SENT sid="59" pm="."><plain>For assessment of GILZ induction, MLL-KD and MLL-Scr cells in exponential growth were incubated with 1 μM dexamethasone (Mayne Pharma Pty Ltd, VIC, Australia) for four hours prior to RNA extraction and measurement by qRT-PCR. </plain></SENT>
+</text></p></sec></sec></SecTag><SecTag type="RESULTS"><sec><title><text><SENT sid="60" pm="."><plain>Results </plain></SENT>
+</text></title><sec><title><text><SENT sid="61" pm="."><plain>MLL mRNA Expression and GC resistance in T-ALL Cell Lines </plain></SENT>
+</text></title><p><text><SENT sid="62" pm="."><plain>Our laboratory has developed an authenticated panel of pediatric T-ALL cell lines that have been grown in the absence of drug selection. </plain></SENT>
+<SENT sid="63" pm="."><plain>These cultures retain critical features of the primary disease and their drug resistance profile parallels the spectrum of resistance that has been observed in primary patient specimens [12]. </plain></SENT>
+<SENT sid="64" pm="."><plain>We recently examined the baseline resistance of these 15 T-ALL cell lines to the GCs DEX and MPRED [12] and correlated the data with gene expression profiles as determined by HG-U133A microarray [11]. </plain></SENT>
+<SENT sid="65" pm="."><plain>Although these lines have been cultured without prior exposure to in vitro drug selection pressure they demonstrate a natural spectrum of GC resistance, with IC50 values across the panel varying by 4-5 orders of magnitude (Figure 1A). </plain></SENT>
+<SENT sid="66" pm="."><plain>This resistance profile is not explained by mutations in the glucocorticoid receptor (GR) or variations in its level of expression [21], indicating that defects downstream of the GR are primarily responsible for GC resistant phenotypes in these cell lines. </plain></SENT>
+</text></p><SecTag type="FIG"><fig id="F1" position="float"><label>Figure 1</label><caption><p><text><SENT sid="67" pm="."><plain>Relationship between MLL expression and GC resistance in T-ALL Cell Lines. </plain></SENT>
+<SENT sid="68" pm="."><plain>(A) Normalized MLL mRNA expression across the T-ALL cell line panel as measured by qRT-PCR (bars) and IC50 values for MPRED (open circles) and DEX (closed squares); (B) Schematic of MLL mRNA indicating the target location of five microarray probes (indicated by solid lines) and protein domains within the coding region: MBR, Major Break Region; RD, Repression Domain; TAD, Transactivation Domain; PC, site of proteolytic cleavage. </plain></SENT>
+<SENT sid="69" pm="."><plain>Correlation of expression level vs. cell line IC50 for DEX (D) and MPRED (M) is indicated for each probe (* p &lt; 0.05, ** p &lt; 0.01, *** p &lt; 0.001, **** p &lt; 0.0001). </plain></SENT>
+</text></p></caption><graphic xlink:href="1476-4598-9-284-1"/></fig></SecTag><p><text><SENT sid="70" pm="."><plain>Our analysis of the microarray data revealed that GC resistance was significantly correlated with reduced expression of MLL [11]. </plain></SENT>
+<SENT sid="71" pm="."><plain>To confirm this correlation we used qRT-PCR to measure MLL mRNA expression across the panel, using a probe targeting the 3' end of the MLL coding region. </plain></SENT>
+<SENT sid="72" pm="."><plain>Expression levels measured by qRT-PCR were highly correlated with resistance to both GCs (Figure 1A; correlation vs. dexamethasone IC50 -0.849 (p &lt; 0.0001), methylprednisolone IC50 -0.851 (p &lt; 0.0001)). </plain></SENT>
+<SENT sid="73" pm="."><plain>Whilst translocations of the MLL gene are prevalent in infant ALL they are infrequent in T-ALL [8,9,22], suggesting that the observed correlation reflected expression of the wild-type gene. </plain></SENT>
+<SENT sid="74" pm="."><plain>Indeed, T-ALL cell line karyotypes indicated no abnormalities at the 11q23 MLL-locus [12], a conclusion confirmed by Southern Blot for all 15 cell lines (data not shown). </plain></SENT>
+<SENT sid="75" pm="."><plain>On the HG-U133A microarray there are five independent probes for MLL, and these span the entire length of the gene, encompassing both sides of the major break region (MBR) that is involved in almost all translocation events (Figure 1B). </plain></SENT>
+<SENT sid="76" pm="."><plain>Across the 15 T-ALL cell lines correlation of MLL mRNA expression and GC resistance was significant for all five probe sets (median probe significance DEX p = 0.0025, MPRED p &lt; 0.0001) indicating no discrepancy in expression between the 5' and 3' regions of the gene. </plain></SENT>
+<SENT sid="77" pm="."><plain>Based on these data we conclude that the observed correlation with GC sensitivity in T-ALL cell lines is related to expression levels of wild-type MLL rather than MLL-translocation products. </plain></SENT>
+</text></p></sec><sec><title><text><SENT sid="78" pm="."><plain>Biological features of MLL expression in T-ALL </plain></SENT>
+</text></title><p><text><SENT sid="79" pm="."><plain>To gain further insight into the transcriptional programs associated with MLL, the expression profile of this gene across the T-ALL cell line panel was correlated to the expression of all other genes on the microarray. </plain></SENT>
+<SENT sid="80" pm="."><plain>This output was analyzed with GSEA to identify the biological networks associated with variations in MLL expression. </plain></SENT>
+<SENT sid="81" pm="."><plain>The strongest signatures were returned from the C2 (curated pathway) and C4 (computational gene network) databases, with 17 and 83 enriched gene sets respectively falling within the significant GSEA false discovery rate (FDR). </plain></SENT>
+<SENT sid="82" pm="."><plain>Very few significantly enriched gene sets were identified from genomic loci and regulatory-motif databases (C1 and C3). </plain></SENT>
+<SENT sid="83" pm="."><plain>The top ranked significant gene sets from the C2 and C4 databases are listed in Tables 1 &amp;2. </plain></SENT>
+<SENT sid="84" pm="."><plain>The majority of these pathways are involved with the control of cell growth and metabolism (e.g. MYC-regulated pathways, RNA transcription, oxidative phosphorylation, the TCA cycle, proteasomal regulation, nucleotide synthesis, translation initiation and antioxidant defense). </plain></SENT>
+<SENT sid="85" pm="."><plain>The overwhelming direction of expression of these pathways was a negative correlation with expression of MLL. </plain></SENT>
+<SENT sid="86" pm="."><plain>Thus lower expression of MLL in these cell lines is associated with signatures consistent with a proliferative phenotype. </plain></SENT>
+<SENT sid="87" pm="."><plain>In addition the expression levels measured by each of the five MLL probe sets were found to correlate significantly with cell line doubling times [12] (median correlation 0.67, p &lt; 0.01). </plain></SENT>
+<SENT sid="88" pm="."><plain>These findings are in keeping with our previous observation that reduced expression of MLL is part of a proliferative metabolism signature that is associated with GC resistance in T-ALL cell lines [11]. </plain></SENT>
+<SENT sid="89" pm="."><plain>Importantly, several gene sets were involved with the regulation of apoptosis (MORF_AATF, MORF_MAPK2), p53 response (MORF_EI24, GNF2_NS) and DNA damage repair (MORF_UNG), with the direction of association linking reduced MLL-expression with the activation of anti-apoptotic transcriptional networks (Table 2). </plain></SENT>
+</text></p><SecTag type="TABLE"><table-wrap id="T1" position="float"><label>Table 1</label><caption><p><text><SENT sid="90" pm="."><plain>Top ranked GSEA gene sets from the C2 database (curated pathways) associated with MLL expression profiles in T-ALL cell lines. </plain></SENT>
+</text></p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left"><text><SENT sid="91" pm="."><plain>Gene Set </plain></SENT>
+</text></th><th align="left"><text><SENT sid="92" pm="."><plain>Description of Biological Pathway </plain></SENT>
+</text></th><th align="center"><text><SENT sid="93" pm="."><plain>FDR * </plain></SENT>
+</text></th></tr></thead><tbody><tr><td align="left"><text><SENT sid="94" pm="."><plain>Electron_transport_chain </plain></SENT>
+</text></td><td align="left"><text><SENT sid="95" pm="."><plain>Electron transport chain </plain></SENT>
+</text></td><td align="center"><text><SENT sid="96" pm="."><plain>0.137 </plain></SENT>
+</text></td></tr><tr><td colspan="3"><text><SENT sid="97" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="98" pm="."><plain>Glycolysis_gluconeogenesis </plain></SENT>
+</text></td><td align="left"><text><SENT sid="99" pm="."><plain>Glycolysis and gluconeogenesis </plain></SENT>
+</text></td><td align="center"><text><SENT sid="100" pm="."><plain>0.142 </plain></SENT>
+</text></td></tr><tr><td colspan="3"><text><SENT sid="101" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="102" pm="."><plain>Peng_leucine_down </plain></SENT>
+</text></td><td align="left"><text><SENT sid="103" pm="."><plain>Down-regulated in response to leucine starvation </plain></SENT>
+</text></td><td align="center"><text><SENT sid="104" pm="."><plain>0.145 </plain></SENT>
+</text></td></tr><tr><td colspan="3"><text><SENT sid="105" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="106" pm="."><plain>RNA_transcription_reactome </plain></SENT>
+</text></td><td align="left"><text><SENT sid="107" pm="."><plain>RNA transcription reactome </plain></SENT>
+</text></td><td align="center"><text><SENT sid="108" pm="."><plain>0.145 </plain></SENT>
+</text></td></tr><tr><td colspan="3"><text><SENT sid="109" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="110" pm="."><plain>Mitochondria </plain></SENT>
+</text></td><td align="left"><text><SENT sid="111" pm="."><plain>Mitochondrial genes </plain></SENT>
+</text></td><td align="center"><text><SENT sid="112" pm="."><plain>0.148 </plain></SENT>
+</text></td></tr><tr><td colspan="3"><text><SENT sid="113" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="114" pm="."><plain>Aminoacyl_tRNA_biosynthesis </plain></SENT>
+</text></td><td align="left"><text><SENT sid="115" pm="."><plain>Amino-acyl tRNA biosynthesis </plain></SENT>
+</text></td><td align="center"><text><SENT sid="116" pm="."><plain>0.151 </plain></SENT>
+</text></td></tr><tr><td colspan="3"><text><SENT sid="117" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="118" pm="."><plain>Human_mitodb_6_2002 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="119" pm="."><plain>Mitochondrial genes </plain></SENT>
+</text></td><td align="center"><text><SENT sid="120" pm="."><plain>0.152 </plain></SENT>
+</text></td></tr><tr><td colspan="3"><text><SENT sid="121" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="122" pm="."><plain>Hdaci_colon_cur24hrs_up </plain></SENT>
+</text></td><td align="left"><text><SENT sid="123" pm="."><plain>Genes upregulated by curcumin, transcription inhibitor </plain></SENT>
+</text></td><td align="center"><text><SENT sid="124" pm="."><plain>0.156 </plain></SENT>
+</text></td></tr><tr><td colspan="3"><text><SENT sid="125" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="126" pm="."><plain>Hdaci_colon_cur48hrs_up </plain></SENT>
+</text></td><td align="left"><text><SENT sid="127" pm="."><plain>Genes upregulated by curcumin, transcription inhibitor </plain></SENT>
+</text></td><td align="center"><text><SENT sid="128" pm="."><plain>0.163 </plain></SENT>
+</text></td></tr><tr><td colspan="3"><text><SENT sid="129" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="130" pm="."><plain>Myc_huvec_sage_array_up </plain></SENT>
+</text></td><td align="left"><text><SENT sid="131" pm="."><plain>Genes up-regulated by myc </plain></SENT>
+</text></td><td align="center"><text><SENT sid="132" pm="."><plain>0.176 </plain></SENT>
+</text></td></tr><tr><td colspan="3"><text><SENT sid="133" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="134" pm="."><plain>Peng_rapamycin_down </plain></SENT>
+</text></td><td align="left"><text><SENT sid="135" pm="."><plain>Down-regulated in response to rapamycin </plain></SENT>
+</text></td><td align="center"><text><SENT sid="136" pm="."><plain>0.183 </plain></SENT>
+</text></td></tr><tr><td colspan="3"><text><SENT sid="137" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="138" pm="."><plain>Oxidative_phosphorylation </plain></SENT>
+</text></td><td align="left"><text><SENT sid="139" pm="."><plain>Oxidative phosphorylation </plain></SENT>
+</text></td><td align="center"><text><SENT sid="140" pm="."><plain>0.190 </plain></SENT>
+</text></td></tr><tr><td colspan="3"><text><SENT sid="141" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="142" pm="."><plain>tRNA_synthetases </plain></SENT>
+</text></td><td align="left"><text><SENT sid="143" pm="."><plain>tRNA synthetases </plain></SENT>
+</text></td><td align="center"><text><SENT sid="144" pm="."><plain>0.192 </plain></SENT>
+</text></td></tr><tr><td colspan="3"><text><SENT sid="145" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="146" pm="."><plain>Proteasome_pathway </plain></SENT>
+</text></td><td align="left"><text><SENT sid="147" pm="."><plain>Proteasomal pathway genes </plain></SENT>
+</text></td><td align="center"><text><SENT sid="148" pm="."><plain>0.200 </plain></SENT>
+</text></td></tr><tr><td colspan="3"><text><SENT sid="149" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="150" pm="."><plain>Peng_glutamine_down </plain></SENT>
+</text></td><td align="left"><text><SENT sid="151" pm="."><plain>Down-regulated in response to glutamine starvation </plain></SENT>
+</text></td><td align="center"><text><SENT sid="152" pm="."><plain>0.203 </plain></SENT>
+</text></td></tr><tr><td colspan="3"><text><SENT sid="153" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="154" pm="."><plain>Krebs_TCA_cycle </plain></SENT>
+</text></td><td align="left"><text><SENT sid="155" pm="."><plain>Krebs (TCA) cycle genes </plain></SENT>
+</text></td><td align="center"><text><SENT sid="156" pm="."><plain>0.204 </plain></SENT>
+</text></td></tr><tr><td colspan="3"><text><SENT sid="157" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="158" pm="."><plain>Proteasome </plain></SENT>
+</text></td><td align="left"><text><SENT sid="159" pm="."><plain>Proteasome genes </plain></SENT>
+</text></td><td align="center"><text><SENT sid="160" pm="."><plain>0.238 </plain></SENT>
+</text></td></tr></tbody></table><table-wrap-foot><p><text><SENT sid="161" pm="."><plain>* FDR, false discovery rate; GSEA cutoff for significance FDR &lt;0.25 </plain></SENT>
+</text></p></table-wrap-foot></table-wrap></SecTag><SecTag type="TABLE"><table-wrap id="T2" position="float"><label>Table 2</label><caption><p><text><SENT sid="162" pm="."><plain>Top ranked GSEA gene sets from the C4 database (computed gene networks) associated with MLL expression profiles in T-ALL cell lines. </plain></SENT>
+</text></p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left"><text><SENT sid="163" pm="."><plain>Gene Set </plain></SENT>
+</text></th><th align="left"><text><SENT sid="164" pm="."><plain>Description of Network Hub Genes and Associated Functions </plain></SENT>
+</text></th><th align="center"><text><SENT sid="165" pm="."><plain>FDR * </plain></SENT>
+</text></th></tr></thead><tbody><tr><td align="left"><text><SENT sid="166" pm="."><plain>MORF_PRDX3 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="167" pm="."><plain>Peroxiredoxin 3 - MYC-mediated proliferation, glucose responses </plain></SENT>
+</text></td><td align="center"><text><SENT sid="168" pm="."><plain>0.132 </plain></SENT>
+</text></td></tr><tr><td colspan="3"><text><SENT sid="169" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="170" pm="."><plain>MORF_SOD1 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="171" pm="."><plain>Superoxide dismutase 1 - mitochondria, oxidative metabolism </plain></SENT>
+</text></td><td align="center"><text><SENT sid="172" pm="."><plain>0.135 </plain></SENT>
+</text></td></tr><tr><td colspan="3"><text><SENT sid="173" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="174" pm="."><plain>MORF_MAP2K2 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="175" pm="."><plain>MAP2K2 - ERK, JNK, p38, NFkB, and apoptosis pathways </plain></SENT>
+</text></td><td align="center"><text><SENT sid="176" pm="."><plain>0.138 </plain></SENT>
+</text></td></tr><tr><td colspan="3"><text><SENT sid="177" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="178" pm="."><plain>MORF_PTPN11 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="179" pm="."><plain>Protein tyrosine phosphatase, cell growth, differentiation, metabolism </plain></SENT>
+</text></td><td align="center"><text><SENT sid="180" pm="."><plain>0.140 </plain></SENT>
+</text></td></tr><tr><td colspan="3"><text><SENT sid="181" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="182" pm="."><plain>GNF2_RAN </plain></SENT>
+</text></td><td align="left"><text><SENT sid="183" pm="."><plain>RAS oncogene family - cell cycle, mitotic spindle regulation </plain></SENT>
+</text></td><td align="center"><text><SENT sid="184" pm="."><plain>0.143 </plain></SENT>
+</text></td></tr><tr><td colspan="3"><text><SENT sid="185" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="186" pm="."><plain>MORF_GMPS </plain></SENT>
+</text></td><td align="left"><text><SENT sid="187" pm="."><plain>Guanine monphosphate synthetase - purine synthesis, cell cycle </plain></SENT>
+</text></td><td align="center"><text><SENT sid="188" pm="."><plain>0.146 </plain></SENT>
+</text></td></tr><tr><td colspan="3"><text><SENT sid="189" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="190" pm="."><plain>MORF_DEAF1 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="191" pm="."><plain>DEAF1 or supressin, inhibitor of proliferation </plain></SENT>
+</text></td><td align="center"><text><SENT sid="192" pm="."><plain>0.152 </plain></SENT>
+</text></td></tr><tr><td colspan="3"><text><SENT sid="193" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="194" pm="."><plain>MORF_ERH </plain></SENT>
+</text></td><td align="left"><text><SENT sid="195" pm="."><plain>Enhancer of rudimentary homolog - cell cycle regulator </plain></SENT>
+</text></td><td align="center"><text><SENT sid="196" pm="."><plain>0.155 </plain></SENT>
+</text></td></tr><tr><td colspan="3"><text><SENT sid="197" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="198" pm="."><plain>GNF2_NS </plain></SENT>
+</text></td><td align="left"><text><SENT sid="199" pm="."><plain>Nucleostemin - cell cycle progression in stem cells, links with p53 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="200" pm="."><plain>0.158 </plain></SENT>
+</text></td></tr><tr><td colspan="3"><text><SENT sid="201" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="202" pm="."><plain>MORF_GPX4 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="203" pm="."><plain>Glutathione peroxidase 4 - cellular antioxidant defence </plain></SENT>
+</text></td><td align="center"><text><SENT sid="204" pm="."><plain>0.159 </plain></SENT>
+</text></td></tr><tr><td colspan="3"><text><SENT sid="205" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="206" pm="."><plain>MORF_AATF </plain></SENT>
+</text></td><td align="left"><text><SENT sid="207" pm="."><plain>Apoptosis antagonizing transcription factor </plain></SENT>
+</text></td><td align="center"><text><SENT sid="208" pm="."><plain>0.160 </plain></SENT>
+</text></td></tr><tr><td colspan="3"><text><SENT sid="209" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="210" pm="."><plain>MORF_EIF3S2 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="211" pm="."><plain>EIF3S2 - eukaryotic translation initiation factor </plain></SENT>
+</text></td><td align="center"><text><SENT sid="212" pm="."><plain>0.164 </plain></SENT>
+</text></td></tr><tr><td colspan="3"><text><SENT sid="213" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="214" pm="."><plain>MORF_ATOX1 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="215" pm="."><plain>ATX1 antioxidant protein 1 homolog - antioxidant defense </plain></SENT>
+</text></td><td align="center"><text><SENT sid="216" pm="."><plain>0.165 </plain></SENT>
+</text></td></tr><tr><td colspan="3"><text><SENT sid="217" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="218" pm="."><plain>MORF_EI24 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="219" pm="."><plain>Etoposide induced mRNA - early p53 response gene </plain></SENT>
+</text></td><td align="center"><text><SENT sid="220" pm="."><plain>0.166 </plain></SENT>
+</text></td></tr><tr><td colspan="3"><text><SENT sid="221" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="222" pm="."><plain>MORF_PSMC1 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="223" pm="."><plain>Proteasome 26S subunit, ATPase </plain></SENT>
+</text></td><td align="center"><text><SENT sid="224" pm="."><plain>0.173 </plain></SENT>
+</text></td></tr><tr><td colspan="3"><text><SENT sid="225" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="226" pm="."><plain>MORF_RAN </plain></SENT>
+</text></td><td align="left"><text><SENT sid="227" pm="."><plain>RAS oncogene family - cell cycle, mitotic spindle regulation </plain></SENT>
+</text></td><td align="center"><text><SENT sid="228" pm="."><plain>0.179 </plain></SENT>
+</text></td></tr><tr><td colspan="3"><text><SENT sid="229" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="230" pm="."><plain>MORF_RAB5A </plain></SENT>
+</text></td><td align="left"><text><SENT sid="231" pm="."><plain>Ras-associated protein - exocytosis, actin organisation </plain></SENT>
+</text></td><td align="center"><text><SENT sid="232" pm="."><plain>0.180 </plain></SENT>
+</text></td></tr><tr><td colspan="3"><text><SENT sid="233" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="234" pm="."><plain>MORF_UNG </plain></SENT>
+</text></td><td align="left"><text><SENT sid="235" pm="."><plain>Uracil-DNA glycosylase - base-excision DNA repair pathway </plain></SENT>
+</text></td><td align="center"><text><SENT sid="236" pm="."><plain>0.182 </plain></SENT>
+</text></td></tr><tr><td colspan="3"><text><SENT sid="237" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="238" pm="."><plain>MORF_FBL </plain></SENT>
+</text></td><td align="left"><text><SENT sid="239" pm="."><plain>Fibrillarin - component of snRNP synthesis of ribosomal RNA </plain></SENT>
+</text></td><td align="center"><text><SENT sid="240" pm="."><plain>0.203 </plain></SENT>
+</text></td></tr><tr><td colspan="3"><text><SENT sid="241" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="242" pm="."><plain>GCM_MAX </plain></SENT>
+</text></td><td align="left"><text><SENT sid="243" pm="."><plain>Myc-associated factor X - transcriptional regulator </plain></SENT>
+</text></td><td align="center"><text><SENT sid="244" pm="."><plain>0.224 </plain></SENT>
+</text></td></tr></tbody></table><table-wrap-foot><p><text><SENT sid="245" pm="."><plain>* FDR, false discovery rate; GSEA cutoff for significance FDR &lt;0.25 </plain></SENT>
+</text></p></table-wrap-foot></table-wrap></SecTag></sec><sec><title><text><SENT sid="246" pm="."><plain>MLL-Translocation Partner Genes Correlate with MLL Expression </plain></SENT>
+</text></title><p><text><SENT sid="247" pm="."><plain>Recent evidence suggests that the genes most commonly translocated with MLL are not selected at random but may in fact be functionally related as part of an 'MLL-web' [5,23,24]. </plain></SENT>
+<SENT sid="248" pm="."><plain>If this is true, then in the context of the observed relationship between MLL expression and GC resistance in the present study (Figure 1A) one might predict that the expression of these genes would similarly be correlated with GC resistance in our T-ALL cell lines. </plain></SENT>
+<SENT sid="249" pm="."><plain>Of the &gt;50 known translocation partner genes of MLL, 43 are represented on the HG-U133A microarray (corresponding to a total of 93 probe sets). </plain></SENT>
+<SENT sid="250" pm="."><plain>Despite the absence of MLL-translocations in the T-ALL cell lines we observed that a large number of these (18 genes, 26 probe sets) were significantly correlated to MPRED and DEX resistance (Table 3). </plain></SENT>
+<SENT sid="251" pm="."><plain>This association is much greater than would be predicted by chance alone (exact binomial test, p &lt; 0.001). </plain></SENT>
+<SENT sid="252" pm="."><plain>It is relevant that the majority of the genes listed in Table 3 are involved in transcriptional regulation (GMPS, DCPS, ELL, LPP, AF10, CREBBP, EP300, AF4), proliferation (GAS7) or metabolism (CBL, GPHN and ACACA, the latter being the rate limiting enzyme for conversion of acetyl-coA into cholesterol). </plain></SENT>
+<SENT sid="253" pm="."><plain>The correlation of these genes with GC resistance may therefore be reflective of the metabolic and proliferative changes driving this phenotype in T-ALL cell lines of which MLL appears to be a part [11]. </plain></SENT>
+</text></p><SecTag type="TABLE"><table-wrap id="T3" position="float"><label>Table 3</label><caption><p><text><SENT sid="254" pm="."><plain>MLL Translocation Partner Genes Significantly Correlated with GC IC50 in T-ALL Cell Lines. </plain></SENT>
+</text></p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left"><text><SENT sid="255" pm="."><plain>Probe Set </plain></SENT>
+</text></th><th align="left"><text><SENT sid="256" pm="."><plain>Gene Title </plain></SENT>
+</text></th><th align="center"><text><SENT sid="257" pm="."><plain>Symbol </plain></SENT>
+</text></th><th align="center"><text><SENT sid="258" pm="."><plain>Chr </plain></SENT>
+</text></th><th align="center"><text><SENT sid="259" pm="."><plain>MPRED </plain></SENT>
+</text></th><th align="center"><text><SENT sid="260" pm="."><plain>DEX* </plain></SENT>
+</text></th></tr></thead><tbody><tr><td align="left"><text><SENT sid="261" pm="."><plain>220773_s_at </plain></SENT>
+</text></td><td align="left"><text><SENT sid="262" pm="."><plain>Gephyrin </plain></SENT>
+</text></td><td align="center"><text><SENT sid="263" pm="."><plain>GPHN </plain></SENT>
+</text></td><td align="center"><text><SENT sid="264" pm="."><plain>14q23.3 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="265" pm="."><plain>0.915 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="266" pm="."><plain>0.670 </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="267" pm="."><plain>212186_at </plain></SENT>
+</text></td><td align="left"><text><SENT sid="268" pm="."><plain>Acetyl-CoA carboxylase alpha </plain></SENT>
+</text></td><td align="center"><text><SENT sid="269" pm="."><plain>ACACA </plain></SENT>
+</text></td><td align="center"><text><SENT sid="270" pm="."><plain>17q21 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="271" pm="."><plain>0.767 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="272" pm="."><plain>0.558 </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="273" pm="."><plain>214431_at </plain></SENT>
+</text></td><td align="left"><text><SENT sid="274" pm="."><plain>Guanine monphosphate synthetase </plain></SENT>
+</text></td><td align="center"><text><SENT sid="275" pm="."><plain>GMPS </plain></SENT>
+</text></td><td align="center"><text><SENT sid="276" pm="."><plain>3q24 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="277" pm="."><plain>0.754 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="278" pm="."><plain>0.505 </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="279" pm="."><plain>218774_at </plain></SENT>
+</text></td><td align="left"><text><SENT sid="280" pm="."><plain>Decapping enzyme, scavenger </plain></SENT>
+</text></td><td align="center"><text><SENT sid="281" pm="."><plain>DCPS </plain></SENT>
+</text></td><td align="center"><text><SENT sid="282" pm="."><plain>11q24.2 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="283" pm="."><plain>0.637 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="284" pm="."><plain>0.744 </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="285" pm="."><plain>204096_s_at </plain></SENT>
+</text></td><td align="left"><text><SENT sid="286" pm="."><plain>Elongation factor RNA pol II </plain></SENT>
+</text></td><td align="center"><text><SENT sid="287" pm="."><plain>ELL </plain></SENT>
+</text></td><td align="center"><text><SENT sid="288" pm="."><plain>19p13.1 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="289" pm="."><plain>0.581 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="290" pm="."><plain>0.779 </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="291" pm="."><plain>202821_s_at </plain></SENT>
+</text></td><td align="left"><text><SENT sid="292" pm="."><plain>LIM domain containing preferred translocation partner in lipoma </plain></SENT>
+</text></td><td align="center"><text><SENT sid="293" pm="."><plain>LPP </plain></SENT>
+</text></td><td align="center"><text><SENT sid="294" pm="."><plain>3q28 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="295" pm="."><plain>0.577 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="296" pm="."><plain>0.418 </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="297" pm="."><plain>214358_at </plain></SENT>
+</text></td><td align="left"><text><SENT sid="298" pm="."><plain>Acetyl-CoA carboxylase alpha </plain></SENT>
+</text></td><td align="center"><text><SENT sid="299" pm="."><plain>ACACA </plain></SENT>
+</text></td><td align="center"><text><SENT sid="300" pm="."><plain>17q21 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="301" pm="."><plain>0.569 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="302" pm="."><plain>0.197 </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="303" pm="."><plain>216506_x_at </plain></SENT>
+</text></td><td align="left"><text><SENT sid="304" pm="."><plain>MLL (trithorax homolog, Drosophila); translocated to, 10 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="305" pm="."><plain>MLLT10/AF10 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="306" pm="."><plain>10p12 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="307" pm="."><plain>0.560 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="308" pm="."><plain>0.293 </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="309" pm="."><plain>200713_s_at </plain></SENT>
+</text></td><td align="left"><text><SENT sid="310" pm="."><plain>Microtubule-associated protein, RP/EB family, member 1 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="311" pm="."><plain>MAPRE1 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="312" pm="."><plain>20q11.1-11.23 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="313" pm="."><plain>0.560 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="314" pm="."><plain>0.542 </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="315" pm="."><plain>211808_s_at </plain></SENT>
+</text></td><td align="left"><text><SENT sid="316" pm="."><plain>CREB binding protein (Rubinstein-Taybi syndrome) </plain></SENT>
+</text></td><td align="center"><text><SENT sid="317" pm="."><plain>CREBBP </plain></SENT>
+</text></td><td align="center"><text><SENT sid="318" pm="."><plain>16p13.3 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="319" pm="."><plain>0.558 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="320" pm="."><plain>0.470 </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="321" pm="."><plain>215578_at </plain></SENT>
+</text></td><td align="left"><text><SENT sid="322" pm="."><plain>Gephyrin </plain></SENT>
+</text></td><td align="center"><text><SENT sid="323" pm="."><plain>GPHN </plain></SENT>
+</text></td><td align="center"><text><SENT sid="324" pm="."><plain>14q23.3 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="325" pm="."><plain>0.526 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="326" pm="."><plain>0.473 </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="327" pm="."><plain>209768_s_at </plain></SENT>
+</text></td><td align="left"><text><SENT sid="328" pm="."><plain>SEPT5 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="329" pm="."><plain>SEPT5/PNUTL </plain></SENT>
+</text></td><td align="center"><text><SENT sid="330" pm="."><plain>22q11.21 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="331" pm="."><plain>0.519 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="332" pm="."><plain>0.229 </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="333" pm="."><plain>216503_s_at </plain></SENT>
+</text></td><td align="left"><text><SENT sid="334" pm="."><plain>MLL (trithorax homolog, Drosophila); translocated to, 10 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="335" pm="."><plain>MLLT10/AF10 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="336" pm="."><plain>10p12 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="337" pm="."><plain>0.516 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="338" pm="."><plain>0.307 </plain></SENT>
+</text></td></tr><tr><td colspan="6"><text><SENT sid="339" pm="."><plain> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="340" pm="."><plain>211067_s_at </plain></SENT>
+</text></td><td align="left"><text><SENT sid="341" pm="."><plain>Growth arrest-specific 7 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="342" pm="."><plain>GAS7 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="343" pm="."><plain>17p13.1 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="344" pm="."><plain>-0.300 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="345" pm="."><plain>-0.541 </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="346" pm="."><plain>210872_x_at </plain></SENT>
+</text></td><td align="left"><text><SENT sid="347" pm="."><plain>Growth arrest-specific 7 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="348" pm="."><plain>GAS7 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="349" pm="."><plain>17p13.1 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="350" pm="."><plain>-0.334 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="351" pm="."><plain>-0.580 </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="352" pm="."><plain>202191_s_at </plain></SENT>
+</text></td><td align="left"><text><SENT sid="353" pm="."><plain>Growth arrest-specific 7 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="354" pm="."><plain>GAS7 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="355" pm="."><plain>17p13.1 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="356" pm="."><plain>-0.385 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="357" pm="."><plain>-0.624 </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="358" pm="."><plain>202192_s_at </plain></SENT>
+</text></td><td align="left"><text><SENT sid="359" pm="."><plain>Growth arrest-specific 7 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="360" pm="."><plain>GAS7 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="361" pm="."><plain>17p13.1 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="362" pm="."><plain>-0.417 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="363" pm="."><plain>-0.589 </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="364" pm="."><plain>202221_s_at </plain></SENT>
+</text></td><td align="left"><text><SENT sid="365" pm="."><plain>E1A binding protein p300 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="366" pm="."><plain>EP300 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="367" pm="."><plain>22q13.2 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="368" pm="."><plain>-0.542 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="369" pm="."><plain>-0.315 </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="370" pm="."><plain>212288_at </plain></SENT>
+</text></td><td align="left"><text><SENT sid="371" pm="."><plain>Formin binding protein 1 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="372" pm="."><plain>FNBP1 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="373" pm="."><plain>9q34 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="374" pm="."><plain>-0.575 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="375" pm="."><plain>-0.624 </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="376" pm="."><plain>209027_s_at </plain></SENT>
+</text></td><td align="left"><text><SENT sid="377" pm="."><plain>Abl-interactor 1 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="378" pm="."><plain>ABI1 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="379" pm="."><plain>10p11.2 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="380" pm="."><plain>-0.580 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="381" pm="."><plain>-0.417 </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="382" pm="."><plain>205068_s_at </plain></SENT>
+</text></td><td align="left"><text><SENT sid="383" pm="."><plain>Rho GTPase activating protein 26 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="384" pm="."><plain>ARHGAP26 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="385" pm="."><plain>5q31 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="386" pm="."><plain>-0.607 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="387" pm="."><plain>-0.661 </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="388" pm="."><plain>209028_s_at </plain></SENT>
+</text></td><td align="left"><text><SENT sid="389" pm="."><plain>Abl-interactor 1 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="390" pm="."><plain>ABI1 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="391" pm="."><plain>10p11.2 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="392" pm="."><plain>-0.608 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="393" pm="."><plain>-0.472 </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="394" pm="."><plain>214298_x_at </plain></SENT>
+</text></td><td align="left"><text><SENT sid="395" pm="."><plain>Septin 6 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="396" pm="."><plain>SEPT6 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="397" pm="."><plain>Xq24 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="398" pm="."><plain>-0.615 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="399" pm="."><plain>-0.386 </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="400" pm="."><plain>201924_at </plain></SENT>
+</text></td><td align="left"><text><SENT sid="401" pm="."><plain>MLLT2 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="402" pm="."><plain>MLLT2/AF4 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="403" pm="."><plain>4q21 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="404" pm="."><plain>-0.660 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="405" pm="."><plain>-0.671 </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="406" pm="."><plain>206607_at </plain></SENT>
+</text></td><td align="left"><text><SENT sid="407" pm="."><plain>Cas-Br-M (murine) ecotropic retroviral transforming sequence </plain></SENT>
+</text></td><td align="center"><text><SENT sid="408" pm="."><plain>CBL </plain></SENT>
+</text></td><td align="center"><text><SENT sid="409" pm="."><plain>11q23.3 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="410" pm="."><plain>-0.681 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="411" pm="."><plain>-0.456 </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="412" pm="."><plain>213579_s_at </plain></SENT>
+</text></td><td align="left"><text><SENT sid="413" pm="."><plain>E1A binding protein p300 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="414" pm="."><plain>EP300 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="415" pm="."><plain>22q13.2 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="416" pm="."><plain>-0.742 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="417" pm="."><plain>-0.404 </plain></SENT>
+</text></td></tr></tbody></table><table-wrap-foot><p><text><SENT sid="418" pm="."><plain>* Correlation coefficient (r) of probe set expression with MPRED or DEX IC50 values; Chr, chromosomal locus; bold values, p &lt; 0.05. </plain></SENT>
+<SENT sid="419" pm="."><plain>Genes are grouped together by positive (top) or negative correlation (bottom). </plain></SENT>
+</text></p></table-wrap-foot></table-wrap></SecTag></sec><sec><title><text><SENT sid="420" pm="."><plain>Reduced MLL Expression in T-ALL Patients is Associated with GC Resistance and Relapse </plain></SENT>
+</text></title><p><text><SENT sid="421" pm="."><plain>Since our data indicated an association between GC sensitivity and expression levels of MLL in T-ALL in vitro we looked for further evidence in the literature for such an association. </plain></SENT>
+<SENT sid="422" pm="."><plain>Holleman et al previously examined the ex vivo sensitivity of diagnostic pediatric ALL patient specimens to individual induction therapy agents and correlated the findings with gene expression data measured in the same samples using HG-U133A Affymetrix microarrays [17]. </plain></SENT>
+<SENT sid="423" pm="."><plain>We examined this data for the expression level of MLL in T-ALL patient specimens from this cohort that were determined to be sensitive or resistant to prednisolone. </plain></SENT>
+<SENT sid="424" pm="."><plain>Importantly, three of the five MLL probe sets on the array showed a significantly lower expression of MLL in resistant samples confirming the association we observed in T-ALL cell lines. </plain></SENT>
+<SENT sid="425" pm="."><plain>Figure 2A shows the data for the probe set with the strongest association (212079_s_at, p &lt; 0.001 unpaired t-test), and for the summary of the five probe sets calculated using median expression values (p &lt; 0.05, unpaired t-test). </plain></SENT>
+<SENT sid="426" pm="."><plain>For further evidence of a link between MLL expression and GC resistance we examined a dataset we have previously published comparing gene expression patterns in pediatric ALL specimens taken at the time of diagnosis and relapse [14]. </plain></SENT>
+<SENT sid="427" pm="."><plain>Although we were not able to directly measure the GC sensitivity of these specimens it is known that almost all patients initially respond to induction therapy and achieve first remission, whilst GC resistance is a well-documented feature of relapse [25,26]. </plain></SENT>
+<SENT sid="428" pm="."><plain>It is therefore reasonable to expect that many of the relapse specimens in this cohort would have elevated GC resistance compared to their diagnostic counterparts. </plain></SENT>
+<SENT sid="429" pm="."><plain>Examining the same MLL probe sets as above, we observed a decrease in MLL expression in T-ALL relapse specimens vs. diagnosis specimens (Figure 2B) comparable to that measurable in GC resistant vs. sensitive specimens [17] (Figure 2A). </plain></SENT>
+<SENT sid="430" pm="."><plain>This differential was only statistically significant for probe set 212079_s_at (p &lt; 0.001, unpaired t-test), but the same trend was visible for the other four probe sets and is reflected in the summary of the median expression values for all five probes (Figure 2B). </plain></SENT>
+<SENT sid="431" pm="."><plain>Since both of these studies involve T-ALL patients it is likely that the majority of patients within these cohorts do not have rearrangements affecting MLL. </plain></SENT>
+<SENT sid="432" pm="."><plain>Taken together, this data provides clear support from two independent data sets that the correlation we have observed between wild-type MLL expression and GC sensitivity in T-ALL in vitro appears to also be relevant in vivo. </plain></SENT>
+</text></p><SecTag type="FIG"><fig id="F2" position="float"><label>Figure 2</label><caption><p><text><SENT sid="433" pm="."><plain>Reduced MLL expression is associated with GC resistance and relapse in T-ALL patients. </plain></SENT>
+<SENT sid="434" pm="."><plain>Published HG-U133A microarray datasets were examined for the expression of MLL using either a single probe (212079_s_at) or the median of all five MLL probe sets on the array. </plain></SENT>
+<SENT sid="435" pm="."><plain>Data represent the mean ± SEM (linear scale) of the indicated patient numbers (n). </plain></SENT>
+<SENT sid="436" pm="."><plain>(A) Difference in MLL expression in pediatric T-ALL patient specimens with ex vivo sensitivity or resistance to prednisolone [17]; (B) Difference in MLL expression in pediatric T-ALL patient specimens measured at diagnosis or relapse [14]. </plain></SENT>
+</text></p></caption><graphic xlink:href="1476-4598-9-284-2"/></fig></SecTag></sec><sec><title><text><SENT sid="437" pm="."><plain>Relevance of MLL Expression Level in Patients with MLL-Disease </plain></SENT>
+</text></title><p><text><SENT sid="438" pm="."><plain>In our T-ALL cell lines we observed a 35-fold variation in MLL expression across the panel that correlated with GC resistance (Figure 1A). </plain></SENT>
+<SENT sid="439" pm="."><plain>To assess the degree with which endogenous MLL expression levels vary in primary ALL patient specimens we analyzed data published by Ross et al who performed gene expression profiling of pediatric ALL subtypes [18]. </plain></SENT>
+<SENT sid="440" pm="."><plain>Figure 3A shows that of all the pediatric ALL subtypes, the widest variations in MLL expression levels are found in patients with T-lineage ALL and those with MLL-rearrangements. </plain></SENT>
+<SENT sid="441" pm="."><plain>To examine the prognostic relevance of MLL expression variation in patients with MLL-disease we examined a publication describing the use of Affymetrix HG-U95v2 microarrays to examine gene expression patterns in ALL patients with MLL-rearrangements [16]. </plain></SENT>
+<SENT sid="442" pm="."><plain>These authors reported that such patients could be clustered on the basis of their genome-wide transcriptional profile into two distinct subgroups (called A and B) that demonstrated dramatically different survival rates (Figure 3B, box, p = 0.0005). </plain></SENT>
+<SENT sid="443" pm="."><plain>By analyzing the data from their study we have ascertained that the expression of MLL was significantly lower in poor-outcome patients (Group A) compared to those with good outcome (Figure 3B, bar chart, p = 0.008). </plain></SENT>
+<SENT sid="444" pm="."><plain>The HG-U95v2 probe for MLL targets the 3' UTR of the gene, meaning that it would either detect expression of the full-length (non-translocated) MLL allele remaining in these patients, or the expression of any reciprocal fusion that was transcribed as far as this 3' probe. </plain></SENT>
+<SENT sid="445" pm="."><plain>Certainly it would not detect signal from primary MLL-translocation products. </plain></SENT>
+<SENT sid="446" pm="."><plain>While the authors did not experimentally determine GC sensitivity in their study [16], the data are consistent with the hypothesis that the level of wild-type MLL expression is linked to therapeutic outcome even in patients that have an MLL-translocation on the alternate allele. </plain></SENT>
+</text></p><SecTag type="FIG"><fig id="F3" position="float"><label>Figure 3</label><caption><p><text><SENT sid="447" pm="."><plain>MLL expression patterns in patients with MLL-disease. </plain></SENT>
+<SENT sid="448" pm="."><plain>(A) Box and whisker plot of published microarray data [18] showing the variation of MLL expression in different ALL subgroups (HG-U133Plus2 probe 212076_at); (B) Analysis of published microarray data from ALL patients with MLL-rearrangements [16]. </plain></SENT>
+<SENT sid="449" pm="."><plain>This study described two clusters of patients (A and B) with significantly different survival rates (boxed data) and expression of MLL (graph, mean ± SEM). </plain></SENT>
+</text></p></caption><graphic xlink:href="1476-4598-9-284-3"/></fig></SecTag></sec><sec><title><text><SENT sid="450" pm="."><plain>MLL Knockdown Increases Resistance to GC Exposure and DNA Damage </plain></SENT>
+</text></title><p><text><SENT sid="451" pm="."><plain>To assess the role of wild-type MLL in GC resistance phenotypes we used a retroviral RNAi expression system in the PER-117 T-ALL cell line to generate cell lines stably expressing shRNA for MLL (MLL-KD) or a non-silencing shRNA scrambled control (MLL-Scr). MLL mRNA expression in MLL-KD cells was 69% lower on average than in MLL-Scr control cells as assessed by qRT-PCR (Figure 4A, p &lt; 0.0001). </plain></SENT>
+<SENT sid="452" pm="."><plain>This correlated to a ~20% reduction in MLL nuclear protein as assessed by immunoblot (Figures 4B and 4C, p &lt; 0.05). </plain></SENT>
+<SENT sid="453" pm="."><plain>Proliferation assays demonstrated that MLL-KD cells grew approximately 10% faster on average than MLL-Scr cells (Figure 4D, p &lt; 0.05 ANOVA). </plain></SENT>
+<SENT sid="454" pm="."><plain>To assess GC sensitivity in the two lines, cell viability was assessed after a two-day incubation with dexamethasone (Figure 4E). </plain></SENT>
+<SENT sid="455" pm="."><plain>MLL-KD demonstrated increased viability compared to MLL-Scr cells at all doses tested (p &lt; 0.05, two-way ANOVA) indicating GC resistance. </plain></SENT>
+<SENT sid="456" pm="."><plain>To assess the specificity of this protective effect we examined the sensitivity of the cells to gamma-irradiation, and incubation with cytarabine (ARAC) and methotrexate (MTX). </plain></SENT>
+<SENT sid="457" pm="."><plain>Interestingly, MLL-KD cells showed greater survival following gamma-irradiation indicating resistance to DNA damage (Figure 5A, p &lt; 0.05 unpaired t-test). </plain></SENT>
+<SENT sid="458" pm="."><plain>Resistance to ARAC and MTX however was not significantly different between the two cell lines. </plain></SENT>
+<SENT sid="459" pm="."><plain>The proportion of dying (necrotic) cells after two days was significantly reduced in MLL-KD cells in response to both dexamethasone and gamma-irradiation, indicating a cytoprotective effect of MLL knockdown (Figure 5B). </plain></SENT>
+<SENT sid="460" pm="."><plain>Baseline viability in untreated cells was not significantly different between the cell lines. </plain></SENT>
+</text></p><SecTag type="FIG"><fig id="F4" position="float"><label>Figure 4</label><caption><p><text><SENT sid="461" pm="."><plain>Effect of MLL knockdown on proliferation and sensitivity to dexamethasone. </plain></SENT>
+<SENT sid="462" pm="."><plain>(A) Level of stable MLL mRNA knockdown in MLL-KD cells as measured by qRT-PCR compared to MLL-Scr cells expressing non-silencing scrambled shRNA; (B) Reduction of MLL nuclear protein expression in MLL-KD cells as assessed by immunoblot detection of the MLLC proteolytic fragment from four independent extractions and normalized to β-actin loading control; (C) Representative immunoblot of nuclear MLLC (~180 kD, top panel) and β-actin (42 kD, bottom panel) protein expression in MLL-Scr and MLL-KD cell lines; (D) Proliferation of MLL-Scr and MLL-KD cell lines over four days; (E) Differential growth of MLL-Scr and MLL-KD cells over two days in the presence of dexamethasone; In each case (A-B, D-E) data represent mean ± SEM from 3-6 independent experiments; Statistical analysis was by t-test (A, B) or ANOVA (D, E); * p &lt; 0.05, *** p &lt; 0.001. </plain></SENT>
+</text></p></caption><graphic xlink:href="1476-4598-9-284-4"/></fig></SecTag><SecTag type="FIG"><fig id="F5" position="float"><label>Figure 5</label><caption><p><text><SENT sid="463" pm="."><plain>Effect of MLL knockdown on cellular resistance, metabolism and GC signaling. </plain></SENT>
+<SENT sid="464" pm="."><plain>(A) Effect of gamma-irradiation (γ-IR, 1 Gy), methotrexate (MTX, 0.01 μg/ml), cytarabine (ARAC, 0.025 μg/ml) on growth of MLL-Scr and MLL-KD cell lines over two days; (B) Percentage of dying or necrotic cells (normalized to untreated) in MLL-Scr and MLL-KD after 48 hours in the presence of dexamethasone (DEX, 250 μM or 500 μM) or following gamma-irradiation (γ-IR, 1 Gy); (C) Ratio of lactate production/glucose consumption over two days in MLL-Scr and MLL-KD cells; (D) Relative expression of GILZ mRNA as measured by qRT-PCR in MLL-Scr and MLL-KD cell lines incubated for four hours in the absence (-) or presence (+) of dexamethasone (1 μM); In each case (A-D) data represent mean ± SEM from 3-6 independent experiments with statistical analysis by unpaired t-test; * p &lt; 0.05, ** p &lt; 0.01. </plain></SENT>
+</text></p></caption><graphic xlink:href="1476-4598-9-284-5"/></fig></SecTag><p><text><SENT sid="465" pm="."><plain>To assess the effects of MLL knockdown on cell metabolism we compared rates of glucose consumption and lactate production between the two cell lines. </plain></SENT>
+<SENT sid="466" pm="."><plain>Consistent with an increased rate of proliferation MLL-KD cells demonstrated an increased rate of glucose consumption compared to control cells. </plain></SENT>
+<SENT sid="467" pm="."><plain>This was accompanied by a decreased rate of lactate production, resulting in a significant drop in the lactate production:glucose consumption ratio in MLL-KD cells (Figure 5C). </plain></SENT>
+<SENT sid="468" pm="."><plain>Finally, since MLL is known to be a master transcriptional regulator we assessed whether the GC resistant phenotype of MLL-KD cells might represent transcriptional suppression of GC response elements by measuring the induction of GILZ, a well-characterized GC-response gene, following incubation with dexamethasone. </plain></SENT>
+<SENT sid="469" pm="."><plain>There was no significant difference in the induction of GILZ mRNA between MLL-KD and MLL-Scr cell lines following a 4 hour incubation with dexamethasone (Figure 5D), indicating that GC-transcriptional responses in MLL-KD cells appeared to be intact. </plain></SENT>
+</text></p></sec></sec></SecTag><SecTag type="DISCUSS"><sec><title><text><SENT sid="470" pm="."><plain>Discussion </plain></SENT>
+</text></title><p><text><SENT sid="471" pm="."><plain>Although there are conflicting reports of the effect of MLL-rearrangements on steroid resistance [7,8], it is clear that all infants with MLL-rearrangements have significantly worse prognosis than those with non-rearranged MLL regardless of the type of translocation involved [3,27]. </plain></SENT>
+<SENT sid="472" pm="."><plain>However, the present study has been conducted using T-ALL cell lines without MLL-translocations and provides evidence that in the absence of such translocations cellular GC sensitivity is related to the level of expression of wild-type MLL. </plain></SENT>
+<SENT sid="473" pm="."><plain>One interpretation of this data is that alterations in MLL support the proliferative phenotype that we have previously associated with GC resistance [11]. </plain></SENT>
+<SENT sid="474" pm="."><plain>In lymphocytes, GCs are thought to trigger a metabolic crisis that ultimately leads to apoptosis [28]. </plain></SENT>
+<SENT sid="475" pm="."><plain>In addition to suppressing apoptotic potential through the modulation of mitochondrial energetics, up-regulation of biosynthetic and metabolic pathways to support proliferation may therefore confer GC resistance by offsetting the adverse metabolic consequences of GC signalling [11]. MLL has recently been shown to be important for the control of cell proliferation but the mechanism is complex, involving a bimodal pattern of expression throughout the cell cycle [29]. </plain></SENT>
+<SENT sid="476" pm="."><plain>In our experiments, suppression of MLL was associated with a small increase in proliferation and glucose consumption but decreased lactate production, indicating a shift away from aerobic glycolysis to alternative pathways, such as oxidative phosphorylation or the pentose-phosphate shunt. </plain></SENT>
+<SENT sid="477" pm="."><plain>Besides energy production, these pathways are essential for the synthesis of macromolecules, nucleotides and nucleic acids required for proliferation [30]. </plain></SENT>
+</text></p><p><text><SENT sid="478" pm="."><plain>In addition to elevated GC resistance, knockdown of MLL expression was associated with increased resistance to gamma-irradiation indicating an unexpected protection from the effects of DNA-damage. </plain></SENT>
+<SENT sid="479" pm="."><plain>Recently it has been demonstrated that the MLL family of H3K4 methyltransferases are critical components of an E2F1-signalling pathway that mediates links cell cycle control to DNA damage responses, and that their knockdown attenuates the apoptotic response to adriamycin [31]. </plain></SENT>
+<SENT sid="480" pm="."><plain>This highlights the tumor suppressor role of these proteins and is consistent with the protection from DNA-damage we have observed following MLL-knockdown in T-ALL cell lines. </plain></SENT>
+<SENT sid="481" pm="."><plain>In contrast however, no protective effect of MLL-knockdown was seen for ARAC or MTX in the present study. </plain></SENT>
+<SENT sid="482" pm="."><plain>Whilst one might expect that suppression of DNA-damage response pathways should increase resistance to both of these agents, it is interesting to note that, unlike GCs, elevated resistance to neither of these drugs is associated with MLL-rearrangement [32,33]; infants in fact are known to be generally more sensitive to ARAC [8,32]. </plain></SENT>
+<SENT sid="483" pm="."><plain>There may therefore be some unexplained insult specificity in the role of MLL in mediating responses to DNA-damage. </plain></SENT>
+</text></p><p><text><SENT sid="484" pm="."><plain>Across the T-ALL cell lines there was a 35-fold variation in the level of MLL-expression. </plain></SENT>
+<SENT sid="485" pm="."><plain>Surprisingly the mechanisms controlling expression of wild-type MLL have not been extensively studied, with most work focusing on the downstream effects of the gene and its various fusion products. </plain></SENT>
+<SENT sid="486" pm="."><plain>However the putative MLL promoter has binding motifs for a large number of transcription factors, including SREBF1 (sterol regulatory element binding transcription factor) and MYC. MYC is a pivotal player in the control of cell cycle and apoptosis [34], is one of the known downstream targets of GC signaling in lymphocytes [35], and has been reported to be up-regulated in MLL-disease [36]. MLL expression is also likely to be subject to miRNA control, with numerous miRNA binding sites predicted to reside in the MLL 3'UTR. </plain></SENT>
+<SENT sid="487" pm="."><plain>Although downstream effects of MLL or MLL-translocations on miRNA expression has been reported by a number of groups, to our knowledge only one recent study has reported the upstream miRNA regulation of MLL itself [37]. </plain></SENT>
+<SENT sid="488" pm="."><plain>In that study ectopic expression of mirR-221 and miR128 was shown to affect levels of MLL, MLL-fusions and GC sensitivity in ALL cell lines [37], consistent with the hypothesis that levels of MLL expression are important for GC resistance. </plain></SENT>
+<SENT sid="489" pm="."><plain>It remains to be seen whether the observed effects of miRNA ectopic expression on GC sensitivity were due to effects on MLL-fusion proteins or endogenous wild-type MLL and the hierarchy for these mechanisms therefore remains to be untangled. </plain></SENT>
+</text></p><p><text><SENT sid="490" pm="?"><plain>How do the present findings, performed in T-ALL with no MLL-translocations, relate to patients with MLL-disease? </plain></SENT>
+<SENT sid="491" pm="."><plain>Although loss-of heterozygosity (LOH) at the MLL locus has been reported to be a relatively frequent event in childhood ALL, consistent with a potential role as a tumor suppressor [38], this is not the case in patients with MLL-disease where one wild-type copy of MLL appears to be retained [38-40]. </plain></SENT>
+<SENT sid="492" pm="."><plain>This indicates that allele loss and MLL-translocation are mutually exclusive oncogenic events, but little focus has been given to the regulation of the remaining wild-type allele following translocation. </plain></SENT>
+<SENT sid="493" pm="."><plain>However Whitman et al have recently demonstrated that in myeloid leukemia MLL partial tandem duplications (PTD) are associated with silencing of the wild-type MLL copy through an autoregulatory mechanism involving altered methylation [41]. </plain></SENT>
+<SENT sid="494" pm="."><plain>Interestingly, in one MLL-PTD patient wild-type MLL was expressed at diagnosis but absent at relapse, suggesting a correlation with disease progression. </plain></SENT>
+<SENT sid="495" pm="."><plain>Wild-type MLL expression could be re-induced in primary blasts with the use of DNA methyltransferase (DNMT) or histone deacetylase (HDAC) inhibitors, or suppression of the MLL-PTD transcript, and was associated with increased apoptotic sensitivity and reduced colony-forming capability. </plain></SENT>
+<SENT sid="496" pm="."><plain>Other workers have recently demonstrated down-regulation of wild-type MLL in myeloid leukemia patients with different types of rearranged-MLL [42] suggesting that it may be a common feature of MLL-related leukemia. </plain></SENT>
+</text></p></sec></SecTag><SecTag type="CONCL"><sec><title><text><SENT sid="497" pm="."><plain>Conclusions </plain></SENT>
+</text></title><p><text><SENT sid="498" pm="."><plain>Based on the evidence presented we hypothesize that GC resistance in patients with MLL-disease may partly result from decreased expression and tumor suppressive effects of wild-type MLL, either through a gene-dosage effect following the functional loss of one allele via translocation, auto-regulation from the MLL-fusion protein, or altered miRNA/transcription factor signaling. </plain></SENT>
+<SENT sid="499" pm="."><plain>This would help to explain why GC-resistance is a common feature of most patients with MLL-disease despite the wide variety of possible gene rearrangements. </plain></SENT>
+<SENT sid="500" pm="."><plain>Amplifications of the MLL gene do occur but are much more rare. </plain></SENT>
+<SENT sid="501" pm="."><plain>To our knowledge only one report exists where such a patient has been tested for ex vivo GC sensitivity [43] - in that small study a single patient with MLL amplification demonstrated GC sensitivity whilst all patients with MLL deletions or rearrangements demonstrated GC resistance, observations entirely consistent with our hypothesis. </plain></SENT>
+</text></p><p><text><SENT sid="502" pm="."><plain>We do not propose that the MLL-translocation event itself is without oncogenic effects since this has been clearly demonstrated by other workers, but rather that our data may help to explain the poor-response to therapy in this disease. </plain></SENT>
+<SENT sid="503" pm="."><plain>Neither do our findings negate the possibility that MLL-fusion proteins themselves may have additional effects upon apoptotic sensitivity. </plain></SENT>
+<SENT sid="504" pm="."><plain>Indeed, recent experiments have shown that multiple MLL-fusion proteins inhibit p53 and confer resistance to DNA damage [44]. </plain></SENT>
+<SENT sid="505" pm="."><plain>However, it is important to note that in these experiments fusion protein constructs were ectopically expressed into cell lines containing wild-type MLL. </plain></SENT>
+<SENT sid="506" pm="."><plain>In view of the evidence discussed here it would be important to know whether expression of endogenous MLL was altered during these experiments and whether this contributed to the observed anti-apoptotic effects. </plain></SENT>
+<SENT sid="507" pm="."><plain>Increased resistance to DNA damage-induced apoptosis has been proposed as a phenotype of MLL-disease that explains the short latency associated with disease emergence [45]. </plain></SENT>
+<SENT sid="508" pm="."><plain>It is possible that this effect could originate from the loss of tumor suppressor function of the wild-type MLL as well as from direct anti-apoptotic effects of the fusion protein. </plain></SENT>
+</text></p><p><text><SENT sid="509" pm="."><plain>During the preparation of this manuscript Liu et al [46] published a report describing a role for wild-type MLL in the maintenance of genome integrity through the regulation of the S-phase cell cycle checkpoint. </plain></SENT>
+<SENT sid="510" pm="."><plain>DNA synthesis in cells deficient in wild-type MLL was found to be resistant to ionizing radiation and a range of DNA-damaging agents, supporting a role for wild-type MLL in the mediation of cellular DNA damage responses [46]. </plain></SENT>
+<SENT sid="511" pm="."><plain>Under this model, MLL-fusion proteins acted as dominant negative mutants to abrogate the ATR-mediated stabilization of wild-type MLL reported to occur in response to DNA damage. </plain></SENT>
+<SENT sid="512" pm="."><plain>The findings are in keeping with those from the present study and support our conclusion that reduced levels of wild-type MLL can contribute to increased cellular resistance even in the absence of an MLL-translocation event. </plain></SENT>
+</text></p></sec></SecTag><SecTag type="COMP_INT"><sec><title><text><SENT sid="513" pm="."><plain>Conflicts of interests </plain></SENT>
+</text></title><p><text><SENT sid="514" pm="."><plain>The authors declare that they have no competing interests. </plain></SENT>
+</text></p></sec></SecTag><SecTag type="AUTH_CONT"><sec><title><text><SENT sid="515" pm="."><plain>Authors' contributions </plain></SENT>
+</text></title><p><text><SENT sid="516" pm="."><plain>AHB directed research, analyzed data, prepared manuscript; JLR, MLP, JYSH, ALS, JF performed research, collected and analyzed data; MJF performed bioinformatics and statistical analysis; URK designed study, directed research, revised manuscript. </plain></SENT>
+<SENT sid="517" pm="."><plain>All authors read and approved the final manuscript. </plain></SENT>
+</text></p></sec></SecTag></body><back><SecTag type="ACK_FUND"><sec><title>Acknowledgements</title><p><text4fund><text><SENT sid="518" pm="."><plain>The authors would like to thank Prof Michael Garlepp (Curtin University of Technology School of Pharmacy) and the patients and parents with whom this study is connected. </plain></SENT>
+<SENT sid="519" pm="."><plain>This research was funded by the Children's Leukaemia and Cancer Research Foundation, and the Cancer Council of Western Australia. </plain></SENT>
+</text></text4fund></p></sec></SecTag><SecTag type="REF"><ref-list><ref id="B1"><text><SENT sid="520" pm="."><plain>PietersRden BoerMLDurianMJankaGSchmiegelowKKaspersGJvan WeringERVeermanAJRelation between age, immunophenotype and in vitro drug resistance in 395 children with acute lymphoblastic leukemia--implications for treatment of infantsLeukemia1998121344134810.1038/sj.leu.24011299737681 </plain></SENT>
+</text></ref><ref id="B2"><text><SENT sid="521" pm="."><plain>StamRWden BoerMLPietersRTowards targeted therapy for infant acute lymphoblastic leukaemiaBr J Haematol200613253955110.1111/j.1365-2141.2005.05909.x16445826 </plain></SENT>
+</text></ref><ref id="B3"><text><SENT sid="522" pm="."><plain>HildenJMDinndorfPAMeerbaumSOSatherHVillalunaDHeeremaNAMcGlennenRSmithFOWoodsWGSalzerWLCCG 1953: acute lymphoblastic leukemia in infants: analysis of prognostic factors. </plain></SENT>
+<SENT sid="523" pm="."><plain>A report from the Children's Oncology GroupBlood200610844145110.1182/blood-2005-07-301116556894 </plain></SENT>
+</text></ref><ref id="B4"><text><SENT sid="524" pm="."><plain>DaserARabbittsTHThe versatile mixed lineage leukaemia gene MLL and its many associations in leukaemogenesisSemin Cancer Biol20051517518810.1016/j.semcancer.2005.01.00715826832 </plain></SENT>
+</text></ref><ref id="B5"><text><SENT sid="525" pm="."><plain>MeyerCSchneiderBJakobSStrehlSAttarbaschiASchnittgerSSchochCJansenMWvan DongenJJden BoerMLThe MLL recombinome of acute leukemiasLeukemia20062077778410.1038/sj.leu.240415016511515 </plain></SENT>
+</text></ref><ref id="B6"><text><SENT sid="526" pm="."><plain>HendersonMJChoiSBeesleyAHBakerDLWrightDPapaRAMurchACampbellLJLockRBNorrisMDA xenograft model of infant leukaemia reveals a complex MLL translocationBr J Haematol200814071671910.1111/j.1365-2141.2007.06966.x18218047 </plain></SENT>
+</text></ref><ref id="B7"><text><SENT sid="527" pm="."><plain>PalleJFrostBMForestierEGustafssonGNygrenPHellebostadMJonssonOGKanervaJSchmiegelowKLarssonRLonnerholmGCellular drug sensitivity in MLL-rearranged childhood acute leukaemia is correlated to partner genes and cell lineageBr J Haematol200512918919810.1111/j.1365-2141.2005.05433.x15813846 </plain></SENT>
+</text></ref><ref id="B8"><text><SENT sid="528" pm="."><plain>Ramakers-van WoerdenNLBeverlooHBVeermanAJCamittaBMLoonenAHvan WeringERSlaterRMHarbottJden BoerMLLudwigWDIn vitro drug-resistance profile in infant acute lymphoblastic leukemia in relation to age, MLL rearrangements and immunophenotypeLeukemia20041852152910.1038/sj.leu.240325314712291 </plain></SENT>
+</text></ref><ref id="B9"><text><SENT sid="529" pm="."><plain>PuiCHChessellsJMCamittaBBaruchelABiondiABoyettJMCarrollAEdenOBEvansWEGadnerHClinical heterogeneity in childhood acute lymphoblastic leukemia with 11q23 rearrangementsLeukemia20031770070610.1038/sj.leu.240288312682627 </plain></SENT>
+</text></ref><ref id="B10"><text><SENT sid="530" pm="."><plain>PlonerCRainerJLobenweinSGeleySKoflerRRepression of the BH3-only molecule PMAIP1/Noxa impairs glucocorticoid sensitivity of acute lymphoblastic leukemia cellsApoptosis200919421859 </plain></SENT>
+</text></ref><ref id="B11"><text><SENT sid="531" pm="."><plain>BeesleyAHFirthMJFordJWellerREFreitasJRPereraKUKeesURGlucocorticoid resistance in T-lineage acute lymphoblastic leukaemia is associated with a proliferative metabolismBr J Cancer20091001926193610.1038/sj.bjc.660507219436302 </plain></SENT>
+</text></ref><ref id="B12"><text><SENT sid="532" pm="."><plain>BeesleyAHPalmerMLFordJWellerRECummingsAJFreitasJRFirthMJPereraKUde KlerkNKeesURAuthenticity and drug resistance in a panel of acute lymphoblastic cell linesBr J Cancer2006951537154410.1038/sj.bjc.660344717117183 </plain></SENT>
+</text></ref><ref id="B13"><text><SENT sid="533" pm="."><plain>BeesleyAHPalmerMLFordJWellerRECummingsAJFreitasJRFirthMJPereraKUde KlerkNHKeesURIn vitro cytotoxicity of nelarabine, clofarabine and flavopiridol in paediatric acute lymphoblastic leukaemiaBr J Haematol200713710911610.1111/j.1365-2141.2007.06527.x17391490 </plain></SENT>
+</text></ref><ref id="B14"><text><SENT sid="534" pm="."><plain>BeesleyAHCummingsAJFreitasJRHoffmannKFirthMJFordJde KlerkNHKeesURThe gene expression signature of relapse in paediatric acute lymphoblastic leukaemia: implications for mechanisms of therapy failureBr J Haematol200513144745610.1111/j.1365-2141.2005.05785.x16281934 </plain></SENT>
+</text></ref><ref id="B15"><text><SENT sid="535" pm="."><plain>SubramanianATamayoPMoothaVKMukherjeeSEbertBLGilletteMAPaulovichAPomeroySLGolubTRLanderESMesirovJPGene set enrichment analysis: a knowledge-based approach for interpreting genome-wide expression profilesProc Natl Acad Sci USA2005102155451555010.1073/pnas.050658010216199517 </plain></SENT>
+</text></ref><ref id="B16"><text><SENT sid="536" pm="."><plain>TsutsumiSTaketaniTNishimuraKGeXTakiTSugitaKIshiiEHanadaROhkiMAburataniHHayashiYTwo distinct gene expression signatures in pediatric acute lymphoblastic leukemia with MLL rearrangementsCancer Res2003634882488712941810 </plain></SENT>
+</text></ref><ref id="B17"><text><SENT sid="537" pm="."><plain>HollemanACheokMHden BoerMLYangWVeermanAJKazemierKMPeiDChengCPuiCHRellingMVGene-expression patterns in drug-resistant acute lymphoblastic leukemia cells and response to treatmentN Engl J Med200435153354210.1056/NEJMoa03351315295046 </plain></SENT>
+</text></ref><ref id="B18"><text><SENT sid="538" pm="."><plain>RossMEZhouXSongGShurtleffSAGirtmanKWilliamsWKLiuHCMahfouzRRaimondiSCLennyNClassification of pediatric acute lymphoblastic leukemia by gene expression profilingBlood20031022951295910.1182/blood-2003-01-033812730115 </plain></SENT>
+</text></ref><ref id="B19"><text><SENT sid="539" pm="."><plain>DallasPBGottardoNGFirthMJBeesleyAHHoffmannKTerryPAFreitasJRBoagJMCummingsAJKeesURGene expression levels assessed by oligonucleotide microarray analysis and quantitative real-time RT-PCR - how well do they correlate?BMC Genomics200565910.1186/1471-2164-6-5915854232 </plain></SENT>
+</text></ref><ref id="B20"><text><SENT sid="540" pm="."><plain>DickinsRAHemannMTZilfouJTSimpsonDRIbarraIHannonGJLoweSWProbing tumor phenotypes using stable and regulated synthetic microRNA precursorsNat Genet2005371289129516200064 </plain></SENT>
+</text></ref><ref id="B21"><text><SENT sid="541" pm="."><plain>BeesleyAHWellerRESenanayakeSWelchMKeesURReceptor mutation is not a common mechanism of naturally occurring glucocorticoid resistance in leukaemia cell linesLeuk Res20093332132510.1016/j.leukres.2008.08.00718789525 </plain></SENT>
+</text></ref><ref id="B22"><text><SENT sid="542" pm="."><plain>HeeremaNASatherHNSenselMGKraftPNachmanJBSteinherzPGLangeBJHutchinsonRSReamanGHTriggMEFrequency and clinical significance of cytogenetic abnormalities in pediatric T-lineage acute lymphoblastic leukemia: a report from the Children's Cancer GroupJ Clin Oncol199816127012789552025 </plain></SENT>
+</text></ref><ref id="B23"><text><SENT sid="543" pm="."><plain>DouYHessJLMechanisms of transcriptional regulation by MLL and its disruption in acute leukemiaInt J Hematol200887101810.1007/s12185-007-0009-818224408 </plain></SENT>
+</text></ref><ref id="B24"><text><SENT sid="544" pm="."><plain>KrivtsovAVArmstrongSAMLL translocations, histone modifications and leukaemia stem-cell developmentNat Rev Cancer2007782383310.1038/nrc225317957188 </plain></SENT>
+</text></ref><ref id="B25"><text><SENT sid="545" pm="."><plain>KaspersGJWijnandsJJHartmannRHuismansLLoonenAHStackelbergAHenzeGPietersRHahlenKVan WeringERVeermanAJImmunophenotypic cell lineage and in vitro cellular drug resistance in childhood relapsed acute lymphoblastic leukaemiaEur J Cancer2005411300130310.1016/j.ejca.2005.02.02615869873 </plain></SENT>
+</text></ref><ref id="B26"><text><SENT sid="546" pm="."><plain>KlumperEPietersRVeermanAJHuismansDRLoonenAHHahlenKKaspersGJvan WeringERHartmannRHenzeGIn vitro cellular drug resistance in children with relapsed/refractory acute lymphoblastic leukemiaBlood199586386138687579354 </plain></SENT>
+</text></ref><ref id="B27"><text><SENT sid="547" pm="."><plain>NagayamaJTomizawaDKohKNagatoshiYHottaNKishimotoTTakahashiYKunoTSugitaKSatoTInfants with acute lymphoblastic leukemia and a germline MLL gene are highly curable with use of chemotherapy alone: results from the Japan Infant Leukemia Study GroupBlood20061074663466510.1182/blood-2005-11-472816478880 </plain></SENT>
+</text></ref><ref id="B28"><text><SENT sid="548" pm="."><plain>TonkoMAusserlechnerMJBernhardDHelmbergAKoflerRGene expression profiles of proliferating vs. G1/G0 arrested human leukemia cells suggest a mechanism for glucocorticoid-induced apoptosisFASEB J20011569369910.1096/fj.00-0327com11259387 </plain></SENT>
+</text></ref><ref id="B29"><text><SENT sid="549" pm="."><plain>LiuHChengEHHsiehJJBimodal degradation of MLL by SCFSkp2 and APCCdc20 assures cell cycle execution: a critical regulatory circuit lost in leukemogenic MLL fusionsGenes Dev2007212385239810.1101/gad.157450717908926 </plain></SENT>
+</text></ref><ref id="B30"><text><SENT sid="550" pm="."><plain>Vander HeidenMGCantleyLCThompsonCBUnderstanding the Warburg effect: the metabolic requirements of cell proliferationScience20093241029103310.1126/science.116080919460998 </plain></SENT>
+</text></ref><ref id="B31"><text><SENT sid="551" pm="."><plain>TyagiSHerrWE2F1 mediates DNA damage and apoptosis through HCF-1 and the MLL family of histone methyltransferasesEMBO J2009283185319510.1038/emboj.2009.25819763085 </plain></SENT>
+</text></ref><ref id="B32"><text><SENT sid="552" pm="."><plain>StamRWHubeekIden BoerMLBuijs-GladdinesJGCreutzigUKaspersGJPietersRMLL gene rearrangements have no direct impact on Ara-C sensitivity in infant acute lymphoblastic leukemia and childhood M4/M5 acute myeloid leukemiaLeukemia2006201798210.1038/sj.leu.240403116307022 </plain></SENT>
+</text></ref><ref id="B33"><text><SENT sid="553" pm="."><plain>Ramakers-van WoerdenNLPietersRRotsMGvan ZantwijkCHNoordhuisPBeverlooHBPetersGJvan WeringERCamittaBMPuiCHInfants with acute lymphoblastic leukemia: no evidence for high methotrexate resistanceLeukemia20021694995110.1038/sj.leu.240249111986959 </plain></SENT>
+</text></ref><ref id="B34"><text><SENT sid="554" pm="."><plain>LawlorERSoucekLBrown-SwigartLShchorsKBialuchaCUEvanGIReversible kinetic analysis of Myc targets in vivo provides novel insights into Myc-mediated tumorigenesisCancer Res2006664591460110.1158/0008-5472.CAN-05-382616651409 </plain></SENT>
+</text></ref><ref id="B35"><text><SENT sid="555" pm="."><plain>SchmidtSRainerJRimlSPlonerCJesacherSAchmullerCPresulESkvortsovSCrazzolaraRFieglMIdentification of glucocorticoid-response genes in children with acute lymphoblastic leukemiaBlood20061072061206910.1182/blood-2005-07-285316293608 </plain></SENT>
+</text></ref><ref id="B36"><text><SENT sid="556" pm="."><plain>RozovskaiaTRavid-AmirOTillibSGetzGFeinsteinEAgrawalHNaglerARappaportEFIssaevaIMatsuoYExpression profiles of acute lymphoblastic and myeloblastic leukemias with ALL-1 rearrangementsProc Natl Acad Sci USA20031007853785810.1073/pnas.113211510012782787 </plain></SENT>
+</text></ref><ref id="B37"><text><SENT sid="557" pm="."><plain>KotaniAHaDHsiehJRaoPKSchotteDden BoerMLArmstrongSALodishHFmiR-128b is a potent glucocorticoid sensitizer in MLL-AF4 acute lymphocytic leukemia cells and exerts cooperative effects with miR-221Blood20091144169417810.1182/blood-2008-12-19161919749093 </plain></SENT>
+</text></ref><ref id="B38"><text><SENT sid="558" pm="."><plain>WebbJCGolovlevaISimpkinsAHKempskiHReevesBSturtNChessellsJMBrickellPMLoss of heterozygosity and microsatellite instability at the MLL locus are common in childhood acute leukemia, but not in infant acute leukemiaBlood19999428329010381524 </plain></SENT>
+</text></ref><ref id="B39"><text><SENT sid="559" pm="."><plain>RaimondiSCFrestedtJLPuiCHDowningJRHeadDRKerseyJHBehmFGAcute lymphoblastic leukemias with deletion of 11q23 or a novel inversion (11)(p13q23) lack MLL gene rearrangements and have favorable clinical featuresBlood199586188118867655016 </plain></SENT>
+</text></ref><ref id="B40"><text><SENT sid="560" pm="."><plain>TakeuchiSChoSKSeriuTKoikeMBartramCRReiterASchrappeMTakeuchiCTaguchiHKoefflerHPIdentification of three distinct regions of deletion on the long arm of chromosome 11 in childhood acute lymphoblastic leukemiaOncogene1999187387738810.1038/sj.onc.120314510602495 </plain></SENT>
+</text></ref><ref id="B41"><text><SENT sid="561" pm="."><plain>WhitmanSPLiuSVukosavljevicTRushLJYuLLiuCKlisovicMIMaharryKGuimondMStroutMPThe MLL partial tandem duplication: evidence for recessive gain-of-function in acute myeloid leukemia identifies a novel patient subgroup for molecular-targeted therapyBlood200510634535210.1182/blood-2005-01-020415774615 </plain></SENT>
+</text></ref><ref id="B42"><text><SENT sid="562" pm="."><plain>CerveiraNSantosJBizarroSCostaVRibeiroFRLisboaSCorreiaCTorresLVieiraJSnijderSBoth SEPT2 and MLL are down-regulated in MLL-SEPT2 therapy-related myeloid neoplasiaBMC Cancer2009914710.1186/1471-2407-9-14719445675 </plain></SENT>
+</text></ref><ref id="B43"><text><SENT sid="563" pm="."><plain>KubickaMSoszynskaKMuchaBRafinskaBKolodziejBHausOStyczynskiJUnusual profiles of pediatric acute lymphoblastic leukemia with MLL gene rearrangementLeuk Lymphoma2007482083208610.1080/1042819070160682617917979 </plain></SENT>
+</text></ref><ref id="B44"><text><SENT sid="564" pm="."><plain>WiederschainDKawaiHShilatifardAYuanZMMultiple mixed lineage leukemia (MLL) fusion proteins suppress p53-mediated response to DNA damageJ Biol Chem2005280243152432110.1074/jbc.M41223720015851483 </plain></SENT>
+</text></ref><ref id="B45"><text><SENT sid="565" pm="."><plain>EguchiMEguchi-IshimaeMKnightDKearneyLSlanyRGreavesMMLL chimeric protein activation renders cells vulnerable to chromosomal damage: An explanation for the very short latency of infant leukemiaGenes Chromosomes Cancer20064575476010.1002/gcc.2033816688745 </plain></SENT>
+</text></ref><ref id="B46"><text><SENT sid="566" pm="."><plain>LiuHTakedaSKumarRWestergardTDBrownEJPanditaTKChengEHHsiehJJPhosphorylation of MLL by ATR is required for execution of mammalian S-phase checkpointNature2010467343610.1038/nature0935020818375 </plain></SENT>
+</text></ref></ref-list></SecTag></back></article>

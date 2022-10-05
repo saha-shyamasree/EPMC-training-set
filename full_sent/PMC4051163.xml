@@ -1,0 +1,809 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" xml:lang="en"><?DTDIdentifier.IdentifierValue http://www.biomedcentral.com/xml/article.dtd?><?DTDIdentifier.IdentifierType system?><?SourceDTD.DTDName article.dtd?><?SourceDTD.Version 1.0?><?ConverterInfo.XSLTName bmc2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">BMC Genomics</journal-id><journal-id journal-id-type="iso-abbrev">BMC Genomics</journal-id><journal-title-group><journal-title>BMC Genomics</journal-title></journal-title-group><issn pub-type="epub">1471-2164</issn><publisher><publisher-name>BioMed Central</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">4051163</article-id><article-id pub-id-type="publisher-id">1471-2164-15-271</article-id><article-id pub-id-type="pmid">24712981</article-id><article-id pub-id-type="doi">10.1186/1471-2164-15-271</article-id><article-categories><subj-group subj-group-type="heading"><subject>Database</subject></subj-group></article-categories><title-group><article-title><SecTag type="TITLE"><text><SENT sid="0" pm="."><plain>SFGD: a comprehensive platform for mining functional information from soybean transcriptome data and its use in identifying acyl-lipid metabolism pathways </plain></SENT>
+</text></SecTag></article-title></title-group><contrib-group><contrib contrib-type="author" equal-contrib="yes" id="A1"><name><surname>Yu</surname><given-names>Juan</given-names></name><xref ref-type="aff" rid="I1">1</xref><email>ake909@gmail.com</email></contrib><contrib contrib-type="author" equal-contrib="yes" id="A2"><name><surname>Zhang</surname><given-names>Zhenhai</given-names></name><xref ref-type="aff" rid="I1">1</xref><email>zhang.zhenhai552@gmail.com</email></contrib><contrib contrib-type="author" id="A3"><name><surname>Wei</surname><given-names>Jiangang</given-names></name><xref ref-type="aff" rid="I1">1</xref><email>weijiangang02@163.com</email></contrib><contrib contrib-type="author" id="A4"><name><surname>Ling</surname><given-names>Yi</given-names></name><xref ref-type="aff" rid="I1">1</xref><email>lingyi@cau.edu.cn</email></contrib><contrib contrib-type="author" corresp="yes" id="A5"><name><surname>Xu</surname><given-names>Wenying</given-names></name><xref ref-type="aff" rid="I1">1</xref><email>x_wenying@yahoo.com</email></contrib><contrib contrib-type="author" corresp="yes" id="A6"><name><surname>Su</surname><given-names>Zhen</given-names></name><xref ref-type="aff" rid="I1">1</xref><email>zhensu@cau.edu.cn</email></contrib></contrib-group><aff id="I1"><label>1</label>State Key Laboratory of Plant Physiology and Biochemistry, College of Biological Sciences, China Agricultural University, Beijing 100193, China</aff><pub-date pub-type="collection"><year>2014</year></pub-date><pub-date pub-type="epub"><day>8</day><month>4</month><year>2014</year></pub-date><volume>15</volume><fpage>271</fpage><lpage>271</lpage><history><date date-type="received"><day>3</day><month>11</month><year>2013</year></date><date date-type="accepted"><day>31</day><month>3</month><year>2014</year></date></history><permissions><copyright-statement>Copyright © 2014 Yu et al.; licensee BioMed Central Ltd.</copyright-statement><copyright-year>2014</copyright-year><copyright-holder>Yu et al.; licensee BioMed Central Ltd.</copyright-holder><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.0"><license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/2.0">http://creativecommons.org/licenses/by/2.0</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/publicdomain/zero/1.0/">http://creativecommons.org/publicdomain/zero/1.0/</ext-link>) applies to the data made available in this article, unless otherwise stated.</license-p></license></permissions><self-uri xlink:href="http://www.biomedcentral.com/1471-2164/15/271"/><abstract><sec><title><text><SENT sid="1" pm="."><plain>Background </plain></SENT>
+</text></title><p><SecTag type="ABS"><text><SENT sid="2" pm="."><plain>Soybean (Glycine max L.) is one of the world’s most important leguminous crops producing high-quality protein and oil. </plain></SENT>
+<SENT sid="3" pm="."><plain>Increasing the relative oil concentration in soybean seeds is many researchers’ goal, but a complete analysis platform of functional annotation for the genes involved in the soybean acyl-lipid pathway is still lacking. </plain></SENT>
+<SENT sid="4" pm="."><plain>Following the success of soybean whole-genome sequencing, functional annotation has become a major challenge for the scientific community. </plain></SENT>
+<SENT sid="5" pm="."><plain>Whole-genome transcriptome analysis is a powerful way to predict genes with biological functions. </plain></SENT>
+<SENT sid="6" pm="."><plain>It is essential to build a comprehensive analysis platform for integrating soybean whole-genome sequencing data, the available transcriptome data and protein information. </plain></SENT>
+<SENT sid="7" pm="."><plain>This platform could also be used to identify acyl-lipid metabolism pathways. </plain></SENT>
+</text></SecTag></p></sec><sec><title><text><SENT sid="8" pm="."><plain>Description </plain></SENT>
+</text></title><p><SecTag type="ABS"><text><SENT sid="9" pm="."><plain>In this study, we describe our construction of the Soybean Functional Genomics Database (SFGD) using Generic Genome Browser (Gbrowse) as the core platform. </plain></SENT>
+<SENT sid="10" pm="."><plain>We integrated microarray expression profiling with 255 samples from 14 groups’ experiments and mRNA-seq data with 30 samples from four groups’ experiments, including spatial and temporal transcriptome data for different soybean development stages and environmental stresses. </plain></SENT>
+<SENT sid="11" pm="."><plain>The SFGD includes a gene co-expression regulatory network containing 23,267 genes and 1873 miRNA-target pairs, and a group of acyl-lipid pathways containing 221 enzymes and more than 1550 genes. </plain></SENT>
+<SENT sid="12" pm="."><plain>The SFGD also provides some key analysis tools, i.e. BLAST search, expression pattern search and cis-element significance analysis, as well as gene ontology information search and single nucleotide polymorphism display. </plain></SENT>
+</text></SecTag></p></sec><sec><title><text><SENT sid="13" pm="."><plain>Conclusion </plain></SENT>
+</text></title><p><SecTag type="ABS"><text><SENT sid="14" pm="."><plain>The SFGD is a comprehensive database integrating genome and transcriptome data, and also for soybean acyl-lipid metabolism pathways. </plain></SENT>
+<SENT sid="15" pm="."><plain>It provides useful toolboxes for biologists to improve the accuracy and robustness of soybean functional genomics analysis, further improving understanding of gene regulatory networks for effective crop improvement. </plain></SENT>
+<SENT sid="16" pm="."><plain>The SFGD is publically accessible at <ext-link ext-link-type="uri" xlink:href="http://bioinformatics.cau.edu.cn/SFGD/">http://bioinformatics.cau.edu.cn/SFGD/</ext-link>, with all data available for downloading. </plain></SENT>
+</text></SecTag></p></sec></abstract></article-meta></front><body><SecTag type="INTRO"><sec><title><text><SENT sid="17" pm="."><plain>Background </plain></SENT>
+</text></title><p><text><SENT sid="18" pm="."><plain>Soybean (Glycine max L.) is a major leguminous seed crop providing an important source of oil, and ranks first in oil production among the major oil seed crops [1]. </plain></SENT>
+<SENT sid="19" pm="."><plain>In addition to its usage for human consumption, given its high content of essential fatty acids such as linoleic acid, soybean oil is an important renewable resource for chemical and biofuel production [2]. </plain></SENT>
+<SENT sid="20" pm="."><plain>Increasing the relative oil concentration in soybean seeds is many researchers’ goal, using breeding methods and biotechnological strategies [3-5]. </plain></SENT>
+<SENT sid="21" pm="."><plain>The key governing genes of seed oil biosynthesis in higher plants are those involved in the synthesis pathway of triacylglycerol (TAG), plastid fatty acids, endomembrane lipids and the storage process, which constitute more than 274 genes in soybean [6]. </plain></SENT>
+<SENT sid="22" pm="."><plain>Several functional essays have shown that DGAT1 and DGAT2 have roles in seed oil accumulation [7-9]. </plain></SENT>
+<SENT sid="23" pm="."><plain>Mutant alleles of FAD2-1A and FAD2-1B were combined to create soybeans with the high oleic acid trait [10]. </plain></SENT>
+<SENT sid="24" pm="."><plain>Some important transcription factors (TF) regulating lipid metabolism and seed maturation have been reported, including basic leucine zipper (bZIP) and DNA binding with one finger (DOF) TF families [11,12]. </plain></SENT>
+<SENT sid="25" pm="."><plain>However, most of these genes’ functions are not clear and the biosynthesis of soybean oil has yet to be elucidated. </plain></SENT>
+</text></p><p><text><SENT sid="26" pm="."><plain>With the availability of the soybean whole-genome sequence and large-scale application of high-throughput sequencing technology, research on soybean has made great progress. </plain></SENT>
+<SENT sid="27" pm="."><plain>Numerous high-throughput data including genomics, transcriptomics, proteomics and metabolomics data are available for soybean. </plain></SENT>
+<SENT sid="28" pm="."><plain>These data can provide valuable insights and improve soybeans if integrated and analyzed in a novel and comprehensive way. </plain></SENT>
+<SENT sid="29" pm="."><plain>One of these ways is information mining from transcriptome data, given the overwhelming amount of such transcriptome data. </plain></SENT>
+<SENT sid="30" pm="."><plain>The large amount of microarray expression data and deep sequencing transcriptomic data have allowed increasingly credible methods to be developed for generic networks, such as graphical Gaussian model networks through partial correlation [13], reverse engineering cellular networks using the ARACNE algorithm [14], networks based on improved PCC methods [15] and Bayesian networks [16]. </plain></SENT>
+<SENT sid="31" pm="."><plain>In order to overcome the disadvantage of some functionally related genes with low PCC, a new variable ‘mutual rank’ or MR has been introduced [17,18], and co-expression networks for Arabidopsis and rice have been generated [19-21]. </plain></SENT>
+</text></p><p><text><SENT sid="32" pm="."><plain>Some platforms and web services have been built, (e.g. SoyBase [22], SoyGD [23] and SGMD [24]), and other databases are shown in Table 1. </plain></SENT>
+<SENT sid="33" pm="."><plain>These databases contain diverse information, such as genomic data, expressed sequence tags [24] and microarray expression data. </plain></SENT>
+<SENT sid="34" pm="."><plain>Soybean transcription factors, transposable elements and partial ‘omics’ data are also integrated. </plain></SENT>
+<SENT sid="35" pm="."><plain>Meanwhile, some useful tools have been developed, for instance, gene family browsing, BLAST searching and the gene pathway viewer–all providing good support for soybean research. </plain></SENT>
+<SENT sid="36" pm="."><plain>However, the work on information mining and deep analysis for high-throughput transcriptome data including microarray and deep sequencing data is defective compared to the integration and simple analysis in previous studies in Arabidopsis[25,26]. </plain></SENT>
+<SENT sid="37" pm="."><plain>As a useful tool, co-expression network was previously built [27], but it is also imperfect due to limitations on the types of microarray expression experiments used in its web services. </plain></SENT>
+<SENT sid="38" pm="."><plain>In addition, although information concerning soybean metabolic pathways can be found in the Plant Metabolic Network (PMN) [28], a complete analysis platform of gene function annotation for the genes involved in the soybean acyl-lipid pathway is still lacking. </plain></SENT>
+<SENT sid="39" pm="."><plain>Therefore, it is necessary to develop a powerful functional mining tool for soybean omics data and use it to predict candidate genes for molecular breeding related to oil. </plain></SENT>
+</text></p><SecTag type="TABLE"><table-wrap position="float" id="T1"><label>Table 1</label><caption><p><text><SENT sid="40" pm="."><plain>Summary of published soybean databases </plain></SENT>
+</text></p></caption><table frame="hsides" rules="groups" border="1"><colgroup><col align="left"/><col align="left"/><col align="left"/></colgroup><thead valign="top"><tr><th align="left"><text><SENT sid="41" pm="."><plain>Database </plain></SENT>
+</text></th><th align="left"><text><SENT sid="42" pm="."><plain>Content </plain></SENT>
+</text></th><th align="left"><text><SENT sid="43" pm="."><plain>Source </plain></SENT>
+</text></th></tr></thead><tbody valign="top"><tr><td align="left" valign="bottom"><text><SENT sid="44" pm="."><plain>SGMD [24] </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="45" pm="."><plain>Genomic data, expressed sequence tags and microarray expression experiments, Proteomics of Oilseeds </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="46" pm="."><plain><ext-link ext-link-type="uri" xlink:href="http://psi081.ba.ars.usda.gov/SGMD/default.htm">http://psi081.ba.ars.usda.gov/SGMD/default.htm</ext-link> </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="47" pm="."><plain>SoyGD [23] </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="48" pm="."><plain>Soybean physical map and genetic map using Gbrowse as platform </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="49" pm="."><plain><ext-link ext-link-type="uri" xlink:href="http://soybeangenome.siu.edu/">http://soybeangenome.siu.edu/</ext-link> </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="50" pm="."><plain>Soybean Full-length cDNA Database [29] </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="51" pm="."><plain>40,000 full-length sequences of cDNA clones </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="52" pm="."><plain><ext-link ext-link-type="uri" xlink:href="http://rsoy.psc.riken.jp/">http://rsoy.psc.riken.jp/</ext-link> </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="53" pm="."><plain>SoyDB [30] </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="54" pm="."><plain>Soybean transcription factors </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="55" pm="."><plain><ext-link ext-link-type="uri" xlink:href="http://casp.rnet.missouri.edu/soydb/">http://casp.rnet.missouri.edu/soydb/</ext-link> </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="56" pm="."><plain>SoyTEDB [31] </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="57" pm="."><plain>Soybean transposable elements </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="58" pm="."><plain><ext-link ext-link-type="uri" xlink:href="http://www.soybase.org/soytedb/">http://www.soybase.org/soytedb/</ext-link> </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="59" pm="."><plain>SoyBase [22] </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="60" pm="."><plain>Comprehensive database for curated genetics, genomics, and related data resources developed by USDA-ARS </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="61" pm="."><plain><ext-link ext-link-type="uri" xlink:href="http://soybase.org/">http://soybase.org/</ext-link> </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="62" pm="."><plain>LegumeIP [32] </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="63" pm="."><plain>Comparative genomics and transcriptomics database of model legumes </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="64" pm="."><plain><ext-link ext-link-type="uri" xlink:href="http://plantgrn.noble.org/LegumeIP/">http://plantgrn.noble.org/LegumeIP/</ext-link> </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="65" pm="."><plain>PlaNet [27] </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="66" pm="."><plain>Whole-genome co-expression networks for seven important plant crop species </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="67" pm="."><plain><ext-link ext-link-type="uri" xlink:href="http://aranet.mpimp-golm.mpg.de/">http://aranet.mpimp-golm.mpg.de/</ext-link> </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="68" pm="."><plain>SoyKB [26] </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="69" pm="."><plain>Integration of soybean omics data along with annotation of gene function and biological pathway </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="70" pm="."><plain><ext-link ext-link-type="uri" xlink:href="http://soykb.org/">http://soykb.org/</ext-link> </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="71" pm="."><plain>SoyXpress [25] </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="72" pm="."><plain>Microarray expression data and expressed sequence tags [24] </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="73" pm="."><plain><ext-link ext-link-type="uri" xlink:href="http://soyxpress2.agrenv.mcgill.ca/">http://soyxpress2.agrenv.mcgill.ca/</ext-link> </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="74" pm="."><plain>Phytozome [33] </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="75" pm="."><plain>Soybean genome sequence and gene annotation information </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="76" pm="."><plain><ext-link ext-link-type="uri" xlink:href="http://www.phytozome.net/soybean">http://www.phytozome.net/soybean</ext-link> </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="77" pm="."><plain>Soybean eFP Browser [34] </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="78" pm="."><plain>Creates ‘electronic fluorescent pictographic’ representations of genes’ expression pattern </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="79" pm="."><plain><ext-link ext-link-type="uri" xlink:href="http://soykb.org/cgi-bin_new/efpWeb.cgi">http://soykb.org/cgi-bin_new/efpWeb.cgi</ext-link> </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="80" pm="."><plain>SoyProDB [35] </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="81" pm="."><plain>Soybean seed proteins </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="82" pm="."><plain><ext-link ext-link-type="uri" xlink:href="http://bioinformatics.towson.edu/Soybean_Seed_Proteins_2D_Gel_DB/Home.aspx">http://bioinformatics.towson.edu/Soybean_Seed_Proteins_2D_Gel_DB/Home.aspx</ext-link> </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="83" pm="."><plain>GmGDB [36] </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="84" pm="."><plain>Soybean genome and gene models </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="85" pm="."><plain><ext-link ext-link-type="uri" xlink:href="http://www.plantgdb.org/GmGDB/">http://www.plantgdb.org/GmGDB/</ext-link> </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="86" pm="."><plain>SoyPLEX [37] </plain></SENT>
+</text></td><td align="left"><text><SENT sid="87" pm="."><plain>Soybean gene expression resource </plain></SENT>
+</text></td><td align="left"><text><SENT sid="88" pm="."><plain><ext-link ext-link-type="uri" xlink:href="http://www.plexdb.org/plex.php?database">http://www.plexdb.org/plex.php?database</ext-link> = Soybean </plain></SENT>
+</text></td></tr></tbody></table></table-wrap></SecTag><p><text><SENT sid="89" pm="."><plain>Driven by this need, we developed a comprehensive database, the Soybean Functional Genomics Database (SFGD), which provides an integration and analysis platform for soybean ‘omics’ data and is a one-stop-shop resource for soybean acyl-lipid metabolism researchers. </plain></SENT>
+<SENT sid="90" pm="."><plain>We hope it will improve the accuracy and robustness of soybean functional genomics analysis, and further speed up research on soybean yield and quality. </plain></SENT>
+<SENT sid="91" pm="."><plain>This database contains 221 enzymes and more than 1550 genes involved in 15 soybean acyl-lipid metabolic pathways by combining data from the PMN [28] and prediction using Arabidopsis lipid-related genes. </plain></SENT>
+<SENT sid="92" pm="."><plain>It also integrates genome and transcriptome data, e.g. coding genes, full-length cDNA and miRNA sequences, microarray expression experiments, deep sequencing experiments and single nucleotide polymorphisms (SNPs). </plain></SENT>
+<SENT sid="93" pm="."><plain>In addition, a co-expression regulatory network including 23,267 soybean genes represented by 37,593 probe sets (the numbers do not match as one gene can be represented by one or more probe sets) with available microarray expression experiments (255 samples from 14 experiments) and 1873 miRNA–gene pairs in the network is included. </plain></SENT>
+<SENT sid="94" pm="."><plain>There are some other function modules, e.g. a cis-element significance analysis toolbox for gene promoter sequences, an expression pattern search for microarray expression data so users can compare gene expression differences in various growth periods or under diverse stresses. </plain></SENT>
+<SENT sid="95" pm="."><plain>There are also some general functions, such as browse, search and download of data. </plain></SENT>
+<SENT sid="96" pm="."><plain>The platform is freely available at <ext-link ext-link-type="uri" xlink:href="http://bioinformatics.cau.edu.cn/SFGD/">http://bioinformatics.cau.edu.cn/SFGD/</ext-link>. </plain></SENT>
+</text></p></sec></SecTag><SecTag type="METHODS"><sec><title><text><SENT sid="97" pm="."><plain>Construction and content </plain></SENT>
+</text></title><sec><title><text><SENT sid="98" pm="."><plain>Data sources </plain></SENT>
+</text></title><p><text><SENT sid="99" pm="."><plain>Soybean coding gene data and their annotations were downloaded from JGI (Joint Genome Institute) [6], which mainly included whole-genome sequences, coding gene sequences, protein sequences, gene location information and annotations. </plain></SENT>
+<SENT sid="100" pm="."><plain>Full-length cDNA sequences were downloaded from the Soybean Full-Length cDNA Database [29]. </plain></SENT>
+<SENT sid="101" pm="."><plain>We collected soybean miRNA and their precursor sequences from recently published literature and other repositories [38-45], and then mapped these miRNA precursor sequences against the soybean whole-genome sequence using the BLAST program (BLAST-2.2.19). </plain></SENT>
+<SENT sid="102" pm="."><plain>Soybean probe set consensus sequences were downloaded from Affymetrix [46] and their annotations downloaded from B2G-FAR [47]. </plain></SENT>
+<SENT sid="103" pm="."><plain>Microarray expression experiment data (CEL files) were downloaded from the Gene Expression Omnibus (GEO) [17] in the National Center for Biotechnology Information (NCBI) and normalized using Affymetrix GCOS software (TGT value: 500). </plain></SENT>
+<SENT sid="104" pm="."><plain>We downloaded deep sequencing experimental data (fastq files) from NCBI Sequence Read Archive (SRA) with accession numbers SRP002082 [48,49], SRP002176 [50], SRP002459 [51] and SRP006767; SNP data (with 30-bp upstream and downstream flanking sequences) were collected from NCBI dbSNP, which included 17 wild and 14 cultivated soybean species [52]. </plain></SENT>
+<SENT sid="105" pm="."><plain>Acyl-lipid pathway data were collected from PMN [28] and the ARABIDOPSIS ACYL-LIPID METABOLISM database [53]. </plain></SENT>
+<SENT sid="106" pm="."><plain>The data source information is listed in Table 2. </plain></SENT>
+<SENT sid="107" pm="."><plain>All the plant motifs were downloaded from the Plant Cis-acting Regulatory DNA Elements (PLACE) database [54], PlantCARE database [55], AthaMap database [56] and related publications [57]. </plain></SENT>
+<SENT sid="108" pm="."><plain>There are total of 797 motifs and 66,207 soybean gene promoter sequences deposited in our database. </plain></SENT>
+<SENT sid="109" pm="."><plain>Additional file 1: Table S3 lists 797 motifs and their occurrence frequency in these promoter sequences. </plain></SENT>
+</text></p><SecTag type="TABLE"><table-wrap position="float" id="T2"><label>Table 2</label><caption><p><text><SENT sid="110" pm="."><plain>Data source of SFGD </plain></SENT>
+</text></p></caption><table frame="hsides" rules="groups" border="1"><colgroup><col align="left"/><col align="left"/><col align="left"/></colgroup><thead valign="top"><tr><th align="left"><text><SENT sid="111" pm="."><plain>Name </plain></SENT>
+</text></th><th align="left"><text><SENT sid="112" pm="."><plain>Number </plain></SENT>
+</text></th><th align="left"><text><SENT sid="113" pm="."><plain>Source </plain></SENT>
+</text></th></tr></thead><tbody valign="top"><tr><td align="left" valign="bottom"><text><SENT sid="114" pm="."><plain>Coding gene and annotation </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="115" pm="."><plain>66,207 genes, the items of cDNA, CDS and protein are all 75,778, respectively </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="116" pm="."><plain><ext-link ext-link-type="ftp" xlink:href="ftp://ftp.jgi-psf.org/pub/JGI_data/Glycine_max/">ftp://ftp.jgi-psf.org/pub/JGI_data/Glycine_max/</ext-link>[6] </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="117" pm="."><plain>Full-length cDNA </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="118" pm="."><plain>37,870 (4708 full, 32,063 forward and 27,927 reverse sequences) </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="119" pm="."><plain><ext-link ext-link-type="uri" xlink:href="http://rsoy.psc.riken.jp/">http://rsoy.psc.riken.jp/</ext-link>[29] </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="120" pm="."><plain>Consensus sequence </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="121" pm="."><plain>37,593 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="122" pm="."><plain><ext-link ext-link-type="uri" xlink:href="http://www.affymetrix.com/estore/index.jsp">http://www.affymetrix.com/estore/index.jsp</ext-link> </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="123" pm="."><plain>Consensus sequence annotation </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="124" pm="."><plain>18,872 (including GO term, EC number and description) </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="125" pm="."><plain><ext-link ext-link-type="uri" xlink:href="http://bioinfo.cipf.es/b2gfar/home">http://bioinfo.cipf.es/b2gfar/home</ext-link>[47] </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="126" pm="."><plain>Microarray experiment </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="127" pm="."><plain>14 experiments, 245 samples </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="128" pm="."><plain><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/geo">http://www.ncbi.nlm.nih.gov/geo</ext-link> </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="129" pm="."><plain>Deep sequencing data </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="130" pm="."><plain>Four experiments, 30 samples </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="131" pm="."><plain><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/Traces/sra/sra.cgi">http://www.ncbi.nlm.nih.gov/Traces/sra/sra.cgi</ext-link>? </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="132" pm="."><plain>MicroRNA data </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="133" pm="."><plain>229 (precursor and mature sequences) </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="134" pm="."><plain><ext-link ext-link-type="uri" xlink:href="http://bioinformatics.cau.edu.cn/PMRD/">http://bioinformatics.cau.edu.cn/PMRD/</ext-link>[58] </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="135" pm="."><plain>SNP </plain></SENT>
+</text></td><td align="left"><text><SENT sid="136" pm="."><plain>17 wild and 14 cultivated soybean species </plain></SENT>
+</text></td><td align="left"><text><SENT sid="137" pm="."><plain>[52] </plain></SENT>
+</text></td></tr></tbody></table></table-wrap></SecTag></sec><sec><title><text><SENT sid="138" pm="."><plain>Microarray expression experiment normalization </plain></SENT>
+</text></title><p><text><SENT sid="139" pm="."><plain>Microarray expression experiment data (CEL files) were downloaded from GEO [17] in NCBI and normalized using Affymetrix GCOS software (TGT value: 500). </plain></SENT>
+<SENT sid="140" pm="."><plain>Then we computed the average intensities (x¯), standard deviations (stdev) and standard errors (stderr) using the following formulae: </plain></SENT>
+</text></p><p><text><SENT sid="141" pm="."><plain>x¯=∑i=1nxistdev=∑i=1nxi-x¯2n=1stderr=stdevn </plain></SENT>
+</text></p><p><text><SENT sid="142" pm="."><plain>Where x is intensity value and n is the number of replications. </plain></SENT>
+</text></p></sec><sec><title><text><SENT sid="143" pm="."><plain>High-throughput sequencing data pre-processing </plain></SENT>
+</text></title><p><text><SENT sid="144" pm="."><plain>We downloaded deep sequencing experiment data from NCBI SRA, and removed the adapter sequence and low-quality bases at the 3’-end used the FASTX-Toolkit [59] if needed. </plain></SENT>
+<SENT sid="145" pm="."><plain>We then checked read quality with FastQC - a quality control application for fastq files (<ext-link ext-link-type="uri" xlink:href="http://www.bioinformatics.babraham.ac.uk/projects/index.html">http://www.bioinformatics.babraham.ac.uk/projects/index.html</ext-link>). </plain></SENT>
+<SENT sid="146" pm="."><plain>Sequence reads that passed purity filtering were aligned with the whole soybean genome through bowtie [60] (version: 0.12.5) allowing for zero mismatches. </plain></SENT>
+<SENT sid="147" pm="."><plain>The number of final reads of a DNA sequence was computed by the following formula: </plain></SENT>
+</text></p><p><text><SENT sid="148" pm="."><plain>n=log2N+1 </plain></SENT>
+</text></p><p><text><SENT sid="149" pm="."><plain>Where N is the number of raw reads mapped on the DNA fragment. </plain></SENT>
+</text></p><p><text><SENT sid="150" pm="."><plain>For each gene’s deep sequencing evidence of the 30 samples, each sample was normalized using the RPKM value [61]. </plain></SENT>
+</text></p><p><text><SENT sid="151" pm="."><plain>RPKM=109×CNL </plain></SENT>
+</text></p><p><text><SENT sid="152" pm="."><plain>Where C is the number of mappable reads falling into the gene, N is the total number of mappable reads in the experiment and L is the gene length in base-pairs. </plain></SENT>
+</text></p></sec><sec><title><text><SENT sid="153" pm="."><plain>ZFE (Z-score for expression) and ZFM (Z-score for motif) </plain></SENT>
+</text></title><p><text><SENT sid="154" pm="."><plain>Z-score is a statistical measurement of the distance in standard deviations of a sample from the mean. </plain></SENT>
+<SENT sid="155" pm="."><plain>Z-scores allow analysts to convert scores from different data sets into scores that can be accurately compared to each other [62], since they can act as a normalization method to eliminate the difference caused by background for a series of different experiments. </plain></SENT>
+<SENT sid="156" pm="."><plain>For this reason, Z-score transformation statistics have been used in aspects of biology research, such as comparing gene expression between experimental and control groups in microarray analysis [63-66]. </plain></SENT>
+</text></p><p><text><SENT sid="157" pm="."><plain>ZFE: we found that ZFE reflected the relationship of transcriptome change more accurately and visually than expression values (Additional file 2: Figure S2). </plain></SENT>
+<SENT sid="158" pm="."><plain>Here we show the method used to generate the ZFE values from the average intensity values. </plain></SENT>
+</text></p><p><text><SENT sid="159" pm="."><plain>For each probe set in an experiment, if one of its average intensity values was greater than the Average Signal (A) (produced by GCOS) and max (average intensity)/min (average intensity) ≥ 2, and for datasets GSE7511, GSE7881, GSE8112, GSE9374, GSE10251 and GSE15100, we generated the ZFE using formula (1); for datasets GSE8432, GSE9730, GSE12300, GSE12314, GSE139631, GSE17883, GSE18822 and GSE20972, we calculated the ZFE using formula (2); otherwise ZFE = 0 [67]. </plain></SENT>
+</text></p><p><text><SENT sid="160" pm="."><plain>(1)ZFE=x¯‒x¯¯stdev </plain></SENT>
+</text></p><p><text><SENT sid="161" pm="."><plain>(2)ZFE=log2xT¯xc¯ </plain></SENT>
+</text></p><p><text><SENT sid="162" pm="."><plain>Where x¯¯ is the average value of all x¯ in an experiment, xT¯ is x¯ of the treatment samples and xc¯ is x¯ of the control samples. </plain></SENT>
+</text></p><p><text><SENT sid="163" pm="."><plain>ZFM: for one motif or set of motifs (in a gene or list of genes) submitted by users, the ZFM and P-value of each motif is calculated using the following method [68]. </plain></SENT>
+<SENT sid="164" pm="."><plain>Initially, genome-wide genes are divided into several categories by promoter region length, e.g. genes with promoter region lengths &lt; 500 bp, 500-1000 bp, 1-2 kb, 2-3 kb; secondly, ‘m’ submitted genes are classified with the same rules; thirdly, 1000 surrogate sets of ‘m’ promoters are obtained from groups with different promoter length, with sampling of the same proportions; and finally, for the motifi, the number of motifi occurring in the promoters is Nmotif_i, the average occurrence frequency of motifi in these 1000 sets is meanmotif_i, and the standard deviation is stdevmotif_i. </plain></SENT>
+<SENT sid="165" pm="."><plain>The ZFM and P-value of motifi are calculated only if Nmotif_i &gt; meanmotif_i using the following formula: </plain></SENT>
+</text></p><p><text><SENT sid="166" pm="."><plain>ZFM=Nmotif_i-meanmotif_istdevmotif_i </plain></SENT>
+</text></p><p><text><SENT sid="167" pm="."><plain>P‒value=1‒pnormNmotif_i,meanmotif_i,stdevmotif_i </plain></SENT>
+</text></p><p><text><SENT sid="168" pm="."><plain>Where pnorm() is the distribution function for the normal distribution in the R package, and the P-value cutoff is 0.1, which is decided with reference to the soybean genetic motif related experimental result, as well as the annotation of motifs in PLACE [54]. </plain></SENT>
+</text></p></sec><sec><title><text><SENT sid="169" pm="."><plain>MR </plain></SENT>
+</text></title><p><text><SENT sid="170" pm="."><plain>The MR [18] method was first used to construct a gene co-expression network in Arabidopsis[20]: </plain></SENT>
+</text></p><p><text><SENT sid="171" pm="."><plain>MR=ab </plain></SENT>
+</text></p><p><text><SENT sid="172" pm="."><plain>For two genes (or probe sets) X and Y, first all microarray expression values are used to respectively calculate all genes’ PCC values for X and Y. </plain></SENT>
+<SENT sid="173" pm="."><plain>Then PCCs are respectively sorted from large to small for X and Y; then ‘a’ (start from 1, with step size of 1) is used to mark the position of Y in X’s list, and similarly, ‘b’ marks the position of X in Y’s list. </plain></SENT>
+<SENT sid="174" pm="."><plain>For the hub gene, the network shows the top 10 co-expressed genes according to the arrangement of MR from small to large in the first level; for the second level, the top five genes that co-expressed with first level genes are selected; and the selection of genes in the third level follows the same rules as for the second level. </plain></SENT>
+<SENT sid="175" pm="."><plain>The threshold of MR is in reference to the already published Arabidopsis co-expression network [19]. </plain></SENT>
+</text></p></sec><sec><title><text><SENT sid="176" pm="."><plain>miRNA:target alignment criteria </plain></SENT>
+</text></title><p><text><SENT sid="177" pm="."><plain>In plants, miRNAs generally precisely direct their mRNA targets for endonucleolytic cleavage [69-71]. </plain></SENT>
+<SENT sid="178" pm="."><plain>To predict potential targets of the miRNAs in this study, we developed a set of computational ‘criteria’ for soybean miRNA-target interaction based on previous research [69,72]. </plain></SENT>
+<SENT sid="179" pm="."><plain>The ‘criteria’ as following: (a) The mismatch of miRNA:target must be ≤ 4 and the mismatch in the first half-pair must be ≤ 2.5 (G:U = 0.5); (b) The continuous mismatch must be ≤ 2 and continuous mismatch between 2 and 12 bp must be ≤ 1; (c) The bases 11 and 12 must be a perfect match; and (d) The minimum free energy (MFE) of miRNA:target must be &lt; 75% compared with when the miRNA perfectly matched with its target. </plain></SENT>
+<SENT sid="180" pm="."><plain>With these criteria, we successfully predicted 1873 miRNA-gene pairs. </plain></SENT>
+</text></p></sec></sec></SecTag><SecTag type="METHODS,RESULTS"><sec><title><text><SENT sid="181" pm="."><plain>Utility and results </plain></SENT>
+</text></title><p><text><SENT sid="182" pm="."><plain>SFGD uses Generic Genome Browser (Gbrowse) as an integration platform for soybean transcriptome data (Table 2) and generates some data mining tools, such as ‘gene co-expression network’, ‘pathway’ and ‘motif’. </plain></SENT>
+<SENT sid="183" pm="."><plain>The tool ‘gene co-expression network’ aims to display a gene’s co-expressed genes and miRNA:target interaction; ‘pathway’ is a functional tool containing soybean acyl-lipid metabolic data; ‘motif’ is a tool for searching and analyzing significant cis-elements in one or more genes; and ‘pattern’ is a tool for searching tissue/time specific genes based on microarray expression experiments (Additional file 3: Table S1), and some other function modules such as BLAST and general search. </plain></SENT>
+</text></p><sec><title><text><SENT sid="184" pm="."><plain>Gbrowse: a repository of the transcriptional information </plain></SENT>
+</text></title><p><text><SENT sid="185" pm="."><plain>Gbrowse is a genome viewer. </plain></SENT>
+<SENT sid="186" pm="."><plain>Soybean protein coding genes, full-length cDNAs, miRNA precursors, probe set consensus sequences, microarray expression experiments and deep sequencing data have been integrated into Gbrowse with clickable links to a new webpage. </plain></SENT>
+<SENT sid="187" pm="."><plain>This webpage shows descriptions of each keyword: e.g. ‘gene detail information web page’ shows the co-expression gene network, microarray expression profile, deep sequence evidence and coding sequence; for ‘microarray expression data’, a diagram displays the other probe sets related to it with PCC &gt; 0.7 or PCC &lt; -0.65. </plain></SENT>
+</text></p><p><text><SENT sid="188" pm="."><plain>The coding gene’s result page includes gene annotation, the list of co-expressing genes, 14 microarray expression experiments [only if there is a probe set(s) in its context] and deep sequence evidence of it in the 30 deep sequencing samples. </plain></SENT>
+<SENT sid="189" pm="."><plain>Following are the gene’s genome location information and sequences (including promoter, cDNA and protein sequences). </plain></SENT>
+</text></p><p><text><SENT sid="190" pm="."><plain>For the microarray expression profile section (e.g. ‘GmaAffx.88235.1.S1_at’), we have integrated 14 experiments in total. </plain></SENT>
+<SENT sid="191" pm="."><plain>Each has horizontal bars according to the experiment’s treatment and control expression level generated using ZFE (red bars represent up-regulated and green bars down-regulated, Additional file 4: Figure S1). </plain></SENT>
+<SENT sid="192" pm="."><plain>For example, if users click horizontal bars below ‘GSE7511’ (‘Expression data from soybean seed compartments with embryos at the heart stage’), it will show gene Glyma15g34770’s (represented by probe set ‘GmaAffx.88235.1.S1_at’) expression profile in different tissues of soybean seed. </plain></SENT>
+<SENT sid="193" pm="."><plain>With ‘GmaAffx.88235.1.S1_at’ is included a diagram generated using expression values and standard errors, values table display and the probe sets most positively and most negatively correlated (PCC &gt; 0.7 and PCC &lt; -0.65, respectively). </plain></SENT>
+<SENT sid="194" pm="."><plain>Users can get all these probe sets’ expression values and line charts produced by expression values and ZFEs (Additional file 2: Figure S2) and send the probe set list to agriGO [73] for gene ontology (GO) enrichment analysis. </plain></SENT>
+<SENT sid="195" pm="."><plain>Users can also get the promoter sequence of genes that are positively correlated with this gene and scan the cis-elements contained for significance analysis. </plain></SENT>
+</text></p><p><text><SENT sid="196" pm="."><plain>miRNAs are ~21-nt-long endogenetic non-coding small RNAs that function as post-transcriptional regulators in eukaryotes [74]. </plain></SENT>
+<SENT sid="197" pm="."><plain>All miRNAs in SFGD came from recently published literature [38-45]. </plain></SENT>
+<SENT sid="198" pm="."><plain>Here, soybean miRNA information is integrated into PMRD (Plant MicroRNA Database) format [58], which mainly includes four regions: precursor, mature, target and reference regions. </plain></SENT>
+</text></p><p><text><SENT sid="199" pm="."><plain>The repository also has 30 RNA-seq samples that cover various tissue types and stress conditions. </plain></SENT>
+<SENT sid="200" pm="."><plain>This can be used for deep sequencing evidence of one gene’s expression in particular tissues or at particular time points. </plain></SENT>
+</text></p><p><text><SENT sid="201" pm="."><plain>For other content in Gbrowse–such as full-length cDNA, probe set consensus sequence and SNP information–users can obtain their description and related information by clicking the corresponding icons. </plain></SENT>
+</text></p></sec><sec><title><text><SENT sid="202" pm="."><plain>Gene co-expression network </plain></SENT>
+</text></title><p><text><SENT sid="203" pm="."><plain>We generated a soybean gene co-expression regulatory network based on 255 samples from 14 microarray expression experiments using PCC and MR [18]. </plain></SENT>
+<SENT sid="204" pm="."><plain>After converting the probe sets to the corresponding genes, we obtained a gene co-expression network including 23,267 genes represented by 37,593 probe sets (one gene may be represented by one or more probe sets). </plain></SENT>
+</text></p><p><text><SENT sid="205" pm="."><plain>There are 240,496 edges left after setting the MR threshold ≤ 30, giving 20.7 edges for each gene on average–Additional file 5: Table S2 lists the top 10 genes with the greatest number of edges as well as the genes’ annotations. </plain></SENT>
+<SENT sid="206" pm="."><plain>Cytoscape Web software [75] is used to display the gene network, and for each gene (central node), all its co-expression genes are sorted according to MR values and several with the top values are displayed. </plain></SENT>
+<SENT sid="207" pm="."><plain>There is a recursive search using this process for the second and third levels. </plain></SENT>
+<SENT sid="208" pm="."><plain>For the first level [genes (subprime nodes) immediately linked with the central gene], the top 10 MR-value genes are displayed. </plain></SENT>
+<SENT sid="209" pm="."><plain>For the second level (genes directly linked with first level genes, linked with central node through subprime nodes) the top 5 MR-value genes for each subprime node are shown. </plain></SENT>
+<SENT sid="210" pm="."><plain>In the third level, although we collected all top 10 MR-value genes of second level genes, only those which have previously displayed in the first and second levels remain, because other genes are not likely to be closely related to the central gene. </plain></SENT>
+<SENT sid="211" pm="."><plain>A table is also generated to show all genes and gene annotations appearing in the Cytoscape Web file–users can use these genes to scan their promoter motifs and analyze their significance using the textbox at the bottom of the web page. </plain></SENT>
+</text></p><p><text><SENT sid="212" pm="."><plain>The soybean miRNA: target information was also integrated into the network. </plain></SENT>
+<SENT sid="213" pm="."><plain>Soybean miRNA:target pairs were predicted using in-house programs with all miRNAs and mRNA genes deposited in our database, then we compared our results with psRNATarget [76]. </plain></SENT>
+<SENT sid="214" pm="."><plain>Finally we separated the results into two parts: high credibility miRNA:targets (338 pairs, predicted by both programs) and low credibility miRNA:targets (1535 pairs, predicted by one of the programs). </plain></SENT>
+</text></p></sec><sec><title><text><SENT sid="215" pm="."><plain>Acyl-lipid metabolic pathways </plain></SENT>
+</text></title><p><text><SENT sid="216" pm="."><plain>Due to the importance of oil crops, the need for acyl-lipid metabolism research is self-evident. </plain></SENT>
+<SENT sid="217" pm="."><plain>Through integrating data from PMN [28] and prediction using Arabidopsis lipid-related genes, we obtained 221 enzymes and more than 1550 genes involved in 15 soybean acyl-lipid metabolism pathways (Table 3). </plain></SENT>
+<SENT sid="218" pm="."><plain>The pathway card page provides a user-friendly view of lipid metabolic pathways and information about metabolism alias names, mass-to-charge ratios and chemical formulae. </plain></SENT>
+<SENT sid="219" pm="."><plain>Users can also search for their lipid of interest on the lipid page. </plain></SENT>
+</text></p><SecTag type="TABLE"><table-wrap position="float" id="T3"><label>Table 3</label><caption><p><text><SENT sid="220" pm="."><plain>Soybean acyl-lipid metabolism pathway </plain></SENT>
+</text></p></caption><table frame="hsides" rules="groups" border="1"><colgroup><col align="left"/><col align="center"/><col align="center"/></colgroup><thead valign="top"><tr><th align="left"><text><SENT sid="221" pm="."><plain>Lipid metabolism pathway </plain></SENT>
+</text></th><th align="center"><text><SENT sid="222" pm="."><plain>Enzyme numbers </plain></SENT>
+</text></th><th align="center"><text><SENT sid="223" pm="."><plain>Gene numbers </plain></SENT>
+</text></th></tr></thead><tbody valign="top"><tr><td align="left" valign="bottom"><text><SENT sid="224" pm="."><plain>Fatty acid synthesis </plain></SENT>
+</text></td><td align="center" valign="bottom"><text><SENT sid="225" pm="."><plain>20 </plain></SENT>
+</text></td><td align="center" valign="bottom"><text><SENT sid="226" pm="."><plain>88 </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="227" pm="."><plain>Fatty acid elongation, desaturation and export from plastid </plain></SENT>
+</text></td><td align="center" valign="bottom"><text><SENT sid="228" pm="."><plain>17 </plain></SENT>
+</text></td><td align="center" valign="bottom"><text><SENT sid="229" pm="."><plain>55 </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="230" pm="."><plain>Triacylglycerol biosynthesis </plain></SENT>
+</text></td><td align="center" valign="bottom"><text><SENT sid="231" pm="."><plain>14 </plain></SENT>
+</text></td><td align="center" valign="bottom"><text><SENT sid="232" pm="."><plain>126 </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="233" pm="."><plain>Triacylglycerol and fatty acid degradation </plain></SENT>
+</text></td><td align="center" valign="bottom"><text><SENT sid="234" pm="."><plain>18 </plain></SENT>
+</text></td><td align="center" valign="bottom"><text><SENT sid="235" pm="."><plain>148 </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="236" pm="."><plain>Eukaryotic galactolipid and sulfolipid synthesis </plain></SENT>
+</text></td><td align="center" valign="bottom"><text><SENT sid="237" pm="."><plain>17 </plain></SENT>
+</text></td><td align="center" valign="bottom"><text><SENT sid="238" pm="."><plain>63 </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="239" pm="."><plain>Prokaryotic galactolipid, sulfolipid, phospholipid synthesis </plain></SENT>
+</text></td><td align="center" valign="bottom"><text><SENT sid="240" pm="."><plain>25 </plain></SENT>
+</text></td><td align="center" valign="bottom"><text><SENT sid="241" pm="."><plain>112 </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="242" pm="."><plain>Eukaryotic phospholipid metabolism </plain></SENT>
+</text></td><td align="center" valign="bottom"><text><SENT sid="243" pm="."><plain>18 </plain></SENT>
+</text></td><td align="center" valign="bottom"><text><SENT sid="244" pm="."><plain>97 </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="245" pm="."><plain>Mitochondrial phospholipid metabolism </plain></SENT>
+</text></td><td align="center" valign="bottom"><text><SENT sid="246" pm="."><plain>9 </plain></SENT>
+</text></td><td align="center" valign="bottom"><text><SENT sid="247" pm="."><plain>62 </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="248" pm="."><plain>Sphingolipid synthesis and transport </plain></SENT>
+</text></td><td align="center" valign="bottom"><text><SENT sid="249" pm="."><plain>22 </plain></SENT>
+</text></td><td align="center" valign="bottom"><text><SENT sid="250" pm="."><plain>61 </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="251" pm="."><plain>Mitochondrial lipoic acid synthesis </plain></SENT>
+</text></td><td align="center" valign="bottom"><text><SENT sid="252" pm="."><plain>13 </plain></SENT>
+</text></td><td align="center" valign="bottom"><text><SENT sid="253" pm="."><plain>46 </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="254" pm="."><plain>Wax synthesis and transport </plain></SENT>
+</text></td><td align="center" valign="bottom"><text><SENT sid="255" pm="."><plain>22 </plain></SENT>
+</text></td><td align="center" valign="bottom"><text><SENT sid="256" pm="."><plain>207 </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="257" pm="."><plain>Cutin synthesis and transport </plain></SENT>
+</text></td><td align="center" valign="bottom"><text><SENT sid="258" pm="."><plain>7 </plain></SENT>
+</text></td><td align="center" valign="bottom"><text><SENT sid="259" pm="."><plain>63 </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="260" pm="."><plain>Suberin synthesis and transport </plain></SENT>
+</text></td><td align="center" valign="bottom"><text><SENT sid="261" pm="."><plain>17 </plain></SENT>
+</text></td><td align="center" valign="bottom"><text><SENT sid="262" pm="."><plain>279 </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="263" pm="."><plain>Oxylipin metabolism </plain></SENT>
+</text></td><td align="center" valign="bottom"><text><SENT sid="264" pm="."><plain>21 </plain></SENT>
+</text></td><td align="center" valign="bottom"><text><SENT sid="265" pm="."><plain>120 </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="266" pm="."><plain>Choline synthesis </plain></SENT>
+</text></td><td align="center"><text><SENT sid="267" pm="."><plain>8 </plain></SENT>
+</text></td><td align="center"><text><SENT sid="268" pm="."><plain>23 </plain></SENT>
+</text></td></tr></tbody></table></table-wrap></SecTag></sec><sec><title><text><SENT sid="269" pm="."><plain>Motif scan </plain></SENT>
+</text></title><p><text><SENT sid="270" pm="."><plain>If the user’s input is a fasta format sequence of a promoter, all motifs appearing in the sequence are listed, and these motifs’ occurrence frequencies counted using the in-house program. </plain></SENT>
+</text></p></sec><sec><title><text><SENT sid="271" pm="."><plain>Cis-element significance analysis </plain></SENT>
+</text></title><p><text><SENT sid="272" pm="."><plain>For each gene’s promoter sequence or a sequence submitted by the user, all the potential motifs are scanned. </plain></SENT>
+<SENT sid="273" pm="."><plain>If a list of gene names is submitted, all motifs appearing in their promoter region will be scanned. </plain></SENT>
+<SENT sid="274" pm="."><plain>The platform also offers the result of significant motifs in promoters of these genes. </plain></SENT>
+</text></p></sec><sec><title><text><SENT sid="275" pm="."><plain>Expression pattern </plain></SENT>
+</text></title><p><text><SENT sid="276" pm="."><plain>In order to find genes’ specific expressions under specific conditions, we selected four experiments with different tissues and stress conditions. </plain></SENT>
+<SENT sid="277" pm="."><plain>GSE7511, which contains 23 samples to identify all genes active in 10 different compartments, was isolated using the Leica AS LMD system from heart-stage seed. </plain></SENT>
+<SENT sid="278" pm="."><plain>GSE7881, includes 18 samples, identified all genes active in cotyledon-stage seed within nine isolated compartments. </plain></SENT>
+<SENT sid="279" pm="."><plain>GSE8112, contains 34 samples obtained from early maturation stage of seed, which was isolated within 17 compartments. </plain></SENT>
+<SENT sid="280" pm="."><plain>GSE8432 contains 27 samples obtained from a soybean plant PI200492 with two treatments: HW94-1 (Phakopsora pachyrhizi isolates, which produces a resistant reaction in the host) or TW72-1 (P. pachyrhizi isolates, which produces a susceptible reaction in the host) at four time points (6, 12, 24 and 48 h post inoculation). </plain></SENT>
+<SENT sid="281" pm="."><plain>Furthermore, we developed two function tools in the corresponding web page: ‘Expression pattern search’ and ‘Tissue/time specific search’. </plain></SENT>
+</text></p><p><text><SENT sid="282" pm="."><plain>For the ‘Expression pattern search’ function, selections submitted by users are converted to corresponding values – high (or up-regulated), even and low (or down-regulated) represented by 1, 0 and -1, respectively–then PCC is calculated between users’ selections and ZFE of data in our database, using a PCC threshold of 0.7. </plain></SENT>
+</text></p><p><text><SENT sid="283" pm="."><plain>The ‘Tissue/time specific search’ toolbox only returns probe sets that are highly expressed in the specific condition according to the ZFE set up by users. </plain></SENT>
+<SENT sid="284" pm="."><plain>The resulting web pages for both ‘Expression pattern search’ and ‘Tissue/time specific search’ also include links to ‘agriGO’ [73] for GO enrichment analysis and ‘motif scan’ function for cis-element significance analysis as described above. </plain></SENT>
+</text></p><p><text><SENT sid="285" pm="."><plain>Here, we selected the biosynthesis pathway of triacylglycerol (TAG) as an example to introduce the application of our database. </plain></SENT>
+<SENT sid="286" pm="."><plain>Figure 1A shows the biosynthesis pathway of TAG and Figure 1B shows the tissue-specific expression of genes that encode the enzymes involved in this pathway–all these data can be obtained from the SFGD platform. </plain></SENT>
+<SENT sid="287" pm="."><plain>Additional file 4: Figure S1 shows a screenshot of the web page with brief information (a coding gene, the corresponding probe set, GmaAffx.88235.1.S1_at and one microarray expression series, and ten deep sequence samples). </plain></SENT>
+<SENT sid="288" pm="."><plain>Figure 1C shows the co-expression network of WRI1 (Glyma15g34770), which has been reported to regulate the process of TAG biosynthesis by affecting the synthesis precursors in developing embryos [77,78]. </plain></SENT>
+<SENT sid="289" pm="."><plain>Table 4 lists all soybean coding genes that appeared in Figure 1C and their annotations, and also gives these genes’ orthologs in Arabidopsis. </plain></SENT>
+<SENT sid="290" pm="."><plain>Users can also do cis-element significance analysis, and a job ID is produced by the server–the results are stored in the server for several weeks so that they can be traced back. </plain></SENT>
+<SENT sid="291" pm="."><plain>The resulting web-page only shows motifs with P &lt; 0.05, and Table 5 is one example of the significance analysis results for all genes that appeared in Table 4. </plain></SENT>
+<SENT sid="292" pm="."><plain>Table 5 shows that some motifs may be closely related to seed development, such as ‘ABREBNNAPA’ and ‘ABRETAEM’, with their annotations ‘napA; storage protein; ABRE; napin; seed’ and ‘ABA; ABRE; EMBP-1; seed’, respectively. </plain></SENT>
+</text></p><SecTag type="FIG"><fig id="F1" position="float"><label>Figure 1</label><caption><p><text><SENT sid="293" pm="."><plain>The tissue-specific gene expression and regulation network of the triacylglycerol (TAG) biosynthesis pathway. Multiple genes of interest in the TAG biosynthesis pathway (A) are simultaneously shown in a heatmap (B) with the same color. </plain></SENT>
+<SENT sid="294" pm="."><plain>The co-expression network of WRI1 (Glyma15g34770) (C), which regulates the biosynthesis of TAG. </plain></SENT>
+</text></p></caption><graphic xlink:href="1471-2164-15-271-1"/></fig></SecTag><SecTag type="TABLE"><table-wrap position="float" id="T4"><label>Table 4</label><caption><p><text><SENT sid="295" pm="."><plain>Soybean lipid biosynthesis related genes (WRI1 network genes) </plain></SENT>
+</text></p></caption><table frame="hsides" rules="groups" border="1"><colgroup><col align="left"/><col align="left"/><col align="left"/><col align="left"/></colgroup><thead valign="top"><tr><th align="left"><text><SENT sid="296" pm="."><plain>Gene </plain></SENT>
+</text></th><th align="left"><text><SENT sid="297" pm="."><plain>Probe set(s) </plain></SENT>
+</text></th><th align="left"><text><SENT sid="298" pm="."><plain>Homolog </plain></SENT>
+</text></th><th align="left"><text><SENT sid="299" pm="."><plain>Annotation </plain></SENT>
+</text></th></tr></thead><tbody valign="top"><tr><td align="left" valign="bottom"><text><SENT sid="300" pm="."><plain>Glyma06g11860 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="301" pm="."><plain>GmaAffx.50807.1.S1_at, GmaAffx.50807.2.S1_at, GmaAffx.26813.1.A1_at </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="302" pm="."><plain>AT1G77590 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="303" pm="."><plain>LACS9 (LONG CHAIN ACYL-COA SYNTHETASE 9); long-chain-fatty-acid-CoA ligase </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="304" pm="."><plain>Glyma18g50020 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="305" pm="."><plain>Gma.16819.1.S1_at </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="306" pm="."><plain>AT5G16390 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="307" pm="."><plain>CAC1 (CHLOROPLASTIC ACETYLCOENZYME A CARBOXYLASE 1); acetyl-CoA carboxylase/biotin binding </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="308" pm="."><plain>Glyma07g37050 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="309" pm="."><plain>GmaAffx.84778.1.S1_at </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="310" pm="."><plain>AT3G16950 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="311" pm="."><plain>LPD1 (LIPOAMIDE DEHYDROGENASE 1); dihydrolipoyl dehydrogenase </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="312" pm="."><plain>Glyma08g22750 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="313" pm="."><plain>GmaAffx.47472.1.S1_at </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="314" pm="."><plain>AT3G15820 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="315" pm="."><plain>Phosphatidic acid phosphatase-related/PAP2-related </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="316" pm="."><plain>Glyma03g39860 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="317" pm="."><plain>Gma.959.1.S1_at </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="318" pm="."><plain>AT1G54860 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="319" pm="."><plain>Unknown protein </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="320" pm="."><plain>Glyma04g14830 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="321" pm="."><plain>GmaAffx.86095.1.S1_at </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="322" pm="."><plain>AT1G65870 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="323" pm="."><plain>Disease resistance-responsive family protein </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="324" pm="."><plain>Glyma18g01280 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="325" pm="."><plain>Gma.910.1.A1_at </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="326" pm="."><plain>AT1G24360 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="327" pm="."><plain>3-oxoacyl-(acyl-carrier protein) reductase, chloroplast/3-ketoacyl-acyl carrier protein reductase </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="328" pm="."><plain>Glyma05g36450 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="329" pm="."><plain>Gma.8414.1.S1_at, Gma.8414.1.S1_s_at </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="330" pm="."><plain>AT5G35360 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="331" pm="."><plain>CAC2; acetyl-CoA carboxylase/ biotin carboxylase </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="332" pm="."><plain>Glyma12g11150 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="333" pm="."><plain>GmaAffx.3734.1.S1_at </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="334" pm="."><plain>AT5G05410 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="335" pm="."><plain>DREB2A; DNA binding/transcription activator/ transcription factor </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="336" pm="."><plain>Glyma16g27460 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="337" pm="."><plain>GmaAffx.25251.1.S1_at </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="338" pm="."><plain>AT2G39210 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="339" pm="."><plain>nodulin family protein </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="340" pm="."><plain>Glyma01g21480 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="341" pm="."><plain>GmaAffx.85056.2.S1_at, Gma.14628.1.S1_at </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="342" pm="."><plain>AT1G25510 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="343" pm="."><plain>aspartyl protease family protein </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="344" pm="."><plain>Glyma15g35080 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="345" pm="."><plain>Gma.12634.1.A1_s_at </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="346" pm="."><plain>AT3G56850 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="347" pm="."><plain>AREB3 (ABA-RESPONSIVE ELEMENT BINDING PROTEIN 3); DNA binding/transcription activator/transcription factor </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="348" pm="."><plain>Glyma12g34740 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="349" pm="."><plain>Gma.11970.1.S1_at </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="350" pm="."><plain>AT5G54250 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="351" pm="."><plain>ATCNGC4 (CYCLIC NUCLEOTIDE-GATED CATION CHANNEL 4); calmodulin binding/cation channel/cation transmembrane transporter/cyclic nucleotide binding </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="352" pm="."><plain>Glyma15g00450 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="353" pm="."><plain>Gma.12064.1.S1_at </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="354" pm="."><plain>AT5G25900 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="355" pm="."><plain>GA3 (GA REQUIRING 3); ent-kaurene oxidase/oxygen binding </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="356" pm="."><plain>Glyma03g34760 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="357" pm="."><plain>GmaAffx.93571.1.S1_s_at, GmaAffx.93571.1.S1_at, GmaAffx.73653.1.S1_at </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="358" pm="."><plain>AT3G52970 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="359" pm="."><plain>CYP76G1; electron carrier/heme binding/iron ion binding/monooxygenase/oxygen binding </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="360" pm="."><plain>Glyma01g36180 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="361" pm="."><plain>Gma.3792.1.A1_at </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="362" pm="."><plain>AT1G42960 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="363" pm="."><plain>unknown protein </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="364" pm="."><plain>Glyma10g31540 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="365" pm="."><plain>Gma.17374.1.S1_at, GmaAffx.64124.1.S1_at, GmaAffx.87290.1.S1_at </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="366" pm="."><plain>AT1G32900 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="367" pm="."><plain>starch synthase, putative </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="368" pm="."><plain>Glyma04g27740 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="369" pm="."><plain>GmaAffx.25768.1.S1_at </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="370" pm="."><plain>AT1G65870 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="371" pm="."><plain>disease resistance-responsive family protein </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="372" pm="."><plain>Glyma08g03120 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="373" pm="."><plain>Gma.181.1.S1_at </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="374" pm="."><plain>AT5G35360 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="375" pm="."><plain>CAC2; acetyl-CoA carboxylase/ biotin carboxylase </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="376" pm="."><plain>Glyma05g03210 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="377" pm="."><plain>Gma.8701.1.S1_at, GmaAffx.7258.1.S1_s_at </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="378" pm="."><plain>AT4G24830 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="379" pm="."><plain>arginosuccinate synthase family </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="380" pm="."><plain>Glyma18g43140 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="381" pm="."><plain>Gma.2316.1.S1_at </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="382" pm="."><plain>AT5G05600 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="383" pm="."><plain>oxidoreductase, 2OG-Fe(II) oxygenase family protein </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="384" pm="."><plain>Glyma07g13560 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="385" pm="."><plain>GmaAffx.5167.1.S1_at </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="386" pm="."><plain>AT4G01070 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="387" pm="."><plain>GT72B1; UDP-glucosyltransferase/UDP-glycosyltransferase/transferase, transferring glycosyl groups </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="388" pm="."><plain>Glyma09g38570 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="389" pm="."><plain>GmaAffx.81233.1.A1_at </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="390" pm="."><plain>AT5G16460 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="391" pm="."><plain>Unknown protein </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="392" pm="."><plain>Glyma10g12290 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="393" pm="."><plain>Gma.1883.1.S1_at </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="394" pm="."><plain>AT2G41190 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="395" pm="."><plain>Amino acid transporter family protein </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="396" pm="."><plain>Glyma08g36590 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="397" pm="."><plain>Gma.14186.1.A1_at </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="398" pm="."><plain>AT5G46690 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="399" pm="."><plain>bHLH071 (beta HLH protein 71); DNA binding/transcription factor </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="400" pm="."><plain>Glyma13g44870 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="401" pm="."><plain>GmaAffx.59734.1.A1_at, GmaAffx.86023.1.S1_at, GmaAffx.33541.1.S1_at </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="402" pm="."><plain>AT5G25900 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="403" pm="."><plain>GA3 (GA REQUIRING 3); ent-kaurene oxidase/oxygen binding </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="404" pm="."><plain>Glyma03g20380 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="405" pm="."><plain>GmaAffx.37979.1.S1_at </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="406" pm="."><plain>AT3G07250 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="407" pm="."><plain>Nuclear transport factor 2 (NTF2) family protein/RNA recognition motif (RRM)-containing protein </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="408" pm="."><plain>Glyma05g31820 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="409" pm="."><plain>GmaAffx.29450.1.S1_at </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="410" pm="."><plain>AT1G10500 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="411" pm="."><plain>ATCPISCA (chloroplast-localized IscA-like protein); structural molecule </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="412" pm="."><plain>Glyma17g00580 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="413" pm="."><plain>Gma.10258.1.A1_s_at, Gma.10258.2.S1_at, GmaAffx.83788.1.S1_at </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="414" pm="."><plain>AT5G49820 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="415" pm="."><plain>emb1879 (embryo defective 1879) </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="416" pm="."><plain>Glyma07g03350 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="417" pm="."><plain>Gma.11469.1.S1_at, GmaAffx.67403.1.S1_at, GmaAffx.67403.1.A1_at </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="418" pm="."><plain>AT3G15820 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="419" pm="."><plain>phosphatidic acid phosphatase-related/PAP2-related </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="420" pm="."><plain>Glyma18g44350 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="421" pm="."><plain>Gma.6041.1.S1_at </plain></SENT>
+</text></td><td align="left"><text><SENT sid="422" pm="."><plain>AT1G62640 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="423" pm="."><plain>KAS III (3-KETOACYL-ACYL CARRIER PROTEIN SYNTHASE III); 3-oxoacyl-[acyl-carrier-protein] synthase/catalytic/transferase, transferring acyl groups other than amino-acyl groups </plain></SENT>
+</text></td></tr></tbody></table></table-wrap></SecTag><SecTag type="TABLE"><table-wrap position="float" id="T5"><label>Table 5</label><caption><p><text><SENT sid="424" pm="."><plain>Motif significance analysis results of soybean triacylglycerol biosynthesis related genes </plain></SENT>
+</text></p></caption><table frame="hsides" rules="groups" border="1"><colgroup><col align="left"/><col align="left"/><col align="left"/><col align="left"/><col align="left"/><col align="left"/></colgroup><thead valign="top"><tr><th align="left"><text><SENT sid="425" pm="."><plain>Motif </plain></SENT>
+</text></th><th align="left"><text><SENT sid="426" pm="."><plain>Factor </plain></SENT>
+</text></th><th align="left"><text><SENT sid="427" pm="."><plain>Count </plain></SENT>
+</text></th><th align="left"><text><SENT sid="428" pm="."><plain>ZFM </plain></SENT>
+</text></th><th align="left"><text><SENT sid="429" pm="."><plain>P-value </plain></SENT>
+</text></th><th align="left"><text><SENT sid="430" pm="."><plain>Keywords </plain></SENT>
+</text></th></tr></thead><tbody valign="top"><tr><td align="left" valign="bottom"><text><SENT sid="431" pm="."><plain>GTCATTATCGG </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="432" pm="."><plain>CATTAT-motif </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="433" pm="."><plain>1 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="434" pm="."><plain>14.1 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="435" pm="."><plain>0 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="436" pm="."><plain>phyA3;Avena sativa </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="437" pm="."><plain>CGCCACGTGTCC </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="438" pm="."><plain>ABREBNNAPA </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="439" pm="."><plain>2 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="440" pm="."><plain>10.81 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="441" pm="."><plain>0 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="442" pm="."><plain>napA; storage protein; ABRE; napin; seed </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="443" pm="."><plain>AATTAAA </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="444" pm="."><plain>POLASIG2 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="445" pm="."><plain>453 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="446" pm="."><plain>8.42 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="447" pm="."><plain>0 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="448" pm="."><plain>poly A signal </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="449" pm="."><plain>GGACACGTGGC </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="450" pm="."><plain>ABRETAEM </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="451" pm="."><plain>3 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="452" pm="."><plain>5.87 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="453" pm="."><plain>0 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="454" pm="."><plain>ABA; ABRE; EMBP-1; seed </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="455" pm="."><plain>ACGTGKC </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="456" pm="."><plain>ACGTABREMOTIFA2OSEM </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="457" pm="."><plain>30 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="458" pm="."><plain>5.17 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="459" pm="."><plain>0 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="460" pm="."><plain>ABA; ABRE; motif A; DRE </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="461" pm="."><plain>MCACGTGGC </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="462" pm="."><plain>GBOXLERBCS </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="463" pm="."><plain>9 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="464" pm="."><plain>5.17 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="465" pm="."><plain>0 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="466" pm="."><plain>G box; rbcS; tomato; G-box; leaf; shoot </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="467" pm="."><plain>ATTAAT </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="468" pm="."><plain>Box 4 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="469" pm="."><plain>664 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="470" pm="."><plain>4.7 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="471" pm="."><plain>0.000001 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="472" pm="."><plain>pal-CMA1;light responsiveness </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="473" pm="."><plain>TCCACGTGGC </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="474" pm="."><plain>LREBOXIIPCCHS1 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="475" pm="."><plain>3 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="476" pm="."><plain>4.69 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="477" pm="."><plain>0.000001 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="478" pm="."><plain>Chalcone synthase; CHS; light; Box II; LRE; leaf; shoot </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="479" pm="."><plain>GTATGATGG </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="480" pm="."><plain>SORLIP4AT </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="481" pm="."><plain>4 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="482" pm="."><plain>4.63 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="483" pm="."><plain>0.000002 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="484" pm="."><plain>phyA; phytochrome; light </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="485" pm="."><plain>YACGTGGC </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="486" pm="."><plain>ABREATCONSENSUS </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="487" pm="."><plain>11 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="488" pm="."><plain>4.38 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="489" pm="."><plain>0.000006 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="490" pm="."><plain>ABA; ABF; bZIP factors </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="491" pm="."><plain>ACGTGGC </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="492" pm="."><plain>BOXIIPCCHS </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="493" pm="."><plain>15 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="494" pm="."><plain>4.35 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="495" pm="."><plain>0.000007 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="496" pm="."><plain>Box II; Box 2; CHS; chs; light regulation </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="497" pm="."><plain>CACGTGGC </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="498" pm="."><plain>EMBP1TAEM </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="499" pm="."><plain>9 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="500" pm="."><plain>4.24 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="501" pm="."><plain>0.000011 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="502" pm="."><plain>EMBP-1; Em; ABA; ABF; ABRE; bZIP; seed </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="503" pm="."><plain>TGTATATAT </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="504" pm="."><plain>SORLREP3AT </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="505" pm="."><plain>43 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="506" pm="."><plain>4.13 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="507" pm="."><plain>0.000018 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="508" pm="."><plain>phyA; phytochrome; light </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="509" pm="."><plain>CCNNNNNNNNNNNNCCACG </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="510" pm="."><plain>UPRMOTIFIIAT </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="511" pm="."><plain>8 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="512" pm="."><plain>3.96 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="513" pm="."><plain>0.000037 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="514" pm="."><plain>UPR; unfolded protein response </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="515" pm="."><plain>TCCACGTGTC </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="516" pm="."><plain>SGBFGMGMAUX28 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="517" pm="."><plain>2 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="518" pm="."><plain>3.85 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="519" pm="."><plain>0.000058 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="520" pm="."><plain>Aux28; G box; auxin; bZIP; SGBF-1; SGBF-2 </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="521" pm="."><plain>AGATATGATAAAA </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="522" pm="."><plain>IBOXLSCMCUCUMISIN </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="523" pm="."><plain>1 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="524" pm="."><plain>3.79 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="525" pm="."><plain>0.000075 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="526" pm="."><plain>Cucumisin; fruit </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="527" pm="."><plain>ACGTGGCA </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="528" pm="."><plain>LRENPCABE </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="529" pm="."><plain>8 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="530" pm="."><plain>3.68 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="531" pm="."><plain>0.000117 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="532" pm="."><plain>CAB; cab; cab-E; CABE; light; leaf; shoot </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="533" pm="."><plain>CACGTGG </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="534" pm="."><plain>IRO2OS </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="535" pm="."><plain>16 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="536" pm="."><plain>3.55 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="537" pm="."><plain>0.00019 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="538" pm="."><plain>root; shoot; Fe; iron </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="539" pm="."><plain>CCACGTGG </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="540" pm="."><plain>ABREZMRAB28 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="541" pm="."><plain>8 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="542" pm="."><plain>3.54 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="543" pm="."><plain>0.000201 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="544" pm="."><plain>Freezing tolerance; seed; shoot; CBF2 </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="545" pm="."><plain>ACGTGTC </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="546" pm="."><plain>GADOWNAT </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="547" pm="."><plain>15 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="548" pm="."><plain>3.35 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="549" pm="."><plain>0.000404 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="550" pm="."><plain>Ga; seed; germination </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="551" pm="."><plain>GCCACGTGGC </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="552" pm="."><plain>ACGTROOT1 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="553" pm="."><plain>2 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="554" pm="."><plain>3.12 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="555" pm="."><plain>0.000898 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="556" pm="."><plain>Root; ACGT; G box; G-box; ABRE motif; bZIP binding enhancement </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="557" pm="."><plain>ACGTCA </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="558" pm="."><plain>HEXMOTIFTAH3H4 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="559" pm="."><plain>33 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="560" pm="."><plain>2.83 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="561" pm="."><plain>0.002325 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="562" pm="."><plain>Leucine zipper motif; meristem; OBF1; bZIP; lip19; LIP1 </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="563" pm="."><plain>TGACGT </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="564" pm="."><plain>TGACGTVMAMY </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="565" pm="."><plain>33 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="566" pm="."><plain>2.83 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="567" pm="."><plain>0.002325 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="568" pm="."><plain>Alpha-Amylase; cotyledon; seed germination; seed </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="569" pm="."><plain>CACGTG </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="570" pm="."><plain>CACGTGMOTIF </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="571" pm="."><plain>44 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="572" pm="."><plain>2.83 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="573" pm="."><plain>0.002359 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="574" pm="."><plain>G box; G-box; rbcs; chs; ACGT element; adh; Bz-2; R-motif; STR;GT-1; GBF; elicitor; bZIP; napin; strictosidine synthase; cell </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="575" pm="."><plain>TGTAATAATATATTTATATT </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="576" pm="."><plain>Unnamed__5 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="577" pm="."><plain>5 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="578" pm="."><plain>2.77 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="579" pm="."><plain>0.002822 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="580" pm="."><plain>SEF1 factor binding site;seeds </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="581" pm="."><plain>AATTATTTTTTATT </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="582" pm="."><plain>AT1-motif </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="583" pm="."><plain>4 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="584" pm="."><plain>2.5 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="585" pm="."><plain>0.006162 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="586" pm="."><plain>Light responsive element </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="587" pm="."><plain>CCACGTGGCC </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="588" pm="."><plain>CPRFPCCHS </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="589" pm="."><plain>1 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="590" pm="."><plain>2.48 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="591" pm="."><plain>0.006584 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="592" pm="."><plain>BoxII; CPRF; bZIP; leaf; shoot; CHS; ACE; light; bZIP </plain></SENT>
+</text></td></tr><tr><td align="left" valign="bottom"><text><SENT sid="593" pm="."><plain>CCWWWWWWWWGG </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="594" pm="."><plain>CARGNCAT </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="595" pm="."><plain>16 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="596" pm="."><plain>2.45 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="597" pm="."><plain>0.007059 </plain></SENT>
+</text></td><td align="left" valign="bottom"><text><SENT sid="598" pm="."><plain>MADS; AGAMOUS; AGL; embryo </plain></SENT>
+</text></td></tr><tr><td align="left"><text><SENT sid="599" pm="."><plain>RYACGTGGYR </plain></SENT>
+</text></td><td align="left"><text><SENT sid="600" pm="."><plain>ABREATRD22 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="601" pm="."><plain>5 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="602" pm="."><plain>2.34 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="603" pm="."><plain>0.009586 </plain></SENT>
+</text></td><td align="left"><text><SENT sid="604" pm="."><plain>ABA; responsive element; ABRE; rd22; RD22; dehydration; shoot </plain></SENT>
+</text></td></tr></tbody></table><table-wrap-foot><p><text><SENT sid="605" pm="."><plain>Note: ZFM (Z-score for motif) and P-value are described in ‘Cis-element significant analysis’ section(job ID:job2014Mar4201558, produced by inputting genes appearing in Table 4). </plain></SENT>
+</text></p></table-wrap-foot></table-wrap></SecTag></sec><sec><title><text><SENT sid="606" pm="."><plain>More function modules </plain></SENT>
+</text></title><p><text><SENT sid="607" pm="."><plain>Home page: this describes the whole database project and other soybean resources. </plain></SENT>
+</text></p><p><text><SENT sid="608" pm="."><plain>General search page: SFGD supports fuzzy queries by one or a list of gene names, flcDNA IDs, probe set IDs or function keywords. </plain></SENT>
+<SENT sid="609" pm="."><plain>Users can convert gene names to corresponding probe set names by input of a list of gene names, and vice-versa. </plain></SENT>
+</text></p><p><text><SENT sid="610" pm="."><plain>BLAST search: a BLAST search toolbox is provided and users can do BLAST searches against soybean cDNA, flcDNA, probe set consensus and protein sequence. </plain></SENT>
+</text></p><p><text><SENT sid="611" pm="."><plain>Download: users can download all coding genes’ sequences and their annotations. </plain></SENT>
+<SENT sid="612" pm="."><plain>Full-length cDNA sequences, consensus sequences and annotations appear in the database. </plain></SENT>
+</text></p><p><text><SENT sid="613" pm="."><plain>The SFGD was constructed using Hypertext Markup Language (HTML), perl CGI (<ext-link ext-link-type="uri" xlink:href="http://www.perl.com">http://www.perl.com</ext-link>) and the MySQL 4.0 (<ext-link ext-link-type="uri" xlink:href="http://www.mysql.com">http://www.mysql.com</ext-link>) database engine. </plain></SENT>
+<SENT sid="614" pm="."><plain>Figure 2 shows an overview of our websites. </plain></SENT>
+<SENT sid="615" pm="."><plain>The whole SFGD database is run on a server using the LINUX operating system. </plain></SENT>
+</text></p><SecTag type="FIG"><fig id="F2" position="float"><label>Figure 2</label><caption><p><text><SENT sid="616" pm="."><plain>Structure of the SFGD database. Rectangles with rounded corners are pages in the database, and the directed lines show linkage for pages. </plain></SENT>
+</text></p></caption><graphic xlink:href="1471-2164-15-271-2"/></fig></SecTag></sec></sec></SecTag><SecTag type="DISCUSS"><sec sec-type="discussion"><title><text><SENT sid="617" pm="."><plain>Discussion </plain></SENT>
+</text></title><p><text><SENT sid="618" pm="."><plain>There is no doubt that a novel and comprehensive method of integration and analysis for soybean omics data will provide valuable insights and help to improve soybean. </plain></SENT>
+<SENT sid="619" pm="."><plain>However, a powerful mining tool for omics data is limited. </plain></SENT>
+<SENT sid="620" pm="."><plain>To fill the gap of a platform for acyl-lipid comprehensive analysis and information for high-throughput omics data, we developed SFGD–a comprehensive and integrated database for mining functional information from soybean transcriptome data and identifying acyl-lipid metabolism pathways. </plain></SENT>
+<SENT sid="621" pm="."><plain>This database include a variety of information, for instance, microarray expression data with 255 samples from 14 experiments, 30 mRNA-seq samples belonging to four experiments, other genomic data including coding and non-coding genes (miRNA), as well as a set of SNPs from 17 wild and 14 cultivated soybean sub-species [52]. </plain></SENT>
+<SENT sid="622" pm="."><plain>By integration and analysis of these data, we provide a one-stop-shop resource for acyl-lipid researchers, we also integrated the genome and transcriptome information into Gbrowse, which can provide the tissue and time points for specific expression information. </plain></SENT>
+<SENT sid="623" pm="."><plain>We then built some function toolboxes: e.g. gene co-expression network, cis-element significance analysis tool, expression pattern search module and some other functions. </plain></SENT>
+</text></p><p><text><SENT sid="624" pm="."><plain>As an example of TAG biosynthesis in the previous description (Figure 1A), Gbrowse provides gene expression information on various tissue types and stress conditions. </plain></SENT>
+<SENT sid="625" pm="."><plain>From these data, we can infer the main place, time or possible function for a specific enzyme (Figure 1B). </plain></SENT>
+</text></p><p><text><SENT sid="626" pm="."><plain>The biosynthesis of TAG occurs at the endoplasmic reticulum and probably also involves reactions at the oil body [79]. </plain></SENT>
+<SENT sid="627" pm="."><plain>The classical pathway of TAG biosynthesis in seeds is the acyl-CoA dependent Kennedy pathway (or the glycerol phosphate pathway)–this pathway consists of sequential acylation and subsequent dephosphorylation of glycerol-3-phosphate (G3P). </plain></SENT>
+<SENT sid="628" pm="."><plain>The first acylation of G3P is catalyzed by glycerol-3-phosphate acyltransferase (GPAT; EC 2.3.1.15). </plain></SENT>
+<SENT sid="629" pm="."><plain>GPAT was first cloned from Saccharomyces cerevisiae; and a member of the Arabidopsis GPAT gene family displayed GPAT activity when expressed in yeast. </plain></SENT>
+<SENT sid="630" pm="."><plain>However, mutations of GPAT gene in Arabidopsis do not appear to affect seed oil level, but play a role in production of cutin and suberin [80-82]. </plain></SENT>
+<SENT sid="631" pm="."><plain>In our search through the transcriptome profiling data, we found few GPAT family genes were highly expressed in seed at the development stage. </plain></SENT>
+<SENT sid="632" pm="."><plain>Of course, this does not suggest that there is no relationship between GPAT family and seed oil level. </plain></SENT>
+<SENT sid="633" pm="."><plain>Genes encoding GPAT9 are most likely to be important in soybean oil synthesis and have significantly higher expression in seeds at different stages. </plain></SENT>
+<SENT sid="634" pm="."><plain>Similar results were also reported in castor [83]. </plain></SENT>
+</text></p><p><text><SENT sid="635" pm="."><plain>The second acylation is catalyzed by 1-acylglycerol-3-phosphate acyltransferase (LPAAT; EC 2.3.1.51). </plain></SENT>
+<SENT sid="636" pm="."><plain>A number of LPAAT genes are highly expressed in the dry whole seed, suggesting involvement in the storage rather than the synthesis stage of oil metabolism. </plain></SENT>
+</text></p><p><text><SENT sid="637" pm="."><plain>Phospatidate phosphatase (PP; EC 3.1.3.4) catalyzes the dephosphorylation of phosphatidic acid to form sn-1,2-diacylglycerol [84]. </plain></SENT>
+<SENT sid="638" pm="."><plain>A variety of PP types and isoforms exist in plants but their exact role in TAG biosynthesis is unclear. </plain></SENT>
+<SENT sid="639" pm="."><plain>In our analysis results, we found that some PP genes were highly expressed in dry seeds–e.g. PHA1 (Glyma19g35930), PHA2 (Glyma 17 g36130, Glyma06g04230) and LCBCP (Glyma19g39180)–these genes will be candidates for further study. </plain></SENT>
+</text></p><p><text><SENT sid="640" pm="."><plain>The final acylation reaction, converting diacylglycerol (DAG) to TAG is catalyzed by enzymes. </plain></SENT>
+<SENT sid="641" pm="."><plain>In Arabidopsis, DGAT1 has been shown to play a role in seed oil accumulation [85-87], and has also been reported as a key enzyme determining oil content and composition in maize [88]. </plain></SENT>
+<SENT sid="642" pm="."><plain>In our database, most DGAT genes were highly expressed in seeds and especially dry whole seeds. </plain></SENT>
+<SENT sid="643" pm="."><plain>Therefore, we predict that DGAT is a crucial enzyme for oil production of soybean–a suggestion also supported by previous study [7]. </plain></SENT>
+</text></p><p><text><SENT sid="644" pm="."><plain>In acyl-CoA independent TAG synthesis pathway, lysophosphatidylcholine acyltransferase (LPCAT; EC 2.3.1.23) activity controls the regeneration of phosphocholine (PC) from lyso-PC. </plain></SENT>
+<SENT sid="645" pm="."><plain>In our dataset, two members are highly expressed in floral buds and early-maturation seed, suggesting that the enzyme plays a role in early stages of oil synthesis but not during the storage phase. </plain></SENT>
+</text></p><p><text><SENT sid="646" pm="."><plain>DAG can also be acylated using PC as the acyl donor by a phospholipid:diacylglycerol acyltransferase (PDAT; EC 2.3.1.43). </plain></SENT>
+<SENT sid="647" pm="."><plain>PDAT activity has been discovered in yeast and plants’ developing oil seeds [84]. </plain></SENT>
+<SENT sid="648" pm="."><plain>PDAT1 and DGAT1 have overlapping functions in TAG biosynthesis in developing seeds, and the absence of DGAT1 is evidently compensated by PDAT1. </plain></SENT>
+<SENT sid="649" pm="."><plain>However, the degree that each enzyme contributes to TAG biosynthesis in developing seeds is unknown. </plain></SENT>
+<SENT sid="650" pm="."><plain>In our dataset, some PDAT genes are highly expressed in early maturation-stage seed, and others are highly expressed in seedlings and leaves, suggesting that in other tissues, PDAT-acylated TAG synthesis plays an important role. </plain></SENT>
+</text></p><p><text><SENT sid="651" pm="."><plain>DAG can also be converted to phosphatidylcholine (PtdC) via the action of phosphatidylcholine:diacylglycerol cholinephosphotransferase (PDCT) or sn-1,2-diacylglycerol:cholinephosphotransferase (CPT). </plain></SENT>
+<SENT sid="652" pm="."><plain>It has been reported in soybean seeds that about 60% of newly synthesized acyl chains directly incorporate into the sn-2 position of PC through an acyl-editing mechanism rather than a pathway for sequential acylation of G3P [89]. </plain></SENT>
+<SENT sid="653" pm="."><plain>PDCT has a clear seed-specific expression, but DAG-CPT does not have a clear tissue-expression–this does not immediately suggest a major role for DAG-CPT in tri-ricinolein synthesis as reported in castor [83]. </plain></SENT>
+</text></p><p><text><SENT sid="654" pm="."><plain>In our gene co-expression regulation network, we use PCC and MR [18] values to mark the relationship between each gene (probe set). </plain></SENT>
+<SENT sid="655" pm="."><plain>Many transcription factors are involved in a complex network to regulate TAG production [90,91]. </plain></SENT>
+<SENT sid="656" pm="."><plain>The mutants for WRINKLED1 produce wrinkled seeds with severe depletion of TAGs [77,78], which can also be triggered by other transcription factors, such as LEC2, FUS3 and ABI3 [92,93]–with our co-expression network tool, their co-expression interaction can also be found. </plain></SENT>
+<SENT sid="657" pm="."><plain>In addition, some other transcription factors were detected in this co-expression network (Table 4), such as AREB3, NF-YB6 and MYB65, suggesting that they may participate in the regulated network for TAG synthesis. </plain></SENT>
+<SENT sid="658" pm="."><plain>We also compared our results with the soybean gene network in PlaNet [27] (Additional file 6: Table S4). </plain></SENT>
+<SENT sid="659" pm="."><plain>The Glyma15g34770 network in PlaNet lists 37 genes co-expressed with WRI1, and there are 33 genes in our network, and seven of them overlap with results from PlaNet, and form the ‘band 7 family’, ‘LACS9’, ‘DREB2A’, ‘AREB3’, ‘CYP76G1’ and so on. </plain></SENT>
+<SENT sid="660" pm="."><plain>There are some differences between these two web sites, mainly due to the diversity of microarray expression experiments used in these two web services: e.g. PlaNet’s microarray expression experiments are all tissue-specific treatments (Additional file 7: Table S5, these treatments from the top three microarray expression experiments appear in Additional file 3: Table S1), and we included some other experiments, such as time series experiments, gene mutant experiments and plant responses to biotic and abiotic stresses. </plain></SENT>
+</text></p><p><text><SENT sid="661" pm="."><plain>Table 5 shows the significance analysis results of motifs for all genes that appeared in Table 4, and some keywords have a close relationship with seed development, such as motif ‘ABREBNNAPA’, which has been reported as conserved in many storage-protein gene promoters of seeds [94-97] and motif ‘ABRETAEM’ play a role in seed gene expression and response to ABA [98,99]. </plain></SENT>
+<SENT sid="662" pm="."><plain>This information gives some indication of interaction between motif and function. </plain></SENT>
+</text></p><p><text><SENT sid="663" pm="."><plain>The advantages of microarray expression experiments are the maturation of this technology, high-throughput and many types of analysis software. </plain></SENT>
+<SENT sid="664" pm="."><plain>There are some disadvantages of microarray experiments in that they do not cover all soybean genes, microarrays cannot identify new genes and there may be errors when expression levels are close to background signals. </plain></SENT>
+<SENT sid="665" pm="."><plain>Thus the next deep sequencing experiments may play important roles in constructing the gene network. </plain></SENT>
+</text></p></sec></SecTag><SecTag type="CONCL"><sec sec-type="conclusions"><title><text><SENT sid="666" pm="."><plain>Conclusions </plain></SENT>
+</text></title><p><text><SENT sid="667" pm="."><plain>Currently we have integrated soybean genome data, full-length cDNA, microarray expression experiments, deep sequencing data, miRNA precursor and SNP information into our database (Table 2). </plain></SENT>
+<SENT sid="668" pm="."><plain>We have also developed a soybean gene co-expression regulatory network web service, a graphical display of acyl-lipid metabolic pathways, a cis-element significance analysis toolbox, an expression pattern for positive/negative search function modules and other general tools in the database. </plain></SENT>
+<SENT sid="669" pm="."><plain>We hope this will improve the accuracy and robustness of soybean functional genomics analysis, and further hasten understanding of the gene regulatory networks for effective crop improvement. </plain></SENT>
+<SENT sid="670" pm="."><plain>SFGD is freely available at <ext-link ext-link-type="uri" xlink:href="http://bioinformatics.cau.edu.cn/SFGD/">http://bioinformatics.cau.edu.cn/SFGD/</ext-link>, and it will be updated every 3-6 months with the development of soybean research; however, the update must be performed by the administrator. </plain></SENT>
+</text></p></sec></SecTag><sec><title><text><SENT sid="671" pm="."><plain>Availability and requirements </plain></SENT>
+</text></title><p><text><SENT sid="672" pm="."><plain>The database is available at <ext-link ext-link-type="uri" xlink:href="http://bioinformatics.cau.edu.cn/SFGD/">http://bioinformatics.cau.edu.cn/SFGD/</ext-link> and is compatible with most modern web browsers. </plain></SENT>
+<SENT sid="673" pm="."><plain>The user’s browser must have JavaScript enabled to show query examples and Cookie and Flash to show the expression curves. </plain></SENT>
+</text></p></sec><SecTag type="COMP_INT"><sec><title><text><SENT sid="674" pm="."><plain>Competing interests </plain></SENT>
+</text></title><p><text><SENT sid="675" pm="."><plain>The authors declare that they have no competing interest. </plain></SENT>
+</text></p></sec></SecTag><sec><title><text><SENT sid="676" pm="."><plain>Authors’ contributions </plain></SENT>
+</text></title><p><text><SENT sid="677" pm="."><plain>ZZ performed data collection and annotation, and the database and web server construction; JY collected and processed RNA-seq data; and JY and JW constructed the soybean acyl-lipid metabolic pathways. </plain></SENT>
+<SENT sid="678" pm="."><plain>ZZ and JY compiled the main parts of the manuscript. </plain></SENT>
+<SENT sid="679" pm="."><plain>YL provided the system support. </plain></SENT>
+<SENT sid="680" pm="."><plain>ZS and WX supervised the project. </plain></SENT>
+<SENT sid="681" pm="."><plain>All authors read and approved the final manuscript. </plain></SENT>
+</text></p></sec><SecTag type="SUPPL"><sec sec-type="supplementary-material"><title><text><SENT sid="682" pm="."><plain>Supplementary Material </plain></SENT>
+</text></title><supplementary-material content-type="local-data" id="S1"><caption><title><text><SENT sid="683" pm="."><plain>Additional file 1: Table S3 </plain></SENT>
+</text></title><p><text><SENT sid="684" pm="."><plain>Motifs in all soybean gene promoter sequences. </plain></SENT>
+</text></p></caption><media xlink:href="1471-2164-15-271-S1.XLS"><caption><p><text><SENT sid="685" pm="."><plain>Click here for file </plain></SENT>
+</text></p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="S2"><caption><title><text><SENT sid="686" pm="."><plain>Additional file 2: Figure S2 </plain></SENT>
+</text></title><p><text><SENT sid="687" pm="."><plain>The probe sets with positive or negative correlation with ‘GmaAffx.88235.1.S1_at’ in the experiment ‘GSE7511’. </plain></SENT>
+<SENT sid="688" pm="."><plain>This figure includes four sub-graphs, and each shows 60 probe sets most positively or negatively correlated with probe set ‘GmaAffx.88235.1.S1_at’ within the treatment ‘GSE7511 (Expression data from soybean seed compartments with embryos at the heart stage)’. </plain></SENT>
+<SENT sid="689" pm="."><plain>The left two sub-graphs were generated using expression values, and the right two sub-graphs were produced using ZFE (Z-score for expression), the upper two sub-graphs show probe sets positively correlated with ‘GmaAffx.88235.1.S1_at’, and the lower two sub-graphs shows probe sets negatively correlated with ‘GmaAffx.88235.1.S1_at’. </plain></SENT>
+</text></p></caption><media xlink:href="1471-2164-15-271-S2.DOC"><caption><p><text><SENT sid="690" pm="."><plain>Click here for file </plain></SENT>
+</text></p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="S3"><caption><title><text><SENT sid="691" pm="."><plain>Additional file 3: Table S1 </plain></SENT>
+</text></title><p><text><SENT sid="692" pm="."><plain>Microarray expression experiments and deep-seq experiments collected by SFGD. </plain></SENT>
+</text></p></caption><media xlink:href="1471-2164-15-271-S3.XLS"><caption><p><text><SENT sid="693" pm="."><plain>Click here for file </plain></SENT>
+</text></p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="S4"><caption><title><text><SENT sid="694" pm="."><plain>Additional file 4: Figure S1 </plain></SENT>
+</text></title><p><text><SENT sid="695" pm="."><plain>Snapshot of Gbrowse in SFGD database for WRI1 (Glyma15g34770). </plain></SENT>
+<SENT sid="696" pm="."><plain>This is a snapshot of Gbrowse (genome viewer) in our database, here we use WRI1 (Glyma15g34770), a lipid synthesis related gene as a sample, and it also shows one microarray expression experiment and 10 deep sequences as evidence of this gene. </plain></SENT>
+</text></p></caption><media xlink:href="1471-2164-15-271-S4.DOC"><caption><p><text><SENT sid="697" pm="."><plain>Click here for file </plain></SENT>
+</text></p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="S5"><caption><title><text><SENT sid="698" pm="."><plain>Additional file 5: Table S2 </plain></SENT>
+</text></title><p><text><SENT sid="699" pm="."><plain>Top 10 genes with most edges in our comprehensive soybean gene network. </plain></SENT>
+</text></p></caption><media xlink:href="1471-2164-15-271-S5.XLS"><caption><p><text><SENT sid="700" pm="."><plain>Click here for file </plain></SENT>
+</text></p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="S6"><caption><title><text><SENT sid="701" pm="."><plain>Additional file 6: Table S4 </plain></SENT>
+</text></title><p><text><SENT sid="702" pm="."><plain>Network comparison between SFGD and PlaNet. </plain></SENT>
+</text></p></caption><media xlink:href="1471-2164-15-271-S6.XLS"><caption><p><text><SENT sid="703" pm="."><plain>Click here for file </plain></SENT>
+</text></p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="S7"><caption><title><text><SENT sid="704" pm="."><plain>Additional file 7: Table S5 </plain></SENT>
+</text></title><p><text><SENT sid="705" pm="."><plain>Experiments selected in PlaNet. </plain></SENT>
+</text></p></caption><media xlink:href="1471-2164-15-271-S7.XLS"><caption><p><text><SENT sid="706" pm="."><plain>Click here for file </plain></SENT>
+</text></p></caption></media></supplementary-material></sec></SecTag></body><back><SecTag type="ACK_FUND"><sec><title>Acknowledgements</title><p><text4fund><text><SENT sid="707" pm="."><plain>This research was supported by grants from the Ministry of Science and Technology of China (31371291 and 2012CB215301) and the Ministry of Education of China (NCET-09-0735). </plain></SENT>
+</text></text4fund></p></sec></SecTag><SecTag type="REF"><ref-list><ref id="B1"><text><SENT sid="708" pm="."><plain>SinghRJHymowitzTSoybean genetic resources and crop improvementGenome199915460561610.1139/g99-039 </plain></SENT>
+</text></ref><ref id="B2"><text><SENT sid="709" pm="."><plain>ClementeTECahoonEBSoybean oil: genetic approaches for modification of functionality and total contentPlant Physiol20091531030104010.1104/pp.109.146282<?supplied-pmid 19783644?>19783644 </plain></SENT>
+</text></ref><ref id="B3"><text><SENT sid="710" pm="."><plain>EskandariMCoberERRajcanIGenetic control of soybean seed oil: II: QTL and genes that increase oil concentration without decreasing protein or with increased seed yieldTheor Appl Genet20131561677168710.1007/s00122-013-2083-z<?supplied-pmid 23536049?>23536049 </plain></SENT>
+</text></ref><ref id="B4"><text><SENT sid="711" pm="."><plain>LiRHatanakaTYuKWuYFukushigeHHildebrandDSoybean oil biosynthesis: role of diacylglycerol acyltransferasesFunct Integr Genomics20131519911310.1007/s10142-012-0306-z<?supplied-pmid 23322364?>23322364 </plain></SENT>
+</text></ref><ref id="B5"><text><SENT sid="712" pm="."><plain>HwangEYSongQJiaGSpechtJEHytenDLCostaJCreganPBA genome-wide association study of seed protein and oil content in soybeanBMC Genomics2014151110.1186/1471-2164-15-1<?supplied-pmid 24382143?>24382143 </plain></SENT>
+</text></ref><ref id="B6"><text><SENT sid="713" pm="."><plain>SchmutzJCannonSBSchlueterJMaJMitrosTNelsonWHytenDLSongQThelenJJChengJXuDHellstenUMayGDYuYSakuraiTUmezawaTBhattacharyyaMKSandhuDValliyodanBLindquistEPetoMGrantDShuSGoodsteinDBarryKFutrell-GriggsMAbernathyBDuJTianZZhuLGenome sequence of the palaeopolyploid soybeanNature201015727817818310.1038/nature08670<?supplied-pmid 20075913?>20075913 </plain></SENT>
+</text></ref><ref id="B7"><text><SENT sid="714" pm="."><plain>LardizabalKEffertzRLeveringCMaiJPedrosoMCJuryTAasenEGruysKBennettKExpression of umbelopsis ramanniana DGAT2A in seed increases oil in soybeanPlant Physiol2008151899610.1104/pp.108.123042<?supplied-pmid 18633120?>18633120 </plain></SENT>
+</text></ref><ref id="B8"><text><SENT sid="715" pm="."><plain>LiRYuKHildebrandDFDGAT1, DGAT2 and PDAT expression in seeds and other tissues of epoxy and hydroxy fatty acid accumulating plantsLipids201015214515710.1007/s11745-010-3385-4<?supplied-pmid 20101470?>20101470 </plain></SENT>
+</text></ref><ref id="B9"><text><SENT sid="716" pm="."><plain>LiRYuKHatanakaTHildebrandDFVernonia DGATs increase accumulation of epoxy fatty acids in oilPlant Biotechnol J201015218419510.1111/j.1467-7652.2009.00476.x<?supplied-pmid 20078841?>20078841 </plain></SENT>
+</text></ref><ref id="B10"><text><SENT sid="717" pm="."><plain>PhamATLeeJDShannonJGBilyeuKDMutant alleles of FAD2-1A and FAD2-1B combine to produce soybeans with the high oleic acid seed oil traitBMC Plant Biol20101519510.1186/1471-2229-10-195<?supplied-pmid 20828382?>20828382 </plain></SENT>
+</text></ref><ref id="B11"><text><SENT sid="718" pm="."><plain>SongQXLiQTLiuYFZhangFXMaBZhangWKManWQDuWGWangGDChenSYZhangJSSoybean GmbZIP123 gene enhances lipid content in the seeds of transgenic Arabidopsis plantsJ Exp Bot2013154329434110.1093/jxb/ert238<?supplied-pmid 23963672?>23963672 </plain></SENT>
+</text></ref><ref id="B12"><text><SENT sid="719" pm="."><plain>WangHWZhangBHaoYJHuangJTianAGLiaoYZhangJSChenSYThe soybean Dof-type transcription factor genes, GmDof4 and GmDof11, enhance lipid content in the seeds of transgenic Arabidopsis plantsPlant J200715471672910.1111/j.1365-313X.2007.03268.x<?supplied-pmid 17877700?>17877700 </plain></SENT>
+</text></ref><ref id="B13"><text><SENT sid="720" pm="."><plain>MaSGongQBohnertHJAn Arabidopsis gene network based on the graphical Gaussian modelGenome Res200715111614162510.1101/gr.6911207<?supplied-pmid 17921353?>17921353 </plain></SENT>
+</text></ref><ref id="B14"><text><SENT sid="721" pm="."><plain>MargolinAAWangKLimWKKustagiMNemenmanICalifanoAReverse engineering cellular networksNat Protocols200615266267110.1038/nprot.2006.106 </plain></SENT>
+</text></ref><ref id="B15"><text><SENT sid="722" pm="."><plain>AtiasOChorBChamovitzDALarge-scale analysis of Arabidopsis transcription reveals a basal co-regulation networkBMC Syst Biol2009158610.1186/1752-0509-3-86<?supplied-pmid 19728874?>19728874 </plain></SENT>
+</text></ref><ref id="B16"><text><SENT sid="723" pm="."><plain>Pe'erDBayesian network analysis of signaling networks: a primerSci STKE200515281l4 </plain></SENT>
+</text></ref><ref id="B17"><text><SENT sid="724" pm="."><plain>EdgarRDomrachevMLashAEGene expression omnibus: NCBI gene expression and hybridization array data repositoryNucleic Acids Res200215120721010.1093/nar/30.1.207<?supplied-pmid 11752295?>11752295 </plain></SENT>
+</text></ref><ref id="B18"><text><SENT sid="725" pm="."><plain>ObayashiTKinoshitaKRank of correlation coefficient as a comparable measure for biological significance of gene coexpressionDNA Res200915524926010.1093/dnares/dsp016<?supplied-pmid 19767600?>19767600 </plain></SENT>
+</text></ref><ref id="B19"><text><SENT sid="726" pm="."><plain>ObayashiTKinoshitaKNakaiKShibaokaMHayashiSSaekiMShibataDSaitoKOhtaHATTED-II: a database of co-expressed genes and cis elements for identifying co-regulated gene groups in ArabidopsisNucleic Acids Res200715Database issueD863D869<?supplied-pmid 17130150?>17130150 </plain></SENT>
+</text></ref><ref id="B20"><text><SENT sid="727" pm="."><plain>ObayashiTHayashiSSaekiMOhtaHKinoshitaKATTED-II provides coexpressed gene networks for ArabidopsisNucleic Acids Res200915Database issueD987D991<?supplied-pmid 18953027?>18953027 </plain></SENT>
+</text></ref><ref id="B21"><text><SENT sid="728" pm="."><plain>ObayashiTNishidaKKasaharaKKinoshitaKATTED-II updates: condition-specific gene coexpression to extend coexpression analyses and applications to a broad range of flowering plantsPlant Cell Physiol201115221321910.1093/pcp/pcq203<?supplied-pmid 21217125?>21217125 </plain></SENT>
+</text></ref><ref id="B22"><text><SENT sid="729" pm="."><plain>GrantDNelsonRTCannonSBShoemakerRCSoyBase, the USDA-ARS soybean genetics and genomics databaseNucleic Acids Res201015Database issueD843D846<?supplied-pmid 20008513?>20008513 </plain></SENT>
+</text></ref><ref id="B23"><text><SENT sid="730" pm="."><plain>ShultzJLKurunamDShopinskiKIqbalMJKaziSZobristKBashirRYaegashiSLavuNAfzalAJYesudasCRKassemMAWuCZhangHBTownCDMeksemKLightfootDAThe Soybean Genome Database (SoyGD): a browser for display of duplicated, polyploid, regions and sequence tagged sites on the integrated physical and genetic maps of Glycine maxNucleic Acids Res200615Database issueD758D765<?supplied-pmid 16381975?>16381975 </plain></SENT>
+</text></ref><ref id="B24"><text><SENT sid="731" pm="."><plain>AlkharoufNWMatthewsBFSGMD: the Soybean Genomics and Microarray DatabaseNucleic acids research200415Database issueD398400<?supplied-pmid 14681442?>14681442 </plain></SENT>
+</text></ref><ref id="B25"><text><SENT sid="732" pm="."><plain>ChengKCStromvikMVSoyXpress: a database for exploring the soybean transcriptomeBMC Genomics20081536810.1186/1471-2164-9-368<?supplied-pmid 18671881?>18671881 </plain></SENT>
+</text></ref><ref id="B26"><text><SENT sid="733" pm="."><plain>JoshiTFitzpatrickMRChenSLiuYZhangHEndacottRZGaudielloECStaceyGNguyenHTXuDSoybean knowledge base (SoyKB): a web resource for integration of soybean translational genomics and molecular breedingNucleic Acids Res2013151D1245D1252<?supplied-pmid 24136998?>24136998 </plain></SENT>
+</text></ref><ref id="B27"><text><SENT sid="734" pm="."><plain>MutwilMKlieSTohgeTGiorgiFMWilkinsOCampbellMMFernieARUsadelBNikoloskiZPerssonSPlaNet: combined sequence and expression comparisons across plant networks derived from seven speciesThe Plant cell201115389591010.1105/tpc.111.083667<?supplied-pmid 21441431?>21441431 </plain></SENT>
+</text></ref><ref id="B28"><text><SENT sid="735" pm="."><plain>Plant Metabolic Network (PMN)[<ext-link ext-link-type="uri" xlink:href="http://www.plantcyc.org/">http://www.plantcyc.org/</ext-link>] </plain></SENT>
+</text></ref><ref id="B29"><text><SENT sid="736" pm="."><plain>UmezawaTSakuraiTTotokiYToyodaASekiMIshiwataAAkiyamaKKurotaniAYoshidaTMochidaKKasugaMTodakaDMaruyamaKNakashimaKEnjuAMizukadoSAhmedSYoshiwaraKHaradaKTsubokuraYHayashiMSatoSAnaiTIshimotoMFunatsukiHTeraishiMOsakiMShinanoTAkashiRSakakiYSequencing and analysis of approximately 40,000 soybean cDNA clones from a full-length-enriched cDNA libraryDNA Res200815633334610.1093/dnares/dsn024<?supplied-pmid 18927222?>18927222 </plain></SENT>
+</text></ref><ref id="B30"><text><SENT sid="737" pm="."><plain>WangZLibaultMJoshiTValliyodanBNguyenHTXuDStaceyGChengJSoyDB: a knowledge database of soybean transcription factorsBMC Plant Biol2010151410.1186/1471-2229-10-14<?supplied-pmid 20082720?>20082720 </plain></SENT>
+</text></ref><ref id="B31"><text><SENT sid="738" pm="."><plain>DuJGrantDTianZNelsonRTZhuLShoemakerRCMaJSoyTEdb: a comprehensive database of transposable elements in the soybean genomeBMC Genomics20101511310.1186/1471-2164-11-113<?supplied-pmid 20163715?>20163715 </plain></SENT>
+</text></ref><ref id="B32"><text><SENT sid="739" pm="."><plain>LiJDaiXLiuTZhaoPXLegumeIP: an integrative database for comparative genomics and transcriptomics of model legumesNucleic Acids Res201115Database issueD1221D1229<?supplied-pmid 22110036?>22110036 </plain></SENT>
+</text></ref><ref id="B33"><text><SENT sid="740" pm="."><plain>Phytozome[<ext-link ext-link-type="uri" xlink:href="http://www.phytozome.net/soybean">http://www.phytozome.net/soybean</ext-link>] </plain></SENT>
+</text></ref><ref id="B34"><text><SENT sid="741" pm="."><plain>Soybean eFP Browser[<ext-link ext-link-type="uri" xlink:href="http://soykb.org/cgi-bin_new/efpWeb.cgi">http://soykb.org/cgi-bin_new/efpWeb.cgi</ext-link>] </plain></SENT>
+</text></ref><ref id="B35"><text><SENT sid="742" pm="."><plain>TavakolanMAlkharoufNWKhanFHNatarajanSSoyProDB: a database for the identification of soybean seed proteinsBioinformation201315316516710.6026/97320630009165<?supplied-pmid 23423175?>23423175 </plain></SENT>
+</text></ref><ref id="B36"><text><SENT sid="743" pm="."><plain>GmGDB[<ext-link ext-link-type="uri" xlink:href="http://www.plantgdb.org/GmGDB/">http://www.plantgdb.org/GmGDB/</ext-link>] </plain></SENT>
+</text></ref><ref id="B37"><text><SENT sid="744" pm="."><plain>SoyPLEX[<ext-link ext-link-type="uri" xlink:href="http://www.plexdb.org/plex.php?database=Soybean">http://www.plexdb.org/plex.php?database=Soybean</ext-link>] </plain></SENT>
+</text></ref><ref id="B38"><text><SENT sid="745" pm="."><plain>DezulianTPalatnikJHusonDWeigelDConservation and divergence of microRNA families in plantsGenome Biol200515P1310.1186/gb-2005-6-11-p13 </plain></SENT>
+</text></ref><ref id="B39"><text><SENT sid="746" pm="."><plain>ZhangBHPanXPWangQLCobbGPAndersonTAIdentification and characterization of new plant microRNAs using EST analysisCell Res200515533636010.1038/sj.cr.7290302<?supplied-pmid 15916721?>15916721 </plain></SENT>
+</text></ref><ref id="B40"><text><SENT sid="747" pm="."><plain>ZhangBPanXCannonCHCobbGPAndersonTAConservation and divergence of plant microRNA genesPlant J200615224325910.1111/j.1365-313X.2006.02697.x<?supplied-pmid 16623887?>16623887 </plain></SENT>
+</text></ref><ref id="B41"><text><SENT sid="748" pm="."><plain>SubramanianSFuYSunkarRBarbazukWBZhuJKYuONovel and nodulation-regulated microRNAs in soybean rootsBMC Genomics20081516010.1186/1471-2164-9-160<?supplied-pmid 18402695?>18402695 </plain></SENT>
+</text></ref><ref id="B42"><text><SENT sid="749" pm="."><plain>ZhangBPanXStellwagEJIdentification of soybean microRNAs and their targetsPlanta200815116118210.1007/s00425-008-0818-x<?supplied-pmid 18815805?>18815805 </plain></SENT>
+</text></ref><ref id="B43"><text><SENT sid="750" pm="."><plain>JagadeeswaranGZhengYLiYFShuklaLIMattsJHoytPMacmilSLWileyGBRoeBAZhangWSunkarRCloning and characterization of small RNAs from Medicago truncatula reveals four novel legume-specific microRNA familiesNew Phytol2009151859810.1111/j.1469-8137.2009.02915.x<?supplied-pmid 19555436?>19555436 </plain></SENT>
+</text></ref><ref id="B44"><text><SENT sid="751" pm="."><plain>WangYLiPCaoXWangXZhangALiXIdentification and expression analysis of miRNAs from nitrogen-fixing soybean nodulesBiochem Biophys Res Commun200915479980310.1016/j.bbrc.2008.11.140<?supplied-pmid 19084500?>19084500 </plain></SENT>
+</text></ref><ref id="B45"><text><SENT sid="752" pm="."><plain>JoshiTYanZLibaultMJeongDHParkSGreenPJSherrierDJFarmerAMayGMeyersBCXuDStaceyGPrediction of novel miRNAs and associated target genes in Glycine maxBMC Bioinformatics201015Suppl 1S1410.1186/1471-2105-11-S1-S1420122185 </plain></SENT>
+</text></ref><ref id="B46"><text><SENT sid="753" pm="."><plain>affymetrix[<ext-link ext-link-type="uri" xlink:href="http://www.affymetrix.com/estore/index.jsp">http://www.affymetrix.com/estore/index.jsp</ext-link>] </plain></SENT>
+</text></ref><ref id="B47"><text><SENT sid="754" pm="."><plain>GotzSGarcia-GomezJMTerolJWilliamsTDNagarajSHNuedaMJRoblesMTalonMDopazoJConesaAHigh-throughput functional annotation and data mining with the Blast2GO suiteNucleic Acids Res200815103420343510.1093/nar/gkn176<?supplied-pmid 18445632?>18445632 </plain></SENT>
+</text></ref><ref id="B48"><text><SENT sid="755" pm="."><plain>LibaultMFarmerABrechenmacherLDrnevichJLangleyRJBilginDDRadwanONeeceDJCloughSJMayGDStaceyGComplete transcriptome of the soybean root hair cell, a single-cell model, and its alteration in response to Bradyrhizobium japonicum infectionPlant Physiol2009152541552<?supplied-pmid 19933387?>19933387 </plain></SENT>
+</text></ref><ref id="B49"><text><SENT sid="756" pm="."><plain>LibaultMFarmerAJoshiTTakahashiKLangleyRJFranklinLDHeJXuDMayGStaceyGAn integrated transcriptome atlas of the crop model Glycine max, and its use in comparative analyses in plantsPlant J20101518699<?supplied-pmid 20408999?>20408999 </plain></SENT>
+</text></ref><ref id="B50"><text><SENT sid="757" pm="."><plain>SchmidtMABarbazukWBSandfordMMayGSongZZhouWNikolauBJHermanEMSilencing of soybean seed storage proteins results in a rebalanced protein composition preserving seed protein content without major collateral changes in the metabolome and transcriptomePlant Physiol201115133034510.1104/pp.111.173807<?supplied-pmid 21398260?>21398260 </plain></SENT>
+</text></ref><ref id="B51"><text><SENT sid="758" pm="."><plain>TutejaJHZabalaGVaralaKHudsonMVodkinLOEndogenous, tissue-specific short interfering RNAs silence the chalcone synthase gene family in glycine max seed coatsPlant cell200915103063307710.1105/tpc.109.069856<?supplied-pmid 19820189?>19820189 </plain></SENT>
+</text></ref><ref id="B52"><text><SENT sid="759" pm="."><plain>LamHMXuXLiuXChenWYangGWongFLLiMWHeWQinNWangBLiJJianMWangJShaoGWangJSunSSZhangGResequencing of 31 wild and cultivated soybean genomes identifies patterns of genetic diversity and selectionNat Genetics201015121053105910.1038/ng.71521076406 </plain></SENT>
+</text></ref><ref id="B53"><text><SENT sid="760" pm="."><plain>Li-BeissonYShorroshBBeissonFAnderssonMXArondelVBatesPDBaudSBirdDDebonoADurrettTPFrankeRBGrahamIAKatayamaKKellyAALarsonTMarkhamJEMiquelMMolinaINishidaIRowlandOSamuelsLSchmidKMWadaHWeltiRXuCZallotROhlroggeJAcyl-lipid metabolismArabidopsis Book201315e0161<?supplied-pmid 23505340?>23505340 </plain></SENT>
+</text></ref><ref id="B54"><text><SENT sid="761" pm="."><plain>HigoKUgawaYIwamotoMKorenagaTPlant cis-acting regulatory DNA elements (PLACE) database: 1999Nucleic Acids Res199915129730010.1093/nar/27.1.297<?supplied-pmid 9847208?>9847208 </plain></SENT>
+</text></ref><ref id="B55"><text><SENT sid="762" pm="."><plain>LescotMDehaisPThijsGMarchalKMoreauYVan de PeerYRouzePRombautsSPlantCARE, a database of plant cis-acting regulatory elements and a portal to tools for in silico analysis of promoter sequencesNucleic Acids Res200215132532710.1093/nar/30.1.325<?supplied-pmid 11752327?>11752327 </plain></SENT>
+</text></ref><ref id="B56"><text><SENT sid="763" pm="."><plain>SteffensNOGaluschkaCSchindlerMBulowLHehlRAthaMap: an online resource for in silico transcription factor binding sites in the Arabidopsis thaliana genomeNucleic Acids Res200415Database issueD368D372<?supplied-pmid 14681436?>14681436 </plain></SENT>
+</text></ref><ref id="B57"><text><SENT sid="764" pm="."><plain>ZhangWZhangTWuYJiangJGenome-wide identification of regulatory DNA elements and protein-binding footprints using signatures of open chromatin in ArabidopsisPlant cell20121572719273110.1105/tpc.112.098061<?supplied-pmid 22773751?>22773751 </plain></SENT>
+</text></ref><ref id="B58"><text><SENT sid="765" pm="."><plain>ZhangZYuJLiDZhangZLiuFZhouXWangTLingYSuZPMRD: plant microRNA databaseNucleic Acids Res201015Database issueD806D813<?supplied-pmid 19808935?>19808935 </plain></SENT>
+</text></ref><ref id="B59"><text><SENT sid="766" pm="."><plain>FASTX-Toolkit[<ext-link ext-link-type="uri" xlink:href="http://hannonlab.cshl.edu/fastx_toolkit/index.html">http://hannonlab.cshl.edu/fastx_toolkit/index.html</ext-link>] </plain></SENT>
+</text></ref><ref id="B60"><text><SENT sid="767" pm="."><plain>LangmeadBTrapnellCPopMSalzbergSLUltrafast and memory-efficient alignment of short DNA sequences to the human genomeGenome Biol2009153R2510.1186/gb-2009-10-3-r25<?supplied-pmid 19261174?>19261174 </plain></SENT>
+</text></ref><ref id="B61"><text><SENT sid="768" pm="."><plain>MortazaviAWilliamsBAMcCueKSchaefferLWoldBMapping and quantifying mammalian transcriptomes by RNA-SeqNat Methods200815762162810.1038/nmeth.1226<?supplied-pmid 18516045?>18516045 </plain></SENT>
+</text></ref><ref id="B62"><text><SENT sid="769" pm="."><plain>INVESTOPEDTA[<ext-link ext-link-type="uri" xlink:href="http://www.investopedia.com">http://www.investopedia.com</ext-link>] </plain></SENT>
+</text></ref><ref id="B63"><text><SENT sid="770" pm="."><plain>LemkinPFThornwallGCWaltonKDHennighausenLThe microarray explorer tool for data mining of cDNA microarrays: application for the mammary glandNucleic Acids Res200015224452445910.1093/nar/28.22.4452<?supplied-pmid 11071932?>11071932 </plain></SENT>
+</text></ref><ref id="B64"><text><SENT sid="771" pm="."><plain>VawterMPBarrettTCheadleCSokolovBPWoodWHIIIDonovanDMWebsterMFreedWJBeckerKGApplication of cDNA microarrays to examine gene expression differences in schizophreniaBrain Res Bull200115564165010.1016/S0361-9230(01)00522-6<?supplied-pmid 11576761?>11576761 </plain></SENT>
+</text></ref><ref id="B65"><text><SENT sid="772" pm="."><plain>VirtanevaKWrightFATannerSMYuanBLemonWJCaligiuriMABloomfieldCDde La ChapelleAKraheRExpression profiling reveals fundamental biological differences in acute myeloid leukemia with isolated trisomy 8 and normal cytogeneticsProc Natl Acad Sci U S A20011531124112910.1073/pnas.98.3.1124<?supplied-pmid 11158605?>11158605 </plain></SENT>
+</text></ref><ref id="B66"><text><SENT sid="773" pm="."><plain>CheadleCVawterMPFreedWJBeckerKGAnalysis of microarray data using Z score transformationJ Mol Diagn2003152738110.1016/S1525-1578(10)60455-2<?supplied-pmid 12707371?>12707371 </plain></SENT>
+</text></ref><ref id="B67"><text><SENT sid="774" pm="."><plain>QuackenbushJMicroarray data normalization and transformationNat Genet200215Suppl496501<?supplied-pmid 12454644?>12454644 </plain></SENT>
+</text></ref><ref id="B68"><text><SENT sid="775" pm="."><plain>NemhauserJLMocklerTCChoryJInterdependency of brassinosteroid and auxin signaling in ArabidopsisPLoS Biol2004159E25810.1371/journal.pbio.0020258<?supplied-pmid 15328536?>15328536 </plain></SENT>
+</text></ref><ref id="B69"><text><SENT sid="776" pm="."><plain>RhoadesMWReinhartBJLimLPBurgeCBBartelBBartelDPPrediction of plant microRNA targetsCell200215451352010.1016/S0092-8674(02)00863-2<?supplied-pmid 12202040?>12202040 </plain></SENT>
+</text></ref><ref id="B70"><text><SENT sid="777" pm="."><plain>ZhuJKReconstituting plant miRNA biogenesisProc Natl Acad Sci U S A200815299851985210.1073/pnas.0805207105<?supplied-pmid 18632572?>18632572 </plain></SENT>
+</text></ref><ref id="B71"><text><SENT sid="778" pm="."><plain>VoinnetOOrigin, biogenesis, and activity of plant microRNAsCell200915466968710.1016/j.cell.2009.01.046<?supplied-pmid 19239888?>19239888 </plain></SENT>
+</text></ref><ref id="B72"><text><SENT sid="779" pm="."><plain>AllenEXieZGustafsonAMCarringtonJCmicroRNA-directed phasing during trans-acting siRNA biogenesis in plantsCell200515220722110.1016/j.cell.2005.04.004<?supplied-pmid 15851028?>15851028 </plain></SENT>
+</text></ref><ref id="B73"><text><SENT sid="780" pm="."><plain>DuZZhouXLingYZhangZSuZagriGO: a GO analysis toolkit for the agricultural communityNucleic Acids Res201015SupplW64W70<?supplied-pmid 20435677?>20435677 </plain></SENT>
+</text></ref><ref id="B74"><text><SENT sid="781" pm="."><plain>BartelDPMicroRNAs: genomics, biogenesis, mechanism, and functionCell200415228129710.1016/S0092-8674(04)00045-5<?supplied-pmid 14744438?>14744438 </plain></SENT>
+</text></ref><ref id="B75"><text><SENT sid="782" pm="."><plain>LopesCTFranzMKaziFDonaldsonSLMorrisQBaderGDCytoscape Web: an interactive web-based network browserBioinformatics201015182347234810.1093/bioinformatics/btq430<?supplied-pmid 20656902?>20656902 </plain></SENT>
+</text></ref><ref id="B76"><text><SENT sid="783" pm="."><plain>DaiXZhaoPXpsRNATarget: a plant small RNA target analysis serverNucleic Acids Res201115Web Server issueW155W159<?supplied-pmid 21622958?>21622958 </plain></SENT>
+</text></ref><ref id="B77"><text><SENT sid="784" pm="."><plain>CernacABenningCWRINKLED1 encodes an AP2/EREB domain protein involved in the control of storage compound biosynthesis in ArabidopsisPlant J200415457558510.1111/j.1365-313X.2004.02235.x<?supplied-pmid 15500472?>15500472 </plain></SENT>
+</text></ref><ref id="B78"><text><SENT sid="785" pm="."><plain>BaudSMendozaMSToAHarscoetELepiniecLDubreucqBWRINKLED1 specifies the regulatory action of LEAFY COTYLEDON2 towards fatty acid metabolism during seed maturation in ArabidopsisPlant J200715582583810.1111/j.1365-313X.2007.03092.x<?supplied-pmid 17419836?>17419836 </plain></SENT>
+</text></ref><ref id="B79"><text><SENT sid="786" pm="."><plain>HuangAHOleosins and oil bodies in seeds and other organsPlant Physiol19961541055106110.1104/pp.110.4.1055<?supplied-pmid 8934621?>8934621 </plain></SENT>
+</text></ref><ref id="B80"><text><SENT sid="787" pm="."><plain>BeissonFLiYBonaventureGPollardMOhlroggeJBThe acyltransferase GPAT5 is required for the synthesis of suberin in seed coat and root of ArabidopsisPlant cell200715135136810.1105/tpc.106.048033<?supplied-pmid 17259262?>17259262 </plain></SENT>
+</text></ref><ref id="B81"><text><SENT sid="788" pm="."><plain>LiYBeissonFKooAJMolinaIPollardMOhlroggeJIdentification of acyltransferases required for cutin biosynthesis and production of cutin with suberin-like monomersProc Natl Acad Sci U S A20071546183391834410.1073/pnas.0706984104<?supplied-pmid 17991776?>17991776 </plain></SENT>
+</text></ref><ref id="B82"><text><SENT sid="789" pm="."><plain>Li-BeissonYPollardMSauveplaneVPinotFOhlroggeJBeissonFNanoridges that characterize the surface morphology of flowers require the synthesis of cutin polyesterProc Natl Acad Sci U S A20091551220082201310.1073/pnas.0909090106<?supplied-pmid 19959665?>19959665 </plain></SENT>
+</text></ref><ref id="B83"><text><SENT sid="790" pm="."><plain>BrownAPKroonJTSwarbreckDFebrerMLarsonTRGrahamIACaccamoMSlabasARTissue-specific whole transcriptome sequencing in castor, directed at understanding triacylglycerol lipid biosynthetic pathwaysPLoS One2012152e3010010.1371/journal.pone.0030100<?supplied-pmid 22319559?>22319559 </plain></SENT>
+</text></ref><ref id="B84"><text><SENT sid="791" pm="."><plain>DahlqvistAStahlULenmanMBanasALeeMSandagerLRonneHStymneSPhospholipid:diacylglycerol acyltransferase: an enzyme that catalyzes the acyl-CoA-independent formation of triacylglycerol in yeast and plantsProc Natl Acad Sci U S A200015126487649210.1073/pnas.120067297<?supplied-pmid 10829075?>10829075 </plain></SENT>
+</text></ref><ref id="B85"><text><SENT sid="792" pm="."><plain>KatavicVReedDWTaylorDCGiblinEMBartonDLZouJMackenzieSLCovelloPSKunstLAlteration of seed fatty acid composition by an ethyl methanesulfonate-induced mutation in Arabidopsis thaliana affecting diacylglycerol acyltransferase activityPlant Physiol199515139940910.1104/pp.108.1.399<?supplied-pmid 7784510?>7784510 </plain></SENT>
+</text></ref><ref id="B86"><text><SENT sid="793" pm="."><plain>RoutaboulJMBenningCBechtoldNCabocheMLepiniecLThe TAG1 locus of Arabidopsis encodes for a diacylglycerol acyltransferasePlant Physiol Biochem1999151183184010.1016/S0981-9428(99)00115-1<?supplied-pmid 10580283?>10580283 </plain></SENT>
+</text></ref><ref id="B87"><text><SENT sid="794" pm="."><plain>ZouJWeiYJakoCKumarASelvarajGTaylorDCThe Arabidopsis thaliana TAG1 mutant has a mutation in a diacylglycerol acyltransferase genePlant J199915664565310.1046/j.1365-313x.1999.00555.x<?supplied-pmid 10571850?>10571850 </plain></SENT>
+</text></ref><ref id="B88"><text><SENT sid="795" pm="."><plain>ZhengPAllenWBRoeslerKWilliamsMEZhangSLiJGlassmanKRanchJNubelDSolawetzWBhattramakkiDLlacaVDeschampsSZhongGYTarczynskiMCShenBA phenylalanine in DGAT is a key determinant of oil content and composition in maizeNat Genet200815336737210.1038/ng.85<?supplied-pmid 18278045?>18278045 </plain></SENT>
+</text></ref><ref id="B89"><text><SENT sid="796" pm="."><plain>BatesPDDurrettTPOhlroggeJBPollardMAnalysis of acyl fluxes through multiple pathways of triacylglycerol synthesis in developing soybean embryosPlant Physiol2009151557210.1104/pp.109.137737<?supplied-pmid 19329563?>19329563 </plain></SENT>
+</text></ref><ref id="B90"><text><SENT sid="797" pm="."><plain>Santos-MendozaMDubreucqBBaudSParcyFCabocheMLepiniecLDeciphering gene regulatory networks that control seed development and maturation in ArabidopsisPlant J200815460862010.1111/j.1365-313X.2008.03461.x<?supplied-pmid 18476867?>18476867 </plain></SENT>
+</text></ref><ref id="B91"><text><SENT sid="798" pm="."><plain>SuzukiMMcCartyDRFunctional symmetry of the B3 network controlling seed developmentCurr Opin Plant Biol200815554855310.1016/j.pbi.2008.06.015<?supplied-pmid 18691932?>18691932 </plain></SENT>
+</text></ref><ref id="B92"><text><SENT sid="799" pm="."><plain>NagRMaityMKDasguptaMDual DNA binding property of ABA insensitive 3 like factors targeted to promoters responsive to ABA and auxinPlant Mol Biol200515582183810.1007/s11103-005-1387-z<?supplied-pmid 16270233?>16270233 </plain></SENT>
+</text></ref><ref id="B93"><text><SENT sid="800" pm="."><plain>TsukagoshiHMorikamiANakamuraKTwo B3 domain transcriptional repressors prevent sugar-inducible expression of seed maturation genes in Arabidopsis seedlingsProc Natl Acad Sci U S A20071572543254710.1073/pnas.0607940104<?supplied-pmid 17267611?>17267611 </plain></SENT>
+</text></ref><ref id="B94"><text><SENT sid="801" pm="."><plain>StalbergKEllerstomMEzcurraIAblovSRaskLDisruption of an overlapping E-box/ABRE motif abolished high transcription of the napA storage-protein promoter in transgenic Brassica napus seedsPlanta1996154515519<?supplied-pmid 8818291?>8818291 </plain></SENT>
+</text></ref><ref id="B95"><text><SENT sid="802" pm="."><plain>BuskPKPagesMRegulation of abscisic acid-induced transcriptionPlant Mol Biol199815342543510.1023/A:1006058700720<?supplied-pmid 9617810?>9617810 </plain></SENT>
+</text></ref><ref id="B96"><text><SENT sid="803" pm="."><plain>EzcurraIEllerstromMWycliffePStalbergKRaskLInteraction between composite elements in the napA promoter: both the B-box ABA-responsive complex and the RY/G complex are necessary for seed-specific expressionPlant Mol Biol199915469970910.1023/A:1006206124512<?supplied-pmid 10480393?>10480393 </plain></SENT>
+</text></ref><ref id="B97"><text><SENT sid="804" pm="."><plain>EzcurraIWycliffePNehlinLEllerstromMRaskLTransactivation of the Brassica napus napin promoter by ABI3 requires interaction of the conserved B2 and B3 domains of ABI3 with different cis-elements: B2 mediates activation through an ABRE, whereas B3 interacts with an RY/G-boxPlant J2000151576610.1046/j.1365-313x.2000.00857.x<?supplied-pmid 11029704?>11029704 </plain></SENT>
+</text></ref><ref id="B98"><text><SENT sid="805" pm="."><plain>LamEChuaNHTetramer of a 21-base pair synthetic element confers seed expression and transcriptional enhancement in response to water stress and abscisic acidJ Biol Chem199115261713117135<?supplied-pmid 1832669?>1832669 </plain></SENT>
+</text></ref><ref id="B99"><text><SENT sid="806" pm="."><plain>ThomasTLGene expression during plant embryogenesis and germination: an overviewPlant Cell1993151014011410<?supplied-pmid 8281041?>8281041 </plain></SENT>
+</text></ref></ref-list></SecTag></back></article>

@@ -1,0 +1,513 @@
+id,group_id,source,exact,prefix,suffix,anno_type,position_type,start,end,tags,all,origin_tags,comment,user,title,created
+zEKEksieEem98Fun6vV-9Q,b53nbDmi,https://europepmc.org/articles/PMC2727484/,"Deoxyuridine triphosphate
+diphosphatase",xyuridine diphosphate kinase 9. ,".Table 2
+Rank
+
+Thymidylate Synth",TextQuoteSelector,TextPositionSelector,30414,30453,MIS_GP,no,MIS_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:46:36.606758+00:00
+yXC9-MicEemUofvSwVGwPA,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Ribose-phosphate pyrophosphokinase,1Adenosine (A1) Agonist8.35E-105,2.7.6.1S-Adenosyl-L-Homocysteine,TextQuoteSelector,TextPositionSelector,22865,22899,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:32:12.866859+00:00
+yKbuZsibEemWRau4S1QT1w,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Thymidine kinase," key: 1.
+Deoxyuridine kinase 2. "," 3. Thymidylate kinase 4.
+Deoxyt",TextQuoteSelector,TextPositionSelector,30197,30213,CRT_GP,yes,[CRT_GP][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:25:02.044904+00:00
+xd8X-sieEemb06sb9Is2zg,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Deoxyuridine diphosphate kinase,"hydrofolate reductase (DHFR)
+8. "," 9. Deoxyuridine triphosphate
+di",TextQuoteSelector,TextPositionSelector,30379,30410,MIS_GP,yes,[MIS_GP][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:46:25.984980+00:00
+wW_fisicEemYB9fNVPZ7pg,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Purine-nucleoside phosphorylase,".99.1
+
+Prostaglandin
+
+8.57E-110
+",2.4.2.1Adenosine (A1) Agonist8.3,TextQuoteSelector,TextPositionSelector,22796,22827,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:31:59.457144+00:00
+vE77xMieEempv0_XYy_jOw,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Methylene tetrahydrofolate reductase,"5. Thymidylate synthase (TS) 6.
+", 7. Dihydrofolate reductase (DHF,TextQuoteSelector,TextPositionSelector,30305,30341,MIS_GP,no,MIS_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:46:09.903938+00:00
+v4LN8MibEemKNw8O_vyAMw,b53nbDmi,https://europepmc.org/articles/PMC2727484/,PLA2, involves the phospholipase A2 (,")
+inhibitor drug class. The subs",TextQuoteSelector,TextPositionSelector,27217,27221,CRT_GP,yes,[CRT_GP][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:24:46.795520+00:00
+uvkB6sicEempvvNTcFnaXw,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Catechol O-methyltransferase,"yltransferase
+Inhibitor1.02E-134",2.1.1.6S-Adenosyl-L-Homocysteine,TextQuoteSelector,TextPositionSelector,22633,22661,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:31:48.693109+00:00
+tymT-MidEemOfAOAaVftwA,b53nbDmi,https://europepmc.org/articles/PMC2727484/,NADH,", ATP, ADP,
+NAD, pyrophosphate, ",", carbon dioxide, AMP, glutamate",TextQuoteSelector,TextPositionSelector,49944,49948,WT_GP,no,[WT_GP],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:38:51.758051+00:00
+tsM9OsibEemPcks2GCBj-A,b53nbDmi,https://europepmc.org/articles/PMC2727484/,GART,-glycinamide formyltransferase (,",
+E=2.21×10−39)
+(
+Table 2
+). The",TextQuoteSelector,TextPositionSelector,34956,34960,MIS_GP,yes,[MIS_GP][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:24:31.965406+00:00
+thPVwsieEemvbwO1OOxZvw,b53nbDmi,https://europepmc.org/articles/PMC2727484/,TS,kinase 5. Thymidylate synthase (,") 6.
+Methylene tetrahydrofolate ",TextQuoteSelector,TextPositionSelector,30298,30300,MIS_GP,yes,[MIS_GP][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:45:59.251906+00:00
+tMcULsicEemLyYelt8d4-A,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Adenosylhomocysteinase,"99.5
+
+Prostaglandin
+
+1.66E-204
+
+","
+
+3.3.1.1
+
+S-Adenosyl-L-Homocyst",TextQuoteSelector,TextPositionSelector,22326,22348,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:31:38.210942+00:00
+t1I-RsifEem98asAKaO9NA,b53nbDmi,https://europepmc.org/articles/PMC2727484/,CSV,d MetaCyc reaction sets(3.12 MB ,)Click here for additional data ,TextQuoteSelector,TextPositionSelector,53538,53541,WT_OG,no,[WT_OG],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:53:10.743654+00:00
+rrVjQsicEempbKMxK2BoTg,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Thromboxane-A synthase,"ne Hydrolase Inhibitor2.71E-216
+","
+
+5.3.99.5
+
+Prostaglandin
+
+1.66E",TextQuoteSelector,TextPositionSelector,22266,22288,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:31:28.109731+00:00
+rnD6ZMibEembMmsEw5OICA,b53nbDmi,https://europepmc.org/articles/PMC2727484/,GART,bonucleotide formyltransferase (,) inhibitor drug set hits both t,TextQuoteSelector,TextPositionSelector,25951,25955,CRT_GP,yes,[CRT_GP][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:24:18.060076+00:00
+r_nKYMifEemxJ5d0a91Tfg,b53nbDmi,https://europepmc.org/articles/PMC2727484/,nuclear receptors,"umbers, GPCRs, ion channels and "," to MDDR activity
+classes [32]. ",TextQuoteSelector,TextPositionSelector,50550,50567,MIS_GP,no,MIS_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:52:58.632713+00:00
+r5hFnsidEemrvA-iemCg3A,b53nbDmi,https://europepmc.org/articles/PMC2727484/,SARS,"tosporidium
+parvum, Salmonella, ",", Toxoplasma
+gondii, Vibrio chol",TextQuoteSelector,TextPositionSelector,43928,43932,"WT_GP,OG",no,[WT_GP][OG],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:38:39.116533+00:00
+qrZs_MifEemmURNXlZs-Jg,b53nbDmi,https://europepmc.org/articles/PMC2727484/,ion channels," that maps
+E.C. numbers, GPCRs, ", and nuclear receptors to MDDR a,TextQuoteSelector,TextPositionSelector,50533,50545,MIS_GP,no,MIS_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:52:49.862128+00:00
+qfixUMidEemIqatNUu4myw,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Infectious Diseases,"tional Institute of Allergy and
+", (NIAID) and include Bacillus an,TextQuoteSelector,TextPositionSelector,43811,43830,WT_DS,no,[WT_DS],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:38:29.585375+00:00
+qGjuoMicEem3fodPPvBxTg,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Adenosine kinase,"t MDDR Drug SetBest Hit E-value
+","
+
+2.7.1.20
+
+S-Adenosyl-L-Homocys",TextQuoteSelector,TextPositionSelector,22086,22102,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:31:17.463135+00:00
+pjsvkMibEemrust_NOwfMw,b53nbDmi,https://europepmc.org/articles/PMC2727484/,S-Adenosyl-L-Homocysteine Hydrolase,methionine decarboxylase4.1.1.50," Inhibitor2.71E-216
+Thromboxane-",TextQuoteSelector,TextPositionSelector,22211,22246,MIS_GP,yes,[MIS_GP][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:24:04.404632+00:00
+pPaj5sieEembOHuxx6rmaA,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Deoxythymidine diphosphate kinase,48E-282Thymidine kinase3.48E-263,1.54E-244Ribonucleoside-triphosp,TextQuoteSelector,TextPositionSelector,31915,31948,MIS_GP,yes,[MIS_GP][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:45:30.659224+00:00
+pOO6RsifEemVqW_xGIFOwQ,b53nbDmi,https://europepmc.org/articles/PMC2727484/,GPCRs,"s study that maps
+E.C. numbers, ",", ion channels and nuclear recep",TextQuoteSelector,TextPositionSelector,50526,50531,MIS_GP,yes,[MIS_GP][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:52:40.132063+00:00
+owEL6sidEempBVssis3yYQ,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Allergy,ns by the National Institute of ," and
+Infectious Diseases (NIAID)",TextQuoteSelector,TextPositionSelector,43799,43806,WT_DS,no,[WT_DS],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:38:17.885041+00:00
+oVPO5sicEemIqFsCWMhwKw,b53nbDmi,https://europepmc.org/articles/PMC2727484/,thrombin,set targets the serine protease ,",
+which does not participate in ",TextQuoteSelector,TextPositionSelector,20224,20232,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:31:05.574945+00:00
+ny9zvsibEemU0yOX-lLNQA,b53nbDmi,https://europepmc.org/articles/PMC2727484/,S-Adenosyl-L-Homocysteine Hydrolase,"lue
+Adenosine kinase
+
+2.7.1.20
+
+"," Inhibitor
+
+4.38E-288
+Adenosylme",TextQuoteSelector,TextPositionSelector,22114,22149,CRT_GP,yes,[CRT_GP][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:23:52.467226+00:00
+noy0FMieEemHa9Nc10YDHg,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Deoxyuridine kinase,"ed as targets. Reaction key: 1.
+", 2. Thymidine kinase 3. Thymidyl,TextQuoteSelector,TextPositionSelector,30174,30193,MIS_GP,yes,[MIS_GP][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:45:19.944106+00:00
+nMwmBsidEem973ejHLuYrA,b53nbDmi,https://europepmc.org/articles/PMC2727484/,HIV,tase inhibitors (NRTIs) used in ,"
+therapy are administered as pro",TextQuoteSelector,TextPositionSelector,32710,32713,CRT_OG,no,CRT_OG,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:38:07.482738+00:00
+mMYX_MicEem4CUNulWhTYw,b53nbDmi,https://europepmc.org/articles/PMC2727484/,community-acquired infections,ogen causing both hospital- and ," that is
+resistant to at least o",TextQuoteSelector,TextPositionSelector,16723,16752,CRT_DS,no,CRT_DS,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:30:51.301237+00:00
+mArilMibEembMVPdCC743g,b53nbDmi,https://europepmc.org/articles/PMC2727484/,humans, many core metabolic enzymes in ," and pathogens,
+often mimicking ",TextQuoteSelector,TextPositionSelector,10043,10049,CRT_OG,yes,[CRT_OG][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:23:40.509492+00:00
+lBgz2MidEem8MOeD7E5Wjg,b53nbDmi,https://europepmc.org/articles/PMC2727484/,SHMT,"erine
+hydroxymethyltransferase (",",
+E=2.68×10−44),
+phosphoribosyl-",TextQuoteSelector,TextPositionSelector,34787,34791,MIS_GP,no,MIS_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:37:52.953421+00:00
+klIUZsicEem4CHceRgPoZA,b53nbDmi,https://europepmc.org/articles/PMC2727484/,infections, of toxins. Drugs used to clear ," or
+cure cancer often target enz",TextQuoteSelector,TextPositionSelector,11725,11735,CRT_DS,no,CRT_DS,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:30:40.409709+00:00
+kCfp-MidEemM1UsnG8_dpA,b53nbDmi,https://europepmc.org/articles/PMC2727484/,SHMT,ycine hydroxymethyltransferase (,)2.68E-4412Dihydrofolate synthet,TextQuoteSelector,TextPositionSelector,31614,31618,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:37:46.254856+00:00
+k3MnZsieEempAdsaIbZfzw,b53nbDmi,https://europepmc.org/articles/PMC2727484/,A1 adenosine receptor,"inase reaction set links to the
+"," agonist drug set
+(E=7.69×10−159",TextQuoteSelector,TextPositionSelector,26299,26320,MIS_GP,no,MIS_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:45:01.268942+00:00
+iu1MJMifEem3l-N21-L62g,b53nbDmi,https://europepmc.org/articles/PMC2727484/,protein kinase," a new
+generation of allosteric ", inhibitors that alter the kinas,TextQuoteSelector,TextPositionSelector,47193,47207,MIS_GP,no,MIS_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:51:56.489953+00:00
+ieOInsieEemy_0Pr6lGrMg,b53nbDmi,https://europepmc.org/articles/PMC2727484/,"A1 adenosine
+receptors",g the known interaction between , and adenosine deaminase on the ,TextQuoteSelector,TextPositionSelector,26406,26428,MIS_GP,no,MIS_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:44:45.211370+00:00
+iReGJMicEeml0Z8AgmV5Fg,b53nbDmi,https://europepmc.org/articles/PMC2727484/,animals," SummaryAll humans, plants, and ", use enzymes to metabolize food ,TextQuoteSelector,TextPositionSelector,11602,11609,CRT_OG,no,CRT_OG,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:30:25.009110+00:00
+iJqFiMidEemGqnehU74S6Q,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Glycine hydroxymethyltransferase,0Glycine decarboxylase2.68E-4411, (SHMT)2.68E-4412Dihydrofolate s,TextQuoteSelector,TextPositionSelector,31580,31612,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:37:33.703183+00:00
+hlS9vsifEemP7t-FevGwLg,b53nbDmi,https://europepmc.org/articles/PMC2727484/,kinase,h it [55]. While many classical ," inhibitors interact
+directly wi",TextQuoteSelector,TextPositionSelector,47059,47065,MIS_GP,yes,[MIS_GP][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:51:48.749472+00:00
+gvUU0sicEemvBcMjkyGu_A,b53nbDmi,https://europepmc.org/articles/PMC2727484/,plants,"Go to:Author SummaryAll humans, ",", and animals use enzymes to met",TextQuoteSelector,TextPositionSelector,11590,11596,CRT_OG,no,CRT_OG,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:30:14.504067+00:00
+gqXnmMieEemmUBsL4C0zVg,b53nbDmi,https://europepmc.org/articles/PMC2727484/,P2T Purinoreceptor,eoside-diphosphate kinase2.7.4.6, Antagonist2.76E-10Open in a sep,TextQuoteSelector,TextPositionSelector,25357,25375,MIS_GP,no,MIS_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:44:33.202890+00:00
+gdhQ1sidEemZFhMAvHwPwQ,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Glycine decarboxylase,droxymethyltransferase2.68E-4410,2.68E-4411Glycine hydroxymethylt,TextQuoteSelector,TextPositionSelector,31549,31570,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:37:22.249648+00:00
+fJE3_sieEemfwCdWXA3L6Q,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Glutamate–cysteine ligase,.8Adenosine (A2) Agonist1.83E-15,6.3.2.2Nitric Oxide Synthase Inh,TextQuoteSelector,TextPositionSelector,25110,25135,MIS_GP,no,MIS_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:44:22.891143+00:00
+fIrk_MifEem6atPpkzPG6A,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Yersinia pestis,"ma
+gondii, Vibrio cholerae, and ","
+[51].
+Browse and similarity sea",TextQuoteSelector,TextPositionSelector,43974,43989,CRT_OG,no,CRT_OG,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:51:32.349682+00:00
+eyWfYMicEem3H8N3bl4R6g,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Drug effect,of toxicity for NRTIs in humans.,-space maps also offer a broad g,TextQuoteSelector,TextPositionSelector,33896,33907,WT_DS,yes,[WT_DS][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:30:01.525378+00:00
+e7u-7MibEemIpyPBoV5Xkg,b53nbDmi,https://europepmc.org/articles/PMC2727484/,"reverse
+transcriptase","nd products, and the nucleotide "," inhibitor (NRTI) drug set, whic",TextQuoteSelector,TextPositionSelector,19021,19042,MIS_GP,no,MIS_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:22:53.008116+00:00
+e2WNmsidEemvc9_28TsBuQ,b53nbDmi,https://europepmc.org/articles/PMC2727484/,3-methyl-2-oxobutanoate hydroxymethyltransferase,"ine
+S-methyltransferase2.60E-459",2.68E-4410Glycine decarboxylase2,TextQuoteSelector,TextPositionSelector,31491,31539,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:37:11.425865+00:00
+dvB7QsifEemYCpfZE4L_uA,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Vibrio cholerae,"nella, SARS, Toxoplasma
+gondii, ",", and Yersinia pestis
+[51].
+Brow",TextQuoteSelector,TextPositionSelector,43953,43968,CRT_OG,no,CRT_OG,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:51:22.941034+00:00
+czcACsicEemtXtdCAocOVQ,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Aminomethyltransferase,ihydrofolate synthetase1.35E-708,7.13E-6395-methyltetrahydrofolat,TextQuoteSelector,TextPositionSelector,30828,30850,CRT_GP,yes,[CRT_GP][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:29:48.216585+00:00
+ccqm-MidEemKOGsGZnwnFA,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Methylenetetrahydrofolate reductase,otein methyltransferase2.84E-753,6.01E-734Methionyl-tRNA formyltr,TextQuoteSelector,TextPositionSelector,31235,31270,MIS_GP,no,MIS_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:36:55.293867+00:00
+c8ZSgMieEem4DMt7hj59nw,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Hydroxymethylglutaryl-CoA reductase (NADPH),26Adenosine (A2) Agonist4.95E-22,1.1.1.34Adenosine (A2) Agonist4.,TextQuoteSelector,TextPositionSelector,24910,24953,MIS_GP,no,MIS_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:44:08.224313+00:00
+c4MC0MibEemyvINDRPKz4Q,b53nbDmi,https://europepmc.org/articles/PMC2727484/,reverse transcriptase,"wn inhibitors
+of the nucleoside "," enzyme. Fingerprints
+representi",TextQuoteSelector,TextPositionSelector,19120,19141,CRT_GP,yes,[CRT_GP][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:22:39.231850+00:00
+biFNTsieEemjSJs6WTKozA,b53nbDmi,https://europepmc.org/articles/PMC2727484/,"3-alpha(or 20-beta)-hydroxysteroid
+dehydrogenase","xide Synthase Inhibitor2.81E-23
+","
+
+1.1.1.53
+
+Aromatase Inhibitor
+",TextQuoteSelector,TextPositionSelector,24758,24806,MIS_GP,no,MIS_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:43:58.652604+00:00
+bM6aSMicEembNPMBHI_3Pg,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Dihydrofolate synthetase,tetrahydrofolate ligase1.44E-747,1.35E-708Aminomethyltransferase7,TextQuoteSelector,TextPositionSelector,30795,30819,CRT_GP,yes,[CRT_GP][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:29:37.469563+00:00
+b1g4jsifEem4DdtNFBP7AA,b53nbDmi,https://europepmc.org/articles/PMC2727484/,"Toxoplasma
+gondii","idium
+parvum, Salmonella, SARS, ",", Vibrio cholerae, and Yersinia ",TextQuoteSelector,TextPositionSelector,43934,43951,MIS_OG,no,MIS_OG,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:51:10.281329+00:00
+adu1DsidEemyv0dag5JLDw,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Methylenetetrahydrofolate reductase,-tRNA formyltransferase1.97E-994,2.67E-865Thymidylate synthase (T,TextQuoteSelector,TextPositionSelector,30677,30712,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:36:42.024223+00:00
+aKLqcMifEemzAFffRql4dA,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Salmonella,"tensis, Cryptosporidium
+parvum, ",", SARS, Toxoplasma
+gondii, Vibri",TextQuoteSelector,TextPositionSelector,43916,43926,CRT_OG,no,CRT_OG,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:50:59.063235+00:00
+_7IIMMidEemrvX_lDL0FXg,b53nbDmi,https://europepmc.org/articles/PMC2727484/,MRSA,esistant Staphylococcus aureus (,"), a
+major pathogen causing both",TextQuoteSelector,TextPositionSelector,16672,16676,MIS_OG,yes,[MIS_OG][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:40:53.498476+00:00
+ZptmcsieEemVqNdwWTwQAw,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Glucosidase (alpha),"52
+Alpha-glucosidase
+
+3.2.1.20
+
+"," Inhibitor
+
+1.00E-51
+
+Farnesyl-d",TextQuoteSelector,TextPositionSelector,23821,23840,MIS_GP,yes,[MIS_GP][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:43:46.148261+00:00
+Znx6nsibEemYBiNeJLbThg,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Dihydrofolate reductase,"hetase (TS) Inhibitor
+
+E-value
+1", (DHFR)1.96E-1232Methyltetrahydr,TextQuoteSelector,TextPositionSelector,30516,30539,MIS_GP,yes,[MIS_GP][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:22:17.341740+00:00
+ZHXd1MicEemP6MM7jwuJ5A,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Formate-tetrahydrofolate ligase,ymidylate synthase (TS)2.54E-756,1.44E-747Dihydrofolate synthetas,TextQuoteSelector,TextPositionSelector,30755,30786,CRT_GP,yes,[CRT_GP][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:29:23.437971+00:00
+YkAEQsifEem8bMvy-iLklg,b53nbDmi,https://europepmc.org/articles/PMC2727484/,"Cryptosporidium
+parvum","anthracis,
+Brucella melitensis, ",", Salmonella, SARS, Toxoplasma
+g",TextQuoteSelector,TextPositionSelector,43892,43914,MIS_OG,no,MIS_OG,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:50:48.224740+00:00
+Y8m2UsidEemP65sU2CKZww,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Nucleoside-diphosphate kinase,"ne Synthase Inhibitor
+
+1.38E-10
+",2.7.4.6P2T Purinoreceptor Antago,TextQuoteSelector,TextPositionSelector,25321,25350,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:36:31.811697+00:00
+Xi1bqMieEemIqq-mpjnsEA,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Steroid (5alpha) Reductase,"ne 5-alpha-reductase
+
+1.3.1.22
+
+"," Inhibitor
+
+3.63E-60
+
+Steroid 17",TextQuoteSelector,TextPositionSelector,23565,23591,MIS_GP,yes,[MIS_GP][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:43:31.926247+00:00
+XdfzNsicEempBHcscA0i4Q,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Methionyl-tRNA formyltransferase,tein methyltransferase3.58E-1023,1.97E-994Methylenetetrahydrofola,TextQuoteSelector,TextPositionSelector,30636,30668,CRT_GP,yes,[CRT_GP][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:29:12.300031+00:00
+XcGk4MidEemy_C84vvZeFQ,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Lanosterol synthase,"energic (beta1) Agonist3.81E-11
+","
+
+5.4.99.7
+
+Squalene Synthase In",TextQuoteSelector,TextPositionSelector,25252,25271,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:36:21.774842+00:00
+X7OrGsibEem8Qt-SXyyklA,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Dihydrofolate reductase,"ine Kinase Inhibitor
+
+3.19E-151
+",1.5.1.3Glycinamide Ribonucleotid,TextQuoteSelector,TextPositionSelector,22540,22563,CRT_GP,yes,[CRT_GP][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:22:06.076521+00:00
+WB6i4MidEemyvqct3vDfnQ,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Dopamine-beta-monooxygenase,Oxide Synthase Inhibitor2.71E-11,1.14.17.1Adrenergic (beta1) Agon,TextQuoteSelector,TextPositionSelector,25181,25208,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:36:12.257414+00:00
+W800fMifEemZGK_4tF-Dqg,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Brucella melitensis,"and include Bacillus anthracis,
+",", Cryptosporidium
+parvum, Salmon",TextQuoteSelector,TextPositionSelector,43871,43890,CRT_OG,no,CRT_OG,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:50:37.402618+00:00
+Vl_fnMicEemrnENTJTiRcw,b53nbDmi,https://europepmc.org/articles/PMC2727484/,thymidylate kinase,"hymidine kinase
+(E=3.48×10−26),
+","
+(E=7.48×10−28),
+and deoxythymid",TextQuoteSelector,TextPositionSelector,32958,32976,MIS_GP,no,MIS_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:28:59.822069+00:00
+VQf0YMifEemR_wcPk1qlLA,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Bacillus anthracis,us Diseases (NIAID) and include ,",
+Brucella melitensis, Cryptospo",TextQuoteSelector,TextPositionSelector,43851,43869,CRT_OG,no,CRT_OG,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:50:26.164802+00:00
+V1tfCMibEemvapcjBVGiNQ,b53nbDmi,https://europepmc.org/articles/PMC2727484/,DHFR,ase 7. Dihydrofolate reductase (,")
+8. Deoxyuridine diphosphate ki",TextQuoteSelector,TextPositionSelector,30370,30374,CRT_GP,yes,[CRT_GP][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:21:51.967414+00:00
+UegOhMidEemHEOeXaKxqpw,b53nbDmi,https://europepmc.org/articles/PMC2727484/,ATP-citrate (pro-S-)-lyase,05Adenosine (A1) Agonist8.98E-17,4.1.3.8Adenosine (A2) Agonist1.8,TextQuoteSelector,TextPositionSelector,25047,25073,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:36:01.814569+00:00
+UeWkpMieEemy_lcfGIV-Zw,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Cholestenone 5-alpha-reductase,"Phosphorylase Inhibitor2.68E-60
+","
+
+1.3.1.22
+
+Steroid (5alpha) Red",TextQuoteSelector,TextPositionSelector,23523,23553,MIS_GP,no,MIS_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:43:11.396295+00:00
+UFTEusibEemGdh_h5gtzFg,b53nbDmi,https://europepmc.org/articles/PMC2727484/,DHFR,"target
+dihydrofolate reductase (",")
+(E=1.02×10−134).
+Other off-pat",TextQuoteSelector,TextPositionSelector,26116,26120,MIS_GP,yes,[MIS_GP][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:21:40.170034+00:00
+TjGe8MicEem3ltcFhiRL4Q,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Thymidylate kinase,e kinase 2. Thymidine kinase 3. ," 4.
+Deoxythymidine diphosphate k",TextQuoteSelector,TextPositionSelector,30217,30235,CRT_GP,yes,[CRT_GP][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:28:46.104350+00:00
+TC4WMsidEemP6lNPyCpLZg,b53nbDmi,https://europepmc.org/articles/PMC2727484/,IMP dehydrogenase,34Adenosine (A2) Agonist4.95E-22,1.1.1.205Adenosine (A1) Agonist8,TextQuoteSelector,TextPositionSelector,24991,25008,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:35:52.118147+00:00
+StEahsieEemvbqOUnD6THA,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Thymidylate Synthetase,"Thymidylate synthase
+
+2.1.1.45
+
+"," Inhibitor
+
+2.54E-75
+
+Steryl-sul",TextQuoteSelector,TextPositionSelector,23348,23370,MIS_GP,yes,[MIS_GP][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:42:59.401834+00:00
+S_tpBsifEemjSgfHH-1yIg,b53nbDmi,https://europepmc.org/articles/PMC2727484/,dihydrofolate synthase,"te synthase
+(E=2.54×10−75),
+and ","
+(E=1.35×10−70).
+This retrospect",TextQuoteSelector,TextPositionSelector,41841,41863,MIS_GP,no,MIS_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:50:10.871470+00:00
+Rs7IoMibEemUoHf_vu1F0g,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Thymidylate synthase,rahydrofolate reductase2.67E-865, (TS)2.54E-756Formate-tetrahydro,TextQuoteSelector,TextPositionSelector,30721,30741,MIS_GP,yes,[MIS_GP][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:21:24.221413+00:00
+RgjQiMifEemlPtPOncVfHA,b53nbDmi,https://europepmc.org/articles/PMC2727484/,"Staphylococcus
+aureus",ss components for 13 strains of , including the methicillin-resis,TextQuoteSelector,TextPositionSelector,41322,41343,MIS_OG,no,MIS_OG,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:50:00.996471+00:00
+Rd8udMidEemWRhc4hE8Aag,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Diaminopimelate epimerase,"holipase A2 Inhibitor
+
+9.82E-26
+",5.1.1.7Nitric Oxide Synthase Inh,TextQuoteSelector,TextPositionSelector,24618,24643,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:35:41.630560+00:00
+RM1bnMicEem97v8cb7n-Jg,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Phospholipase A2,"e Synthase Inhibitor
+
+8.86E-28
+
+","
+
+3.1.1.4
+
+Phospholipase A2 Inhi",TextQuoteSelector,TextPositionSelector,24554,24570,CRT_GP,yes,[CRT_GP][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:28:30.351896+00:00
+QRbp5MieEeml00Nw5RBujQ,b53nbDmi,https://europepmc.org/articles/PMC2727484/,"3′,5′-cyclic-nucleotide
+phosphodiesterase","transferase
+Inhibitor
+
+9.12E-80
+",3.1.4.17S-Adenosyl-L-Homocystein,TextQuoteSelector,TextPositionSelector,23213,23254,MIS_GP,no,MIS_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:42:43.190203+00:00
+PxXoWMidEemy-6tQvo_csw,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Nitric-oxide synthase,"droorotase Inhibitor
+
+2.25E-32
+
+","
+
+1.14.13.39
+
+Nitric Oxide Synth",TextQuoteSelector,TextPositionSelector,24476,24497,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:35:30.190013+00:00
+PiHHQsicEemtXQvuYFHvbQ,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Dihydroorotase," Oxygenase Inhibitor
+
+1.14E-33
+
+","
+
+3.5.2.3
+
+Dihydroorotase Inhibi",TextQuoteSelector,TextPositionSelector,24415,24429,CRT_GP,yes,[CRT_GP][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:28:19.121451+00:00
+OeF5yMieEemOpUPnHfO_5g,b53nbDmi,https://europepmc.org/articles/PMC2727484/,"Phosphoribosylaminoimidazolecarboxamide
+formyltransferase","ransferase
+Inhibitor
+
+1.55E-82
+
+","
+
+2.1.2.3
+
+Glycinamide Ribonucle",TextQuoteSelector,TextPositionSelector,23080,23137,MIS_GP,no,MIS_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:42:31.111387+00:00
+ObvHLsidEemb0pM4HgxT9w,b53nbDmi,https://europepmc.org/articles/PMC2727484/,3-Hydroxyanthranilate Oxygenase,"ate 3,4-dioxygenase
+
+1.13.11.6
+
+"," Inhibitor
+
+1.14E-33
+
+Dihydrooro",TextQuoteSelector,TextPositionSelector,24362,24393,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:35:21.346166+00:00
+NSnMesicEemjRodedmwTTQ,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Phospholipase A2,"4.04E-46
+Sterol esterase3.1.1.13"," Inhibitor3.18E-44
+Leukotriene-A",TextQuoteSelector,TextPositionSelector,24046,24062,WS_GP,yes,[WS_GP][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:28:04.117610+00:00
+NF8ysMieEem8Q6s_FzXfCQ,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Prostaglandin-endoperoxide synthase,"ne Hydrolase Inhibitor4.67E-127
+","
+
+1.14.99.1
+
+Prostaglandin
+
+8.57",TextQuoteSelector,TextPositionSelector,22723,22758,MIS_GP,no,MIS_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:42:21.874052+00:00
+NCcDhMibEemU0revPQ9D5Q,b53nbDmi,https://europepmc.org/articles/PMC2727484/,thymidylate synthase,"Example ligand
+sets include the "," reaction set, composed of the
+r",TextQuoteSelector,TextPositionSelector,18917,18937,CRT_GP,yes,[CRT_GP][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:20:52.915189+00:00
+NAmcoMifEempBscIBAIzgQ,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Folylpolyglutamate synthetase,uctase inhibitor (DHFR)1.91E-485, inhibitor2.27E-316Nucleoside re,TextQuoteSelector,TextPositionSelector,36934,36963,MIS_GP,yes,[MIS_GP][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:49:30.715766+00:00
+MhOlMsidEemvcZPcB9EozQ,b53nbDmi,https://europepmc.org/articles/PMC2727484/,"3-hydroxyanthranilate 3,4-dioxygenase","ine Hydrolase Inhibitor2.47E-38
+","
+
+1.13.11.6
+
+3-Hydroxyanthranila",TextQuoteSelector,TextPositionSelector,24312,24349,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:35:08.421728+00:00
+Ljm-hMicEemP52ezeQZUyA,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Aromatase,"-75
+
+Steryl-sulfatase
+
+3.1.6.2
+
+"," Inhibitor
+
+4.90E-62
+Guanylate c",TextQuoteSelector,TextPositionSelector,23419,23428,CRT_GP,yes,[CRT_GP][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:27:52.450036+00:00
+LWdGyMieEemywcv4OT-ySA,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Glycinamide Ribonucleotide Formyltransferase,"1
+Dihydrofolate reductase1.5.1.3","
+Inhibitor1.02E-134Catechol O-me",TextQuoteSelector,TextPositionSelector,22570,22614,MIS_GP,yes,[MIS_GP][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:42:10.054400+00:00
+LHjB8sidEem4Ch-XsCEsIQ,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Ribonucleoside-diphosphate reductase,"ne Synthase Inhibitor
+
+7.59E-40
+",1.17.4.1S-Adenosyl-L-Homocystein,TextQuoteSelector,TextPositionSelector,24214,24250,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:34:59.127575+00:00
+KvlKEMibEem8L8v7j8YsAA,b53nbDmi,https://europepmc.org/articles/PMC2727484/,human,ere with the proper function of , enzymes as well. Recent studies,TextQuoteSelector,TextPositionSelector,11857,11862,CRT_OG,yes,[CRT_OG][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:20:37.357957+00:00
+K-KpXsifEemPo9tHMoC5IA,b53nbDmi,https://europepmc.org/articles/PMC2727484/,phosphoribosyl-glycinamide formyltransferase,"nsformylase,
+E=2.21×10−39),
+and "," (GART,
+E=2.21×10−39)
+(
+Table 2
+",TextQuoteSelector,TextPositionSelector,34910,34954,MIS_GP,no,MIS_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:49:17.117706+00:00
+JXag1MifEemGrCeY7S-aMA,b53nbDmi,https://europepmc.org/articles/PMC2727484/,"AICAR
+transformylase",-carboxamide formyltransferase (,",
+E=2.21×10−39),
+and phosphoribo",TextQuoteSelector,TextPositionSelector,34869,34889,MIS_GP,no,MIS_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:49:06.298210+00:00
+JVxb7sieEemywPslOHpr2w,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Adenosylmethionine decarboxylase," Hydrolase Inhibitor
+
+4.38E-288
+",4.1.1.50S-Adenosyl-L-Homocystein,TextQuoteSelector,TextPositionSelector,22171,22203,MIS_GP,no,MIS_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:41:56.603820+00:00
+JCT1PsidEem5h7fdyzWKCA,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Squalene monooxygenase,"3.2.6
+
+Prostaglandin
+
+5.16E-40
+
+","
+
+1.14.99.7
+
+Squalene Synthase I",TextQuoteSelector,TextPositionSelector,24141,24163,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:34:45.011630+00:00
+JACueMicEemlOzM6rXaY5g,b53nbDmi,https://europepmc.org/articles/PMC2727484/,thrombin,"se reaction
+(E=1.00×10−51),
+the ", inhibitor drug set does not lin,TextQuoteSelector,TextPositionSelector,20079,20087,WS_GP,yes,[WS_GP][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:27:35.380094+00:00
+Home0MieEemOfodKEAX7KQ,b53nbDmi,https://europepmc.org/articles/PMC2727484/,valine decarboxylase,"d drugs at
+E=3.05×E−98,
+but the "," reaction, which is not an MDDR ",TextQuoteSelector,TextPositionSelector,20643,20663,MIS_GP,no,MIS_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:41:45.214151+00:00
+HmrCLMidEempbWvvWAol5g,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Leukotriene-A4 hydrolase,"spholipase A2 Inhibitor3.18E-44
+","
+
+3.3.2.6
+
+Prostaglandin
+
+5.16E-",TextQuoteSelector,TextPositionSelector,24081,24105,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:34:35.516446+00:00
+HL4i2sicEemvBNOuZxNSSw,b53nbDmi,https://europepmc.org/articles/PMC2727484/,α-glucosidase,"n sets. For instance, while the ","
+drug set links to the α-glucosi",TextQuoteSelector,TextPositionSelector,20000,20013,CRT_GP,yes,[CRT_GP][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:27:23.117982+00:00
+H8K1YMifEemYCLvJqm5Daw,b53nbDmi,https://europepmc.org/articles/PMC2727484/,phosphoribosyl-aminoimidazole-carboxamide formyltransferase,"ansferase (SHMT,
+E=2.68×10−44),
+"," (AICAR
+transformylase,
+E=2.21×1",TextQuoteSelector,TextPositionSelector,34808,34867,MIS_GP,no,MIS_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:48:56.714748+00:00
+GS6SrMidEemvbZPP5fwIHA,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Beta-galactosidase,"e Synthase Inhibitor
+
+2.12E-46
+
+","
+
+3.2.1.23
+
+Glucosidase (alpha) ",TextQuoteSelector,TextPositionSelector,23953,23971,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:34:26.626503+00:00
+Fz-BHMieEemHattPAIKemA,b53nbDmi,https://europepmc.org/articles/PMC2727484/,retinal dehydrogenase,"nstance, the metabolite set for "," reaction
+set links, as expected",TextQuoteSelector,TextPositionSelector,20542,20563,MIS_GP,no,MIS_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:41:32.891302+00:00
+F3D46sifEemWSLfoUxQh_Q,b53nbDmi,https://europepmc.org/articles/PMC2727484/,"serine
+hydroxymethyltransferase",e biosynthesis pathways such as ," (SHMT,
+E=2.68×10−44),
+phosphori",TextQuoteSelector,TextPositionSelector,34754,34785,MIS_GP,no,MIS_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:48:42.724779+00:00
+EkoJ6sicEemGz89fPyRTbw,b53nbDmi,https://europepmc.org/articles/PMC2727484/,"sterol
+esterase",d against PLA2 may also inhibit ,", perhaps even more strongly tha",TextQuoteSelector,TextPositionSelector,27911,27926,MIS_GP,no,MIS_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:27:05.687917+00:00
+E_hoOsidEemPoZ9viqEJcQ,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Farnesyl-diphosphate farnesyltransferase,"se (alpha) Inhibitor
+
+1.00E-51
+
+","
+
+2.5.1.21
+
+Squalene Synthase In",TextQuoteSelector,TextPositionSelector,23862,23902,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:34:17.959677+00:00
+DhVADsieEem4C5vtXn_d6w,b53nbDmi,https://europepmc.org/articles/PMC2727484/,serine protease, inhibitor drug set targets the ," thrombin,
+which does not partic",TextQuoteSelector,TextPositionSelector,20208,20223,MIS_GP,no,MIS_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:41:17.514118+00:00
+DX3g5sifEemkiffMN_lMyQ,b53nbDmi,https://europepmc.org/articles/PMC2727484/,"DNA
+pol-γ",ed are inefficiently excised by ," exonuclease [40]. Thus, the eff",TextQuoteSelector,TextPositionSelector,33752,33761,MIS_GP,no,MIS_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:48:26.042116+00:00
+Ce_jMsicEembM18DU1DieQ,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Sterol esterase,"ase (alpha) Inhibitor
+
+4.04E-46
+",3.1.1.13Phospholipase A2 Inhibit,TextQuoteSelector,TextPositionSelector,24023,24038,CRT_GP,yes,[CRT_GP][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:26:51.584384+00:00
+CJ1WJMifEemvdYNVvqjUYg,b53nbDmi,https://europepmc.org/articles/PMC2727484/,pol-γ,hey also may be incorporated by ," into the growing human
+mitochon",TextQuoteSelector,TextPositionSelector,33646,33651,MIS_GP,no,MIS_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:48:17.779950+00:00
+B6DoLMieEemGq-c8GZCXJg,b53nbDmi,https://europepmc.org/articles/PMC2727484/,bacteria, cancer often target enzymes in ," or cancer cells, but the drugs ",TextQuoteSelector,TextPositionSelector,11775,11783,MIS_OG,no,MIS_OG,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:41:06.793191+00:00
+ApAeuMicEeml0Nc6rrmRWg,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Squalene Synthase," farnesyltransferase
+
+2.5.1.21
+
+"," Inhibitor
+
+2.12E-46
+
+Beta-galac",TextQuoteSelector,TextPositionSelector,23914,23931,CRT_GP,yes,[CRT_GP][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:26:39.300100+00:00
+AFW6dMifEemfwS_3ldNSHg,b53nbDmi,https://europepmc.org/articles/PMC2727484/,mitochondrial DNA pol-γ,it human nucleotide kinases and ,".
+They also may be incorporated ",TextQuoteSelector,TextPositionSelector,33588,33611,MIS_GP,no,MIS_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:48:03.910427+00:00
+8rOfYsieEemPonueOHiBoA,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Deoxyuridine triphosphate pyrophosphatase,-triphosphate reductase2.88E-145,5.60E-126Deoxyuridine kinase1.14,TextQuoteSelector,TextPositionSelector,32003,32044,MIS_GP,no,MIS_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:47:41.097995+00:00
+8fhRJMibEemlzz-17RYsRw,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Adenosine deaminase," Hydrolase Inhibitor
+
+4.73E-203
+",3.5.4.4Adenosine (A1) Agonist7.6,TextQuoteSelector,TextPositionSelector,22416,22435,CRT_GP,yes,[CRT_GP][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:26:11.464401+00:00
+8BTERMidEemqops_ISOapg,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Membrane dipeptidase,Oxide Synthase Inhibitor2.43E-24,3.4.13.19Nitric Oxide Synthase I,TextQuoteSelector,TextPositionSelector,24689,24709,WS_GP,no,WS_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:40:27.206152+00:00
+7uvYOMicEeml0hNgycAEbg,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Alpha-glucosidase,"ine Hydrolase Inhibitor1.06E-52
+","
+
+3.2.1.20
+
+Glucosidase (alpha) ",TextQuoteSelector,TextPositionSelector,23792,23809,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:33:15.856061+00:00
+6fmwMMibEempvcuhMemKjw,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Nitric Oxide Synthase,Diaminopimelate epimerase5.1.1.7, Inhibitor2.43E-24Membrane dipep,TextQuoteSelector,TextPositionSelector,24650,24671,CRT_GP,yes,[CRT_GP][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:25:58.051213+00:00
+6ZWJMsidEem3gN8T98QxJg,b53nbDmi,https://europepmc.org/articles/PMC2727484/,RNA-directed DNA polymerase,") Reductase Inhibitor
+
+1.37E-58
+",2.7.7.49S-Adenosyl-L-Homocystein,TextQuoteSelector,TextPositionSelector,23703,23730,WS_GP,no,WS_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:40:16.289228+00:00
+6LHKLMicEemxJfsPRVsWGA,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Steroid 17-alpha-monooxygenase," Reductase Inhibitor
+
+3.63E-60
+
+","
+
+1.14.99.9
+
+Steroid (5alpha) Re",TextQuoteSelector,TextPositionSelector,23613,23643,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:33:05.304880+00:00
+674L8sieEemxJs8fY9QzZg,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Ribonucleoside-triphosphate reductase,dine diphosphate kinase1.54E-244,2.88E-145Deoxyuridine triphospha,TextQuoteSelector,TextPositionSelector,31957,31994,MIS_GP,no,MIS_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:47:29.402504+00:00
+4uIuNMicEemyvQee19h2og,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Purine Nucleoside Phosphorylase,".90E-62
+Guanylate cyclase4.6.1.2"," Inhibitor2.68E-60
+Cholestenone ",TextQuoteSelector,TextPositionSelector,23473,23504,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:32:55.564912+00:00
+4kOkDMidEembNZPk13adWg,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Sterol O-acyltransferase,"
+
+Aromatase Inhibitor
+
+1.51E-22
+",2.3.1.26Adenosine (A2) Agonist4.,TextQuoteSelector,TextPositionSelector,24848,24872,WS_GP,no,WS_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:40:04.000104+00:00
+4b-NEMieEemrvktqG9syFQ,b53nbDmi,https://europepmc.org/articles/PMC2727484/,"Phosphoribosylaminoimidazolecarboxamide (AICAR)
+formyltransferase","ne
+S-methyltransferase2.80E-6210",1.50E-6011Phosphoribosylglycinam,TextQuoteSelector,TextPositionSelector,30926,30991,MIS_GP,yes,[MIS_GP][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:47:12.707358+00:00
+45jrjsibEemZFEe3W8ga7w,b53nbDmi,https://europepmc.org/articles/PMC2727484/,cancer,"sed to clear infections or
+cure ", often target enzymes in bacteri,TextQuoteSelector,TextPositionSelector,11744,11750,CRT_DS,yes,[CRT_DS][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:25:47.266162+00:00
+3Jm3_sicEem5hofIx4eACw,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Guanylate cyclase,"
+
+Aromatase Inhibitor
+
+4.90E-62
+",4.6.1.2Purine Nucleoside Phospho,TextQuoteSelector,TextPositionSelector,23449,23466,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:32:44.982273+00:00
+2pI-rMieEemyww8RwMcXRQ,b53nbDmi,https://europepmc.org/articles/PMC2727484/,"5-methyltetrahydrofolate-homocysteine
+S-methyltransferase",8Aminomethyltransferase7.13E-639,2.80E-6210Phosphoribosylaminoimi,TextQuoteSelector,TextPositionSelector,30859,30916,MIS_GP,yes,[MIS_GP][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:47:00.608038+00:00
+2juAEMibEemOo7tKqlOtOA,b53nbDmi,https://europepmc.org/articles/PMC2727484/,drug action,"h to ligand-based prediction of
+", in small molecule metabolism.Go,TextQuoteSelector,TextPositionSelector,11517,11528,WT_DS,yes,[WT_DS][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:25:31.625408+00:00
+1zJtksicEem6Zzv7qw9rUQ,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Steryl-sulfatase,"Synthetase Inhibitor
+
+2.54E-75
+
+","
+
+3.1.6.2
+
+Aromatase Inhibitor
+
+",TextQuoteSelector,TextPositionSelector,23392,23408,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:32:35.946002+00:00
+1EE8NMidEemHact5wUhVUQ,b53nbDmi,https://europepmc.org/articles/PMC2727484/,exonuclease,"fficiently excised by DNA
+pol-γ "," [40]. Thus, the effect-space ma",TextQuoteSelector,TextPositionSelector,33762,33773,CRT_GP,no,CRT_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:39:40.573132+00:00
+0UQ1VsibEem3HlOkqDcUqA,b53nbDmi,https://europepmc.org/articles/PMC2727484/,thymidine kinase,ried against human metabolism – ,"
+(E=3.48×10−26),
+thymidylate kin",TextQuoteSelector,TextPositionSelector,32925,32941,MIS_GP,no,MIS_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:25:16.521752+00:00
+02Ez4MieEem8a2uaExwGrg,b53nbDmi,https://europepmc.org/articles/PMC2727484/,"Methyltetrahydrofolate-corrinoid-iron-sulfur
+protein methyltransferase",olate reductase (DHFR)1.96E-1232,3.58E-1023Methionyl-tRNA formylt,TextQuoteSelector,TextPositionSelector,30556,30626,MIS_GP,yes,[MIS_GP][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:46:48.539586+00:00
+-XHjZsibEemGqM9194Fxaw,b53nbDmi,https://europepmc.org/articles/PMC2727484/,Phosphoribosylglycinamide formyltransferase,"ine Hydrolase Inhibitor4.33E-91
+","
+
+2.1.2.2
+
+Glycinamide Ribonucle",TextQuoteSelector,TextPositionSelector,22960,23003,CRT_GP,yes,[CRT_GP][ALL],,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:26:24.011516+00:00
+-E6G1sidEemOffuyjrWKiA,b53nbDmi,https://europepmc.org/articles/PMC2727484/,methicillin-resistant Staphylococcus aureus,"g.org/metabolism.Finally, using "," (MRSA), a
+major pathogen causin",TextQuoteSelector,TextPositionSelector,16627,16670,WS_OG,no,WS_OG,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:40:41.104515+00:00
+-5ozwMieEemNJY-wkHjhaA,b53nbDmi,https://europepmc.org/articles/PMC2727484/,nucleotide kinases,"ed NRTIs
+directly inhibit human "," and mitochondrial DNA pol-γ.
+Th",TextQuoteSelector,TextPositionSelector,33565,33583,MIS_GP,no,MIS_GP,,acct:vanitha_hg@hypothes.is,A mapping of drug space from the viewpoint of small molecule metabolism.,2019-08-27T07:47:56.031951+00:00

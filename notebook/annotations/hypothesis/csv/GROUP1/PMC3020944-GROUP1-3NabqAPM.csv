@@ -1,0 +1,294 @@
+id,group_id,source,exact,prefix,suffix,anno_type,position_type,start,end,tags,all,origin_tags,comment,user,title,created
+z2nn3MmOEemElF8Iz5ZtWg,3NabqAPM,https://europepmc.org/articles/PMC3020944/,gst,oli BL21 pGET-1 (containing the ,-luxR overexpression construct) ,TextQuoteSelector,TextPositionSelector,37058,37061,CRT_GP,no,CRT_GP,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T12:24:41.108472+00:00
+yfyjAMmLEemERhsBCn6eBQ,3NabqAPM,https://europepmc.org/articles/PMC3020944/,VanT,R homologues of V. anguillarum (,) and V. vulnificus (SmcR) have ,TextQuoteSelector,TextPositionSelector,23587,23591,MIS_GP,no,MIS_GP,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T12:03:03.567884+00:00
+yfaV6MmJEemSslvHxuxOjQ,3NabqAPM,https://europepmc.org/articles/PMC3020944/,V. cholerae NCTC 8457,"ea trout (Salmo trutta)BCCM/LMG
+","Isolated from human, biotype El ",TextQuoteSelector,TextPositionSelector,20452,20473,MIS_OG,yes,[MIS_OG][ALL],,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:48:44.452856+00:00
+yCjcSMmKEem-oIuA9BMCzw,3NabqAPM,https://europepmc.org/articles/PMC3020944/,V. harveyi JAF 375,"eyi BB886
+luxPQ::Tn5 KanR
+
+[6]
+
+","
+luxN::CmR
+luxQ::KanR
+
+[7]
+
+V. h",TextQuoteSelector,TextPositionSelector,20146,20164,WS_OG,no,WS_OG,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:55:51.054126+00:00
+x_oP8MmIEemUTV9O_6e8Gg,3NabqAPM,https://europepmc.org/articles/PMC3020944/,E. coli LMG 25922,"hia coli BW 25113, E. coli K12, ",; Salmonella enterica serovar Ty,TextQuoteSelector,TextPositionSelector,38251,38268,WS_OG,no,WS_OG,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:41:31.629304+00:00
+wZ5w4MmKEemPRMuD1Kj5xw,3NabqAPM,https://europepmc.org/articles/PMC3020944/,V. harveyi BB886,". harveyi MM 30
+luxS::Tn5
+[30]
+
+","
+luxPQ::Tn5 KanR
+
+[6]
+
+V. harvey",TextQuoteSelector,TextPositionSelector,20107,20123,WS_OG,no,WS_OG,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:55:40.075703+00:00
+wQQG0smOEemp-MtGGfI0gQ,3NabqAPM,https://europepmc.org/articles/PMC3020944/,hfq,"o KanR
+
+[7]
+
+V. harveyi BNL 258
+","::Tn5lacZ
+
+[31]
+
+V. anguillarum ",TextQuoteSelector,TextPositionSelector,20356,20359,CRT_GP,no,CRT_GP,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T12:24:16.879920+00:00
+vyM3WMmIEemK-weM9rq5iA,3NabqAPM,https://europepmc.org/articles/PMC3020944/, E. coli K12,"s are Escherichia coli BW 25113,",", E. coli LMG 25922; Salmonella ",TextQuoteSelector,TextPositionSelector,38237,38249,"WT_GP,OG",no,[WT_GP][OG],,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:41:16.919013+00:00
+vqPjiMmLEemfLZ-wBDBbPQ,3NabqAPM,https://europepmc.org/articles/PMC3020944/,V. vulnificus,"larum
+
+V. cholerae
+
+V. harveyi
+
+","
+LMG 4411NCTC 8457BB120LMG 16867",TextQuoteSelector,TextPositionSelector,25747,25760,MIS_OG,no,MIS_OG,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T12:02:44.263847+00:00
+vWbgssmJEemNVztwsAIL6w,3NabqAPM,https://europepmc.org/articles/PMC3020944/,V. cholerae CIP 106855,"from human, biotype El TorHPACC
+","Isolated from human, biotype El ",TextQuoteSelector,TextPositionSelector,20514,20536,"WT_GP,OG",yes,[WT_GP][OG][ALL],,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:48:23.462762+00:00
+u7a9uMmPEemUWI9dxYazwQ,3NabqAPM,https://europepmc.org/articles/PMC3020944/, Vibrio vulnificus," anguillarum, Vibrio harveyi and",.Conclusions/SignificanceSeveral,TextQuoteSelector,TextPositionSelector,9684,9702,CRT_OG,no,CRT_OG,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T12:31:17.524531+00:00
+tcc00smPEemFa18vqa7Aqg,3NabqAPM,https://europepmc.org/articles/PMC3020944/,Vibrio harveyi,"fected with Vibrio anguillarum, ", and Vibrio vulnificus.Conclusio,TextQuoteSelector,TextPositionSelector,9666,9680,CRT_OG,no,CRT_OG,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T12:31:07.573960+00:00
+tYkxoMmKEemNWGND2Rding,3NabqAPM,https://europepmc.org/articles/PMC3020944/,V. harveyi MM 30,". harveyi BB 170
+luxN::Tn5
+[1]
+
+","
+luxS::Tn5
+[30]
+
+V. harveyi BB88",TextQuoteSelector,TextPositionSelector,20074,20090,WS_OG,no,WS_OG,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:55:19.786230+00:00
+sulYmsmJEemVQm_XYGPxhQ,3NabqAPM,https://europepmc.org/articles/PMC3020944/,V. anguillarum LMG 4411,"eyi BNL 258
+hfq::Tn5lacZ
+
+[31]
+
+",Isolated from young sea trout (S,TextQuoteSelector,TextPositionSelector,20376,20399,WS_OG,yes,[WS_OG][ALL],,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:48:05.824240+00:00
+smu2asmOEem7iac6c1jmlQ,3NabqAPM,https://europepmc.org/articles/PMC3020944/,luxS,"luxN::Tn5
+[1]
+
+V. harveyi MM 30
+","::Tn5
+[30]
+
+V. harveyi BB886
+lux",TextQuoteSelector,TextPositionSelector,20091,20095,CRT_GP,no,CRT_GP,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T12:23:52.125165+00:00
+sbrCFsmIEemQMTMH9MFFuA,3NabqAPM,https://europepmc.org/articles/PMC3020944/,E. coli DH5α pBluelux,ct on the bioluminescence of an , strain containing the luxCDABE ,TextQuoteSelector,TextPositionSelector,13252,13273,WS_OG,no,WS_OG,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:40:54.387236+00:00
+rSJmTsmKEem4ZROzC69Qfg,3NabqAPM,https://europepmc.org/articles/PMC3020944/,V. harveyi BB152,"V. harveyi BB 120Wild-type
+[2]
+
+","
+luxLM::Tn5
+[6]
+
+V. harveyi BB 1",TextQuoteSelector,TextPositionSelector,20008,20024,WS_OG,no,WS_OG,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:55:05.679121+00:00
+rB0zFMmPEem4aQeRTqZFIQ,3NabqAPM,https://europepmc.org/articles/PMC3020944/,Vibrio,ect the growth of the different ," strains used in this study, the",TextQuoteSelector,TextPositionSelector,12851,12857,CRT_OG,yes,[CRT_OG][ALL],,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T12:30:51.415579+00:00
+qqlvgMmOEem3XC-zpfyiXw,3NabqAPM,https://europepmc.org/articles/PMC3020944/,luxQ,"]
+
+V. harveyi JAF 375
+luxN::CmR
+","::KanR
+
+[7]
+
+V. harveyi JMH 597
+",TextQuoteSelector,TextPositionSelector,20175,20179,CRT_GP,no,CRT_GP,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T12:23:39.504734+00:00
+qXPr_smJEemc-SOxrb74QQ,3NabqAPM,https://europepmc.org/articles/PMC3020944/,V. cholerae,"ment production
+V. anguillarum
+
+","
+
+V. anguillarum
+LMG 4411NCTC 84",TextQuoteSelector,TextPositionSelector,21868,21879,MIS_OG,yes,[MIS_OG][ALL],,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:47:49.739785+00:00
+qB4qhsmIEemQMBe6LFWGyA,3NabqAPM,https://europepmc.org/articles/PMC3020944/, E. coli DH5α,ect on the bioluminescence of an, pBluelux strain containing the ,TextQuoteSelector,TextPositionSelector,13251,13264,WS_OG,yes,[WS_OG][ALL],,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:40:38.253808+00:00
+oCDn-smOEemGmwsz3FJrGQ,3NabqAPM,https://europepmc.org/articles/PMC3020944/,luxU,"S::CmR
+
+[9]
+
+V. harveyi JAF 553
+"," H58A linked to KanR
+
+[5]
+
+V. ha",TextQuoteSelector,TextPositionSelector,20256,20260,CRT_GP,no,CRT_GP,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T12:23:21.837852+00:00
+nkLkqsmKEem0S1evRQc8-w,3NabqAPM,https://europepmc.org/articles/PMC3020944/,V. harveyi BB 120,"CharacteristicsReference/source
+","Wild-type
+[2]
+
+V. harveyi BB152
+",TextQuoteSelector,TextPositionSelector,19976,19993,WS_OG,no,WS_OG,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:54:40.633302+00:00
+nfWZnsmJEemHNRPwSn-kNg,3NabqAPM,https://europepmc.org/articles/PMC3020944/,V. anguillarum,"ease activityPigment production
+","
+
+V. cholerae
+
+V. anguillarum
+LM",TextQuoteSelector,TextPositionSelector,21852,21866,MIS_OG,yes,[MIS_OG][ALL],,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:47:30.749743+00:00
+nc6I8MmIEemT6m8kOSFSkQ,3NabqAPM,https://europepmc.org/articles/PMC3020944/,E. coli BL21,SA) at 30°C on a rotary shaker. , pGET-1 (containing the gst-luxR,TextQuoteSelector,TextPositionSelector,37022,37034,"WT_GP,OG",no,[WT_GP][OG],,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:40:20.853161+00:00
+lVc_zMmOEem8lyuSYAwkeg,3NabqAPM,https://europepmc.org/articles/PMC3020944/,luxO,"o KanR
+
+[5]
+
+V. harveyi JAF 483
+"," D47A linked to KanR
+
+[7]
+
+V. ha",TextQuoteSelector,TextPositionSelector,20306,20310,CRT_GP,no,CRT_GP,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T12:23:03.768694+00:00
+kMhWAsmPEembAUcKqZVwIw,3NabqAPM,https://europepmc.org/articles/PMC3020944/,V. vulnificus,es of V. anguillarum (VanT) and , (SmcR) have been shown to reduc,TextQuoteSelector,TextPositionSelector,23597,23610,CRT_OG,yes,[CRT_OG][ALL],,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T12:30:05.467722+00:00
+i_3cGsmOEem-p2M1bDyQGA,3NabqAPM,https://europepmc.org/articles/PMC3020944/,luxN,"xLM::Tn5
+[6]
+
+V. harveyi BB 170
+","::Tn5
+[1]
+
+V. harveyi MM 30
+luxS",TextQuoteSelector,TextPositionSelector,20059,20063,CRT_GP,yes,[CRT_GP][ALL],,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T12:22:48.058334+00:00
+iMQHpsmMEemNpMsakXdmdg,3NabqAPM,https://europepmc.org/articles/PMC3020944/,CIP,"ure Collection (Salisbury, UK); ",", Collection of Institute Pasteu",TextQuoteSelector,TextPositionSelector,20897,20900,WT_GP,no,[WT_GP],,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T12:08:23.551970+00:00
+i6_usMmJEem-nWPelLnSCA,3NabqAPM,https://europepmc.org/articles/PMC3020944/,Staphylococcus aureus LMG 10147 ,"erovar Typhimurium ATCC 700720, ",and S. aureus Mu50. When used in,TextQuoteSelector,TextPositionSelector,38323,38355,WS_OG,no,WS_OG,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:47:00.087304+00:00
+hiG4EMmKEem4_Wdu3vNrqA,3NabqAPM,https://europepmc.org/articles/PMC3020944/,V. harveyi,cence was determined in various , QS mutants (Table 2). The selec,TextQuoteSelector,TextPositionSelector,18487,18497,CRT_OG,yes,[CRT_OG][ALL],,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:54:00.146236+00:00
+hCSRssmLEemqxndTwdH__Q,3NabqAPM,https://europepmc.org/articles/PMC3020944/, V. harveyi BB120,ed on V. cholerae CIP 106855 and," biomass (data not shown), but s",TextQuoteSelector,TextPositionSelector,23121,23138,WS_OG,no,WS_OG,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T12:01:06.386288+00:00
+guXYssmOEemkYguwzF3ofw,3NabqAPM,https://europepmc.org/articles/PMC3020944/,luxLM,"Wild-type
+[2]
+
+V. harveyi BB152
+","::Tn5
+[6]
+
+V. harveyi BB 170
+lux",TextQuoteSelector,TextPositionSelector,20025,20030,CRT_GP,no,CRT_GP,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T12:22:32.803973+00:00
+g1KFPsmJEem_89fxTvFupg,3NabqAPM,https://europepmc.org/articles/PMC3020944/,SmcR,larum (VanT) and V. vulnificus (,) have been shown to reduce biof,TextQuoteSelector,TextPositionSelector,23612,23616,MIS_GP,yes,[MIS_GP][ALL],,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:46:45.943140+00:00
+eeXJFsmJEemK_Tt5P5Ev6w,3NabqAPM,https://europepmc.org/articles/PMC3020944/,simian virus 40,ytotoxicity was tested on human ,-immortalized lung fibroblasts (,TextQuoteSelector,TextPositionSelector,43074,43089,MIS_OG,no,MIS_OG,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:46:30.247337+00:00
+dXOruMmPEemdh4veY7ja5g,3NabqAPM,https://europepmc.org/articles/PMC3020944/,V. cholerae,roduction in V. anguillarum and , are at least partially controll,TextQuoteSelector,TextPositionSelector,21711,21722,CRT_OG,yes,[CRT_OG][ALL],,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T12:29:19.741830+00:00
+d1_E5MmOEemAs5u_bag_-Q,3NabqAPM,https://europepmc.org/articles/PMC3020944/, cqsS,"7]
+
+V. harveyi JMH 597
+luxN::Tn5","::CmR
+
+[9]
+
+V. harveyi JAF 553
+l",TextQuoteSelector,TextPositionSelector,20220,20225,CRT_GP,no,CRT_GP,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T12:22:13.360029+00:00
+cVSauMmMEemY_m_7SfhxXA,3NabqAPM,https://europepmc.org/articles/PMC3020944/,cholera,"acyl-homoserine lactones (AHL), ",-autoinducer-1 (CAI-1) and a mix,TextQuoteSelector,TextPositionSelector,10391,10398,WT_DS,no,[WT_DS],,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T12:07:44.261502+00:00
+bw1akMmJEemqPGPQbt0_LQ,3NabqAPM,https://europepmc.org/articles/PMC3020944/,sek-1," at 37°C.
+C. elegans N2 (glp-4; ",) was propagated on nematode gro,TextQuoteSelector,TextPositionSelector,37344,37349,MIS_GP,no,MIS_GP,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:46:11.966259+00:00
+bG7n2smPEem5Aw_fTmaYEw,3NabqAPM,https://europepmc.org/articles/PMC3020944/,V. anguillarum,ding that pigment production in , and protease production in V. a,TextQuoteSelector,TextPositionSelector,21650,21664,CRT_OG,yes,[CRT_OG][ALL],,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T12:29:04.523613+00:00
+aERvXMmMEemY_X--xtemLw,3NabqAPM,https://europepmc.org/articles/PMC3020944/,Caenorhabditis elegans,ed the survival of the nematode , infected with Vibrio anguillaru,TextQuoteSelector,TextPositionSelector,9609,9631,CRT_OG,yes,[CRT_OG][ALL],,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T12:07:29.143556+00:00
+_4MI6smOEem34nsNnMYteQ,3NabqAPM,https://europepmc.org/articles/PMC3020944/,luxR,BL21 pGET-1 (containing the gst-, overexpression construct) and E,TextQuoteSelector,TextPositionSelector,37062,37066,CRT_GP,no,CRT_GP,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T12:26:01.856314+00:00
+_0SL1MmIEemNovO8SiKOBg,3NabqAPM,https://europepmc.org/articles/PMC3020944/,HapR,"ted from human, biotype El Tor, "," frameshiftCIP
+V. vulnificus LMG",TextQuoteSelector,TextPositionSelector,20573,20577,MIS_GP,yes,[MIS_GP][ALL],,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:43:04.380221+00:00
+YzMh-smJEemEjd_jAYATQQ,3NabqAPM,https://europepmc.org/articles/PMC3020944/,Salmonella enterica serovar Typhimurium ATCC 700720,"E. coli K12, E. coli LMG 25922; ",", Staphylococcus aureus LMG 1014",TextQuoteSelector,TextPositionSelector,38270,38321,MIS_OG,no,MIS_OG,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:45:52.025028+00:00
+YxnzhMmIEemY-EtBL-J6HA,3NabqAPM,https://europepmc.org/articles/PMC3020944/,LuxS,"on of these molecules are LuxN, "," and CqsA for AHL, AI-2 and CAI-",TextQuoteSelector,TextPositionSelector,10578,10582,MIS_GP,no,MIS_GP,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:38:42.498899+00:00
+Xpm66MmMEemf2deCT7bk4Q,3NabqAPM,https://europepmc.org/articles/PMC3020944/,C. elegans,ect virulence of Vibrio spp. in ,"
+To investigate the effect of th",TextQuoteSelector,TextPositionSelector,26736,26746,CRT_OG,yes,[CRT_OG][ALL],,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T12:07:12.831313+00:00
+XZ8nBsmKEem4-9-Feinv-g,3NabqAPM,https://europepmc.org/articles/PMC3020944/,V. harveyi BB170,compounds on bioluminescence of , was assessed (Table 1). Five ci,TextQuoteSelector,TextPositionSelector,13622,13638,WS_OG,yes,[WS_OG][ALL],,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:52:52.205070+00:00
+XD6vjMmIEemtk3dxIJjLVg,3NabqAPM,https://europepmc.org/articles/PMC3020944/, LuxN,roduction of these molecules are,", LuxS and CqsA for AHL, AI-2 an",TextQuoteSelector,TextPositionSelector,10571,10576,MIS_GP,no,MIS_GP,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:38:30.876133+00:00
+Wvv4WMmPEemSt_-r5paezg,3NabqAPM,https://europepmc.org/articles/PMC3020944/, TSB,i OP50 was routinely cultured in," at 37°C.
+C. elegans N2 (glp-4; ",TextQuoteSelector,TextPositionSelector,37308,37312,WT_GP,no,[WT_GP],,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T12:28:35.087767+00:00
+WDjn2smJEemFbS-odIAw0g,3NabqAPM,https://europepmc.org/articles/PMC3020944/, S. aureus Mu50,phylococcus aureus LMG 10147 and,. When used in concentrations up,TextQuoteSelector,TextPositionSelector,38358,38373,WS_OG,no,WS_OG,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:45:33.746386+00:00
+Vx64oMsWEemIG8s0rsJF0w,3NabqAPM,https://europepmc.org/articles/PMC3020944/, Vibrio spp,ction and protease production in," in vitro, while exhibiting low ",TextQuoteSelector,TextPositionSelector,9470,9481,WS_OG,yes,[WS_OG][ALL],,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-30T11:07:21.867001+00:00
+VBI_rMmPEemH-XPz2a_mqQ,3NabqAPM,https://europepmc.org/articles/PMC3020944/, tri,ubsequent reduction with lithium,-tert-butoxyaluminiumhydride [24,TextQuoteSelector,TextPositionSelector,36750,36754,WT_GP,no,[WT_GP],,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T12:28:23.598818+00:00
+UvGYDsmIEemK-M_gR3xoaQ,3NabqAPM,https://europepmc.org/articles/PMC3020944/,Hfq,ther with the chaperone protein ,", destabilize mRNA encoding the ",TextQuoteSelector,TextPositionSelector,11156,11159,MIS_GP,no,MIS_GP,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:38:15.365923+00:00
+UijosMmMEem-o8tZbCVZyg,3NabqAPM,https://europepmc.org/articles/PMC3020944/,animals,utic applications in humans and ,.ConclusionBy evaluating the eff,TextQuoteSelector,TextPositionSelector,33839,33846,CRT_OG,no,CRT_OG,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T12:06:51.965957+00:00
+TfIdYsmLEem4Vz8Q29gqBw,3NabqAPM,https://europepmc.org/articles/PMC3020944/,V. harveyi BB120,tabolically active cells in the ,", V. anguillarum LMG 4411, V. vu",TextQuoteSelector,TextPositionSelector,23401,23417,MIS_OG,yes,[MIS_OG][ALL],,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:59:35.471382+00:00
+T7Oa7MmJEemEQ8edVRzq9Q,3NabqAPM,https://europepmc.org/articles/PMC3020944/,protease,"rmation, pigment production and ", production in Vibrio spp in vit,TextQuoteSelector,TextPositionSelector,9448,9456,MIS_GP,yes,[MIS_GP][ALL],,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:45:19.418339+00:00
+RhJ8_ssWEemiM0OKng46jQ,3NabqAPM,https://europepmc.org/articles/PMC3020944/,Vibrio anguillarum,rhabditis elegans infected with ,", Vibrio harveyi and Vibrio vuln",TextQuoteSelector,TextPositionSelector,9646,9664,CRT_OG,no,CRT_OG,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-30T11:06:53.296444+00:00
+RSzr4smIEemSsSvwMcjWgA,3NabqAPM,https://europepmc.org/articles/PMC3020944/,CqsA ,"se molecules are LuxN, LuxS and ","for AHL, AI-2 and CAI-1, respect",TextQuoteSelector,TextPositionSelector,10587,10592,MIS_GP,no,MIS_GP,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:37:52.176949+00:00
+RGXccsmJEem4-JcNZckuig,3NabqAPM,https://europepmc.org/articles/PMC3020944/, peptone,d on nematode growth agar (0.25%,", 0.3% NaCl, 1.7% agar, 5 mg cho",TextQuoteSelector,TextPositionSelector,37396,37404,MIS_GP,no,MIS_GP,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:45:00.351795+00:00
+QlFDiMmMEemNWQ9IpoSPaw,3NabqAPM,https://europepmc.org/articles/PMC3020944/,human,cholerae NCTC 8457Isolated from ,", biotype El TorHPACC
+V. cholera",TextQuoteSelector,TextPositionSelector,20487,20492,CRT_OG,yes,[CRT_OG][ALL],,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T12:06:25.424188+00:00
+POTibsmIEem4U89qwHbR4A,3NabqAPM,https://europepmc.org/articles/PMC3020944/,chaperone protein ,"e small RNAs, together with the ","Hfq, destabilize mRNA encoding t",TextQuoteSelector,TextPositionSelector,11138,11156,MIS_GP,no,MIS_GP,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:37:38.388681+00:00
+OQeG5smJEem8kEOLlFZe1w,3NabqAPM,https://europepmc.org/articles/PMC3020944/,LuxU,uxO through a cascade involving , [5]. Phosphorylation activates ,TextQuoteSelector,TextPositionSelector,10998,11002,MIS_GP,no,MIS_GP,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:44:41.258100+00:00
+N2tgLMmPEembAGt7qmw27Q,3NabqAPM,https://europepmc.org/articles/PMC3020944/,sea trout,rum LMG 4411Isolated from young ," (Salmo trutta)BCCM/LMG
+V. chole",TextQuoteSelector,TextPositionSelector,20419,20428,CRT_OG,no,CRT_OG,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T12:27:35.689385+00:00
+Mxr-xsmIEem8jScjcNmefQ,3NabqAPM,https://europepmc.org/articles/PMC3020944/,C. elegans N2,"tinely cultured in TSB at 37°C.
+", (glp-4; sek-1) was propagated o,TextQuoteSelector,TextPositionSelector,37322,37335,WS_OG,no,WS_OG,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:37:21.941392+00:00
+Lu8IpMmPEemUVnMcw8FNnQ,3NabqAPM,https://europepmc.org/articles/PMC3020944/,Salmo trutta,1Isolated from young sea trout (,")BCCM/LMG
+V. cholerae NCTC 8457I",TextQuoteSelector,TextPositionSelector,20430,20442,CRT_OG,no,CRT_OG,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T12:27:21.332241+00:00
+LlBA-MmJEemc9edQgCdG_w,3NabqAPM,https://europepmc.org/articles/PMC3020944/, LuxR,ity of the QS response regulator,". However, little is known about",TextQuoteSelector,TextPositionSelector,8882,8887,MIS_GP,yes,[MIS_GP][ALL],,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:44:23.290767+00:00
+KBwi6MmIEemUSzMm6n40Vw,3NabqAPM,https://europepmc.org/articles/PMC3020944/, bacteria,PMC.Go to:AbstractBackgroundMany,", including Vibrio spp., regulat",TextQuoteSelector,TextPositionSelector,8502,8511,MIS_OG,yes,[MIS_OG][ALL],,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:37:03.293106+00:00
+K7RXVsmLEemJSNOW53Wcww,3NabqAPM,https://europepmc.org/articles/PMC3020944/,V. harveyi BB 170,". harveyi BB152
+luxLM::Tn5
+[6]
+
+","
+luxN::Tn5
+[1]
+
+V. harveyi MM 30",TextQuoteSelector,TextPositionSelector,20041,20058,WS_OG,no,WS_OG,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:58:38.040658+00:00
+JdtLsMmPEemtnO9b7ay9Pg,3NabqAPM,https://europepmc.org/articles/PMC3020944/, phosphatase,eptor and the latter will act as,", leading to a dephosphorylation",TextQuoteSelector,TextPositionSelector,11354,11366,CRT_GP,no,CRT_GP,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T12:27:05.987151+00:00
+JWOMPsmJEemllNuiHz18YQ,3NabqAPM,https://europepmc.org/articles/PMC3020944/,LuxO,e downstream response regulator , through a cascade involving Lux,TextQuoteSelector,TextPositionSelector,10965,10969,MIS_GP,yes,[MIS_GP][ALL],,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:44:08.359612+00:00
+Hdt1FsmPEemoyyNXk9ns_g,3NabqAPM,https://europepmc.org/articles/PMC3020944/,nematodes,"n virulence in vivo, C. elegans ", were infected with various Vibr,TextQuoteSelector,TextPositionSelector,26833,26842,CRT_OG,yes,[CRT_OG][ALL],,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T12:26:52.639227+00:00
+EzfEbMmJEemFbEuNerWrzw,3NabqAPM,https://europepmc.org/articles/PMC3020944/, L4 worms,"the survival assay, synchronized", were suspended in a medium cont,TextQuoteSelector,TextPositionSelector,42001,42010,MIS_OG,no,MIS_OG,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:43:37.976121+00:00
+EkjyUMmPEemtm7s8DiQkCg,3NabqAPM,https://europepmc.org/articles/PMC3020944/, nematode ,ly increased the survival of the,Caenorhabditis elegans infected ,TextQuoteSelector,TextPositionSelector,9599,9609,CRT_OG,yes,[CRT_OG][ALL],,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T12:26:33.248105+00:00
+DdTy1MsYEemRWYvbGDSkgQ,3NabqAPM,https://europepmc.org/articles/PMC3020944/,V. harveyi,"D)
+V. anguillarum
+
+V. cholerae
+
+","
+
+V. vulnificus
+LMG 4411NCTC 845",TextQuoteSelector,TextPositionSelector,25735,25745,MIS_OG,no,MIS_OG,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-30T11:19:37.888250+00:00
+CVGbKsmPEemKF8NotXzMxw,3NabqAPM,https://europepmc.org/articles/PMC3020944/,MIC,yde and 4-nitro-cinnamaldehyde (," ≥100 µM and MIC ≥50 µM, respect",TextQuoteSelector,TextPositionSelector,12962,12965,WT_GP,yes,[WT_GP][ALL],,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T12:26:18.297671+00:00
+CRs7HMmJEemQMssDfP_xBQ,3NabqAPM,https://europepmc.org/articles/PMC3020944/,kinase,tion the receptor will act as a ,", resulting in the phosphorylati",TextQuoteSelector,TextPositionSelector,10887,10893,MIS_GP,no,MIS_GP,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:43:20.928030+00:00
+9TMNUMmIEemWOpf434kDZg,3NabqAPM,https://europepmc.org/articles/PMC3020944/,GST,lable overexpression construct (,-LuxR) [12] does not allow to pu,TextQuoteSelector,TextPositionSelector,31414,31417,MIS_GP,yes,[MIS_GP][ALL],,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:42:47.465038+00:00
+9BM_bsmLEemFZvMxCwkkCg,3NabqAPM,https://europepmc.org/articles/PMC3020944/, worms, two days. The fraction of death, was determined by counting the ,TextQuoteSelector,TextPositionSelector,42572,42578,MIS_OG,yes,[MIS_OG][ALL],,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T12:04:14.117839+00:00
+6nv6XsmLEemZeXuxqTTYdQ,3NabqAPM,https://europepmc.org/articles/PMC3020944/, vps,own to repress the expression of, genes (involved in the producti,TextQuoteSelector,TextPositionSelector,24394,24398,MIS_GP,no,MIS_GP,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T12:03:58.076978+00:00
+6hqAsMmIEemKE3fRpSzGew,3NabqAPM,https://europepmc.org/articles/PMC3020944/,glp-4," in TSB at 37°C.
+C. elegans N2 (",; sek-1) was propagated on nemat,TextQuoteSelector,TextPositionSelector,37337,37342,MIS_GP,no,MIS_GP,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:42:28.983542+00:00
+6KR2RMsVEemqaGu0uUWt0g,3NabqAPM,https://europepmc.org/articles/PMC3020944/, transcriptional regulatory protein,hese compounds is the downstream, LuxR (data not shown). To furth,TextQuoteSelector,TextPositionSelector,18667,18702,MIS_GP,no,MIS_GP,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-30T11:04:16.669927+00:00
+684McsmKEemp9SvYAj8Wpg,3NabqAPM,https://europepmc.org/articles/PMC3020944/,V. harveyi BNL 258,"
+luxO D47A linked to KanR
+
+[7]
+
+","
+hfq::Tn5lacZ
+
+[31]
+
+V. anguilla",TextQuoteSelector,TextPositionSelector,20337,20355,WS_OG,no,WS_OG,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:56:50.786411+00:00
+5t-cLMmOEemFaLOfbVZfzA,3NabqAPM,https://europepmc.org/articles/PMC3020944/, infection,"respectively, survived 48 h post",. All QS inhibitors significantl,TextQuoteSelector,TextPositionSelector,27394,27404,CRT_DS,yes,[CRT_DS][ALL],,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T12:25:20.334042+00:00
+4-Jp9MmKEemKFJPyYZreUA,3NabqAPM,https://europepmc.org/articles/PMC3020944/,V. harveyi JAF 483,"
+luxU H58A linked to KanR
+
+[5]
+
+","
+luxO D47A linked to KanR
+
+[7]
+
+",TextQuoteSelector,TextPositionSelector,20287,20305,WS_OG,no,WS_OG,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:56:37.534828+00:00
+3u-WZMmLEema_PONEIKFhQ,3NabqAPM,https://europepmc.org/articles/PMC3020944/,Vibrio cholerae NCTC 8457 ,Vibrio anguillarum LMG 4411 and ,with 25–74% (Table 3). No effect,TextQuoteSelector,TextPositionSelector,21280,21306,MIS_OG,no,MIS_OG,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T12:03:38.566660+00:00
+2vms3MmIEem7tVeBS5_8lg,3NabqAPM,https://europepmc.org/articles/PMC3020944/,Escherichia coli BW 25113, QS system. These pathogens are ,", E. coli K12, E. coli LMG 25922",TextQuoteSelector,TextPositionSelector,38211,38236,WS_OG,no,WS_OG,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:42:03.511460+00:00
+2KxZnMmOEemFcKfv6K6xrw,3NabqAPM,https://europepmc.org/articles/PMC3020944/,humans,for therapeutic applications in , and animals.ConclusionBy evalua,TextQuoteSelector,TextPositionSelector,33828,33834,CRT_OG,no,CRT_OG,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T12:24:56.704618+00:00
+25V4XsmKEem0TBMJmlrIlw,3NabqAPM,https://europepmc.org/articles/PMC3020944/,V. harveyi JAF 553,"H 597
+luxN::Tn5 cqsS::CmR
+
+[9]
+
+","
+luxU H58A linked to KanR
+
+[5]
+
+",TextQuoteSelector,TextPositionSelector,20237,20255,WS_OG,no,WS_OG,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:56:23.526321+00:00
+0uI_PsmLEemv5IOnKp2BDQ,3NabqAPM,https://europepmc.org/articles/PMC3020944/, Vibrio anguillarum LMG 4411,to decrease protease activity in, and Vibrio cholerae NCTC 8457 w,TextQuoteSelector,TextPositionSelector,21247,21275,WS_OG,no,WS_OG,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T12:03:18.350164+00:00
+0k9sFMmKEemCwf-yvjRzBA,3NabqAPM,https://europepmc.org/articles/PMC3020944/,V. harveyi JMH 597," 375
+luxN::CmR
+luxQ::KanR
+
+[7]
+
+","
+luxN::Tn5 cqsS::CmR
+
+[9]
+
+V. ha",TextQuoteSelector,TextPositionSelector,20192,20210,WS_OG,no,WS_OG,,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:56:07.930051+00:00
+0XnZosmIEem7gQvO93fZ9Q,3NabqAPM,https://europepmc.org/articles/PMC3020944/, E. coli OP50,sence of ampicillin (100 µg/ml)., was routinely cultured in TSB a,TextQuoteSelector,TextPositionSelector,37269,37282,MIS_OG,yes,[MIS_OG][ALL],,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:41:47.647372+00:00
+-VBiFMmKEemFZHOVC9eCIA,3NabqAPM,https://europepmc.org/articles/PMC3020944/,V. vulnificus LMG 16867,"type El Tor, HapR frameshiftCIP
+",Isolated from tank water on eel ,TextQuoteSelector,TextPositionSelector,20592,20615,WS_OG,yes,[WS_OG][ALL],,acct:vaishnavijpai@hypothes.is,Structure-activity relationship of cinnamaldehyde analogs as inhibitors of AI-2 based quorum sensing and their effect on virulence of Vibrio spp.,2019-08-28T11:57:13.372680+00:00

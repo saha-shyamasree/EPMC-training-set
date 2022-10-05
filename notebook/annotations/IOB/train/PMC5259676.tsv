@@ -1,0 +1,8857 @@
+Multislice	O
+Analysis	O
+of	O
+Blood	O
+Flow	O
+Values	O
+in	O
+CT	O
+Perfusion	O
+Studies	O
+of	O
+Lung	B-DS
+Cancer	I-DS
+
+Academic	O
+Editor	O
+:	O
+Noriyoshi	O
+Sawabata	O
+
+Objectives	O
+.	O
+
+Tumour	B-DS
+heterogeneity	O
+represents	O
+a	O
+key	O
+issue	O
+in	O
+CT	O
+perfusion	O
+(	O
+CTp	O
+),	O
+where	O
+all	O
+studies	O
+are	O
+usually	O
+based	O
+on	O
+global	O
+mean	O
+or	O
+median	O
+values	O
+of	O
+perfusion	O
+maps	O
+,	O
+often	O
+computed	O
+on	O
+whole	O
+tumour	B-DS
+.	O
+
+We	O
+sought	O
+to	O
+determine	O
+whether	O
+,	O
+and	O
+to	O
+what	O
+extent	O
+,	O
+such	O
+global	O
+values	O
+can	O
+be	O
+representative	O
+of	O
+tumour	B-DS
+heterogeneity	O
+,	O
+with	O
+respect	O
+to	O
+single	O
+slices	O
+,	O
+and	O
+could	O
+be	O
+used	O
+for	O
+therapy	O
+assessment	O
+.	O
+Materials	O
+and	O
+Methods	O
+.	O
+
+Twelve	O
+patients	O
+with	O
+one	O
+primary	O
+non	B-DS
+-	I-DS
+small	I-DS
+cell	I-DS
+lung	I-DS
+cancer	I-DS
+lesion	O
+were	O
+enrolled	O
+in	O
+this	O
+study	O
+,	O
+for	O
+a	O
+total	O
+amount	O
+of	O
+26	O
+CTp	O
+examinations	O
+and	O
+118	O
+slices	O
+.	O
+
+Mean	O
+and	O
+median	O
+blood	O
+flow	O
+(	O
+BF	O
+)	O
+values	O
+,	O
+calculated	O
+voxel	O
+-	O
+based	O
+,	O
+were	O
+computed	O
+on	O
+each	O
+slice	O
+and	O
+the	O
+whole	O
+tumour	B-DS
+.	O
+
+To	O
+measure	O
+functional	O
+heterogeneity	O
+,	O
+entropy	O
+was	O
+calculated	O
+on	O
+BF	O
+values	O
+as	O
+well	O
+.	O
+Results	O
+.	O
+
+Most	O
+of	O
+the	O
+slices	O
+were	O
+not	O
+represented	O
+by	O
+the	O
+global	O
+BF	O
+values	O
+computed	O
+on	O
+the	O
+whole	O
+tumour	B-DS
+.	O
+
+In	O
+addition	O
+,	O
+there	O
+are	O
+a	O
+number	O
+of	O
+lesions	O
+having	O
+equivalent	O
+global	O
+BF	O
+values	O
+,	O
+but	O
+they	O
+are	O
+composed	O
+of	O
+slices	O
+having	O
+very	O
+different	O
+heterogeneity	O
+distributions	O
+,	O
+that	O
+is	O
+,	O
+entropy	O
+values	O
+.	O
+Conclusions	O
+.	O
+
+Global	O
+mean	O
+/	O
+median	O
+BF	O
+values	O
+of	O
+the	O
+single	O
+slices	O
+separately	O
+should	O
+be	O
+considered	O
+for	O
+clinical	O
+assessment	O
+,	O
+only	O
+if	O
+interpreted	O
+through	O
+entropy	O
+computed	O
+on	O
+BF	O
+values	O
+.	O
+
+The	O
+numerical	O
+equivalence	O
+between	O
+global	O
+BF	O
+values	O
+of	O
+different	O
+lesions	O
+may	O
+correspond	O
+to	O
+different	O
+clinical	O
+status	O
+,	O
+thus	O
+inducing	O
+possible	O
+errors	O
+in	O
+choice	O
+of	O
+therapy	O
+when	O
+considering	O
+global	O
+values	O
+only	O
+.	O
+
+1	O
+.	O
+
+Introduction	O
+
+The	O
+introduction	O
+of	O
+antiangiogenic	O
+therapies	O
+aiming	O
+at	O
+preventing	O
+or	O
+regularizing	O
+the	O
+growth	O
+of	O
+vascularization	O
+in	O
+cancer	B-DS
+tissues	O
+has	O
+aroused	O
+lively	O
+interest	O
+around	O
+promising	O
+imaging	O
+techniques	O
+capable	O
+of	O
+detecting	O
+vascular	O
+changes	O
+,	O
+thus	O
+providing	O
+fundamental	O
+information	O
+about	O
+treatments	O
+effectiveness	O
+before	O
+the	O
+appearance	O
+of	O
+morphological	O
+changes	O
+.	O
+
+In	O
+the	O
+last	O
+few	O
+years	O
+,	O
+computed	O
+tomography	O
+perfusion	O
+(	O
+CTp	O
+)	O
+has	O
+gained	O
+a	O
+large	O
+consensus	O
+among	O
+researchers	O
+,	O
+thanks	O
+to	O
+its	O
+capability	O
+of	O
+providing	O
+both	O
+high	O
+morphological	O
+resolution	O
+images	O
+and	O
+functional	O
+information	O
+about	O
+the	O
+investigated	O
+tissues	O
+[	O
+1	O
+].	O
+
+This	O
+noninvasive	O
+and	O
+widely	O
+available	O
+methodology	O
+allows	O
+obtaining	O
+time	O
+concentration	O
+curves	O
+(	O
+TCCs	O
+)	O
+pertaining	O
+to	O
+a	O
+specific	O
+region	O
+of	O
+interest	O
+(	O
+ROI	O
+)	O
+by	O
+repeatedly	O
+acquiring	O
+the	O
+same	O
+portion	O
+of	O
+tissue	O
+during	O
+,	O
+and	O
+after	O
+,	O
+the	O
+intravenous	O
+injection	O
+of	O
+an	O
+iodinated	O
+contrast	O
+agent	O
+[	O
+2	O
+].	O
+
+Through	O
+the	O
+analysis	O
+of	O
+TCCs	O
+,	O
+it	O
+is	O
+possible	O
+to	O
+achieve	O
+colorimetric	O
+maps	O
+representing	O
+values	O
+of	O
+perfusion	O
+parameters	O
+that	O
+can	O
+be	O
+used	O
+for	O
+multiple	O
+purposes	O
+such	O
+as	O
+monitoring	O
+vascular	O
+changes	O
+after	O
+the	O
+administration	O
+of	O
+antiangiogenic	O
+drugs	O
+[	O
+3	O
+],	O
+predicting	O
+tumour	B-DS
+response	O
+[	O
+4	O
+,	O
+5	O
+],	O
+or	O
+differentiating	O
+tumour	B-DS
+subtypes	O
+[	O
+6	O
+].	O
+
+Several	O
+sources	O
+of	O
+variability	O
+are	O
+known	O
+to	O
+affect	O
+the	O
+reliability	O
+of	O
+final	O
+perfusion	O
+parameters	O
+[	O
+7	O
+]	O
+that	O
+from	O
+time	O
+to	O
+time	O
+have	O
+also	O
+prompted	O
+the	O
+scientific	O
+community	O
+to	O
+argue	O
+about	O
+the	O
+effectiveness	O
+of	O
+CTp	O
+[	O
+1	O
+,	O
+8	O
+].	O
+
+Indeed	O
+,	O
+when	O
+investigating	O
+the	O
+possible	O
+clinical	O
+applications	O
+,	O
+tumour	B-DS
+heterogeneity	O
+,	O
+representativeness	O
+of	O
+tumour	B-DS
+regions	O
+,	O
+reliability	O
+of	O
+results	O
+,	O
+and	O
+reproducibility	O
+of	O
+CTp	O
+examinations	O
+represent	O
+different	O
+as	O
+well	O
+as	O
+interconnected	O
+issues	O
+that	O
+should	O
+be	O
+addressed	O
+as	O
+a	O
+whole	O
+.	O
+
+In	O
+fact	O
+,	O
+heterogeneity	O
+is	O
+an	O
+intrinsic	O
+characteristic	O
+of	O
+all	O
+tumours	B-DS
+[	O
+9	O
+,	O
+10	O
+],	O
+at	O
+several	O
+levels	O
+,	O
+ranging	O
+from	O
+genes	O
+to	O
+tissues	O
+[	O
+11	O
+],	O
+and	O
+this	O
+is	O
+also	O
+reflected	O
+in	O
+the	O
+hemodynamic	O
+behaviour	O
+,	O
+for	O
+instance	O
+,	O
+in	O
+areas	O
+of	O
+angiogenesis	O
+and	O
+necrosis	O
+[	O
+12	O
+].	O
+
+As	O
+a	O
+consequence	O
+,	O
+which	O
+part	O
+of	O
+the	O
+tumour	B-DS
+could	O
+be	O
+the	O
+most	O
+representative	O
+one	O
+for	O
+clinical	O
+assessments	O
+has	O
+been	O
+widely	O
+debated	O
+.	O
+
+Traditionally	O
+,	O
+the	O
+first	O
+CTp	O
+examinations	O
+were	O
+performed	O
+on	O
+one	O
+slice	O
+,	O
+due	O
+to	O
+technology	O
+limitation	O
+of	O
+data	O
+acquisition	O
+and	O
+processing	O
+apparatuses	O
+[	O
+13	O
+].	O
+
+Afterwards	O
+,	O
+the	O
+improvement	O
+of	O
+technology	O
+has	O
+permitted	O
+working	O
+on	O
+the	O
+whole	O
+tumour	B-DS
+[	O
+14	O
+],	O
+or	O
+groups	O
+of	O
+slices	O
+,	O
+as	O
+the	O
+central	O
+ones	O
+[	O
+15	O
+].	O
+
+However	O
+,	O
+authors	O
+have	O
+still	O
+continued	O
+working	O
+on	O
+a	O
+single	O
+section	O
+only	O
+[	O
+16	O
+],	O
+chosen	O
+as	O
+the	O
+one	O
+representing	O
+the	O
+largest	O
+tumour	B-DS
+diameter	O
+[	O
+17	O
+],	O
+or	O
+better	O
+incorporated	O
+the	O
+solid	O
+-	O
+appearing	O
+part	O
+of	O
+the	O
+target	O
+lesion	O
+[	O
+18	O
+],	O
+or	O
+else	O
+being	O
+in	O
+the	O
+middle	O
+scan	O
+position	O
+[	O
+19	O
+–	O
+21	O
+].	O
+
+Nonetheless	O
+,	O
+several	O
+researchers	O
+choose	O
+the	O
+single	O
+tumour	B-DS
+section	O
+based	O
+on	O
+visual	O
+considerations	O
+only	O
+[	O
+22	O
+],	O
+such	O
+as	O
+that	O
+having	O
+the	O
+best	O
+quality	O
+[	O
+23	O
+],	O
+or	O
+the	O
+widest	O
+area	O
+[	O
+24	O
+],	O
+jointly	O
+to	O
+the	O
+least	O
+variability	O
+[	O
+25	O
+].	O
+
+Undoubtedly	O
+,	O
+the	O
+most	O
+important	O
+issue	O
+to	O
+make	O
+CTp	O
+entering	O
+the	O
+clinical	O
+practice	O
+is	O
+the	O
+possibility	O
+of	O
+achieving	O
+between	O
+-	O
+patient	O
+and	O
+among	O
+-	O
+patients	O
+standardization	O
+.	O
+
+To	O
+this	O
+purpose	O
+,	O
+the	O
+reproducibility	O
+of	O
+reliable	O
+results	O
+is	O
+an	O
+essential	O
+requirement	O
+,	O
+but	O
+it	O
+must	O
+be	O
+coupled	O
+to	O
+the	O
+clinical	O
+representativeness	O
+of	O
+numerical	O
+results	O
+.	O
+
+In	O
+the	O
+literature	O
+,	O
+it	O
+has	O
+been	O
+widely	O
+stated	O
+that	O
+by	O
+considering	O
+the	O
+whole	O
+tumour	B-DS
+[	O
+26	O
+],	O
+or	O
+even	O
+group	O
+of	O
+slices	O
+[	O
+27	O
+],	O
+perfusion	O
+parameters	O
+may	O
+improve	O
+reproducibility	O
+and	O
+repeatability	O
+[	O
+28	O
+],	O
+against	O
+a	O
+single	O
+slice	O
+.	O
+
+That	O
+is	O
+,	O
+considering	O
+a	O
+wider	O
+“	O
+population	O
+”	O
+(	O
+i	O
+.	O
+e	O
+.,	O
+more	O
+slices	O
+),	O
+averaging	O
+values	O
+helps	O
+achieving	O
+a	O
+“	O
+global	O
+”	O
+tumour	B-DS
+behaviour	O
+.	O
+
+Using	O
+global	O
+mean	O
+or	O
+median	O
+values	O
+can	O
+also	O
+work	O
+for	O
+diagnosis	O
+purposes	O
+,	O
+where	O
+CTp	O
+has	O
+been	O
+used	O
+to	O
+discriminate	O
+between	O
+benign	O
+and	O
+malignant	O
+in	O
+different	O
+types	O
+of	O
+lung	O
+lesions	O
+,	O
+including	O
+pulmonary	O
+solitary	O
+nodules	O
+.	O
+
+For	O
+instance	O
+,	O
+the	O
+overall	O
+mean	O
+of	O
+pulmonary	O
+index	O
+,	O
+pulmonary	O
+and	O
+bronchial	O
+blood	O
+flow	O
+(	O
+BF	O
+),	O
+is	O
+computed	O
+on	O
+multiple	O
+slices	O
+in	O
+[	O
+29	O
+]	O
+and	O
+on	O
+three	O
+tumour	B-DS
+sections	O
+chosen	O
+according	O
+to	O
+the	O
+axial	O
+,	O
+coronal	O
+,	O
+and	O
+sagittal	O
+planes	O
+,	O
+in	O
+[	O
+30	O
+].	O
+
+The	O
+overall	O
+median	O
+of	O
+all	O
+the	O
+CTp	O
+parameters	O
+for	O
+the	O
+whole	O
+tumour	B-DS
+is	O
+computed	O
+in	O
+[	O
+14	O
+],	O
+where	O
+the	O
+median	O
+was	O
+preferred	O
+over	O
+the	O
+mean	O
+operator	O
+to	O
+avoid	O
+outliers	O
+.	O
+
+All	O
+the	O
+studies	O
+considered	O
+refer	O
+to	O
+global	O
+perfusion	O
+parameters	O
+,	O
+whether	O
+they	O
+are	O
+mean	O
+or	O
+median	O
+values	O
+,	O
+encompassing	O
+all	O
+the	O
+tumour	B-DS
+characteristics	O
+.	O
+
+However	O
+,	O
+in	O
+this	O
+way	O
+,	O
+besides	O
+the	O
+uncertainty	O
+intrinsic	O
+to	O
+the	O
+CTp	O
+acquisition	O
+and	O
+processing	O
+procedure	O
+,	O
+global	O
+parameters	O
+also	O
+reduce	O
+the	O
+variability	O
+due	O
+to	O
+tumour	B-DS
+heterogeneity	O
+.	O
+
+This	O
+is	O
+acknowledged	O
+by	O
+several	O
+authors	O
+,	O
+which	O
+recognize	O
+that	O
+global	O
+values	O
+only	O
+provide	O
+an	O
+overall	O
+measure	O
+of	O
+variability	O
+[	O
+31	O
+]	O
+and	O
+that	O
+“	O
+may	O
+not	O
+be	O
+optimal	O
+for	O
+tumour	B-DS
+evaluation	O
+prior	O
+to	O
+treatment	O
+or	O
+therapy	O
+response	O
+evaluation	O
+”	O
+[	O
+32	O
+].	O
+
+Nevertheless	O
+,	O
+very	O
+few	O
+attempts	O
+have	O
+been	O
+made	O
+to	O
+try	O
+assessing	O
+the	O
+capability	O
+of	O
+CTp	O
+parameters	O
+to	O
+evaluate	O
+the	O
+treatment	O
+response	O
+of	O
+patients	O
+with	O
+non	B-DS
+-	I-DS
+small	I-DS
+cell	I-DS
+lung	I-DS
+cancer	I-DS
+(	O
+NSCLC	B-DS
+),	O
+but	O
+the	O
+lack	O
+of	O
+reproducibility	O
+could	O
+not	O
+confirm	O
+the	O
+results	O
+.	O
+
+For	O
+instance	O
+,	O
+the	O
+study	O
+in	O
+[	O
+33	O
+],	O
+dealing	O
+with	O
+CTp	O
+monitoring	O
+of	O
+antiangiogenic	O
+therapies	O
+in	O
+lung	B-DS
+cancer	I-DS
+,	O
+concludes	O
+that	O
+CTp	O
+can	O
+detect	O
+therapy	O
+-	O
+induced	O
+changes	O
+in	O
+perfusion	O
+,	O
+but	O
+the	O
+lack	O
+of	O
+reproducibility	O
+depletes	O
+these	O
+findings	O
+.	O
+
+Similar	O
+outcomes	O
+regarding	O
+the	O
+CTp	O
+capability	O
+of	O
+monitoring	O
+antiangiogenic	O
+therapies	O
+were	O
+reported	O
+in	O
+[	O
+4	O
+],	O
+even	O
+though	O
+,	O
+in	O
+this	O
+case	O
+,	O
+no	O
+reproducibility	O
+studies	O
+have	O
+been	O
+performed	O
+.	O
+
+On	O
+the	O
+other	O
+hand	O
+,	O
+more	O
+recently	O
+the	O
+authors	O
+in	O
+[	O
+24	O
+]	O
+could	O
+not	O
+find	O
+any	O
+correlation	O
+between	O
+CTp	O
+parameters	O
+and	O
+survival	O
+of	O
+patients	O
+treated	O
+with	O
+antiangiogenic	O
+therapies	O
+and	O
+chemotherapy	O
+.	O
+
+Also	O
+,	O
+they	O
+concluded	O
+that	O
+entropy	O
+only	O
+,	O
+computed	O
+on	O
+the	O
+Hounsfield	O
+units	O
+(	O
+HU	O
+),	O
+could	O
+be	O
+considered	O
+as	O
+an	O
+independent	O
+prognostic	O
+factor	O
+for	O
+overall	O
+survival	O
+(	O
+OS	O
+),	O
+this	O
+suggesting	O
+the	O
+importance	O
+of	O
+tumour	B-DS
+heterogeneity	O
+in	O
+assessing	O
+tumour	B-DS
+aggressiveness	O
+.	O
+
+While	O
+it	O
+is	O
+widely	O
+agreed	O
+that	O
+considering	O
+tumour	B-DS
+volumes	O
+give	O
+more	O
+information	O
+than	O
+using	O
+a	O
+single	O
+slice	O
+,	O
+usually	O
+single	O
+slices	O
+are	O
+merged	O
+together	O
+to	O
+provide	O
+global	O
+parameters	O
+.	O
+
+The	O
+aim	O
+of	O
+this	O
+work	O
+is	O
+to	O
+investigate	O
+the	O
+clinical	O
+representativeness	O
+of	O
+global	O
+perfusion	O
+values	O
+and	O
+to	O
+assess	O
+their	O
+capability	O
+to	O
+deal	O
+with	O
+tumour	B-DS
+heterogeneity	O
+.	O
+
+To	O
+this	O
+purpose	O
+,	O
+an	O
+extensive	O
+analysis	O
+is	O
+carried	O
+out	O
+on	O
+a	O
+wide	O
+set	O
+of	O
+118	O
+tumour	B-DS
+slices	O
+,	O
+and	O
+on	O
+corresponding	O
+whole	O
+tumours	B-DS
+,	O
+referring	O
+to	O
+12	O
+baseline	O
+and	O
+14	O
+follow	O
+-	O
+up	O
+(	O
+FU	O
+)	O
+examinations	O
+.	O
+
+BF	O
+values	O
+for	O
+each	O
+voxel	O
+of	O
+the	O
+various	O
+tumour	B-DS
+sections	O
+were	O
+calculated	O
+and	O
+showed	O
+through	O
+the	O
+use	O
+of	O
+colorimetric	O
+maps	O
+.	O
+
+Global	O
+mean	O
+and	O
+median	O
+BF	O
+values	O
+of	O
+each	O
+slice	O
+and	O
+of	O
+the	O
+whole	O
+tumour	B-DS
+were	O
+then	O
+computed	O
+.	O
+
+In	O
+order	O
+to	O
+measure	O
+hemodynamic	O
+heterogeneity	O
+,	O
+entropy	O
+was	O
+computed	O
+on	O
+the	O
+BF	O
+values	O
+of	O
+each	O
+colorimetric	O
+map	O
+and	O
+of	O
+each	O
+lesion	O
+.	O
+
+The	O
+entropy	O
+is	O
+a	O
+well	O
+-	O
+known	O
+measure	O
+of	O
+the	O
+information	O
+content	O
+[	O
+34	O
+]	O
+and	O
+,	O
+to	O
+the	O
+best	O
+of	O
+our	O
+knowledge	O
+,	O
+this	O
+is	O
+the	O
+first	O
+time	O
+that	O
+the	O
+entropy	O
+is	O
+computed	O
+on	O
+BF	O
+maps	O
+.	O
+
+Therefore	O
+,	O
+in	O
+this	O
+work	O
+the	O
+entropy	O
+is	O
+also	O
+a	O
+measure	O
+of	O
+the	O
+representativeness	O
+of	O
+the	O
+information	O
+content	O
+conveyed	O
+by	O
+a	O
+BF	O
+map	O
+.	O
+
+The	O
+first	O
+statistical	O
+analysis	O
+was	O
+carried	O
+out	O
+to	O
+exclude	O
+that	O
+the	O
+groups	O
+of	O
+single	O
+slices	O
+composing	O
+the	O
+respective	O
+whole	O
+tumours	B-DS
+had	O
+the	O
+same	O
+mean	O
+or	O
+median	O
+value	O
+.	O
+
+Then	O
+,	O
+a	O
+second	O
+analysis	O
+was	O
+executed	O
+to	O
+assess	O
+whether	O
+some	O
+slices	O
+exist	O
+with	O
+the	O
+same	O
+mean	O
+or	O
+median	O
+global	O
+BF	O
+values	O
+as	O
+the	O
+whole	O
+tumour	B-DS
+,	O
+so	O
+as	O
+to	O
+find	O
+out	O
+which	O
+perfusion	O
+pattern	O
+,	O
+at	O
+several	O
+levels	O
+,	O
+is	O
+represented	O
+by	O
+the	O
+global	O
+values	O
+of	O
+whole	O
+tumours	B-DS
+.	O
+
+In	O
+addition	O
+,	O
+being	O
+each	O
+slice	O
+endowed	O
+with	O
+its	O
+own	O
+entropy	O
+value	O
+,	O
+it	O
+is	O
+also	O
+possible	O
+to	O
+assess	O
+the	O
+heterogeneity	O
+those	O
+selected	O
+slices	O
+own	O
+.	O
+
+To	O
+complete	O
+the	O
+analyses	O
+,	O
+a	O
+comparison	O
+between	O
+tumours	B-DS
+with	O
+same	O
+global	O
+mean	O
+or	O
+median	O
+BF	O
+values	O
+was	O
+performed	O
+,	O
+so	O
+as	O
+to	O
+verify	O
+whether	O
+,	O
+and	O
+to	O
+what	O
+extent	O
+,	O
+a	O
+statistical	O
+equivalence	O
+of	O
+global	O
+perfusion	O
+values	O
+hints	O
+at	O
+similar	O
+perfusion	O
+patterns	O
+and	O
+heterogeneity	O
+features	O
+.	O
+
+During	O
+data	O
+analysis	O
+,	O
+the	O
+results	O
+achieved	O
+for	O
+baseline	O
+and	O
+FU	O
+examinations	O
+are	O
+kept	O
+separate	O
+in	O
+order	O
+to	O
+allow	O
+detecting	O
+possible	O
+differences	O
+between	O
+untreated	O
+lesions	O
+,	O
+preserving	O
+their	O
+natural	O
+vascular	O
+structure	O
+,	O
+and	O
+lesions	O
+whose	O
+vascular	O
+network	O
+has	O
+been	O
+modified	O
+by	O
+the	O
+action	O
+of	O
+antiangiogenic	O
+treatments	O
+.	O
+
+2	O
+.	O
+
+Materials	O
+and	O
+Methods	O
+
+This	O
+retrospective	O
+study	O
+was	O
+approved	O
+by	O
+the	O
+Institutional	O
+Review	O
+Board	O
+.	O
+
+Twenty	O
+-	O
+two	O
+patients	O
+(	O
+fifteen	O
+men	O
+,	O
+seven	O
+women	O
+,	O
+mean	O
+age	O
+64	O
+.	O
+7	O
+years	O
+,	O
+range	O
+42	O
+–	O
+81	O
+years	O
+)	O
+with	O
+one	O
+primary	O
+NSCLC	B-DS
+lesion	O
+underwent	O
+CTp	O
+.	O
+
+Patients	O
+over	O
+eighteen	O
+,	O
+with	O
+lesions	O
+having	O
+the	O
+longest	O
+axial	O
+diameter	O
+larger	O
+than	O
+15	O
+mm	O
+in	O
+at	O
+least	O
+three	O
+sections	O
+,	O
+were	O
+considered	O
+.	O
+
+Lesions	O
+whose	O
+boundaries	O
+could	O
+not	O
+be	O
+accurately	O
+identified	O
+,	O
+such	O
+as	O
+in	O
+case	O
+of	O
+highly	O
+inflamed	O
+tissues	O
+surrounding	O
+the	O
+tumour	B-DS
+,	O
+were	O
+excluded	O
+from	O
+the	O
+study	O
+.	O
+
+Finally	O
+,	O
+twelve	O
+patients	O
+(	O
+nine	O
+men	O
+,	O
+three	O
+women	O
+,	O
+mean	O
+age	O
+64	O
+.	O
+7	O
+years	O
+,	O
+range	O
+42	O
+–	O
+81	O
+years	O
+)	O
+with	O
+a	O
+target	O
+lesion	O
+having	O
+mean	O
+longest	O
+axial	O
+diameter	O
+of	O
+43	O
+.	O
+5	O
+mm	O
+(	O
+range	O
+25	O
+.	O
+3	O
+–	O
+75	O
+.	O
+2	O
+mm	O
+)	O
+and	O
+a	O
+mean	O
+area	O
+of	O
+1625	O
+mm2	O
+(	O
+range	O
+433	O
+–	O
+1995	O
+mm2	O
+)	O
+were	O
+enrolled	O
+.	O
+
+Five	O
+of	O
+them	O
+underwent	O
+at	O
+least	O
+one	O
+FU	O
+,	O
+for	O
+a	O
+total	O
+amount	O
+of	O
+26	O
+CTp	O
+examinations	O
+.	O
+
+2	O
+.	O
+1	O
+.	O
+
+CTp	O
+Protocol	O
+and	O
+Perfusion	O
+Maps	O
+
+Axial	O
+CTp	O
+examinations	O
+were	O
+carried	O
+out	O
+using	O
+a	O
+256	O
+-	O
+slice	O
+CT	O
+system	O
+(	O
+Brilliance	O
+iCT	O
+,	O
+Philips	O
+Medical	O
+Systems	O
+,	O
+Best	O
+,	O
+The	O
+Netherlands	O
+).	O
+
+Patients	O
+were	O
+instructed	O
+for	O
+breath	O
+-	O
+hold	O
+and	O
+laid	O
+in	O
+the	O
+supine	O
+(	O
+feet	O
+first	O
+)	O
+position	O
+.	O
+
+An	O
+initial	O
+full	O
+-	O
+body	O
+,	O
+unenhanced	O
+and	O
+low	O
+-	O
+dose	O
+,	O
+CT	O
+scan	O
+was	O
+performed	O
+to	O
+identify	O
+the	O
+target	O
+lesion	O
+at	O
+the	O
+baseline	O
+condition	O
+.	O
+
+Then	O
+,	O
+50	O
+mL	O
+of	O
+intravenous	O
+bolus	O
+of	O
+contrast	O
+agent	O
+(	O
+Iomeron	O
+,	O
+Bracco	O
+,	O
+Milan	O
+,	O
+Italy	O
+)	O
+was	O
+administered	O
+to	O
+the	O
+patients	O
+at	O
+5	O
+mL	O
+/	O
+s	O
+.	O
+
+Five	O
+seconds	O
+later	O
+,	O
+a	O
+CTp	O
+scan	O
+of	O
+25	O
+-	O
+second	O
+duration	O
+was	O
+performed	O
+at	O
+fixed	O
+tube	O
+voltage	O
+(	O
+80	O
+kV	O
+),	O
+current	O
+(	O
+250	O
+mA	O
+),	O
+and	O
+exposure	O
+(	O
+100	O
+mAs	O
+).	O
+
+The	O
+protocol	O
+yielded	O
+20	O
+scans	O
+,	O
+centred	O
+on	O
+the	O
+target	O
+lesion	O
+,	O
+with	O
+a	O
+z	O
+-	O
+coverage	O
+of	O
+55	O
+mm	O
+(	O
+11	O
+slices	O
+×	O
+5	O
+mm	O
+thickness	O
+,	O
+0	O
+.	O
+4	O
+-	O
+second	O
+rotation	O
+time	O
+),	O
+and	O
+rearranged	O
+into	O
+220	O
+cine	O
+images	O
+(	O
+512	O
+×	O
+512	O
+pixel	O
+,	O
+350	O
+mm	O
+×	O
+350	O
+mm	O
+,	O
+5	O
+mm	O
+slice	O
+spacing	O
+,	O
+and	O
+1	O
+.	O
+25	O
+-	O
+second	O
+temporal	O
+resolution	O
+).	O
+
+For	O
+each	O
+slice	O
+,	O
+the	O
+longest	O
+axial	O
+diameter	O
+was	O
+computed	O
+,	O
+using	O
+a	O
+digital	O
+calliper	O
+.	O
+
+Due	O
+to	O
+the	O
+inclusion	O
+criteria	O
+,	O
+the	O
+number	O
+of	O
+slices	O
+where	O
+tumours	B-DS
+are	O
+visible	O
+changes	O
+for	O
+each	O
+examination	O
+,	O
+but	O
+they	O
+are	O
+almost	O
+always	O
+visible	O
+for	O
+at	O
+least	O
+five	O
+slices	O
+.	O
+
+For	O
+this	O
+reason	O
+,	O
+the	O
+set	O
+of	O
+the	O
+five	O
+central	O
+slices	O
+was	O
+selected	O
+[	O
+27	O
+],	O
+achieving	O
+118	O
+slices	O
+(	O
+57	O
+for	O
+baseline	O
+CTp	O
+and	O
+61	O
+for	O
+FUs	O
+)	O
+altogether	O
+.	O
+
+Hereinafter	O
+,	O
+the	O
+set	O
+of	O
+slices	O
+of	O
+each	O
+tumour	B-DS
+is	O
+referred	O
+to	O
+as	O
+the	O
+“	O
+whole	O
+tumour	B-DS
+.”	O
+
+Two	O
+25	O
+-	O
+year	O
+experienced	O
+radiologists	O
+analysed	O
+the	O
+whole	O
+sequences	O
+in	O
+cine	O
+-	O
+mode	O
+fashion	O
+and	O
+in	O
+agreement	O
+,	O
+for	O
+each	O
+examination	O
+,	O
+placed	O
+a	O
+circular	O
+region	O
+of	O
+interest	O
+(	O
+ROI	O
+)	O
+within	O
+the	O
+aorta	O
+to	O
+extract	O
+the	O
+arterial	O
+input	O
+and	O
+,	O
+for	O
+each	O
+slice	O
+,	O
+drew	O
+a	O
+ROI	O
+following	O
+the	O
+margin	O
+of	O
+tumours	B-DS
+.	O
+
+Voxel	O
+-	O
+based	O
+BF	O
+values	O
+,	O
+expressed	O
+in	O
+mL	O
+/	O
+min	O
+/	O
+100	O
+g	O
+,	O
+were	O
+computed	O
+for	O
+each	O
+slice	O
+,	O
+using	O
+an	O
+in	O
+-	O
+house	O
+algorithm	O
+developed	O
+in	O
+Matlab	O
+(	O
+MathWorks	O
+,	O
+Natick	O
+,	O
+MA	O
+),	O
+implementing	O
+the	O
+maximum	O
+slope	O
+method	O
+[	O
+35	O
+]	O
+and	O
+represented	O
+through	O
+the	O
+use	O
+of	O
+colorimetric	O
+maps	O
+.	O
+
+Misleading	O
+perfusion	O
+values	O
+computed	O
+on	O
+poorly	O
+representative	O
+TCCs	O
+(	O
+due	O
+to	O
+a	O
+bad	O
+fit	O
+)	O
+were	O
+excluded	O
+from	O
+the	O
+analysis	O
+according	O
+to	O
+what	O
+is	O
+reported	O
+in	O
+[	O
+16	O
+,	O
+36	O
+],	O
+in	O
+order	O
+to	O
+obtain	O
+more	O
+reliable	O
+results	O
+.	O
+
+The	O
+corresponding	O
+voxels	O
+are	O
+displayed	O
+in	O
+the	O
+colour	O
+maps	O
+with	O
+the	O
+“	O
+pink	O
+”	O
+colour	O
+.	O
+
+Mean	O
+BF	O
+values	O
+representative	O
+of	O
+each	O
+slice	O
+(	O
+μs	O
+)	O
+and	O
+of	O
+the	O
+whole	O
+lesion	O
+(	O
+μw	O
+)	O
+were	O
+computed	O
+for	O
+each	O
+examination	O
+.	O
+
+Median	O
+values	O
+were	O
+also	O
+computed	O
+for	O
+each	O
+slice	O
+(	O
+Ms	O
+)	O
+and	O
+the	O
+whole	O
+lesion	O
+(	O
+Mw	O
+).	O
+
+The	O
+ranges	O
+(	O
+r	O
+)	O
+between	O
+minimum	O
+and	O
+maximum	O
+of	O
+μs	O
+and	O
+Ms	O
+,	O
+rμ	O
+and	O
+rM	O
+,	O
+respectively	O
+,	O
+were	O
+computed	O
+as	O
+a	O
+variability	O
+measure	O
+referred	O
+to	O
+as	O
+the	O
+whole	O
+volume	O
+.	O
+
+2	O
+.	O
+2	O
+.	O
+
+Heterogeneity	O
+Analysis	O
+of	O
+BF	O
+Maps	O
+
+The	O
+entropy	O
+is	O
+a	O
+measure	O
+often	O
+used	O
+in	O
+texture	O
+analysis	O
+,	O
+also	O
+applied	O
+to	O
+the	O
+oncologic	O
+field	O
+,	O
+for	O
+instance	O
+,	O
+to	O
+get	O
+a	O
+measure	O
+of	O
+texture	O
+irregularities	O
+[	O
+12	O
+].	O
+
+Besides	O
+that	O
+,	O
+the	O
+entropy	O
+,	O
+computed	O
+on	O
+both	O
+nonenhanced	O
+and	O
+contrast	O
+-	O
+enhanced	O
+CT	O
+images	O
+,	O
+has	O
+been	O
+shown	O
+to	O
+correlate	O
+with	O
+the	O
+overall	O
+survival	O
+in	O
+patients	O
+with	O
+colorectal	B-DS
+cancer	I-DS
+[	O
+37	O
+]	O
+and	O
+gliomas	B-DS
+[	O
+38	O
+]	O
+and	O
+with	O
+tumour	B-DS
+staging	O
+[	O
+39	O
+]	O
+and	O
+overall	O
+survival	O
+[	O
+24	O
+]	O
+in	O
+patients	O
+with	O
+NSCLC	B-DS
+.	O
+
+In	O
+this	O
+work	O
+,	O
+the	O
+entropy	O
+,	O
+E	O
+,	O
+was	O
+computed	O
+for	O
+the	O
+first	O
+time	O
+on	O
+the	O
+BF	O
+maps	O
+of	O
+the	O
+whole	O
+tumour	B-DS
+(	O
+Ew	O
+)	O
+and	O
+of	O
+each	O
+slice	O
+(	O
+Es	O
+),	O
+with	O
+the	O
+purpose	O
+to	O
+get	O
+a	O
+measure	O
+of	O
+the	O
+hemodynamic	O
+heterogeneity	O
+.	O
+
+The	O
+range	O
+rE	O
+between	O
+minimum	O
+and	O
+maximum	O
+Ew	O
+values	O
+is	O
+also	O
+considered	O
+as	O
+a	O
+measure	O
+of	O
+the	O
+heterogeneity	O
+variability	O
+in	O
+the	O
+whole	O
+tumour	B-DS
+.	O
+E	O
+measures	O
+are	O
+reported	O
+in	O
+arbitrary	O
+units	O
+(	O
+a	O
+.	O
+u	O
+.).	O
+
+More	O
+details	O
+are	O
+given	O
+in	O
+the	O
+Appendix	O
+.	O
+
+Figure	O
+1	O
+reports	O
+an	O
+example	O
+of	O
+BF	O
+maps	O
+,	O
+referred	O
+to	O
+as	O
+lesion	O
+ID8	O
+,	O
+ordered	O
+from	O
+(	O
+a	O
+)	O
+to	O
+(	O
+e	O
+)	O
+according	O
+to	O
+increasing	O
+Es	O
+values	O
+.	O
+
+2	O
+.	O
+3	O
+.	O
+
+Statistical	O
+and	O
+Data	O
+Analysis	O
+
+Statistical	O
+analysis	O
+was	O
+performed	O
+by	O
+using	O
+statistical	O
+software	O
+(	O
+R	O
+,	O
+version	O
+3	O
+.	O
+2	O
+.	O
+1	O
+,	O
+The	O
+R	O
+Foundation	O
+for	O
+Statistical	O
+Computing	O
+).	O
+p	O
+values	O
+≤	O
+0	O
+.	O
+05	O
+were	O
+considered	O
+for	O
+statistical	O
+significance	O
+.	O
+
+Kendall	O
+-	O
+τ	O
+coefficient	O
+was	O
+used	O
+to	O
+assess	O
+any	O
+possible	O
+correlation	O
+between	O
+measurement	O
+errors	O
+and	O
+their	O
+magnitude	O
+:	O
+in	O
+case	O
+of	O
+concordance	O
+,	O
+data	O
+were	O
+log	O
+-	O
+transformed	O
+.	O
+
+Three	O
+groups	O
+of	O
+statistical	O
+tests	O
+were	O
+performed	O
+.	O
+
+First	O
+,	O
+the	O
+one	O
+-	O
+way	O
+analysis	O
+of	O
+variance	O
+(	O
+ANOVA	O
+)	O
+was	O
+performed	O
+to	O
+check	O
+whether	O
+all	O
+slices	O
+(	O
+the	O
+“	O
+groups	O
+”)	O
+of	O
+the	O
+same	O
+tumour	B-DS
+have	O
+the	O
+same	O
+mean	O
+value	O
+,	O
+that	O
+is	O
+,	O
+whether	O
+they	O
+can	O
+represent	O
+the	O
+same	O
+population	O
+,	O
+in	O
+terms	O
+of	O
+BF	O
+values	O
+.	O
+
+An	O
+analogous	O
+assessment	O
+was	O
+carried	O
+out	O
+for	O
+medians	O
+,	O
+through	O
+the	O
+Chi	O
+-	O
+squared	O
+test	O
+of	O
+independence	O
+.	O
+
+The	O
+second	O
+group	O
+consists	O
+in	O
+the	O
+two	O
+-	O
+tail	O
+t	O
+-	O
+test	O
+and	O
+the	O
+Wilcoxon	O
+rank	O
+sum	O
+test	O
+,	O
+which	O
+were	O
+utilized	O
+for	O
+three	O
+different	O
+purposes	O
+.	O
+
+In	O
+fact	O
+,	O
+they	O
+were	O
+applied	O
+to	O
+test	O
+,	O
+for	O
+each	O
+lesion	O
+,	O
+the	O
+difference	O
+of	O
+means	O
+and	O
+medians	O
+,	O
+respectively	O
+,	O
+between	O
+each	O
+slice	O
+and	O
+the	O
+whole	O
+tumour	B-DS
+,	O
+with	O
+the	O
+purpose	O
+to	O
+check	O
+whether	O
+a	O
+slice	O
+exists	O
+which	O
+can	O
+represent	O
+the	O
+whole	O
+tumour	B-DS
+(	O
+i	O
+.	O
+e	O
+.,	O
+having	O
+the	O
+same	O
+global	O
+value	O
+).	O
+
+The	O
+same	O
+tests	O
+were	O
+also	O
+carried	O
+out	O
+to	O
+check	O
+for	O
+μs	O
+or	O
+Ms	O
+differences	O
+between	O
+couples	O
+of	O
+slices	O
+,	O
+whether	O
+they	O
+belonged	O
+to	O
+same	O
+tumour	B-DS
+or	O
+different	O
+ones	O
+.	O
+
+Finally	O
+,	O
+they	O
+were	O
+employed	O
+to	O
+select	O
+which	O
+tumours	B-DS
+have	O
+the	O
+same	O
+statistical	O
+μw	O
+or	O
+Mw	O
+values	O
+,	O
+to	O
+further	O
+compare	O
+their	O
+perfusion	O
+patterns	O
+(	O
+i	O
+.	O
+e	O
+.,	O
+their	O
+Ew	O
+).	O
+
+In	O
+fact	O
+,	O
+computing	O
+and	O
+using	O
+a	O
+global	O
+mean	O
+,	O
+or	O
+median	O
+,	O
+perfusion	O
+value	O
+for	O
+CTp	O
+studies	O
+implicitly	O
+means	O
+that	O
+sets	O
+of	O
+BF	O
+values	O
+(	O
+e	O
+.	O
+g	O
+.,	O
+slices	O
+or	O
+whole	O
+tumours	B-DS
+)	O
+with	O
+same	O
+μs	O
+(	O
+or	O
+Ms	O
+)	O
+as	O
+μw	O
+(	O
+or	O
+Mw	O
+)	O
+are	O
+clinically	O
+equivalent	O
+.	O
+
+The	O
+third	O
+group	O
+of	O
+tests	O
+is	O
+composed	O
+by	O
+the	O
+one	O
+-	O
+tail	O
+t	O
+-	O
+test	O
+only	O
+,	O
+which	O
+was	O
+performed	O
+to	O
+assess	O
+the	O
+differences	O
+between	O
+the	O
+means	O
+of	O
+Es	O
+for	O
+baseline	O
+and	O
+FU	O
+examinations	O
+.	O
+
+3	O
+.	O
+
+Results	O
+
+The	O
+goal	O
+of	O
+this	O
+section	O
+is	O
+assessing	O
+the	O
+capability	O
+of	O
+global	O
+values	O
+,	O
+computed	O
+on	O
+the	O
+whole	O
+tumour	B-DS
+,	O
+to	O
+represent	O
+the	O
+clinically	O
+relevant	O
+perfusion	O
+features	O
+of	O
+a	O
+tumour	B-DS
+,	O
+assuming	O
+that	O
+the	O
+heterogeneity	O
+is	O
+among	O
+the	O
+most	O
+important	O
+ones	O
+[	O
+40	O
+].	O
+
+To	O
+this	O
+purpose	O
+,	O
+we	O
+addressed	O
+tumours	B-DS
+with	O
+different	O
+heterogeneities	O
+,	O
+referring	O
+to	O
+baseline	O
+and	O
+FUs	O
+examinations	O
+,	O
+by	O
+comparing	O
+those	O
+with	O
+the	O
+same	O
+global	O
+value	O
+.	O
+
+In	O
+addition	O
+,	O
+whole	O
+tumours	B-DS
+and	O
+their	O
+composing	O
+slices	O
+with	O
+same	O
+global	O
+values	O
+were	O
+compared	O
+as	O
+well	O
+.	O
+
+In	O
+this	O
+section	O
+,	O
+we	O
+aim	O
+to	O
+check	O
+whether	O
+,	O
+and	O
+to	O
+what	O
+extent	O
+,	O
+numerical	O
+equivalence	O
+matches	O
+with	O
+clinical	O
+one	O
+.	O
+
+As	O
+the	O
+first	O
+outcome	O
+,	O
+it	O
+is	O
+worth	O
+reporting	O
+that	O
+the	O
+hypotheses	O
+that	O
+means	O
+or	O
+medians	O
+of	O
+slices	O
+were	O
+all	O
+equivalent	O
+were	O
+rejected	O
+,	O
+for	O
+each	O
+examination	O
+.	O
+
+Actually	O
+,	O
+this	O
+finding	O
+was	O
+expected	O
+and	O
+suggests	O
+that	O
+the	O
+variability	O
+between	O
+slices	O
+is	O
+significantly	O
+greater	O
+than	O
+the	O
+variability	O
+within	O
+slices	O
+[	O
+41	O
+].	O
+
+Tables	O
+1	O
+and	O
+2	O
+report	O
+the	O
+most	O
+significant	O
+measures	O
+(	O
+entropy	O
+,	O
+mean	O
+,	O
+and	O
+median	O
+)	O
+for	O
+all	O
+examinations	O
+,	O
+calculated	O
+on	O
+BF	O
+values	O
+of	O
+each	O
+slice	O
+and	O
+of	O
+the	O
+whole	O
+tumour	B-DS
+.	O
+
+The	O
+range	O
+of	O
+measures	O
+is	O
+also	O
+reported	O
+.	O
+
+For	O
+the	O
+sake	O
+of	O
+brevity	O
+,	O
+in	O
+this	O
+section	O
+we	O
+just	O
+report	O
+a	O
+subset	O
+of	O
+the	O
+most	O
+interesting	O
+cases	O
+.	O
+
+3	O
+.	O
+1	O
+.	O
+
+Baseline	O
+CTp	O
+
+Table	O
+1	O
+resumes	O
+the	O
+most	O
+significant	O
+measures	O
+for	O
+the	O
+baseline	O
+CTp	O
+examinations	O
+.	O
+
+Statistical	O
+analysis	O
+shows	O
+that	O
+ten	O
+slices	O
+exist	O
+which	O
+have	O
+the	O
+same	O
+global	O
+BF	O
+as	O
+the	O
+respective	O
+whole	O
+tumour	B-DS
+,	O
+seven	O
+times	O
+regarding	O
+mean	O
+values	O
+,	O
+and	O
+eight	O
+ones	O
+median	O
+values	O
+.	O
+
+Five	O
+times	O
+the	O
+whole	O
+tumour	B-DS
+could	O
+be	O
+represented	O
+by	O
+the	O
+same	O
+slice	O
+detected	O
+by	O
+both	O
+μw	O
+and	O
+Mw	O
+values	O
+.	O
+μw	O
+and	O
+Mw	O
+values	O
+never	O
+selected	O
+the	O
+slice	O
+with	O
+maximum	O
+Es	O
+and	O
+one	O
+time	O
+selected	O
+the	O
+slice	O
+with	O
+minimum	O
+Es	O
+(	O
+ID12	O
+and	O
+ID4	O
+,	O
+for	O
+mean	O
+and	O
+median	O
+,	O
+respectively	O
+).	O
+Figure	O
+2	O
+reports	O
+the	O
+five	O
+slices	O
+of	O
+ID12	O
+,	O
+one	O
+of	O
+the	O
+most	O
+interesting	O
+lesions	O
+,	O
+where	O
+the	O
+average	O
+BF	O
+value	O
+of	O
+the	O
+whole	O
+tumour	B-DS
+(	O
+μw	O
+=	O
+125	O
+.	O
+0	O
+)	O
+corresponds	O
+to	O
+that	O
+of	O
+the	O
+first	O
+slice	O
+(	O
+μs	O
+=	O
+124	O
+.	O
+5	O
+,	O
+Figure	O
+2	O
+(	O
+a	O
+),	O
+last	O
+row	O
+).	O
+
+It	O
+is	O
+worth	O
+noting	O
+that	O
+this	O
+slice	O
+also	O
+retains	O
+the	O
+minimum	O
+Es	O
+=	O
+7	O
+.	O
+48	O
+,	O
+that	O
+is	O
+,	O
+the	O
+lowest	O
+heterogeneity	O
+.	O
+
+In	O
+fact	O
+,	O
+it	O
+shows	O
+quite	O
+a	O
+uniform	O
+,	O
+low	O
+,	O
+perfusion	O
+.	O
+
+On	O
+the	O
+contrary	O
+,	O
+the	O
+last	O
+slice	O
+(	O
+Figure	O
+2	O
+(	O
+e	O
+))	O
+shows	O
+a	O
+marked	O
+heterogeneity	O
+,	O
+the	O
+highest	O
+one	O
+(	O
+Es	O
+=	O
+8	O
+.	O
+37	O
+),	O
+having	O
+in	O
+its	O
+upper	O
+part	O
+a	O
+hyperperfused	O
+region	O
+(	O
+with	O
+BF	O
+values	O
+higher	O
+than	O
+300	O
+),	O
+and	O
+a	O
+lower	O
+hypoperfused	O
+region	O
+with	O
+BF	O
+values	O
+nearly	O
+40	O
+.	O
+
+3	O
+.	O
+2	O
+.	O
+
+Follow	O
+-	O
+Ups	O
+CTp	O
+
+Table	O
+2	O
+resumes	O
+the	O
+most	O
+significant	O
+measures	O
+for	O
+the	O
+FU	O
+CTp	O
+examinations	O
+.	O
+
+Fifteen	O
+slices	O
+were	O
+representative	O
+of	O
+the	O
+whole	O
+tumour	B-DS
+,	O
+thirteen	O
+of	O
+which	O
+regarding	O
+mean	O
+BF	O
+values	O
+,	O
+and	O
+eight	O
+pertaining	O
+to	O
+median	O
+values	O
+.	O
+
+Five	O
+times	O
+,	O
+mean	O
+and	O
+median	O
+global	O
+BF	O
+values	O
+identified	O
+the	O
+same	O
+slice	O
+.	O
+
+For	O
+lesions	O
+ID6	O
+-	O
+FU3	O
+(	O
+Figure	O
+3	O
+,	O
+μw	O
+=	O
+44	O
+.	O
+4	O
+and	O
+Mw	O
+=	O
+37	O
+.	O
+8	O
+)	O
+and	O
+ID6	O
+-	O
+FU4	O
+(	O
+Figure	O
+4	O
+,	O
+μw	O
+=	O
+39	O
+.	O
+2	O
+and	O
+Mw	O
+=	O
+33	O
+.	O
+2	O
+),	O
+the	O
+same	O
+slices	O
+(	O
+i	O
+.	O
+e	O
+.,	O
+slice	O
+3	O
+for	O
+both	O
+)	O
+were	O
+those	O
+with	O
+maximum	O
+E	O
+(	O
+Es	O
+=	O
+6	O
+.	O
+73	O
+and	O
+Es	O
+=	O
+6	O
+.	O
+49	O
+,	O
+respectively	O
+),	O
+probably	O
+due	O
+to	O
+these	O
+examinations	O
+being	O
+subsequent	O
+FUs	O
+of	O
+the	O
+same	O
+lesion	O
+.	O
+
+In	O
+addition	O
+,	O
+this	O
+is	O
+the	O
+only	O
+ID	O
+where	O
+mean	O
+and	O
+median	O
+select	O
+the	O
+highest	O
+E	O
+.	O
+
+As	O
+regards	O
+ID6	O
+-	O
+FU4	O
+,	O
+it	O
+shows	O
+limited	O
+BF	O
+ranges	O
+(	O
+rμ	O
+=	O
+7	O
+.	O
+3	O
+and	O
+rM	O
+=	O
+8	O
+.	O
+0	O
+,	O
+among	O
+the	O
+lowest	O
+values	O
+of	O
+all	O
+examinations	O
+)	O
+and	O
+μs	O
+and	O
+Ms	O
+are	O
+substantially	O
+equivalent	O
+for	O
+the	O
+three	O
+central	O
+slices	O
+.	O
+
+This	O
+consideration	O
+regarding	O
+mean	O
+range	O
+also	O
+holds	O
+for	O
+ID6	O
+-	O
+FU3	O
+,	O
+where	O
+rμ	O
+=	O
+13	O
+.	O
+8	O
+is	O
+a	O
+little	O
+higher	O
+,	O
+but	O
+still	O
+among	O
+the	O
+lowest	O
+ones	O
+.	O
+
+As	O
+for	O
+median	O
+,	O
+in	O
+ID6	O
+-	O
+FU3	O
+it	O
+also	O
+selects	O
+slice	O
+2	O
+(	O
+Ms	O
+=	O
+36	O
+.	O
+9	O
+)	O
+that	O
+has	O
+the	O
+lowest	O
+Es	O
+=	O
+6	O
+.	O
+26	O
+.	O
+
+On	O
+the	O
+other	O
+hand	O
+,	O
+in	O
+ID11	O
+-	O
+FU4	O
+(	O
+Figure	O
+5	O
+),	O
+Mw	O
+=	O
+63	O
+.	O
+3	O
+selects	O
+slice	O
+1	O
+(	O
+Ms	O
+=	O
+64	O
+.	O
+3	O
+)	O
+which	O
+is	O
+the	O
+one	O
+with	O
+the	O
+lowest	O
+Es	O
+=	O
+7	O
+.	O
+05	O
+.	O
+
+3	O
+.	O
+3	O
+.	O
+
+Baseline	O
+and	O
+FU	O
+CTp	O
+
+In	O
+this	O
+section	O
+,	O
+we	O
+extend	O
+the	O
+analysis	O
+over	O
+the	O
+whole	O
+dataset	O
+,	O
+by	O
+considering	O
+all	O
+the	O
+CTp	O
+examinations	O
+together	O
+.	O
+
+As	O
+regards	O
+the	O
+whole	O
+sets	O
+of	O
+slices	O
+,	O
+the	O
+most	O
+meaningful	O
+result	O
+is	O
+that	O
+on	O
+the	O
+whole	O
+93	O
+slices	O
+were	O
+not	O
+represented	O
+by	O
+the	O
+global	O
+BF	O
+values	O
+computed	O
+on	O
+the	O
+whole	O
+tumour	B-DS
+.	O
+
+As	O
+for	O
+the	O
+sets	O
+of	O
+whole	O
+tumours	B-DS
+,	O
+here	O
+we	O
+analyse	O
+the	O
+sets	O
+of	O
+slices	O
+referring	O
+to	O
+two	O
+couples	O
+of	O
+meaningful	O
+lesions	O
+.	O
+Figure	O
+6	O
+shows	O
+the	O
+BF	O
+maps	O
+of	O
+the	O
+four	O
+consecutive	O
+slices	O
+(	O
+1	O
+–	O
+4	O
+,	O
+from	O
+(	O
+a	O
+)	O
+to	O
+(	O
+d	O
+))	O
+of	O
+ID11	O
+(	O
+μw	O
+=	O
+80	O
+.	O
+0	O
+,	O
+first	O
+row	O
+)	O
+and	O
+ID6	O
+-	O
+FU1	O
+(	O
+μw	O
+=	O
+77	O
+.	O
+5	O
+,	O
+second	O
+row	O
+).	O
+
+Although	O
+these	O
+lesions	O
+have	O
+statistically	O
+equivalent	O
+μw	O
+,	O
+the	O
+respective	O
+composing	O
+slices	O
+have	O
+a	O
+different	O
+heterogeneity	O
+distribution	O
+.	O
+
+In	O
+fact	O
+,	O
+the	O
+heterogeneity	O
+in	O
+all	O
+slices	O
+(	O
+except	O
+for	O
+slice	O
+3	O
+)	O
+of	O
+ID11	O
+is	O
+quite	O
+comparable	O
+,	O
+as	O
+it	O
+can	O
+be	O
+seen	O
+from	O
+Es	O
+values	O
+of	O
+Table	O
+1	O
+.	O
+
+On	O
+the	O
+contrary	O
+,	O
+slices	O
+1	O
+and	O
+2	O
+of	O
+ID6	O
+-	O
+FU1	O
+(	O
+Figures	O
+6	O
+(	O
+a	O
+)	O
+and	O
+6	O
+(	O
+b	O
+),	O
+second	O
+row	O
+)	O
+are	O
+quite	O
+homogeneous	O
+and	O
+low	O
+-	O
+perfused	O
+,	O
+while	O
+slice	O
+4	O
+(	O
+Figure	O
+6	O
+(	O
+d	O
+),	O
+second	O
+row	O
+)	O
+has	O
+the	O
+highest	O
+μs	O
+=	O
+150	O
+.	O
+8	O
+and	O
+Es	O
+=	O
+7	O
+.	O
+75	O
+.	O
+
+In	O
+addition	O
+,	O
+here	O
+the	O
+heterogeneity	O
+is	O
+made	O
+of	O
+local	O
+homogeneities	O
+,	O
+with	O
+a	O
+hyperperfused	O
+upper	O
+region	O
+and	O
+a	O
+hypoperfusion	O
+in	O
+the	O
+lower	O
+one	O
+.	O
+
+Similar	O
+comments	O
+can	O
+be	O
+done	O
+for	O
+ID3	O
+and	O
+ID2	O
+-	O
+FU1	O
+,	O
+made	O
+of	O
+five	O
+slices	O
+each	O
+,	O
+whose	O
+BF	O
+maps	O
+are	O
+shown	O
+in	O
+Figure	O
+7	O
+,	O
+first	O
+and	O
+second	O
+row	O
+,	O
+respectively	O
+.	O
+
+ID3	O
+(	O
+μw	O
+=	O
+111	O
+.	O
+8	O
+)	O
+shows	O
+a	O
+heterogeneity	O
+that	O
+keeps	O
+quite	O
+“	O
+homogeneous	O
+”	O
+within	O
+all	O
+slices	O
+(	O
+rE	O
+=	O
+0	O
+.	O
+23	O
+,	O
+the	O
+second	O
+lowest	O
+value	O
+),	O
+also	O
+in	O
+terms	O
+of	O
+mean	O
+(	O
+rμ	O
+=	O
+15	O
+.	O
+2	O
+)	O
+and	O
+median	O
+(	O
+rM	O
+=	O
+10	O
+.	O
+2	O
+)	O
+BF	O
+(	O
+among	O
+the	O
+lowest	O
+values	O
+),	O
+with	O
+all	O
+μs	O
+around	O
+μw	O
+=	O
+111	O
+.	O
+8	O
+.	O
+
+On	O
+the	O
+other	O
+hand	O
+,	O
+the	O
+heterogeneity	O
+in	O
+ID2	O
+-	O
+FU1	O
+(	O
+μw	O
+=	O
+112	O
+.	O
+8	O
+)	O
+is	O
+made	O
+of	O
+well	O
+-	O
+defined	O
+hyper	O
+-	O
+and	O
+hypoperfused	O
+regions	O
+,	O
+mostly	O
+evident	O
+in	O
+the	O
+upper	O
+and	O
+lower	O
+part	O
+,	O
+respectively	O
+,	O
+of	O
+slices	O
+2	O
+and	O
+3	O
+.	O
+
+Finally	O
+,	O
+we	O
+also	O
+analysed	O
+the	O
+distribution	O
+of	O
+all	O
+slice	O
+entropies	O
+Es	O
+for	O
+baseline	O
+and	O
+FU	O
+examinations	O
+,	O
+separately	O
+.	O
+
+Related	O
+histograms	O
+are	O
+reported	O
+in	O
+Figures	O
+8	O
+(	O
+a	O
+)	O
+and	O
+8	O
+(	O
+b	O
+),	O
+respectively	O
+.	O
+
+Even	O
+at	O
+a	O
+glance	O
+,	O
+the	O
+histograms	O
+of	O
+baseline	O
+examinations	O
+appear	O
+shifted	O
+right	O
+with	O
+respect	O
+to	O
+the	O
+FU	O
+ones	O
+.	O
+
+In	O
+fact	O
+,	O
+for	O
+baselines	O
+mean	O
+and	O
+standard	O
+deviation	O
+are	O
+7	O
+.	O
+4	O
+and	O
+0	O
+.	O
+75	O
+,	O
+respectively	O
+,	O
+while	O
+for	O
+FUs	O
+they	O
+are	O
+6	O
+.	O
+9	O
+and	O
+0	O
+.	O
+64	O
+.	O
+
+Statistical	O
+tests	O
+confirm	O
+that	O
+the	O
+mean	O
+entropy	O
+of	O
+all	O
+slices	O
+is	O
+greater	O
+for	O
+baseline	O
+examinations	O
+(	O
+p	O
+values	O
+≤	O
+10	O
+−	O
+4	O
+).	O
+
+4	O
+.	O
+
+Discussion	O
+
+Quantitative	O
+imaging	O
+has	O
+gained	O
+an	O
+increasing	O
+interest	O
+in	O
+these	O
+last	O
+years	O
+,	O
+as	O
+the	O
+need	O
+of	O
+personalized	O
+therapies	O
+progresses	O
+[	O
+42	O
+],	O
+deepening	O
+the	O
+knowledge	O
+of	O
+tumour	B-DS
+'	O
+s	O
+heterogeneity	O
+,	O
+the	O
+most	O
+important	O
+intrinsic	O
+properties	O
+of	O
+tumours	B-DS
+.	O
+
+In	O
+particular	O
+,	O
+perfusion	O
+'	O
+s	O
+heterogeneity	O
+is	O
+from	O
+decades	O
+a	O
+well	O
+-	O
+known	O
+characteristic	O
+of	O
+many	O
+tumours	B-DS
+[	O
+40	O
+].	O
+
+However	O
+,	O
+functional	O
+results	O
+obtained	O
+from	O
+CTp	O
+are	O
+still	O
+analysed	O
+using	O
+global	O
+statistical	O
+indexes	O
+,	O
+such	O
+as	O
+mean	O
+or	O
+median	O
+operators	O
+,	O
+that	O
+many	O
+times	O
+permit	O
+measurement	O
+reproducibility	O
+,	O
+while	O
+disregarding	O
+tumour	B-DS
+heterogeneity	O
+[	O
+43	O
+].	O
+
+Together	O
+with	O
+the	O
+uncertainty	O
+on	O
+reliability	O
+of	O
+voxel	O
+-	O
+based	O
+perfusion	O
+measurements	O
+,	O
+this	O
+represents	O
+one	O
+of	O
+the	O
+most	O
+relevant	O
+causes	O
+preventing	O
+the	O
+diffusion	O
+of	O
+CTp	O
+in	O
+clinical	O
+oncology	O
+,	O
+mainly	O
+to	O
+assess	O
+the	O
+outcome	O
+of	O
+therapies	O
+,	O
+such	O
+as	O
+antiangiogenic	O
+treatments	O
+.	O
+
+In	O
+this	O
+work	O
+,	O
+we	O
+have	O
+deeply	O
+analysed	O
+the	O
+representativeness	O
+of	O
+global	O
+mean	O
+and	O
+median	O
+values	O
+,	O
+as	O
+far	O
+as	O
+the	O
+heterogeneity	O
+is	O
+concerned	O
+,	O
+starting	O
+from	O
+the	O
+assumption	O
+that	O
+computing	O
+and	O
+using	O
+a	O
+global	O
+mean	O
+,	O
+or	O
+median	O
+,	O
+perfusion	O
+value	O
+for	O
+clinical	O
+purposes	O
+means	O
+accepting	O
+that	O
+the	O
+characteristics	O
+of	O
+the	O
+tumour	B-DS
+are	O
+represented	O
+by	O
+that	O
+value	O
+alone	O
+.	O
+
+Accordingly	O
+,	O
+this	O
+implies	O
+that	O
+sets	O
+of	O
+BF	O
+values	O
+(	O
+e	O
+.	O
+g	O
+.,	O
+slices	O
+or	O
+whole	O
+tumours	B-DS
+),	O
+with	O
+statistically	O
+equivalent	O
+mean	O
+or	O
+median	O
+values	O
+,	O
+are	O
+equivalently	O
+representative	O
+.	O
+
+The	O
+outcome	O
+of	O
+this	O
+work	O
+proves	O
+that	O
+these	O
+are	O
+numerical	O
+equivalences	O
+only	O
+,	O
+not	O
+clinical	O
+ones	O
+.	O
+
+In	O
+fact	O
+,	O
+we	O
+have	O
+discussed	O
+lesions	O
+with	O
+same	O
+global	O
+mean	O
+or	O
+median	O
+BF	O
+values	O
+,	O
+which	O
+showed	O
+a	O
+very	O
+different	O
+heterogeneity	O
+.	O
+
+In	O
+addition	O
+,	O
+we	O
+analysed	O
+tumour	B-DS
+slices	O
+having	O
+the	O
+same	O
+global	O
+values	O
+as	O
+the	O
+whole	O
+tumour	B-DS
+and	O
+we	O
+realized	O
+that	O
+,	O
+when	O
+those	O
+slices	O
+existed	O
+,	O
+for	O
+baseline	O
+examinations	O
+they	O
+were	O
+never	O
+those	O
+with	O
+the	O
+highest	O
+information	O
+content	O
+.	O
+
+Rather	O
+,	O
+it	O
+happened	O
+that	O
+in	O
+two	O
+examinations	O
+the	O
+whole	O
+tumour	B-DS
+had	O
+mean	O
+and	O
+median	O
+BF	O
+values	O
+corresponding	O
+to	O
+the	O
+slice	O
+with	O
+the	O
+lowest	O
+heterogeneity	O
+(	O
+ID12	O
+and	O
+ID4	O
+,	O
+respectively	O
+),	O
+while	O
+the	O
+remaining	O
+slices	O
+showed	O
+relevant	O
+clinical	O
+signs	O
+of	O
+different	O
+heterogeneities	O
+.	O
+
+For	O
+FU	O
+examinations	O
+,	O
+there	O
+was	O
+only	O
+the	O
+wide	O
+,	O
+and	O
+highly	O
+necrotic	O
+,	O
+uniform	O
+lesion	O
+ID6	O
+where	O
+mean	O
+and	O
+median	O
+selected	O
+the	O
+region	O
+with	O
+the	O
+highest	O
+E	O
+,	O
+in	O
+two	O
+subsequent	O
+FU	O
+examinations	O
+.	O
+
+In	O
+addition	O
+,	O
+results	O
+prove	O
+that	O
+using	O
+the	O
+median	O
+as	O
+a	O
+more	O
+robust	O
+estimator	O
+is	O
+not	O
+so	O
+effective	O
+as	O
+expected	O
+,	O
+since	O
+mean	O
+and	O
+median	O
+practically	O
+select	O
+the	O
+same	O
+slices	O
+.	O
+
+Rather	O
+,	O
+in	O
+ID6	O
+-	O
+FU3	O
+,	O
+the	O
+median	O
+operator	O
+selects	O
+the	O
+slices	O
+with	O
+maximum	O
+and	O
+minimum	O
+Es	O
+,	O
+at	O
+the	O
+same	O
+time	O
+.	O
+
+This	O
+behaviour	O
+has	O
+relevantly	O
+misleading	O
+properties	O
+,	O
+all	O
+the	O
+more	O
+so	O
+because	O
+median	O
+is	O
+considered	O
+a	O
+powerful	O
+outlier	O
+removal	O
+.	O
+
+Actually	O
+,	O
+this	O
+is	O
+true	O
+,	O
+if	O
+erroneous	O
+values	O
+lay	O
+in	O
+the	O
+extreme	O
+of	O
+values	O
+domain	O
+,	O
+but	O
+median	O
+cannot	O
+work	O
+in	O
+case	O
+that	O
+discriminating	O
+BF	O
+outliers	O
+strongly	O
+depends	O
+on	O
+spatial	O
+displacement	O
+and	O
+arrangement	O
+of	O
+BF	O
+values	O
+themselves	O
+.	O
+
+5	O
+.	O
+
+Conclusion	O
+
+Global	O
+perfusion	O
+values	O
+computed	O
+on	O
+the	O
+whole	O
+tumour	B-DS
+cannot	O
+be	O
+appropriate	O
+for	O
+therapy	O
+assessment	O
+and	O
+cannot	O
+improve	O
+the	O
+reproducibility	O
+of	O
+heterogeneity	O
+,	O
+accordingly	O
+.	O
+
+In	O
+addition	O
+,	O
+we	O
+have	O
+shown	O
+that	O
+the	O
+global	O
+values	O
+computed	O
+on	O
+the	O
+whole	O
+tumour	B-DS
+have	O
+a	O
+correspondence	O
+with	O
+parts	O
+of	O
+tumour	B-DS
+(	O
+i	O
+.	O
+e	O
+.,	O
+slices	O
+)	O
+that	O
+,	O
+just	O
+occasionally	O
+,	O
+could	O
+have	O
+either	O
+maximum	O
+or	O
+minimum	O
+entropy	O
+.	O
+
+In	O
+the	O
+remaining	O
+cases	O
+,	O
+they	O
+have	O
+not	O
+any	O
+correspondence	O
+with	O
+any	O
+real	O
+parts	O
+of	O
+the	O
+tumour	B-DS
+and	O
+just	O
+represent	O
+a	O
+generic	O
+tumour	B-DS
+BF	O
+averaged	O
+behaviour	O
+,	O
+which	O
+is	O
+far	O
+from	O
+representing	O
+its	O
+real	O
+clinical	O
+features	O
+.	O
+
+And	O
+perhaps	O
+,	O
+this	O
+happens	O
+much	O
+more	O
+times	O
+than	O
+expected	O
+.	O
+
+As	O
+far	O
+as	O
+single	O
+slices	O
+are	O
+concerned	O
+,	O
+although	O
+preserving	O
+more	O
+details	O
+,	O
+they	O
+may	O
+be	O
+not	O
+representative	O
+of	O
+the	O
+clinical	O
+status	O
+of	O
+the	O
+whole	O
+lesion	O
+and	O
+this	O
+could	O
+severely	O
+mislead	O
+clinical	O
+considerations	O
+.	O
+
+The	O
+solution	O
+is	O
+not	O
+at	O
+hand	O
+,	O
+but	O
+the	O
+research	O
+carried	O
+out	O
+in	O
+this	O
+work	O
+suggests	O
+that	O
+the	O
+first	O
+step	O
+is	O
+being	O
+very	O
+prudent	O
+in	O
+considering	O
+the	O
+global	O
+(	O
+mean	O
+or	O
+median	O
+)	O
+BF	O
+values	O
+as	O
+useful	O
+indicators	O
+for	O
+therapy	O
+assessment	O
+.	O
+
+On	O
+the	O
+other	O
+hand	O
+,	O
+measuring	O
+heterogeneity	O
+is	O
+a	O
+key	O
+issue	O
+to	O
+achieve	O
+useful	O
+information	O
+to	O
+assess	O
+the	O
+effectiveness	O
+of	O
+antiangiogenic	O
+therapies	O
+that	O
+cannot	O
+be	O
+left	O
+out	O
+of	O
+consideration	O
+.	O
+
+This	O
+is	O
+confirmed	O
+by	O
+the	O
+comparison	O
+between	O
+the	O
+average	O
+BF	O
+entropy	O
+of	O
+all	O
+slices	O
+before	O
+(	O
+baseline	O
+)	O
+and	O
+after	O
+(	O
+FU	O
+)	O
+treatment	O
+,	O
+proving	O
+the	O
+effectiveness	O
+of	O
+treatments	O
+themselves	O
+,	O
+expectedly	O
+reducing	O
+the	O
+overall	O
+BF	O
+heterogeneity	O
+of	O
+tumours	B-DS
+.	O
+
+We	O
+have	O
+also	O
+seen	O
+that	O
+the	O
+single	O
+slices	O
+of	O
+a	O
+tumour	B-DS
+are	O
+widely	O
+varying	O
+from	O
+each	O
+other	O
+and	O
+can	O
+represent	O
+different	O
+BF	O
+heterogeneity	O
+patterns	O
+that	O
+,	O
+on	O
+the	O
+whole	O
+,	O
+could	O
+provide	O
+a	O
+radiologist	O
+with	O
+an	O
+overall	O
+view	O
+of	O
+the	O
+whole	O
+tumour	B-DS
+.	O
+
+Indeed	O
+,	O
+using	O
+all	O
+the	O
+single	O
+slices	O
+of	O
+a	O
+tumour	B-DS
+,	O
+endowed	O
+with	O
+global	O
+BF	O
+values	O
+and	O
+a	O
+BF	O
+heterogeneity	O
+measures	O
+,	O
+would	O
+represent	O
+a	O
+step	O
+forwards	O
+,	O
+useful	O
+to	O
+help	O
+radiologists	O
+to	O
+draw	O
+more	O
+reliable	O
+clinical	O
+considerations	O
+.	O
+
+As	O
+concluding	O
+notes	O
+,	O
+we	O
+believe	O
+that	O
+improving	O
+the	O
+reliability	O
+of	O
+voxel	O
+-	O
+based	O
+perfusion	O
+values	O
+has	O
+to	O
+be	O
+coupled	O
+with	O
+the	O
+reproducibility	O
+assessment	O
+of	O
+heterogeneity	O
+measurements	O
+.	O
+
+To	O
+this	O
+purpose	O
+,	O
+a	O
+deeper	O
+application	O
+of	O
+the	O
+bioengineering	O
+and	O
+computer	O
+science	O
+techniques	O
+to	O
+CTp	O
+data	O
+processing	O
+,	O
+in	O
+a	O
+multidisciplinary	O
+team	O
+,	O
+will	O
+play	O
+a	O
+key	O
+role	O
+in	O
+the	O
+next	O
+future	O
+to	O
+help	O
+translation	O
+of	O
+CTp	O
+into	O
+clinics	O
+.	O
+
+The	O
+achievements	O
+of	O
+this	O
+work	O
+could	O
+be	O
+also	O
+assessed	O
+using	O
+other	O
+perfusion	O
+parameters	O
+,	O
+such	O
+as	O
+the	O
+blood	O
+volume	O
+and	O
+the	O
+mean	O
+transit	O
+time	O
+.	O
+
+In	O
+addition	O
+,	O
+a	O
+study	O
+dedicated	O
+to	O
+validate	O
+the	O
+BF	O
+entropy	O
+as	O
+a	O
+surrogate	O
+biomarker	O
+for	O
+the	O
+overall	O
+survival	O
+is	O
+being	O
+carried	O
+out	O
+,	O
+based	O
+on	O
+the	O
+existing	O
+correlation	O
+between	O
+BF	O
+entropy	O
+and	O
+tumour	B-DS
+grading	O
+.	O
+
+Original	O
+ROIs	O
+(	O
+HU	O
+,	O
+first	O
+row	O
+)	O
+and	O
+BF	O
+maps	O
+(	O
+second	O
+row	O
+)	O
+of	O
+all	O
+adjacent	O
+slices	O
+of	O
+lesion	O
+ID8	O
+,	O
+ordered	O
+by	O
+increasing	O
+Es	O
+values	O
+:	O
+the	O
+slice	O
+at	O
+level	O
+2	O
+(	O
+Es	O
+=	O
+7	O
+.	O
+07	O
+)	O
+(	O
+a	O
+),	O
+level	O
+1	O
+(	O
+Es	O
+=	O
+7	O
+.	O
+43	O
+)	O
+(	O
+b	O
+),	O
+level	O
+5	O
+(	O
+Es	O
+=	O
+7	O
+.	O
+62	O
+)	O
+(	O
+c	O
+),	O
+level	O
+4	O
+(	O
+Es	O
+=	O
+7	O
+.	O
+92	O
+)	O
+(	O
+d	O
+),	O
+and	O
+level	O
+3	O
+(	O
+Es	O
+=	O
+8	O
+.	O
+10	O
+)	O
+(	O
+e	O
+).	O
+
+Values	O
+are	O
+reported	O
+in	O
+arbitrary	O
+units	O
+(	O
+a	O
+.	O
+u	O
+.).	O
+
+ID12	O
+:	O
+the	O
+whole	O
+scan	O
+(	O
+first	O
+row	O
+),	O
+HU	O
+(	O
+second	O
+row	O
+),	O
+and	O
+BF	O
+maps	O
+(	O
+third	O
+row	O
+)	O
+ordered	O
+from	O
+(	O
+a	O
+)	O
+to	O
+(	O
+e	O
+)	O
+according	O
+to	O
+the	O
+scan	O
+position	O
+(	O
+the	O
+third	O
+section	O
+is	O
+the	O
+central	O
+one	O
+).	O
+
+The	O
+BF	O
+maps	O
+are	O
+visualized	O
+using	O
+the	O
+same	O
+colour	O
+scale	O
+.	O
+
+By	O
+chance	O
+,	O
+they	O
+are	O
+also	O
+sorted	O
+according	O
+to	O
+their	O
+E	O
+value	O
+:	O
+Es	O
+=	O
+7	O
+.	O
+48	O
+(	O
+a	O
+),	O
+Es	O
+=	O
+7	O
+.	O
+64	O
+(	O
+b	O
+),	O
+Es	O
+=	O
+7	O
+.	O
+86	O
+(	O
+c	O
+),	O
+Es	O
+=	O
+8	O
+.	O
+01	O
+(	O
+d	O
+),	O
+Es	O
+=	O
+8	O
+.	O
+37	O
+(	O
+e	O
+).	O
+
+BF	O
+maps	O
+of	O
+the	O
+four	O
+consecutive	O
+slices	O
+of	O
+ID6	O
+-	O
+FU3	O
+(	O
+1	O
+–	O
+4	O
+,	O
+from	O
+(	O
+a	O
+)	O
+to	O
+(	O
+d	O
+)).	O
+μw	O
+=	O
+44	O
+.	O
+4	O
+,	O
+Mw	O
+=	O
+37	O
+.	O
+8	O
+.	O
+
+BF	O
+maps	O
+of	O
+the	O
+five	O
+consecutive	O
+slices	O
+of	O
+ID6	O
+-	O
+FU4	O
+(	O
+1	O
+–	O
+5	O
+,	O
+from	O
+(	O
+a	O
+)	O
+to	O
+(	O
+e	O
+)).	O
+μw	O
+=	O
+39	O
+.	O
+2	O
+,	O
+Mw	O
+=	O
+33	O
+.	O
+2	O
+.	O
+
+BF	O
+maps	O
+of	O
+the	O
+five	O
+consecutive	O
+slices	O
+of	O
+ID11	O
+-	O
+FU4	O
+(	O
+1	O
+–	O
+5	O
+,	O
+from	O
+(	O
+a	O
+)	O
+to	O
+(	O
+e	O
+)).	O
+μw	O
+=	O
+72	O
+.	O
+3	O
+,	O
+Mw	O
+=	O
+63	O
+.	O
+3	O
+.	O
+
+BF	O
+maps	O
+of	O
+the	O
+four	O
+consecutive	O
+slices	O
+(	O
+1	O
+–	O
+4	O
+,	O
+from	O
+(	O
+a	O
+)	O
+to	O
+(	O
+d	O
+))	O
+composing	O
+lesions	O
+ID11	O
+,	O
+baseline	O
+(	O
+μw	O
+=	O
+80	O
+.	O
+0	O
+,	O
+first	O
+row	O
+)	O
+and	O
+lesion	O
+ID6	O
+-	O
+FU1	O
+(	O
+μw	O
+=	O
+77	O
+.	O
+5	O
+,	O
+second	O
+row	O
+).	O
+μw	O
+'	O
+s	O
+are	O
+statistically	O
+equivalent	O
+.	O
+
+BF	O
+maps	O
+of	O
+the	O
+five	O
+consecutive	O
+slices	O
+(	O
+1	O
+–	O
+5	O
+,	O
+from	O
+(	O
+a	O
+)	O
+to	O
+(	O
+e	O
+))	O
+composing	O
+lesions	O
+ID3	O
+,	O
+baseline	O
+(	O
+μw	O
+=	O
+111	O
+.	O
+8	O
+,	O
+first	O
+row	O
+)	O
+and	O
+lesion	O
+ID2	O
+-	O
+FU1	O
+(	O
+μw	O
+=	O
+112	O
+.	O
+8	O
+,	O
+second	O
+row	O
+).	O
+μw	O
+'	O
+s	O
+are	O
+statistically	O
+equivalent	O
+.	O
+
+Histograms	O
+of	O
+entropies	O
+Es	O
+of	O
+all	O
+slices	O
+for	O
+baseline	O
+(	O
+a	O
+)	O
+and	O
+FU	O
+(	O
+b	O
+)	O
+examinations	O
+.	O
+
+Mean	O
+values	O
+,	O
+highlighted	O
+by	O
+the	O
+vertical	O
+red	O
+lines	O
+,	O
+are	O
+7	O
+.	O
+4	O
+and	O
+6	O
+.	O
+9	O
+,	O
+respectively	O
+.	O
+
+Summary	O
+of	O
+measures	O
+for	O
+slices	O
+and	O
+whole	O
+tumour	B-DS
+referred	O
+to	O
+baseline	O
+CTp	O
+examinations	O
+:	O
+entropy	O
+(	O
+E	O
+),	O
+mean	O
+(	O
+μ	O
+),	O
+and	O
+median	O
+(	O
+M	O
+)	O
+BF	O
+values	O
+,	O
+where	O
+the	O
+subscripts	O
+s	O
+and	O
+w	O
+stand	O
+for	O
+slice	O
+or	O
+whole	O
+,	O
+respectively	O
+.	O
+
+For	O
+the	O
+whole	O
+tumour	B-DS
+,	O
+r	O
+of	O
+each	O
+slice	O
+-	O
+based	O
+measure	O
+is	O
+computed	O
+as	O
+well	O
+.	O
+
+Italicized	O
+and	O
+bold	O
+-	O
+italicized	O
+values	O
+point	O
+out	O
+minimum	O
+and	O
+maximum	O
+value	O
+of	O
+a	O
+given	O
+measure	O
+,	O
+respectively	O
+.	O
+
+Bold	O
+nonitalicized	O
+values	O
+highlight	O
+an	O
+equivalence	O
+between	O
+μs	O
+and	O
+μw	O
+,	O
+or	O
+Ms	O
+and	O
+Mw	O
+.	O
+
+Baseline	O
+examinations	O
+
+Patient	O
+
+Slice	O
+
+Whole	O
+tumor	O
+
+Measure	O
+
+1	O
+
+2	O
+
+3	O
+
+4	O
+
+5	O
+
+Measure	O
+
+Value	O
+
+r	O
+
+ID1	O
+
+E	O
+s	O
+
+7	O
+.	O
+27	O
+
+7	O
+.	O
+27	O
+
+7	O
+.	O
+26	O
+
+6	O
+.	O
+75	O
+
+6	O
+.	O
+61	O
+
+E	O
+w	O
+
+7	O
+.	O
+14	O
+
+0	O
+.	O
+66	O
+
+μ	O
+s	O
+
+67	O
+.	O
+9	O
+
+62	O
+.	O
+9	O
+
+62	O
+.	O
+3	O
+
+45	O
+.	O
+8	O
+
+40	O
+.	O
+5	O
+
+μ	O
+w	O
+
+56	O
+.	O
+0	O
+
+27	O
+.	O
+4	O
+
+M	O
+s	O
+
+56	O
+.	O
+9	O
+
+50	O
+.	O
+9	O
+
+45	O
+.	O
+7	O
+
+33	O
+.	O
+8	O
+
+28	O
+.	O
+4	O
+
+M	O
+w	O
+
+41	O
+.	O
+4	O
+
+28	O
+.	O
+5	O
+
+
+ID2	O
+
+E	O
+s	O
+
+8	O
+.	O
+17	O
+
+8	O
+.	O
+15	O
+
+8	O
+.	O
+22	O
+
+8	O
+.	O
+05	O
+
+7	O
+.	O
+91	O
+
+E	O
+w	O
+
+8	O
+.	O
+20	O
+
+0	O
+.	O
+31	O
+
+μ	O
+s	O
+
+124	O
+.	O
+1	O
+
+115	O
+.	O
+8	O
+
+128	O
+.	O
+5	O
+
+118	O
+.	O
+2	O
+
+108	O
+.	O
+3	O
+
+μ	O
+w	O
+
+120	O
+.	O
+1	O
+
+20	O
+.	O
+2	O
+
+M	O
+s	O
+
+107	O
+.	O
+3	O
+
+96	O
+.	O
+6	O
+
+110	O
+.	O
+8	O
+
+99	O
+.	O
+8	O
+
+93	O
+.	O
+2	O
+
+M	O
+w	O
+
+102	O
+.	O
+0	O
+
+17	O
+.	O
+6	O
+
+
+ID3	O
+
+E	O
+s	O
+
+7	O
+.	O
+81	O
+
+7	O
+.	O
+75	O
+
+7	O
+.	O
+89	O
+
+7	O
+.	O
+85	O
+
+7	O
+.	O
+67	O
+
+E	O
+w	O
+
+7	O
+.	O
+87	O
+
+0	O
+.	O
+23	O
+
+μ	O
+s	O
+
+117	O
+.	O
+6	O
+
+111	O
+.	O
+3	O
+
+116	O
+.	O
+4	O
+
+115	O
+.	O
+1	O
+
+102	O
+.	O
+3	O
+
+μ	O
+w	O
+
+111	O
+.	O
+8	O
+
+15	O
+.	O
+2	O
+
+M	O
+s	O
+
+101	O
+.	O
+3	O
+
+103	O
+.	O
+1	O
+
+102	O
+.	O
+4	O
+
+103	O
+.	O
+7	O
+
+93	O
+.	O
+5	O
+
+M	O
+w	O
+
+100	O
+.	O
+1	O
+
+10	O
+.	O
+2	O
+
+
+ID4	O
+
+E	O
+s	O
+
+7	O
+.	O
+26	O
+
+7	O
+.	O
+38	O
+
+7	O
+.	O
+31	O
+
+7	O
+.	O
+36	O
+
+7	O
+.	O
+44	O
+
+E	O
+w	O
+
+7	O
+.	O
+39	O
+
+0	O
+.	O
+18	O
+
+μ	O
+s	O
+
+65	O
+.	O
+7	O
+
+69	O
+.	O
+7	O
+
+65	O
+.	O
+1	O
+
+68	O
+.	O
+1	O
+
+71	O
+.	O
+2	O
+
+μ	O
+w	O
+
+68	O
+.	O
+0	O
+
+6	O
+.	O
+1	O
+
+M	O
+s	O
+
+54	O
+.	O
+9	O
+
+56	O
+.	O
+9	O
+
+47	O
+.	O
+9	O
+
+50	O
+.	O
+0	O
+
+53	O
+.	O
+6	O
+
+M	O
+w	O
+
+52	O
+.	O
+8	O
+
+9	O
+.	O
+0	O
+
+
+ID5	O
+
+E	O
+s	O
+
+7	O
+.	O
+81	O
+
+7	O
+.	O
+84	O
+
+7	O
+.	O
+36	O
+
+6	O
+.	O
+60	O
+
+7	O
+.	O
+79	O
+
+E	O
+w	O
+
+7	O
+.	O
+70	O
+
+1	O
+.	O
+23	O
+
+μ	O
+s	O
+
+115	O
+.	O
+1	O
+
+106	O
+.	O
+8	O
+
+80	O
+.	O
+7	O
+
+43	O
+.	O
+2	O
+
+107	O
+.	O
+3	O
+
+μ	O
+w	O
+
+87	O
+.	O
+2	O
+
+71	O
+.	O
+8	O
+
+M	O
+s	O
+
+93	O
+.	O
+2	O
+
+87	O
+.	O
+1	O
+
+67	O
+.	O
+4	O
+
+38	O
+.	O
+2	O
+
+90	O
+.	O
+6	O
+
+M	O
+w	O
+
+67	O
+.	O
+6	O
+
+55	O
+.	O
+0	O
+
+
+ID6	O
+
+E	O
+s	O
+
+6	O
+.	O
+10	O
+
+5	O
+.	O
+96	O
+
+6	O
+.	O
+38	O
+
+6	O
+.	O
+62	O
+
+6	O
+.	O
+59	O
+
+E	O
+w	O
+
+6	O
+.	O
+54	O
+
+0	O
+.	O
+66	O
+
+μ	O
+s	O
+
+33	O
+.	O
+3	O
+
+31	O
+.	O
+7	O
+
+41	O
+.	O
+3	O
+
+52	O
+.	O
+7	O
+
+63	O
+.	O
+9	O
+
+μ	O
+w	O
+
+42	O
+.	O
+9	O
+
+32	O
+.	O
+2	O
+
+M	O
+s	O
+
+27	O
+.	O
+5	O
+
+28	O
+.	O
+5	O
+
+34	O
+.	O
+5	O
+
+47	O
+.	O
+0	O
+
+58	O
+.	O
+8	O
+
+M	O
+w	O
+
+36	O
+.	O
+8	O
+
+31	O
+.	O
+3	O
+
+
+ID7	O
+
+E	O
+s	O
+
+6	O
+.	O
+37	O
+
+6	O
+.	O
+27	O
+
+6	O
+.	O
+53	O
+
+—	O
+
+—	O
+
+E	O
+w	O
+
+6	O
+.	O
+67	O
+
+0	O
+.	O
+26	O
+
+μ	O
+s	O
+
+46	O
+.	O
+2	O
+
+38	O
+.	O
+2	O
+
+60	O
+.	O
+9	O
+
+—	O
+
+—	O
+
+μ	O
+w	O
+
+47	O
+.	O
+9	O
+
+22	O
+.	O
+7	O
+
+M	O
+s	O
+
+38	O
+.	O
+6	O
+
+30	O
+.	O
+5	O
+
+55	O
+.	O
+3	O
+
+—	O
+
+—	O
+
+M	O
+w	O
+
+40	O
+.	O
+7	O
+
+24	O
+.	O
+8	O
+
+
+ID8	O
+
+E	O
+s	O
+
+7	O
+.	O
+43	O
+
+7	O
+.	O
+07	O
+
+8	O
+.	O
+10	O
+
+7	O
+.	O
+92	O
+
+7	O
+.	O
+62	O
+
+E	O
+w	O
+
+7	O
+.	O
+95	O
+
+1	O
+.	O
+03	O
+
+μ	O
+s	O
+
+74	O
+.	O
+9	O
+
+61	O
+.	O
+5	O
+
+138	O
+.	O
+4	O
+
+156	O
+.	O
+0	O
+
+118	O
+.	O
+6	O
+
+μ	O
+w	O
+
+105	O
+.	O
+2	O
+
+94	O
+.	O
+5	O
+
+M	O
+s	O
+
+57	O
+.	O
+1	O
+
+53	O
+.	O
+9	O
+
+119	O
+.	O
+0	O
+
+141	O
+.	O
+7	O
+
+104	O
+.	O
+1	O
+
+M	O
+w	O
+
+85	O
+.	O
+3	O
+
+87	O
+.	O
+8	O
+
+
+ID9	O
+
+E	O
+s	O
+
+8	O
+.	O
+54	O
+
+7	O
+.	O
+59	O
+
+7	O
+.	O
+65	O
+
+8	O
+.	O
+03	O
+
+8	O
+.	O
+53	O
+
+E	O
+w	O
+
+8	O
+.	O
+24	O
+
+0	O
+.	O
+95	O
+
+μ	O
+s	O
+
+175	O
+.	O
+7	O
+
+79	O
+.	O
+6	O
+
+81	O
+.	O
+4	O
+
+104	O
+.	O
+6	O
+
+160	O
+.	O
+1	O
+
+μ	O
+w	O
+
+118	O
+.	O
+4	O
+
+96	O
+.	O
+1	O
+
+M	O
+s	O
+
+158	O
+.	O
+3	O
+
+60	O
+.	O
+0	O
+
+62	O
+.	O
+3	O
+
+73	O
+.	O
+0	O
+
+133	O
+.	O
+2	O
+
+M	O
+w	O
+
+88	O
+.	O
+9	O
+
+98	O
+.	O
+3	O
+
+
+ID10	O
+
+E	O
+s	O
+
+6	O
+.	O
+75	O
+
+6	O
+.	O
+66	O
+
+6	O
+.	O
+42	O
+
+6	O
+.	O
+52	O
+
+6	O
+.	O
+76	O
+
+E	O
+w	O
+
+6	O
+.	O
+66	O
+
+0	O
+.	O
+34	O
+
+μ	O
+s	O
+
+45	O
+.	O
+9	O
+
+44	O
+.	O
+2	O
+
+38	O
+.	O
+2	O
+
+40	O
+.	O
+8	O
+
+48	O
+.	O
+5	O
+
+μ	O
+w	O
+
+43	O
+.	O
+4	O
+
+10	O
+.	O
+3	O
+
+M	O
+s	O
+
+37	O
+.	O
+8	O
+
+37	O
+.	O
+3	O
+
+32	O
+.	O
+5	O
+
+34	O
+.	O
+6	O
+
+42	O
+.	O
+6	O
+
+M	O
+w	O
+
+36	O
+.	O
+4	O
+
+10	O
+.	O
+1	O
+
+
+ID11	O
+
+E	O
+s	O
+
+7	O
+.	O
+46	O
+
+7	O
+.	O
+34	O
+
+6	O
+.	O
+89	O
+
+7	O
+.	O
+63	O
+
+—	O
+
+E	O
+w	O
+
+7	O
+.	O
+50	O
+
+0	O
+.	O
+74	O
+
+μ	O
+s	O
+
+92	O
+.	O
+2	O
+
+80	O
+.	O
+7	O
+
+58	O
+.	O
+9	O
+
+92	O
+.	O
+6	O
+
+—	O
+
+μ	O
+w	O
+
+80	O
+.	O
+0	O
+
+33	O
+.	O
+8	O
+
+M	O
+s	O
+
+76	O
+.	O
+5	O
+
+61	O
+.	O
+4	O
+
+51	O
+.	O
+3	O
+
+74	O
+.	O
+1	O
+
+—	O
+
+M	O
+w	O
+
+63	O
+.	O
+3	O
+
+25	O
+.	O
+2	O
+
+
+ID12	O
+
+E	O
+s	O
+
+7	O
+.	O
+48	O
+
+7	O
+.	O
+64	O
+
+7	O
+.	O
+86	O
+
+8	O
+.	O
+01	O
+
+8	O
+.	O
+37	O
+
+E	O
+w	O
+
+8	O
+.	O
+07	O
+
+0	O
+.	O
+89	O
+
+μ	O
+s	O
+
+124	O
+.	O
+5	O
+
+110	O
+.	O
+0	O
+
+113	O
+.	O
+6	O
+
+116	O
+.	O
+8	O
+
+157	O
+.	O
+4	O
+
+μ	O
+w	O
+
+125	O
+.	O
+0	O
+
+47	O
+.	O
+4	O
+
+M	O
+s	O
+
+118	O
+.	O
+7	O
+
+106	O
+.	O
+1	O
+
+104	O
+.	O
+0	O
+
+112	O
+.	O
+7	O
+
+145	O
+.	O
+9	O
+
+M	O
+w	O
+
+116	O
+.	O
+0	O
+
+41	O
+.	O
+9	O
+
+Summary	O
+of	O
+measures	O
+for	O
+slices	O
+and	O
+whole	O
+tumour	B-DS
+referred	O
+to	O
+FU	O
+CTp	O
+examinations	O
+.	O
+
+Notations	O
+are	O
+the	O
+same	O
+as	O
+those	O
+in	O
+Table	O
+1	O
+.	O
+
+Here	O
+,	O
+the	O
+FU	O
+number	O
+is	O
+also	O
+reported	O
+.	O
+
+Follow	O
+-	O
+up	O
+examinations	O
+
+Patient	O
+
+FU	O
+
+Measure	O
+
+Slice	O
+
+Whole	O
+tumour	B-DS
+
+1	O
+
+2	O
+
+3	O
+
+4	O
+
+5	O
+
+Measure	O
+
+Value	O
+
+r	O
+
+ID2	O
+
+1	O
+
+E	O
+s	O
+
+7	O
+.	O
+85	O
+
+8	O
+.	O
+06	O
+
+7	O
+.	O
+99	O
+
+7	O
+.	O
+88	O
+
+7	O
+.	O
+72	O
+
+E	O
+w	O
+
+8	O
+.	O
+08	O
+
+0	O
+.	O
+34	O
+
+μ	O
+s	O
+
+99	O
+.	O
+6	O
+
+130	O
+.	O
+6	O
+
+118	O
+.	O
+3	O
+
+111	O
+.	O
+4	O
+
+97	O
+.	O
+6	O
+
+μ	O
+w	O
+
+112	O
+.	O
+8	O
+
+33	O
+.	O
+0	O
+
+M	O
+s	O
+
+85	O
+.	O
+2	O
+
+110	O
+.	O
+4	O
+
+99	O
+.	O
+9	O
+
+85	O
+.	O
+6	O
+
+75	O
+.	O
+2	O
+
+M	O
+w	O
+
+92	O
+.	O
+4	O
+
+35	O
+.	O
+2	O
+
+
+ID6	O
+
+1	O
+
+E	O
+s	O
+
+6	O
+.	O
+50	O
+
+6	O
+.	O
+26	O
+
+7	O
+.	O
+33	O
+
+7	O
+.	O
+70	O
+
+—	O
+
+E	O
+w	O
+
+7	O
+.	O
+50	O
+
+1	O
+.	O
+44	O
+
+μ	O
+s	O
+
+47	O
+.	O
+7	O
+
+38	O
+.	O
+0	O
+
+76	O
+.	O
+8	O
+
+145	O
+.	O
+6	O
+
+—	O
+
+μ	O
+w	O
+
+77	O
+.	O
+5	O
+
+107	O
+.	O
+6	O
+
+M	O
+s	O
+
+41	O
+.	O
+1	O
+
+33	O
+.	O
+6	O
+
+70	O
+.	O
+4	O
+
+120	O
+.	O
+7	O
+
+—	O
+
+M	O
+w	O
+
+60	O
+.	O
+1	O
+
+87	O
+.	O
+1	O
+
+2	O
+
+E	O
+s	O
+
+6	O
+.	O
+63	O
+
+6	O
+.	O
+21	O
+
+6	O
+.	O
+40	O
+
+6	O
+.	O
+90	O
+
+—	O
+
+E	O
+w	O
+
+6	O
+.	O
+82	O
+
+0	O
+.	O
+69	O
+
+μ	O
+s	O
+
+58	O
+.	O
+1	O
+
+42	O
+.	O
+2	O
+
+45	O
+.	O
+8	O
+
+80	O
+.	O
+0	O
+
+—	O
+
+μ	O
+w	O
+
+53	O
+.	O
+5	O
+
+37	O
+.	O
+8	O
+
+M	O
+s	O
+
+49	O
+.	O
+2	O
+
+38	O
+.	O
+6	O
+
+32	O
+.	O
+5	O
+
+71	O
+.	O
+4	O
+
+—	O
+
+M	O
+w	O
+
+43	O
+.	O
+2	O
+
+38	O
+.	O
+9	O
+
+3	O
+
+E	O
+s	O
+
+6	O
+.	O
+37	O
+
+6	O
+.	O
+26	O
+
+6	O
+.	O
+73	O
+
+6	O
+.	O
+43	O
+
+—	O
+
+E	O
+w	O
+
+6	O
+.	O
+67	O
+
+0	O
+.	O
+47	O
+
+μ	O
+s	O
+
+40	O
+.	O
+8	O
+
+40	O
+.	O
+9	O
+
+45	O
+.	O
+7	O
+
+54	O
+.	O
+6	O
+
+—	O
+
+μ	O
+w	O
+
+44	O
+.	O
+4	O
+
+13	O
+.	O
+8	O
+
+M	O
+s	O
+
+33	O
+.	O
+3	O
+
+36	O
+.	O
+9	O
+
+36	O
+.	O
+3	O
+
+50	O
+.	O
+4	O
+
+—	O
+
+M	O
+w	O
+
+37	O
+.	O
+8	O
+
+17	O
+.	O
+1	O
+
+4	O
+
+E	O
+s	O
+
+6	O
+.	O
+42	O
+
+6	O
+.	O
+31	O
+
+6	O
+.	O
+49	O
+
+6	O
+.	O
+42	O
+
+6	O
+.	O
+18	O
+
+E	O
+w	O
+
+6	O
+.	O
+45	O
+
+0	O
+.	O
+31	O
+
+μ	O
+s	O
+
+42	O
+.	O
+7	O
+
+38	O
+.	O
+1	O
+
+40	O
+.	O
+3	O
+
+39	O
+.	O
+3	O
+
+35	O
+.	O
+3	O
+
+μ	O
+w	O
+
+39	O
+.	O
+2	O
+
+7	O
+.	O
+3	O
+
+M	O
+s	O
+
+38	O
+.	O
+6	O
+
+31	O
+.	O
+8	O
+
+32	O
+.	O
+8	O
+
+33	O
+.	O
+2	O
+
+30	O
+.	O
+6	O
+
+M	O
+w	O
+
+33	O
+.	O
+2	O
+
+8	O
+.	O
+0	O
+
+5	O
+
+E	O
+s	O
+
+7	O
+.	O
+47	O
+
+6	O
+.	O
+14	O
+
+5	O
+.	O
+94	O
+
+5	O
+.	O
+64	O
+
+5	O
+.	O
+75	O
+
+E	O
+w	O
+
+6	O
+.	O
+50	O
+
+1	O
+.	O
+84	O
+
+μ	O
+s	O
+
+96	O
+.	O
+1	O
+
+33	O
+.	O
+3	O
+
+24	O
+.	O
+7	O
+
+19	O
+.	O
+9	O
+
+24	O
+.	O
+7	O
+
+μ	O
+w	O
+
+35	O
+.	O
+8	O
+
+76	O
+.	O
+3	O
+
+M	O
+s	O
+
+91	O
+.	O
+8	O
+
+29	O
+.	O
+1	O
+
+19	O
+.	O
+4	O
+
+16	O
+.	O
+4	O
+
+21	O
+.	O
+7	O
+
+M	O
+w	O
+
+24	O
+.	O
+7	O
+
+75	O
+.	O
+4	O
+
+
+ID7	O
+
+1	O
+
+E	O
+s	O
+
+7	O
+.	O
+57	O
+
+6	O
+.	O
+57	O
+
+7	O
+.	O
+20	O
+
+—	O
+
+—	O
+
+E	O
+w	O
+
+7	O
+.	O
+64	O
+
+1	O
+.	O
+00	O
+
+μ	O
+s	O
+
+145	O
+.	O
+5	O
+
+52	O
+.	O
+2	O
+
+97	O
+.	O
+7	O
+
+—	O
+
+—	O
+
+μ	O
+w	O
+
+95	O
+.	O
+5	O
+
+93	O
+.	O
+3	O
+
+M	O
+s	O
+
+133	O
+.	O
+8	O
+
+42	O
+.	O
+6	O
+
+78	O
+.	O
+4	O
+
+—	O
+
+—	O
+
+M	O
+w	O
+
+78	O
+.	O
+4	O
+
+91	O
+.	O
+2	O
+
+2	O
+
+E	O
+s	O
+
+5	O
+.	O
+82	O
+
+6	O
+.	O
+33	O
+
+5	O
+.	O
+90	O
+
+—	O
+
+—	O
+
+E	O
+w	O
+
+6	O
+.	O
+33	O
+
+0	O
+.	O
+51	O
+
+μ	O
+s	O
+
+34	O
+.	O
+1	O
+
+48	O
+.	O
+8	O
+
+58	O
+.	O
+0	O
+
+—	O
+
+—	O
+
+μ	O
+w	O
+
+45	O
+.	O
+0	O
+
+23	O
+.	O
+8	O
+
+M	O
+s	O
+
+32	O
+.	O
+2	O
+
+42	O
+.	O
+8	O
+
+56	O
+.	O
+7	O
+
+—	O
+
+—	O
+
+M	O
+w	O
+
+39	O
+.	O
+8	O
+
+24	O
+.	O
+4	O
+
+
+ID9	O
+
+1	O
+
+E	O
+s	O
+
+7	O
+.	O
+45	O
+
+6	O
+.	O
+47	O
+
+6	O
+.	O
+60	O
+
+6	O
+.	O
+50	O
+
+6	O
+.	O
+58	O
+
+E	O
+w	O
+
+6	O
+.	O
+80	O
+
+0	O
+.	O
+98	O
+
+μ	O
+s	O
+
+80	O
+.	O
+8	O
+
+36	O
+.	O
+9	O
+
+45	O
+.	O
+1	O
+
+38	O
+.	O
+7	O
+
+41	O
+.	O
+6	O
+
+μ	O
+w	O
+
+46	O
+.	O
+2	O
+
+43	O
+.	O
+8	O
+
+M	O
+s	O
+
+67	O
+.	O
+6	O
+
+31	O
+.	O
+4	O
+
+39	O
+.	O
+6	O
+
+34	O
+.	O
+1	O
+
+36	O
+.	O
+2	O
+
+M	O
+w	O
+
+38	O
+.	O
+4	O
+
+36	O
+.	O
+2	O
+
+
+ID11	O
+
+1	O
+
+E	O
+s	O
+
+7	O
+.	O
+04	O
+
+6	O
+.	O
+83	O
+
+6	O
+.	O
+63	O
+
+7	O
+.	O
+46	O
+
+—	O
+
+E	O
+w	O
+
+7	O
+.	O
+20	O
+
+0	O
+.	O
+83	O
+
+μ	O
+s	O
+
+71	O
+.	O
+4	O
+
+54	O
+.	O
+7	O
+
+50	O
+.	O
+4	O
+
+108	O
+.	O
+4	O
+
+—	O
+
+μ	O
+w	O
+
+66	O
+.	O
+9	O
+
+58	O
+.	O
+0	O
+
+M	O
+s	O
+
+60	O
+.	O
+7	O
+
+47	O
+.	O
+3	O
+
+44	O
+.	O
+6	O
+
+96	O
+.	O
+5	O
+
+—	O
+
+M	O
+w	O
+
+55	O
+.	O
+5	O
+
+51	O
+.	O
+9	O
+
+2	O
+
+E	O
+s	O
+
+6	O
+.	O
+77	O
+
+6	O
+.	O
+66	O
+
+7	O
+.	O
+26	O
+
+7	O
+.	O
+49	O
+
+7	O
+.	O
+53	O
+
+E	O
+w	O
+
+7	O
+.	O
+40	O
+
+0	O
+.	O
+87	O
+
+μ	O
+s	O
+
+52	O
+.	O
+4	O
+
+43	O
+.	O
+3	O
+
+67	O
+.	O
+7	O
+
+90	O
+.	O
+9	O
+
+107	O
+.	O
+9	O
+
+μ	O
+w	O
+
+70	O
+.	O
+2	O
+
+64	O
+.	O
+6	O
+
+M	O
+s	O
+
+41	O
+.	O
+7	O
+
+33	O
+.	O
+6	O
+
+55	O
+.	O
+6	O
+
+84	O
+.	O
+0	O
+
+95	O
+.	O
+9	O
+
+M	O
+w	O
+
+56	O
+.	O
+5	O
+
+62	O
+.	O
+3	O
+
+3	O
+
+E	O
+s	O
+
+7	O
+.	O
+20	O
+
+7	O
+.	O
+17	O
+
+7	O
+.	O
+30	O
+
+7	O
+.	O
+49	O
+
+—	O
+
+E	O
+w	O
+
+7	O
+.	O
+40	O
+
+0	O
+.	O
+32	O
+
+μ	O
+s	O
+
+74	O
+.	O
+8	O
+
+73	O
+.	O
+2	O
+
+75	O
+.	O
+9	O
+
+90	O
+.	O
+5	O
+
+—	O
+
+μ	O
+w	O
+
+78	O
+.	O
+1	O
+
+17	O
+.	O
+3	O
+
+M	O
+s	O
+
+70	O
+.	O
+4	O
+
+66	O
+.	O
+2	O
+
+69	O
+.	O
+7	O
+
+81	O
+.	O
+0	O
+
+—	O
+
+M	O
+w	O
+
+71	O
+.	O
+0	O
+
+14	O
+.	O
+8	O
+
+4	O
+
+E	O
+s	O
+
+7	O
+.	O
+05	O
+
+7	O
+.	O
+20	O
+
+7	O
+.	O
+22	O
+
+7	O
+.	O
+28	O
+
+7	O
+.	O
+32	O
+
+E	O
+w	O
+
+7	O
+.	O
+29	O
+
+0	O
+.	O
+27	O
+
+μ	O
+s	O
+
+69	O
+.	O
+0	O
+
+72	O
+.	O
+9	O
+
+70	O
+.	O
+9	O
+
+71	O
+.	O
+5	O
+
+79	O
+.	O
+0	O
+
+μ	O
+w	O
+
+72	O
+.	O
+3	O
+
+10	O
+.	O
+1	O
+
+M	O
+s	O
+
+64	O
+.	O
+3	O
+
+64	O
+.	O
+1	O
+
+60	O
+.	O
+1	O
+
+61	O
+.	O
+1	O
+
+70	O
+.	O
+1	O
+
+M	O
+w	O
+
+63	O
+.	O
+3	O
+
+10	O
+.	O
+0	O
+
+5	O
+
+E	O
+s	O
+
+7	O
+.	O
+57	O
+
+7	O
+.	O
+39	O
+
+7	O
+.	O
+52	O
+
+7	O
+.	O
+87	O
+
+8	O
+.	O
+24	O
+
+E	O
+w	O
+
+7	O
+.	O
+81	O
+
+0	O
+.	O
+85	O
+
+μ	O
+s	O
+
+80	O
+.	O
+9	O
+
+71	O
+.	O
+7	O
+
+76	O
+.	O
+7	O
+
+99	O
+.	O
+9	O
+
+144	O
+.	O
+7	O
+
+μ	O
+w	O
+
+90	O
+.	O
+1	O
+
+73	O
+.	O
+0	O
+
+M	O
+s	O
+
+60	O
+.	O
+7	O
+
+55	O
+.	O
+2	O
+
+61	O
+.	O
+3	O
+
+74	O
+.	O
+2	O
+
+123	O
+.	O
+2	O
+
+M	O
+w	O
+
+66	O
+.	O
+8	O
+
+68	O
+.	O
+0	O
+

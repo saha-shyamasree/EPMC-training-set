@@ -1,0 +1,8 @@
+id,group_id,source,exact,prefix,suffix,anno_type,position_type,start,end,tags,all,origin_tags,comment,user,title,created
+l_E7PuXbEemsGiuMWGUtaw,b53nbDmi,https://europepmc.org/articles/PMC4901335/,arcs, the synapses are denoted using ,. Every neuron can contain a num,TextQuoteSelector,TextPositionSelector,9476,9480,WT_DS,no,[WT_DS],,acct:vanitha_hg@hypothes.is,On the Computational Power of Spiking Neural P Systems with Self-Organization.,2019-10-03T12:44:51.810881+00:00
+KtNzQOXcEemz7xs0bsCtSQ,b53nbDmi,https://europepmc.org/articles/PMC4901335/,add 1,"ng forms:
+li: (ADD(r), lj, lk) (", to register r and then go to on,TextQuoteSelector,TextPositionSelector,26731,26736,WT_GP,no,[WT_GP],,acct:vanitha_hg@hypothes.is,On the Computational Power of Spiking Neural P Systems with Self-Organization.,2019-10-03T12:48:58.356071+00:00
+31LdAuXbEemn0u8UrfzxWA,b53nbDmi,https://europepmc.org/articles/PMC4901335/,cre,"g theorems.Theorem 1.
+N*SPSOall(","*, del*, rule5)=NRE.Theorem 2.
+N",TextQuoteSelector,TextPositionSelector,15361,15364,WT_GP,yes,[WT_GP][ALL],,acct:vanitha_hg@hypothes.is,On the Computational Power of Spiking Neural P Systems with Self-Organization.,2019-10-03T12:46:51.540511+00:00
+0MjXHuXbEemj_6-qEdTTMQ,b53nbDmi,https://europepmc.org/articles/PMC4901335/,resp,". NmSPSOall(creh, delg, ruler) (",". NmSPSOacc(creh′, delg′, ruler′",TextQuoteSelector,TextPositionSelector,14462,14466,WT_DS,yes,[WT_DS][ALL],,acct:vanitha_hg@hypothes.is,On the Computational Power of Spiking Neural P Systems with Self-Organization.,2019-10-03T12:46:27.209128+00:00

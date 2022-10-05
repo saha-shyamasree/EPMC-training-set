@@ -1,0 +1,13 @@
+id,group_id,source,exact,prefix,suffix,anno_type,position_type,start,end,tags,all,origin_tags,comment,user,title,created
+tjXBNuXDEem7Ze8e2qhtpQ,3NabqAPM,https://europepmc.org/articles/PMC5723443/,tumor, describing the geometry of the , and surrounding tissues. The fi,TextQuoteSelector,TextPositionSelector,10995,11000,CRT_DS,yes,[CRT_DS][ALL],,acct:vaishnavijpai@hypothes.is,Quality assurance of registration of CT and MRI data sets for treatment planning of radiotherapy for head and neck cancers.,2019-10-03T09:53:54.699992+00:00
+pAi-jOXDEemgf3vYjmVULQ,3NabqAPM,https://europepmc.org/articles/PMC5723443/,tumors,design the conformal therapy of ,", and conformal avoidance of the",TextQuoteSelector,TextPositionSelector,10373,10379,CRT_DS,no,CRT_DS,,acct:vaishnavijpai@hypothes.is,Quality assurance of registration of CT and MRI data sets for treatment planning of radiotherapy for head and neck cancers.,2019-10-03T09:53:24.302902+00:00
+nQ35nuXDEem5A4tHYCo3MA,3NabqAPM,https://europepmc.org/articles/PMC5723443/,cancer ,iotherapy treatment planning of ,demands we use volumetric image ,TextQuoteSelector,TextPositionSelector,10289,10296,CRT_DS,no,CRT_DS,,acct:vaishnavijpai@hypothes.is,Quality assurance of registration of CT and MRI data sets for treatment planning of radiotherapy for head and neck cancers.,2019-10-03T09:53:12.499347+00:00
+Cr61aOXFEem6MvvZ-qFpmw,3NabqAPM,https://europepmc.org/articles/PMC5723443/,CSF,"al intensities from fat, brain, ",", and the reference gel. The ROI",TextQuoteSelector,TextPositionSelector,18049,18052,WT_GP,yes,[WT_GP][ALL],,acct:vaishnavijpai@hypothes.is,Quality assurance of registration of CT and MRI data sets for treatment planning of radiotherapy for head and neck cancers.,2019-10-03T10:03:25.993748+00:00
+AysaruXEEem473NrDkPDIA,3NabqAPM,https://europepmc.org/articles/PMC5723443/,brain tumors,"iO), we implemented planning of "," using MRI alone.
+(7)
+ Our curre",TextQuoteSelector,TextPositionSelector,12067,12079,CRT_DS,no,CRT_DS,,acct:vaishnavijpai@hypothes.is,Quality assurance of registration of CT and MRI data sets for treatment planning of radiotherapy for head and neck cancers.,2019-10-03T09:56:03.901884+00:00
+1ItK-O87EemC9--4yC_knw,3NabqAPM,https://europepmc.org/articles/PMC5723443/,head and neck cancers,nt planning of radiotherapy for ,"Craig S. Moore,
+1
+,
+2
+ Gary P. L",TextQuoteSelector,TextPositionSelector,6134,6155,MIS_DS,no,MIS_DS,,acct:vaishnavijpai@hypothes.is,Quality assurance of registration of CT and MRI data sets for treatment planning of radiotherapy for head and neck cancers.,2019-10-15T11:06:25.661770+00:00

@@ -1,0 +1,578 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NPG//DTD XML Article//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName NPG_XML_Article.dtd?><?SourceDTD.Version 2.7.10?><?ConverterInfo.XSLTName nature2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">Sci Rep</journal-id><journal-id journal-id-type="iso-abbrev">Sci Rep</journal-id><journal-title-group><journal-title>Scientific Reports</journal-title></journal-title-group><issn pub-type="epub">2045-2322</issn><publisher><publisher-name>Nature Publishing Group</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5120353</article-id><article-id pub-id-type="pii">srep37340</article-id><article-id pub-id-type="doi">10.1038/srep37340</article-id><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title><SecTag type="TITLE"><text><SENT sid="0" pm="."><plain>NF-kappaΒ-inducing kinase regulates stem cell phenotype in breast cancer </plain></SENT>
+</text></SecTag></article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Vazquez-Santillan</surname><given-names>Karla</given-names></name><xref ref-type="aff" rid="a1">1</xref></contrib><contrib contrib-type="author"><name><surname>Melendez-Zajgla</surname><given-names>Jorge</given-names></name><xref ref-type="aff" rid="a1">1</xref></contrib><contrib contrib-type="author"><name><surname>Jimenez-Hernandez</surname><given-names>Luis Enrique</given-names></name><xref ref-type="aff" rid="a1">1</xref></contrib><contrib contrib-type="author"><name><surname>Gaytan-Cervantes</surname><given-names>Javier</given-names></name><xref ref-type="aff" rid="a1">1</xref></contrib><contrib contrib-type="author"><name><surname>Muñoz-Galindo</surname><given-names>Laura</given-names></name><xref ref-type="aff" rid="a1">1</xref></contrib><contrib contrib-type="author"><name><surname>Piña-Sanchez</surname><given-names>Patricia</given-names></name><xref ref-type="aff" rid="a2">2</xref></contrib><contrib contrib-type="author"><name><surname>Martinez-Ruiz</surname><given-names>Gustavo</given-names></name><xref ref-type="aff" rid="a1">1</xref></contrib><contrib contrib-type="author"><name><surname>Torres</surname><given-names>Javier</given-names></name><xref ref-type="aff" rid="a3">3</xref></contrib><contrib contrib-type="author"><name><surname>Garcia-Lopez</surname><given-names>Patricia</given-names></name><xref ref-type="aff" rid="a4">4</xref></contrib><contrib contrib-type="author"><name><surname>Gonzalez-Torres</surname><given-names>Carolina</given-names></name><xref ref-type="aff" rid="a1">1</xref></contrib><contrib contrib-type="author"><name><surname>Ruiz</surname><given-names>Victor</given-names></name><xref ref-type="aff" rid="a5">5</xref></contrib><contrib contrib-type="author"><name><surname>Avila-Moreno</surname><given-names>Federico</given-names></name><xref ref-type="aff" rid="a6">6</xref></contrib><contrib contrib-type="author"><name><surname>Velasco-Velazquez</surname><given-names>Marco</given-names></name><xref ref-type="aff" rid="a7">7</xref></contrib><contrib contrib-type="author"><name><surname>Perez-Tapia</surname><given-names>Mayra</given-names></name><xref ref-type="aff" rid="a8">8</xref></contrib><contrib contrib-type="author"><name><surname>Maldonado</surname><given-names>Vilma</given-names></name><xref ref-type="corresp" rid="c1">a</xref><xref ref-type="aff" rid="a1">1</xref></contrib><aff id="a1"><label>1</label><institution>Instituto Nacional de Medicina Genómica (INMEGEN)</institution>, México, 14610, <country>México</country></aff><aff id="a2"><label>2</label><institution>Unidad de Investigación Médica en Enfermedades Oncológicas (UIMEO), Hospital de Oncología IMSS</institution>, <country>México</country></aff><aff id="a3"><label>3</label><institution>Unidad de Investigación Médica en Enfermedades Infecciosas y Parasitarias (UMAE), Hospital de Pediatría, IMSS</institution>, <country>México</country></aff><aff id="a4"><label>4</label><institution>Instituto Nacional de Cancerología (INCAN)</institution>, <country>México</country></aff><aff id="a5"><label>5</label><institution>Instituto Nacional de Enfermedades Respiratorias “Ismael Cosío Villegas” (INER)</institution>, <country>México</country></aff><aff id="a6"><label>6</label><institution>Facultad de Estudios Superiores Iztacala</institution>, UNAM, <country>México</country></aff><aff id="a7"><label>7</label><institution>Facultad de Medicina UNAM</institution>, <country>México</country></aff><aff id="a8"><label>8</label><institution>Unidad de Desarrollo e Investigación en Bioprocesos (UDIBI) y Departamento de Inmunología</institution>, IPN, <country>México</country>.</aff></contrib-group><author-notes><corresp id="c1"><label>a</label><email>vilmaml@gmail.com</email></corresp></author-notes><pub-date pub-type="epub"><day>23</day><month>11</month><year>2016</year></pub-date><pub-date pub-type="collection"><year>2016</year></pub-date><volume>6</volume><elocation-id>37340</elocation-id><history><date date-type="received"><day>15</day><month>02</month><year>2016</year></date><date date-type="accepted"><day>18</day><month>10</month><year>2016</year></date></history><permissions><copyright-statement>Copyright © 2016, The Author(s)</copyright-statement><copyright-year>2016</copyright-year><copyright-holder>The Author(s)</copyright-holder><license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link></license-p></license></permissions><abstract><p><SecTag type="ABS"><text><SENT sid="1" pm="."><plain>Breast cancer stem cells (BCSCs) overexpress components of the Nuclear factor-kappa B (NF-κB) signaling cascade and consequently display high NF-κB activity levels. </plain></SENT>
+<SENT sid="2" pm="."><plain>Breast cancer cell lines with high proportion of CSCs exhibit high NF-κB-inducing kinase (NIK) expression. </plain></SENT>
+<SENT sid="3" pm="."><plain>The role of NIK in the phenotype of cancer stem cell regulation is poorly understood. </plain></SENT>
+<SENT sid="4" pm="."><plain>Expression of NIK was analyzed by quantitative RT-PCR in BCSCs. </plain></SENT>
+<SENT sid="5" pm="."><plain>NIK levels were manipulated through transfection of specific shRNAs or an expression vector. </plain></SENT>
+<SENT sid="6" pm="."><plain>The effect of NIK in the cancer stem cell properties was assessed by mammosphere formation, mice xenografts and stem markers expression. </plain></SENT>
+<SENT sid="7" pm="."><plain>BCSCs expressed higher levels of NIK and its inhibition through small hairpin (shRNA), reduced the expression of CSC markers and impaired clonogenicity and tumorigenesis. </plain></SENT>
+<SENT sid="8" pm="."><plain>Genome-wide expression analyses suggested that NIK acts on ERK1/2 pathway to exert its activity. </plain></SENT>
+<SENT sid="9" pm="."><plain>In addition, forced expression of NIK increased the BCSC population and enhanced breast cancer cell tumorigenicity. </plain></SENT>
+<SENT sid="10" pm="."><plain>The in vivo relevance of these results is further supported by a tissue microarray of breast cancer samples in which we observed correlated expression of Aldehyde dehydrogenase (ALDH) and NIK protein. </plain></SENT>
+<SENT sid="11" pm="."><plain>Our results support the essential involvement of NIK in BCSC phenotypic regulation via ERK1/2 and NF-κB. </plain></SENT>
+</text></SecTag></p></abstract></article-meta></front><body><p><text><SENT sid="12" pm="."><plain>Several reports have shown that tumors contain subpopulations of Cancer Stem Cells (CSCs) that can initiate and sustain tumor growth1. </plain></SENT>
+<SENT sid="13" pm="."><plain>CSCs self-renew by generating unlimited copies and also give rise to mature non-stem cell progeny through differentiation, thus producing phenotypically different cells12. </plain></SENT>
+<SENT sid="14" pm="."><plain>Breast cancer stem cells are classically defined by CD44 (Cluster of Differentiation antigen-44) positive and low or absent levels of CD24 (Cluster of Differentiation antigen-24) expression (CD44+/CD24−/low). </plain></SENT>
+<SENT sid="15" pm="."><plain>Xenotransplant assays have revealed that as few as 100 cells with the CD44+/CD24−/low phenotype can form tumors in immunodeficient mice3. </plain></SENT>
+<SENT sid="16" pm="."><plain>Breast Cancer Stem Cells (BCSCs) also exhibit high levels of Wnt, Notch, Hedgehog, JAK/STAT and Nuclear factor-kappa B (NF-κB) activity; these pathways regulate self-renewal and differentiation processes456. </plain></SENT>
+</text></p><p><text><SENT sid="17" pm="."><plain>NF-κB refers to a family of transcription factors that control the expression of many genes related to immune responses, survival, proliferation, angiogenesis, and metastasis7. </plain></SENT>
+<SENT sid="18" pm="."><plain>The NF-κB family consists of the following five transcription factors: RelA (p65), RelB, c-Rel, p100/p52, and p105/p50; these factors can homo or heterodimerize to allow DNA binding and activate transcription. </plain></SENT>
+<SENT sid="19" pm="."><plain>Two main signaling pathways, the canonical, and non-canonical NF-κB pathways activate NF-κB; both pathways rely on signals that induce the phosphorylation and subsequent degradation of NF-κB inhibitors (IκB proteins). </plain></SENT>
+<SENT sid="20" pm="."><plain>After degradation of NF-κB inhibitors, the NF-κB pathway is activated by translocation of NF-κB dimers. </plain></SENT>
+<SENT sid="21" pm="."><plain>Canonical NF-κB pathway mainly induces the translocation of the p50:p65 dimer, while the non-canonical NF-κB pathway primarily triggers p52:RelB dimer translocation through NF-κB-inducing kinase (NIK)89. </plain></SENT>
+</text></p><p><text><SENT sid="22" pm="."><plain>NIK, a MAP kinase kinase kinase (MAP3K14) protein, is essential for the activation of the non-canonical NF-κB pathway because it phosphorylates IκB Kinase-α (IKKα) and participates in the processing of p10010. </plain></SENT>
+<SENT sid="23" pm="."><plain>NIK also phosphorylates IκB Kinase-β (IKKβ) and activates canonical NF-κB pathway11. </plain></SENT>
+<SENT sid="24" pm="."><plain>NIK is involved in processes such as cell differentiation, development, and embryogenesis; in the latter, NIK appears to play a role in pluripotent embryonic stem cell maintenance12. </plain></SENT>
+<SENT sid="25" pm="."><plain>These activities of NIK support a potential role in the regulation of stem cell behavior12131415. </plain></SENT>
+<SENT sid="26" pm="."><plain>In this regard, mutant mice with defects in the non-canonical NF-κB pathway, including NIK, display abnormalities in mammary gland development161718. </plain></SENT>
+</text></p><p><text><SENT sid="27" pm="."><plain>NIK is frequently overexpressed in basal and claudin-low breast cancer cell lines, and its overexpression leads to constitutive NF-κB activation and proliferation in these tumor192021. </plain></SENT>
+<SENT sid="28" pm="."><plain>Basal and claudin-low carcinomas are mainly estrogen receptor (ER)-negative, progesterone receptor (PR)-negative, and human epidermal growth factor receptor 2 (HER2)-negative (triple negative). </plain></SENT>
+<SENT sid="29" pm="."><plain>Triple negative tumors are more aggressive, have a poor prognosis, and contain higher proportions of BCSCs (CD44+/CD24−/low) than other tumor subtypes2223. </plain></SENT>
+<SENT sid="30" pm="."><plain>Recently, Zhang et al. observed that NIK-IKKα regulates HER2-induced mammary tumorigenesis by promoting the nuclear exclusion of p27/Kip1, thereby supporting the proliferation and expansion of BCSCs in a mouse tumorigenesis model24. </plain></SENT>
+<SENT sid="31" pm="."><plain>In contrast to its role in breast cancer tumorigenesis, information about the role of NIK in CSC is limited. </plain></SENT>
+<SENT sid="32" pm="."><plain>The aim of this project was to determine the role of NIK in the phenotype of BCSCs. </plain></SENT>
+</text></p><p><text><SENT sid="33" pm="."><plain>Here, we demonstrate that NIK is overexpressed in BCSCs isolated from MCF7 and MDA-MB-231 breast cancer cell lines. </plain></SENT>
+<SENT sid="34" pm="."><plain>By disrupting NIK expression, we show that NIK inhibition affects the number of BCSCs and concomitantly reduces the expression levels of Aldehyde Dehydrogrenase-1A1 (ALDH1A1), NANOG, SOX2 (SRY-BOX2), and Octamer-Binding Transcription Factor (OCT4). </plain></SENT>
+<SENT sid="35" pm="."><plain>In addition, we found that Aldehyde Dehydrogenase 1 (ALDH1) is co-expressed with NIK in tumor cells from patients with breast cancer. </plain></SENT>
+<SENT sid="36" pm="."><plain>NIK inhibition impaired the ability of cells to grow tumors in immunodeficient mice. </plain></SENT>
+<SENT sid="37" pm="."><plain>In support of these results, we also observed that NIK overexpression increased the proportion of CD44+/CD24−/low cells and stem cell markers in MCF7 cells. </plain></SENT>
+<SENT sid="38" pm="."><plain>Interestingly, microarray data revealed that NIK regulated stem cell-related genes through the Extracellular Signal-Regulates Kinases (ERK) pathway. </plain></SENT>
+</text></p><SecTag type="RESULTS"><sec disp-level="1"><title><text><SENT sid="39" pm="."><plain>Results </plain></SENT>
+</text></title><sec disp-level="2"><title><text><SENT sid="40" pm="."><plain>Isolation of BCSCs Derived from Breast Cancer Cell Lines </plain></SENT>
+</text></title><p><text><SENT sid="41" pm="."><plain>To isolate BCSCs, we used specific antibodies against surface markers (CD44, CD24 or Epithelial Cell Adhesion Molecule (ESA) in a luminal (MCF7) and a triple negative (MDA-MB-231) breast cancer cell line. </plain></SENT>
+<SENT sid="42" pm="."><plain>BCSCs content varies greatly among breast cancer cell lines and breast carcinomas252627. </plain></SENT>
+<SENT sid="43" pm="."><plain>Triple negative tumors contain large numbers of CSCs while luminal breast tumors have lower stem cell contents2223. </plain></SENT>
+<SENT sid="44" pm="."><plain>Here, we demonstrated that MCF7 cell line has a low percentage of BCSCs (CD44+/CD24−/low cells; 0.7–1.4%; Fig. 1A). </plain></SENT>
+<SENT sid="45" pm="."><plain>Since MDA-MB-231 cell line exhibits low or null CD24 expression (data not shown), we used CD44 and ESA to detect the stem cell population (Fig. 1B). </plain></SENT>
+<SENT sid="46" pm="."><plain>Thus, we determined that 34% of MDA-MB-231 cells were CD44+/ESA+ cells. </plain></SENT>
+<SENT sid="47" pm="."><plain>In addition, we isolated a high ALDH activity subpopulation, since it was shown previously that this population presents phenotypic and functional characteristics of BCSC28. </plain></SENT>
+<SENT sid="48" pm="."><plain>Thus, we determined that only 16% of MDA-MB-231 cells exhibit ALDH activity (Supplementary Fig. </plain></SENT>
+<SENT sid="49" pm="."><plain>S1A,B). </plain></SENT>
+</text></p><p><text><SENT sid="50" pm="."><plain>BCSCs can initiate tumors and drive neoplastic proliferation. </plain></SENT>
+<SENT sid="51" pm="."><plain>To verify the tumorigenic potential of BCSCs, we injected BCSCs and non-BCSCs into immunodeficient nu/nu mice. </plain></SENT>
+<SENT sid="52" pm="."><plain>MCF7 cells with the CD44+/CD24low/− phenotype were compared with CD44−/CD24+ cells. </plain></SENT>
+<SENT sid="53" pm="."><plain>After 120 days, all mice inoculated with CD44+/CD24/low/− MCF7 cells grew visible tumors, unlike CD44−/CD24+ cells (Supplementary Table S1). </plain></SENT>
+<SENT sid="54" pm="."><plain>Sorted ESA+ MDA-MB-231 cells were able to form tumors within 90 days while the majority of mice inoculated with ESA− did not form tumors (Supplementary Table S1). </plain></SENT>
+</text></p><p><text><SENT sid="55" pm="."><plain>To verify their clonogenic potential, isolated MCF7 BCSCs and non-BCSCs were seeded on soft agar plates. </plain></SENT>
+<SENT sid="56" pm="."><plain>The number of colonies formed by CD44+/CD24low/− cells was significantly higher than those formed by CD44−/CD24+ (818 vs. 236 colonies) (Fig. 1C). </plain></SENT>
+<SENT sid="57" pm="."><plain>In addition, the clonogenic potential of sorted MDA-MB-231 BCSCs was evaluated in limited dilution assays, which revealed that the CD44+/ESA− cells were more clonogenic than the CD44−/ESA− cells (6 colonies vs. 2 colonies at low-density cell dilution) (Fig. 1D). </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="58" pm="."><plain>BCSCs Express Higher Levels of NIK </plain></SENT>
+</text></title><p><text><SENT sid="59" pm="."><plain>CSCs express high levels of stem cell markers, which contribute to their self-renewal properties2829. </plain></SENT>
+<SENT sid="60" pm="."><plain>We found that isolated MCF7 CD44+/CD24low/− cells exhibited higher expression levels of OCT4, NANOG, ALDH1A3, ALDH1A3 and ALDH8A1 compared to the CD44−/CD24+ subpopulation (Fig. 1E). </plain></SENT>
+<SENT sid="61" pm="."><plain>BCSCs (CD44+/ESA+) derived from the MDA-MB-231 cell line, also expressed higher levels of some stem cell markers, including SOX2, OCT4, NANOG and ALDH8A1 compared to CD44−/ESA− cells (Fig. 1F). </plain></SENT>
+</text></p><p><text><SENT sid="62" pm="."><plain>NIK (also known as MAP3K14), a NF-κB activator, is upregulated in basal breast cancer cell lines1920, which are enriched in CSCs22. </plain></SENT>
+<SENT sid="63" pm="."><plain>For this reason, we examined the levels of this kinase in MDA-MB-231 (claudin low), SKBR3 (HER2+) and MCF7 (luminal) breast cancer cell lines and found that as expected, NIK is highly expressed in MDA-MB-231 cells and barely detectable in MCF7 cells (Supplementary Fig. </plain></SENT>
+<SENT sid="64" pm="."><plain>S2). </plain></SENT>
+<SENT sid="65" pm="."><plain>To determine if NIK expression in BCSCs was up-regulated, we examined its mRNA levels in a two cell lines. Figure 2A shows that MCF7 BCSCs expressed higher levels of NIK than the non-stem cell population (CD44−/CD24+). </plain></SENT>
+<SENT sid="66" pm="."><plain>In addition, MDA-MB-231 BCSCs also exhibited higher levels of NIK when compared to CD44−/ESA− cells (Fig. 2B); furthermore NIK is highly expressed in MDA-MB-231 cells with ALDH activity (Supplementary Fig. </plain></SENT>
+<SENT sid="67" pm="."><plain>S1B). </plain></SENT>
+<SENT sid="68" pm="."><plain>These results prompted us to investigate the role of NIK in the stem phenotype of breast cancer. </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="69" pm="."><plain>NIK Inhibition Reduces the BCSC Population and Affects CSC Marker Expression </plain></SENT>
+</text></title><p><text><SENT sid="70" pm="."><plain>We next investigated the effect of NIK inhibition on the CSC phenotype. </plain></SENT>
+<SENT sid="71" pm="."><plain>We generated stable MCF7 (MCF7-shNIK), MDA-MB-231 (MDA231-shNIK) and SKBR3 (SKBR3-shNIK) cell lines with two different small hairpin RNAs (shRNAs). </plain></SENT>
+<SENT sid="72" pm="."><plain>RT-qPCR analysis showed that the two shRNAs efficiently reduced NIK expression in MCF7 (Fig. 2C), MDA-MB-231 (Fig. 2D) and SKBR3 cells (Supplementary Fig. </plain></SENT>
+<SENT sid="73" pm="."><plain>S3A) in comparison with MCF7, MDA-MB-231 and SKBR3 control cells, respectively. </plain></SENT>
+</text></p><p><text><SENT sid="74" pm="."><plain>In MCF7, NIK deficiency reduced the expression of SOX2, OCT4, NANOG, ALDH1A3 and ALDH8A1. </plain></SENT>
+<SENT sid="75" pm="."><plain>Similar results were obtained employing the second shRNA against NIK (Fig. 2E). </plain></SENT>
+<SENT sid="76" pm="."><plain>In further support of these findings, NIK inhibition in MDA-MB-231 cells also reduced the expression of SOX2, OCT4, ALDH1A3 and ALDH8A1 (Fig. 2F). </plain></SENT>
+<SENT sid="77" pm="."><plain>In addition, NIK deficiency also reduced the expression of SOX2, OCT4 and ALDH1A3 in SKBR3 cells (Supplementary Fig. </plain></SENT>
+<SENT sid="78" pm="."><plain>S3B). </plain></SENT>
+</text></p><p><text><SENT sid="79" pm="."><plain>BCSCs fraction was also reduced due to NIK inhibition in MCF7 and MDA-MB-231 cell lines. </plain></SENT>
+<SENT sid="80" pm="."><plain>As shown in Fig. 3A,B, we found that there was a dramatic reduction in the BCSC population (CD44+/CD24−) in MCF7-shNIK1 and shNIK2. </plain></SENT>
+<SENT sid="81" pm="."><plain>Expression of cell surface proteins was modified due to NIK inhibition (Fig. 3C–F). </plain></SENT>
+<SENT sid="82" pm="."><plain>In MCF7 cell line, NIK inhibition provoked a slightly reduction in CD44 levels in comparison to control cells (Fig. 3C). </plain></SENT>
+<SENT sid="83" pm="."><plain>On the contrary, NIK inhibition caused a 10% increase of cells expressing CD24, compared with the control cell line (Fig. 3D). </plain></SENT>
+<SENT sid="84" pm="."><plain>To further support these results, we found that NIK inhibition also decreased the CD44 and ESA positive subpopulation in MDA-MB-231 cell line (Fig. 3E,F). </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="85" pm="."><plain>NIK Depletion Impacts the Clonogenic and Tumorigenic Potential of Breast Cancer Cell Lines </plain></SENT>
+</text></title><p><text><SENT sid="86" pm="."><plain>Because our results show that NIK expression is associated with stem cell marker expression, we sought to determine its relevance in the cancer stem cell phenotype. Figure 3G shows that MCF7 deficient NIK cells formed significantly fewer colonies than MCF7-shLuc cells. </plain></SENT>
+<SENT sid="87" pm="."><plain>The clonogenic potential of MDA-MB-231-shNIK cells was analyzed in limited dilution assays. </plain></SENT>
+<SENT sid="88" pm="."><plain>MDA-MB-231-siNIK cells demonstrated reduced clonogenicity compared with MDA-MB-231-siLuc cells (Fig. 3H). </plain></SENT>
+<SENT sid="89" pm="."><plain>Similar results were obtained with another shRNA against NIK. </plain></SENT>
+<SENT sid="90" pm="."><plain>In addition, MCF7 depleted NIK cells formed lower numbers of mammospheres (Fig. 3I). </plain></SENT>
+<SENT sid="91" pm="."><plain>Those results indicate that NIK depletion impairs the clonogenic potential of breast cancer cells. </plain></SENT>
+</text></p><p><text><SENT sid="92" pm="."><plain>To evaluate the tumorigenicity of NIK-depleted cells, we inoculated MDA231-shNIK cells carrying a luciferase reporter in nu/nu mice and analyzed the tumor burden six weeks later. </plain></SENT>
+<SENT sid="93" pm="."><plain>The results showed that NIK inhibition reduced the tumor burden in most of the mice analyzed. Figure 3J show an ELDA analysis of inoculated mice which indicates that the CSC frequency is lower in MDA231-shNIK cells. </plain></SENT>
+<SENT sid="94" pm="."><plain>These findings support the idea that NIK could be essential for tumorigenic abilities of BCSCs. </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="95" pm="."><plain>Forced NIK Expression Increases CSC Marker Expression and BCSC Numbers </plain></SENT>
+</text></title><p><text><SENT sid="96" pm="."><plain>To investigate the effects of NIK overexpression on the stem cell phenotype, we developed stable cell lines that overexpressed NIK (MCF7-NIK+) and (SKBR3-NIK+). </plain></SENT>
+<SENT sid="97" pm="."><plain>qPCR analysis showed that MCF7-NIK+ and SKBR3+ cells expressed 60 fold (Fig. 4A) and 4 fold (Supplementary Fig. 3A) higher levels of NIK compared with MCF7-Mock and SKBR-Mock cells respectively. </plain></SENT>
+<SENT sid="98" pm="."><plain>Our results showed that NIK overexpression increased the expression of some stem cell markers. </plain></SENT>
+<SENT sid="99" pm="."><plain>In MFC7-NIK+ cells the most dramatic changes were the increase in ALDH1A3, ALDH8A1, and SOX2 (Fig. 4B). </plain></SENT>
+<SENT sid="100" pm="."><plain>Overexpression of NIK in SKBR3 also increased the level of SOX2 and ALDH8A1 (Supplementary Fig. 3B). </plain></SENT>
+</text></p><p><text><SENT sid="101" pm="."><plain>Forced expression of NIK provokes an increment of CSC fraction in MCF7 cells (Fig. 4C). </plain></SENT>
+<SENT sid="102" pm="."><plain>NIK overexpression slightly increases the expression of CD44 (Fig. 4D) and reduced CD24 expression levels (Fig. 4E), leading to an increase in the BCSC population (CD44+/CD24low/−). </plain></SENT>
+</text></p><p><text><SENT sid="103" pm="."><plain>To further investigate the clonogenic potential of MCF7-NIK+ cells, we performed soft-agar clonogenicity assays. Figure 4F shows that NIK overexpression increased the size and number of colonies formed by MCF7-NIK+ cells, when compared with MCF7-Mock+ cells. </plain></SENT>
+<SENT sid="104" pm="."><plain>We also found that NIK-overexpressing MCF7 cancer cells developed a higher number of mammospheres and the sphere-forming potential is sustained even after a second passage (Fig. 4G). </plain></SENT>
+<SENT sid="105" pm="."><plain>To further support these results, we evaluated the ability of SKBR3-NIK+ cells to form mammospheres, Supplementary Fig. 3C shows that NIK-overexpressing cells form a higher number of mammospheres than control cells. </plain></SENT>
+</text></p><p><text><SENT sid="106" pm="."><plain>To determine whether forced NIK expression promotes tumor growth, we inoculated nu/nu mice with MCF7-NIK+ or MCF7-Mock cells. </plain></SENT>
+<SENT sid="107" pm="."><plain>NIK overexpression increased the number of tumors formed by MCF7 cells. </plain></SENT>
+<SENT sid="108" pm="."><plain>ELDA analysis of inoculated mice showed that MCF7-NIK+ cells have a higher CSC frequency than MCF7-Mock cells (Fig. 4H). </plain></SENT>
+<SENT sid="109" pm="."><plain>In addition, forced expression of NIK in SKBR3 cells also favored tumor formation and a higher CSC frequency (Supplementary Fig. </plain></SENT>
+<SENT sid="110" pm="."><plain>S3D). </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="111" pm="."><plain>NIK Expression Regulates NF-κB Molecules </plain></SENT>
+</text></title><p><text><SENT sid="112" pm="."><plain>NIK is an essential kinase that induces principally non-canonical NF-κB activation by phosphorylating p100 and IKKα10. </plain></SENT>
+<SENT sid="113" pm="."><plain>Some reports have shown that NIK can also phosphorylate IKKβ and activate the canonical NF-κB pathway1130. </plain></SENT>
+<SENT sid="114" pm="."><plain>To verify NF-κB activation, we performed a reporter gene analysis in MCF7 cells. </plain></SENT>
+<SENT sid="115" pm="."><plain>We observed that NIK overexpression dramatically increased NF-κB activation while NIK deficiency impaired NF-κB activation when compared to control cells (Fig. 5A,B). </plain></SENT>
+</text></p><p><text><SENT sid="116" pm="."><plain>It has been reported that NIK mediates the processing of p100 to p52 and promotes the nuclear translocation of p52:RelB dimer. </plain></SENT>
+<SENT sid="117" pm="."><plain>In agreement with this, we found that NIK regulation resulted in modulation of nuclear p52. Supplementary Fig. </plain></SENT>
+<SENT sid="118" pm="."><plain>S4A,B shows that MCF7-NIK+ cells presented a strong nuclear accumulation of p52, as opposed to MDA231-shNIK cells, in which, NIK inhibition resulted in a reduction of nuclear p52 (Supplementary Fig. </plain></SENT>
+<SENT sid="119" pm="."><plain>S4C,D). </plain></SENT>
+</text></p><p><text><SENT sid="120" pm="."><plain>To determine which NF-κB molecules are involved in NIK-mediated regulation of CSC marker expression, we performed Western blotting and immunofluorescence analysis of key NF-κB proteins. </plain></SENT>
+<SENT sid="121" pm="."><plain>Western blotting assays revealed that NIK increased mainly the expression of p52, RelB and RelA/p65 (Fig. 5C,D). </plain></SENT>
+<SENT sid="122" pm="."><plain>Immunofluorescence analyses showed that NIK overexpression also increased the expression of p52 (Fig. 5E), RelB (Fig. 5F) and p65 (Fig. 5H). </plain></SENT>
+<SENT sid="123" pm="."><plain>In addition, NIK overexpression also increased the phosphorylation of p100/p52 (Fig. 5I) and p65 (Fig. 5J). </plain></SENT>
+<SENT sid="124" pm="."><plain>Interestingly, p50 levels were lower in MCF7-NIK+ cells (Fig. 5G). </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="125" pm="."><plain>NIK Expression in Patients with Breast Cancer </plain></SENT>
+</text></title><p><text><SENT sid="126" pm="."><plain>Finally, we determined NIK levels in 191 breast cancer tissue samples of which 60.7% were Luminal, 13.6% were triple negative and 9.4% were HER2 breast cancer subtype (Fig. 6A). </plain></SENT>
+<SENT sid="127" pm="."><plain>To determine whether NIK expression is related to a particular breast cancer subtype, we examine NIK expression by immunohistochemistry, and we found that NIK expression was significantly higher in HER2+ breast carcinomas (Fig. 6B), and the expression of NIK positively correlated with HER2 expression levels (Fig. 6C). </plain></SENT>
+<SENT sid="128" pm="."><plain>We also found that Triple Negative carcinomas exhibited the lowest expression of NIK, contrary to previous reports of breast cancer cell lines (Fig. 6B). </plain></SENT>
+<SENT sid="129" pm="."><plain>Tumor Samples were also classified as grade 1, 2 and 3 (Fig. 6D). </plain></SENT>
+<SENT sid="130" pm="."><plain>Interestingly, we observed a clear positive association between NIK and tumor grade (Fig. 6E). </plain></SENT>
+</text></p><p><text><SENT sid="131" pm="."><plain>Immunohistochemistry analysis revealed that NIK was expressed in 79.5% (152) breast cancer tissues (Fig. 7A). </plain></SENT>
+<SENT sid="132" pm="."><plain>To support our previous result showing that NIK and ALDH expression are correlated, we analyzed the co-localization of both proteins in these samples. </plain></SENT>
+<SENT sid="133" pm="."><plain>ALDH was expressed in 56% of the studied cases (Fig. 7B), of which 97% also expressed NIK (Fig. 7C). </plain></SENT>
+<SENT sid="134" pm="."><plain>Surprisingly, 89.4% of those tumors presented a cellular co-localization of both proteins as shown in Fig. 7D. Figure 7E represents tumors that express NIK and ALDH in different cells. Figure 7F–H represents tumors lacking either NIK or ALDH. </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="135" pm="."><plain>NIK altered expression affects stem cell related genes </plain></SENT>
+</text></title><p><text><SENT sid="136" pm="."><plain>To elucidate the possible mechanism by which NIK affects the stem cell phenotype, we performed whole-genome microarray expression analysis of NIK-overexpressing, NIK-deficient, and MCF7 control cells. </plain></SENT>
+<SENT sid="137" pm="."><plain>As expected, the principal component analysis divided the samples into three groups; high NIK expression (NIK+), low NIK expression (NIK−) and the control cells (Fig. 8A). </plain></SENT>
+<SENT sid="138" pm="."><plain>We found significant gene expression differences in 79 genes in MCF7 overexpressing-NIK cells and 53 differential expressed genes in MCF7 deficient NIK cells (Supplementary Table S2 and S3 and Fig. 8B). </plain></SENT>
+<SENT sid="139" pm="."><plain>Supporting the role of NIK in CSCs regulation, we found that most of the top regulated genes were involved in stem cell or EMT processes (Fig. 8C,D). </plain></SENT>
+</text></p><p><text><SENT sid="140" pm="."><plain>In order to validate the microarray data, seven genes were analyzed by real time RT-PCR. </plain></SENT>
+<SENT sid="141" pm="."><plain>We based this selection on the fold change found or on their role in stem cell biology. </plain></SENT>
+<SENT sid="142" pm="."><plain>All analyzed genes correlated well with the results obtained from microarrays (Fig. 8E). </plain></SENT>
+<SENT sid="143" pm="."><plain>As expected, we observed that upregulated genes (EGR1. </plain></SENT>
+<SENT sid="144" pm="."><plain>TCN1. </plain></SENT>
+<SENT sid="145" pm="."><plain>DUSP6, GDF15) in the samples with high NIK expression were also downregulated in MCF7 depleted-NIK cells (Fig. 8E). </plain></SENT>
+</text></p><p><text><SENT sid="146" pm="."><plain>Ingenuity Pathway Analysis (IPA) of MCF7 cells overexpressing NIK showed concordant enriched signaling networks, including cellular growth and proliferation, cell death and survival, cellular movement and hematological system development. </plain></SENT>
+<SENT sid="147" pm="."><plain>These results indicate that NIK disruption could impair the proliferation, survival, and migration of cancer stem cells. </plain></SENT>
+<SENT sid="148" pm="."><plain>Our microarray results suggest that NIK could activate ERK1/2 pathway to regulate several molecules involved in stem cell modulation such as EGR1, NCF1, COL5A2 and GDF15) (Fig. 8F). </plain></SENT>
+<SENT sid="149" pm="."><plain>In addition, our results showed that NIK deficiency down-regulated the expression of stem cell-associated genes such as MAP2K6, CSPG4, and TAL1, probably by the MAPK and ERK1/2 pathway (Fig. 8G). </plain></SENT>
+<SENT sid="150" pm="."><plain>Data analysis of deregulated genes in MCF7 cells with high NIK expression revealed that ERK could be one of the key pathways that contribute to regulate the stem cell phenotype. </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="151" pm="."><plain>NIK regulates stemness through ERK activation </plain></SENT>
+</text></title><p><text><SENT sid="152" pm="."><plain>The ERK pathway is involved in the activation of many transcription factors, which promote cancer cell growth and tumorigenesis. </plain></SENT>
+<SENT sid="153" pm="."><plain>Interestingly, our results showed that NIK could be regulating the ERK pathway to modulated target genes involved in stemness or epithelial to mesenchymal transition (EMT), a process that gives rise to cancer stem-like cells. </plain></SENT>
+<SENT sid="154" pm="."><plain>To determine the role of NIK in ERK activation, we analyzed the phosphorylation status of ERK in NIK-deficient and NIK-over-expressing cells. </plain></SENT>
+<SENT sid="155" pm="."><plain>Forced expression of NIK promoted ERK phosphorylation, while NIK depletion reduced the expression of phospho-ERK (Fig. 9A). </plain></SENT>
+<SENT sid="156" pm="."><plain>These results suggest that NIK modulates ERK phosphorylation in BCSC. </plain></SENT>
+</text></p><p><text><SENT sid="157" pm="."><plain>To further support the role or ERK in the NIK-mediated stem phenotype, we used a chemical inhibitor of this kinase. </plain></SENT>
+<SENT sid="158" pm="."><plain>As expected, ERK inhibition with FR180204 resulted in a reduced expression of the upregulated genes found in the microarray data (Early Growth Response 1, EGR1; Growth Differentiation Factor 15, GDF15; Transcobalamin 1, TCN1 and Dual specificity phosphatase 6, DUSP6) (Fig. 9B). </plain></SENT>
+</text></p><p><text><SENT sid="159" pm="."><plain>To verify the role of ERK in the regulation of these target genes, we used specific shRNAs directed against ERK1 and ERK2 (Supplementary Fig. </plain></SENT>
+<SENT sid="160" pm="."><plain>S5A). </plain></SENT>
+<SENT sid="161" pm="."><plain>Our results showed that ERK inhibition also reduced the expression of EGR1 and GDF15, but failed to reduce DUSP6 expression (Supplementary Fig. </plain></SENT>
+<SENT sid="162" pm="."><plain>S5B). </plain></SENT>
+<SENT sid="163" pm="."><plain>Interestingly, NIK-overexpressing MCF7 cells exposed to FR180204 fail to up-regulate target genes (Fig. 9C). </plain></SENT>
+<SENT sid="164" pm="."><plain>Since NIK leads to an increase in ERK activation, we analyzed whether the inhibition of ERK signaling decreases the ability of NIK to enhance CSC fraction. </plain></SENT>
+<SENT sid="165" pm="."><plain>Administration of FR180204 to NIK-overexpressing cells dramatically reduced the CSC fraction to numbers close to those found in MCF7 control cells (Fig. 9D). </plain></SENT>
+</text></p></sec></sec></SecTag><SecTag type="DISCUSS"><sec disp-level="1"><title><text><SENT sid="166" pm="."><plain>Discussion </plain></SENT>
+</text></title><p><text><SENT sid="167" pm="."><plain>It has been proposed that a subpopulation of cancer stem cells are able to initiate and sustain the growth of a tumor1, enabling the propagation and formation of metastatic foci at distant sites263132. </plain></SENT>
+<SENT sid="168" pm="."><plain>According to this hypothesis, only CSCs can self-renew indefinitely and differentiate into all tumor cell types33. </plain></SENT>
+<SENT sid="169" pm="."><plain>The identification of new CSC targets could be very useful, particularly for neoplasms with high mortality and early relapse rates. </plain></SENT>
+</text></p><p><text><SENT sid="170" pm="."><plain>Gene expression profiles have defined the following five breast cancer subtypes: luminal-like, basal-like, HER2 enriched, claudin-low, and normal breast-like3435. </plain></SENT>
+<SENT sid="171" pm="."><plain>In breast cancer cell lines, NF-κB activity is differentially represented in luminal and basal breast tumor subtype. </plain></SENT>
+<SENT sid="172" pm="."><plain>Basal breast cancer cell lines possess increased NF-κB activation state and high NIK expression2021. </plain></SENT>
+<SENT sid="173" pm="."><plain>NIK expression in breast cancer tissues has not been analyzed; here we show that HER2 breast tumors expressed higher levels of NIK than Triple Negative tumors. </plain></SENT>
+<SENT sid="174" pm="."><plain>Supporting this result, it has been showed that active NF-κB is detected mainly in the HER2+/ER-negative subtype in breast tumor specimens36. </plain></SENT>
+<SENT sid="175" pm="."><plain>In addition, it is well known that HER2 overexpression induces NF-κB activation373839. </plain></SENT>
+<SENT sid="176" pm="."><plain>Furthermore, it was reported that HER2 is an important regulator of BCSCs in HER2-positive tumors40. </plain></SENT>
+<SENT sid="177" pm="."><plain>HER2 appears to regulate self-renewal in breast tumors lacking HER2 amplification through the receptor activator of NF-κB (RANK)-ligand41. </plain></SENT>
+</text></p><p><text><SENT sid="178" pm="."><plain>Baldwin AS in 2010 using Her2+/ER- breast cancer cells, showed that HER2 activates NF-kappa B via IKKα and hypothesized that NIK might be activating IKKα since NIK has been associated to the ErbB2 family member EGFR37. </plain></SENT>
+<SENT sid="179" pm="."><plain>Nevertheless, the mechanism of how HER2 regulates NIK is not currently known. </plain></SENT>
+</text></p><p><text><SENT sid="180" pm="."><plain>In this study, we established a strong association between NIK and the CSC phenotype. </plain></SENT>
+<SENT sid="181" pm="."><plain>We observed that the majority of the stem cell markers analyzed were co-regulated by NIK. </plain></SENT>
+<SENT sid="182" pm="."><plain>Our data showed that NIK expression was higher in BCSCs derived from both luminal and triple negative breast cancer cell lines. </plain></SENT>
+<SENT sid="183" pm="."><plain>NIK depletion reduced the BCSC subpopulation and dramatically impaired malignant characteristics such as tumorigenicity and clonogenicity in both cell lines. </plain></SENT>
+<SENT sid="184" pm="."><plain>Interestingly, even when MCF7 cells expressed low levels of NIK, inhibition of NIK was sufficient to reduce the BCSC population and to impact clonogenic abilities. </plain></SENT>
+<SENT sid="185" pm="."><plain>These results support the strong contribution of this kinase to the stem cell-like phenotype in breast cancer. </plain></SENT>
+</text></p><p><text><SENT sid="186" pm="."><plain>Our results showed that NIK expression regulates CSC markers expression, interestingly, ALDH1A1, ALDH1A3 have promoters with putative NF-κB-responsive elements. </plain></SENT>
+<SENT sid="187" pm="."><plain>Analysis of breast cancer tissues revealed that ALDH-expressing cells also express NIK protein in the majority of the tumor analyzed. </plain></SENT>
+<SENT sid="188" pm="."><plain>These results suggest that a NIK-ALDH-dependent regulation of the BCSC population likely operates in vivo. </plain></SENT>
+</text></p><p><text><SENT sid="189" pm="."><plain>Our data showed that NIK expression negatively regulates CD24. </plain></SENT>
+<SENT sid="190" pm="."><plain>Vesuna et al., found that Twist, an EMT inductor regulated by NF-κB, is able to repress the transcription of CD2442. </plain></SENT>
+<SENT sid="191" pm="."><plain>Interestingly, our group has shown that modulation of NIK expression affects Twist levels (data no shown, manuscript in preparation). </plain></SENT>
+<SENT sid="192" pm="."><plain>CD24 has been reported to suppress NF-κB signaling and to potentiate DNA damage-induced apoptosis43. </plain></SENT>
+<SENT sid="193" pm="."><plain>Thus, CD24 and NF-κB could be participating in a negative feedback that ultimately determines the final CSC fraction of a tumor. </plain></SENT>
+</text></p><p><text><SENT sid="194" pm="."><plain>NIK can activate both canonical and non-canonical NF-κB pathways44. </plain></SENT>
+<SENT sid="195" pm="."><plain>NIK preferentially phosphorylates IKKα, although it can also phosphorylate IKKβ in an IKKα-dependent manner45. </plain></SENT>
+<SENT sid="196" pm="."><plain>In this article, we demonstrated that NIK overexpression induces NF-κB activation and enhances the expression of p52, p65, and RelB, suggesting that components of non-canonical and canonical NF-κB pathways are involved in NIK-mediated stem cell phenotype modulation. </plain></SENT>
+<SENT sid="197" pm="."><plain>Regulation of NANOG and SOX2 by canonical NF-κB pathway has been described previously46, however, this is the first report of regulation of ALDH genes by this pathway. </plain></SENT>
+</text></p><p><text><SENT sid="198" pm="."><plain>The role of NF-κB pathways in BCSCs has not been completely elucidated; however, it is clear that NF-κB is involved in BCSCs regulation. </plain></SENT>
+<SENT sid="199" pm="."><plain>In this study, we demonstrated that BCSCs express higher levels of NIK, suggesting that NF-κB performs an important role in BCSCs. </plain></SENT>
+<SENT sid="200" pm="."><plain>Interestingly; NF-κB inhibitors preferentially reduced breast cancer stem-like cell proliferation, with fewer effects on bulk population47. </plain></SENT>
+<SENT sid="201" pm="."><plain>Thus, NF-κB disruption could be used as a therapeutic approach to target BCSCs. </plain></SENT>
+<SENT sid="202" pm="."><plain>Still, more work needs to be done to clarify the role of non-canonical and canonical NF-κB pathways in BCSCs. </plain></SENT>
+<SENT sid="203" pm="."><plain>However, there is enough evidence showing that both pathways regulate BCSCs. </plain></SENT>
+<SENT sid="204" pm="."><plain>It is well known that IKKβ-mediated suppression of the canonical NF-κB pathway in the mammary gland significantly reduces CSC populations, impairs mammosphere-forming abilities, and reduces tumorigenicity4648. </plain></SENT>
+<SENT sid="205" pm="."><plain>Similarly, IKKα also contributes to BCSC self-renewal, because IKKαAA/AA knock-in mice exhibit delays in the development of breast tumors from cells that cannot develop secondary mammospheres49. </plain></SENT>
+</text></p><p><text><SENT sid="206" pm="."><plain>In support of our results, a recent study showed that NIK/IKKα promotes breast basal cell expansion and mammosphere-forming ability in a mouse model. </plain></SENT>
+<SENT sid="207" pm="."><plain>The NIK-IKKα cascade acts as an important regulator of the cyclin-dependent kinase inhibitor that enters the nucleus and phosphorylates p27 to stimulate its nuclear export24. </plain></SENT>
+<SENT sid="208" pm="."><plain>In addition, it was recently shown that the induction of the non-canonical NF-κB pathway through NIK activation regulates Jagged1 (JAG1) expression and expands the stem cell population in the basal-like breast cancer subtype21. </plain></SENT>
+</text></p><p><text><SENT sid="209" pm="."><plain>The mechanism by which NIK mediates regulation of the CSC phenotype is poorly understood. </plain></SENT>
+<SENT sid="210" pm="."><plain>Our results showed that NIK regulates the expression of stem cells-related genes through activation of both NF-KB and ERK1/2 pathway. </plain></SENT>
+<SENT sid="211" pm="."><plain>We found that phosphorylation of ERK1/2 is regulated upstream by NIK, and that both NIK and ERK1/2 are required to regulate stemness in breast cancer cells. </plain></SENT>
+<SENT sid="212" pm="."><plain>Supporting our results, Richmond Ann and Dhawan Punita, showed that NIK activates ERK1/2 via MEK1/2 in melanoma cell lines, which have high NIK basal expression. </plain></SENT>
+<SENT sid="213" pm="."><plain>In addition, Gingery in 2008 demonstrated that in osteoclasts, MEK1/2 activates AKT, which in turn phosphorylates NIK5051. </plain></SENT>
+<SENT sid="214" pm="."><plain>Among the molecules regulated by ERK1, we found several genes previously described to be highly expressed in various types of CSCs, such as miR-21, EGR1 and GDF15. </plain></SENT>
+</text></p><p><text><SENT sid="215" pm="."><plain>Recently, it has been shown that EGR1 plays a critical role in the epithelial-mesenchymal transition (EMT)52, a process involved in the acquisition of cancer stem cells properties53. </plain></SENT>
+<SENT sid="216" pm="."><plain>EGR1 controls stem cell proliferation54, migration and tumor growth5556. </plain></SENT>
+<SENT sid="217" pm="."><plain>EGR1 is mainly regulated by the ERK1/2 and NF-κB pathways57. </plain></SENT>
+<SENT sid="218" pm="."><plain>Interestingly, EGR1 participates in the EMT by down-regulating E-cadherin through SNAIL58. </plain></SENT>
+<SENT sid="219" pm="."><plain>Microarray expression analysis revealed that EGR1 target genes such as GDF15 are also highly expressed in NIK-overexpressing cells. </plain></SENT>
+<SENT sid="220" pm="."><plain>These results suggest that NIK also mediates stem cell phenotype through the induction of genes involved in the EMT process. </plain></SENT>
+</text></p><p><text><SENT sid="221" pm="."><plain>Because NIK contributes to the tumorigenic potential of BCSCs, its inhibition could be an effective way to target BCSC and to reduce tumor progression. </plain></SENT>
+<SENT sid="222" pm="."><plain>Due to that NIK is not an essential kinase for canonical NF-κB pathway activation under normal physiological conditions, NIK inhibitors could be safer than more general strategies; however, further studies are required. </plain></SENT>
+</text></p></sec></SecTag><SecTag type="CONCL"><sec disp-level="1"><title><text><SENT sid="223" pm="."><plain>Conclusions </plain></SENT>
+</text></title><p><text><SENT sid="224" pm="."><plain>In the present report, we present strong evidence that NIK is a critical kinase for the BCSC phenotype because it modulates stem cell markers, as well as the clonogenic potential and tumorigenicity of these cells. </plain></SENT>
+<SENT sid="225" pm="."><plain>This kinase is an attractive stem cell marker in both luminal and basal tumor types and could possibly be an important therapeutic target. </plain></SENT>
+</text></p></sec></SecTag><SecTag type="METHODS"><sec disp-level="1"><title><text><SENT sid="226" pm="."><plain>Methods </plain></SENT>
+</text></title><sec disp-level="2"><title><text><SENT sid="227" pm="."><plain>Cell culture and reagents </plain></SENT>
+</text></title><p><text><SENT sid="228" pm="."><plain>MCF7, MDA-MB-231 and SKBR3 cell lines were obtained from the American Type Culture Collection (ATCC, Manassas, VA, USA; <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.atcc.org">www.atcc.org</ext-link>). </plain></SENT>
+<SENT sid="229" pm="."><plain>MCF7 cells were cultured in RPMI 1640 supplemented with 5% fetal bovine serum (FBS), MDA-MB-231 cells were maintained in DMEM supplemented with 5% FBS and SKBR3 were cultured in McCoy’s 5A supplemented with 10% FBS. </plain></SENT>
+<SENT sid="230" pm="."><plain>All cell lines were cultured in a humidified atmosphere at 37 °C with 5% CO2. </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="231" pm="."><plain>Flow cytometry analysis </plain></SENT>
+</text></title><p><text><SENT sid="232" pm="."><plain>Cells were detached with Accutase (Life Technologies, Carlsbad, CA, USA) and washed with Phosphate buffered saline (PBS) 1% and resuspended in the stain buffer (PBS with FBS 1%). </plain></SENT>
+<SENT sid="233" pm="."><plain>A total of 1 × 106 cells were incubated with the FITC-CD44 (555478, BD Biosciences) and PE-CD24 (555428, BD Biosciences) for 30 min on ice. </plain></SENT>
+<SENT sid="234" pm="."><plain>MDA-MB-231 cells were also labeled with APC-ESA (347200, BD Biosciences) for 30 min. </plain></SENT>
+<SENT sid="235" pm="."><plain>FITC-IgG1(130-092-213, Miltenyi Biotec), PE-IgG1 (130-092-212, Miltenyi Biotec) and APC-IgG1 (130-092-214, Miltenyi Biotec) antibody isotype were used as controls. </plain></SENT>
+<SENT sid="236" pm="."><plain>For cell sorting, 1 × 108 MCF7 cells were sorted into CD44+/CD24−/low and CD44+/CD24+ subsets. </plain></SENT>
+<SENT sid="237" pm="."><plain>MDA-MB-231 cells were sorted into ESA+ and ESA− subsets. </plain></SENT>
+<SENT sid="238" pm="."><plain>Cells were sorted on a FACSAria (fluorescence-activated cell sorter, Becton Dickinson, Franklin Lakes, NJ, USA) and then were harvested and grown under standard culture conditions for 24 h prior to any further procedures. </plain></SENT>
+</text></p><p><text><SENT sid="239" pm="."><plain>ALDH+ population was separated by FACS. </plain></SENT>
+<SENT sid="240" pm="."><plain>ALDH1 activity was determined using the Aldeflour assay (Stem Cell Technologies) according to the manufacturer’s instructions. </plain></SENT>
+<SENT sid="241" pm="."><plain>Briefly, 1 × 106 cells were suspended in Aldeflour assay and incubated with 5 ul of activated Aldeflour reagent during 30 minutes. </plain></SENT>
+<SENT sid="242" pm="."><plain>Control cells were incubated with Aldeflour reagent along with 5 ul of DEAB solution. </plain></SENT>
+<SENT sid="243" pm="."><plain>The brightly fluorescent ALDH1-expressing cells were detected in the FITC channel on a FACSAria cell sorter. </plain></SENT>
+<SENT sid="244" pm="."><plain>Cells were harvested and grown under standard culture condition for 24 h prior to RNA isolation. </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="245" pm="."><plain>RT-PCR and quantitative real-time PCR </plain></SENT>
+</text></title><p><text><SENT sid="246" pm="."><plain>Total RNA was isolated with TRIzol reagent (Life Technologies) according to the manufacturer’s instructions. </plain></SENT>
+<SENT sid="247" pm="."><plain>Then, 2 μg of RNA was reverse transcribed with a Maxima First strand cDNA synthesis kit (Thermo Fisher Scientific, Rockford, IL, USA). </plain></SENT>
+<SENT sid="248" pm="."><plain>RT-qPCR was performed by the 7900HT (Applied Biosystems) or the QuantStudio 7. </plain></SENT>
+<SENT sid="249" pm="."><plain>PCR was performed with the SYBR-select Master Kit (Applied Biosystems). </plain></SENT>
+<SENT sid="250" pm="."><plain>Primers listed in Supplementary Table S4 were used for qRT-PCR. </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="251" pm="."><plain>Protein preparation and Western Blotting </plain></SENT>
+</text></title><p><text><SENT sid="252" pm="."><plain>Total proteins were extracted with RIPA buffer (Upstate Biotechnology, Inc., Lake Placid, New York, USA) supplied with protease and phosphatase inhibitors. </plain></SENT>
+<SENT sid="253" pm="."><plain>Subcellular fraction was carried out with the Subcellular Protein Fractionation Kit (Thermo Scientific, MA, USA) according to the manufacturer’s instructions. </plain></SENT>
+<SENT sid="254" pm="."><plain>Proteins were resolved in 10% SDS-PAGE and transferred onto polyvinylidene difluoride (PVDF) membranes (Millipore, Bedford, MA, USA). </plain></SENT>
+<SENT sid="255" pm="."><plain>Membranes were blocked with 5% non-fat dry milk in Tris-buffered saline with 0.1% Tween (TBST) for 2 h, then were incubated overnight with the corresponding antibodies at 4 °C, followed by incubation with horseradish peroxidase-conjugated goat anti-mouse IgG (W402B, Promega, Madison, WI, USA) or goat anti-rabbit IgG (W401B, Promega), or rabbit anti-Goat IgG (Zymax, Life Technologies, Carlsbad, CA, USA) as appropriate, for 1 h at RT in TBST. </plain></SENT>
+<SENT sid="256" pm="."><plain>Antibody binding was detected with the Immobilon Western kit (Millipore), and images were visualized with the VersaDoc Imaging System (BioRad, Hercules, CA, USA). </plain></SENT>
+<SENT sid="257" pm="."><plain>The antibodies used were, anti-p65 (1:1000, sc372, Santa Cruz Biotechnology CA, USA), anti-RelB (1:1000, sc28689, Santa Cruz Biotechnology), anti-p50 (1:1000, sc1190, Santa Cruz Biotechnology), anti-p52 (1:1000, 05–361, Millipore), anti-p-ERK1/2 (1:10000, Cell Signaling), anti-αtubulin (1:2000, sc53646, Santa Cruz Biotechnology), anti-GAPDH (1:5000, sc25778, Santa Cruz) and anti-Laminin A/C (1:1000, 4777, Cell Signaling). </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="258" pm="."><plain>shRNA experiments </plain></SENT>
+</text></title><p><text><SENT sid="259" pm="."><plain>To decrease NIK expression, two shRNAs (1: CCGAGAGTCTTGATCAGAT, 2: GGTCAACATCTTCATGGA, and 3: GAGGAATACCTAGTGCAT,) were designed with the RNAi Target Sequence Selector (Clontech). </plain></SENT>
+<SENT sid="260" pm="."><plain>To decrease ERK1 and ERK2 expression, we designed two shRNAs for each gene (1: GGATCAGCTCAACCACATT, 2: CCTCCAACCTGCTCATCAA, 3: CACCAACCATCGAGCAAAT, 4: CAGCCAGGATACAGATCTT). </plain></SENT>
+<SENT sid="261" pm="."><plain>All shRNAs were cloned into the pSIREN RQ-vector (Clontech). </plain></SENT>
+<SENT sid="262" pm="."><plain>shRNA against luciferase was used as a control. </plain></SENT>
+<SENT sid="263" pm="."><plain>MCF7, MDA-MB-231 and SKBR3 cells were transfected and then selected with 0.5-μg/ml puromycin (Sigma-Aldrich, St. Louis, MO, USA), 7.5 μg/ml puromycin or 0.6 μg/ml for 3 weeks respectively. </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="264" pm="."><plain>ERK pathway inhibition </plain></SENT>
+</text></title><p><text><SENT sid="265" pm="."><plain>A selective ERK inhibitor FR180204 (Tocris, Biosciences) was employed in MCF7 cells to explore the role of ER in stemness. </plain></SENT>
+<SENT sid="266" pm="."><plain>Briefly MCF7 control or overexpressing NIK cells were treated with 30 μM for 24 h. </plain></SENT>
+<SENT sid="267" pm="."><plain>As a control, cells were treated with an equivalent volume of DMSO. </plain></SENT>
+<SENT sid="268" pm="."><plain>ERK inhibition was verified in a western blot assay. </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="269" pm="."><plain>NIK overexpression experiments </plain></SENT>
+</text></title><p><text><SENT sid="270" pm="."><plain>To overexpress NIK, we generated an expression vector by recombining a pENTR221 vector (Life Technologies) containing the ORF of NIK with the pTREX-DEST30 vector (Life Technologies). </plain></SENT>
+<SENT sid="271" pm="."><plain>MCF7 and SKBR3 cells were transfected with 4 μg of (pT-Rex-NIK), in the presence of LTX-Lipofectamine for 24 h. </plain></SENT>
+<SENT sid="272" pm="."><plain>Stable MCF7 and SKBR3 clones were selected with 300 μg/ml or 700 μg/ml of G418 (GIBCO) respectively for 3 weeks. </plain></SENT>
+<SENT sid="273" pm="."><plain>As a control, MCF7 and SKBR3 cells were transfected with 4-μg pTREX-Lacz. </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="274" pm="."><plain>NF-κB reporter assays </plain></SENT>
+</text></title><p><text><SENT sid="275" pm="."><plain>NF-κB reporter assays were performed by generating a stable MCF7 cell line bearing an NF-κB reporter vector. </plain></SENT>
+<SENT sid="276" pm="."><plain>These cells were co-transfected with 4 μg of pT-Rex-NIK, pT-Rex-Lac, shNIK1, shNIK2 and 1 μg of pCMV-Sport-Gal (Life Technologies) using LTX-Lipofectamine. </plain></SENT>
+<SENT sid="277" pm="."><plain>The enzymatic activities of both the firefly luciferase and the beta-galactosidase reporter genes were determined 48 h after transfection with a Dual-luciferase Reporter Assay kit (Promega) and a Luminescent Beta-galactosidase Detection Kit (Clontech), respectively. </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="278" pm="."><plain>Immunofluorescence </plain></SENT>
+</text></title><p><text><SENT sid="279" pm="."><plain>Immunofluorescence analysis was performed with the following primary antibodies: p52 (1:500, sc848, Santa Cruz); p65 (1:500, sc372, Santa Cruz Biotechnologies); RelB (1:500, sc28689, Santa Cruz Biotechnology); P50 (1:250, sc1190, Santa Cruz Biotechnologies), NIK (1:1000, 4994, Cell Signaling), phospho-p52 (1:500, Cell Signaling), phosphor-p65 (1:500, 3036, Cell Signaling). </plain></SENT>
+<SENT sid="280" pm="."><plain>Briefly, 5 × 105 cells were washed with PBS, fixed in 4% paraformaldehyde (Sigma-Aldrich, St. Louis, MO, USA) for 20 min, and permeabilized in 0.1% of Triton 100× (Sigma-Aldrich) for 30 min. </plain></SENT>
+<SENT sid="281" pm="."><plain>Cells were washed and blocked with 5% Bovine serum albumin (BSA) for 1 h and subsequently incubated with primary antibodies for 2 h at RT, followed by incubation with the secondary Cy3-goat anti-mouse antibody (Millipore) or Cy3-goat anti-rabbit antibody (Millipore) or Cy3-rabbit-anti-goat (811615, Zymed) for 1 h. </plain></SENT>
+<SENT sid="282" pm="."><plain>Cells were then washed and slides were mounted in Everbrite mounting medium with 6-Diamidine-2′-phenylindole dihydrochloride (DAPI, Biotium, Inc., Hayward, CA, USA). </plain></SENT>
+<SENT sid="283" pm="."><plain>Fluorescence analysis was performed on a confocal microscope (Zeiss LSM 510). </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="284" pm="."><plain>In vivo tumorigenic assays </plain></SENT>
+</text></title><p><text><SENT sid="285" pm="."><plain>Several cell dilutions of MCF7, MDA-MB-231 or SKBR3 cells were suspended in 100 ml of PBS with 50% growth factor-reduced Matrigel (BD Biosciences, Bedford, MA, USA) and were subcutaneously injected into nu/nu female mice aged 4–6 weeks. </plain></SENT>
+<SENT sid="286" pm="."><plain>Female athymic Balb-c nu/nu mice, between 6–8 weeks, were supplied by the Autonomous Metropolitan University, Mexico City, México. </plain></SENT>
+<SENT sid="287" pm="."><plain>The animals were kept in a pathogen-free environmental and fed ad libitum. </plain></SENT>
+<SENT sid="288" pm="."><plain>All animal procedures reported in the present paper were performed according to the NIH Animal Use and Care Guidelines (USA). </plain></SENT>
+<SENT sid="289" pm="."><plain>The local institutional committee: Comite Interno de Cuidados de Animales of the Instituto Nacional de Cancerologia (CICUAL-INCan) approved the procedures according to all applicable National institutional and governmental regulations concerning the ethical use of experimental animals. </plain></SENT>
+<SENT sid="290" pm="."><plain>MCF7 transplants were allowed to grow for 150 days; SKBR3 and MDA-MB-231 were allowed to grow for 60 days. </plain></SENT>
+<SENT sid="291" pm="."><plain>After this interval or when the tumors reached a maximum volume of 700 mm3, animals were sacrificed by cervical dislocation trying to minimize suffering. </plain></SENT>
+</text></p><sec disp-level="3"><title><text><SENT sid="292" pm="."><plain>Viral cell transduction and bioluminescence imaging </plain></SENT>
+</text></title><p><text><SENT sid="293" pm="."><plain>MDA-MB-231 shLuc or shNIK cells expressing Luciferase2-eGFP were generated as described previously59. </plain></SENT>
+<SENT sid="294" pm="."><plain>Stable cells were selected with 200 μg/ml of Zeocin (life technologies) for 4 weeks. </plain></SENT>
+<SENT sid="295" pm="."><plain>Mice were given an intraperitoneal (i.p.) injection with 200 μl of D-luciferin (30 mg/mL). </plain></SENT>
+<SENT sid="296" pm="."><plain>Mice were anesthetized with isoflurane (2% in 1 L/min oxygen), and bioluminescence images were acquired 10–15 min after D-luciferin injection using the IVIS XR system (Caliper Life Sciences, Hopkinton MA). </plain></SENT>
+</text></p></sec></sec><sec disp-level="2"><title><text><SENT sid="297" pm="."><plain>Colony-forming assays </plain></SENT>
+</text></title><p><text><SENT sid="298" pm="."><plain>Briefly, 1,000 or 4000 MCF7 single cells were seeded in DMEM medium containing 0.3% low-melting-point agarose and 5% FBS, and the cells were plated on 12 or 6-well plates coated with 0.5% low-melting-point agarose. </plain></SENT>
+<SENT sid="299" pm="."><plain>After 40 days in culture, colonies were stained with 0.1% crystal violet and counted using ImageJ software. </plain></SENT>
+<SENT sid="300" pm="."><plain>For clonogenic assays of the MDA-MB-231 cell line, cells were seeded in 96 well plates as described in results. </plain></SENT>
+<SENT sid="301" pm="."><plain>After two weeks in culture, cells were stained with 0.1% crystal violet. </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="302" pm="."><plain>Sphere formation assays </plain></SENT>
+</text></title><p><text><SENT sid="303" pm="."><plain>Briefly, 2.5 × 104/ml single cells were seeded over non-adherent suspension culture flasks. </plain></SENT>
+<SENT sid="304" pm="."><plain>Cells were cultured in Mammocult (StemCell technologies) supplemented with 0.48 μg/ml hydrocortisone and 4 μg/ml heparin. </plain></SENT>
+<SENT sid="305" pm="."><plain>After 7 days, the spheres were counted and were disaggregated with trypsin until singles cells were obtained. </plain></SENT>
+<SENT sid="306" pm="."><plain>Single cells were again seeded and spheres were counted after seven days. </plain></SENT>
+<SENT sid="307" pm="."><plain>The same number of cells was seeded for each cell line. </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="308" pm="."><plain>Tissue microarray construction </plain></SENT>
+</text></title><p><text><SENT sid="309" pm="."><plain>Tumor tissues from 191 patients were embedded in paraffin, and 4-mm sections were stained with H&amp;E to select morphologically representative areas. </plain></SENT>
+<SENT sid="310" pm="."><plain>Tissues selected were punched with a 1-mm needle and transferred onto a recipient paraffin block using a Tissue Microarray ATA 100 Chemicon (Chemicon, Temecula, CA, USA). </plain></SENT>
+<SENT sid="311" pm="."><plain>Then, 4-mm sections of these tissue arrays were sectioned and placed onto positively charged slides (VWR Superfrost Plus). </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="312" pm="."><plain>Immunohistochemical analysis of breast cancer tissues </plain></SENT>
+</text></title><p><text><SENT sid="313" pm="."><plain>Tissue sections were stained with Estrogen Receptor (SP1, CONFIRM), Progesterone Receptor (IE2, CONFIRM), and HER2 (4B5, PATHWAY). </plain></SENT>
+<SENT sid="314" pm="."><plain>Immunohistochemistry was performed using the UltraView Universal DAB Detection Kit (Ventana). </plain></SENT>
+<SENT sid="315" pm="."><plain>The immunohistochemistry of NIK (1:500, ab220442) and ALDH (1:500, 611195, BD) was performed using a Ventana Ultraview DAB detection kit (Ventana) and UltraView Universal Alkaline Phosphatase Red Detection Kit (Ventana), respectively. </plain></SENT>
+<SENT sid="316" pm="."><plain>Diaminobenzidine or Fast Red was employed as the chromogen, and hematoxylin as the nuclear counterstain. </plain></SENT>
+<SENT sid="317" pm="."><plain>All slides were processed in a Ventana BenchMark XT processor (Ventana, Tucson, AZ, USA). </plain></SENT>
+<SENT sid="318" pm="."><plain>Slides were scanned in ScanScope CS2 (Aperio) and image analysis was conducted in ImageJ. </plain></SENT>
+<SENT sid="319" pm="."><plain>This study has used paraffin embedded breast cancer tissue obtained from the Oncology Hospital in the XXI Century National Medical Center. </plain></SENT>
+<SENT sid="320" pm="."><plain>All used tissues were part of residual material and they did not endanger patients diagnostic. </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="321" pm="."><plain>Genome-Wide Microarray analysis </plain></SENT>
+</text></title><p><text><SENT sid="322" pm="."><plain>Total RNA from MCF7 cells transfected with shNIK, shLUC or pt-REX-DEST-NIK was obtained 48 hrs after transfection. </plain></SENT>
+<SENT sid="323" pm="."><plain>All samples were treated with DNAse 1 (Ambion). </plain></SENT>
+<SENT sid="324" pm="."><plain>RNA integrity was evaluated with a Bioanalyzer 2100 (Agilent) and only samples with an RNA Integrity Number (RIN) greater than 9 were used. </plain></SENT>
+<SENT sid="325" pm="."><plain>Three independent biological replicates were used and hybridized into Affymetrix Gene ST 2.0 Arrays at the INMEGEN microarray core unit. </plain></SENT>
+<SENT sid="326" pm="."><plain>Data were deposited in the Gene Expression Omnibus (GEO submission GSE63382) </plain></SENT>
+</text></p></sec><sec disp-level="2"><title><text><SENT sid="327" pm="."><plain>Statistical analysis </plain></SENT>
+</text></title><p><text><SENT sid="328" pm="."><plain>Flow cytometry data were analyzed with the Flowjo software package (Treestar, Ashland, OR, USA). </plain></SENT>
+<SENT sid="329" pm="."><plain>Densitometric analysis was performed using ImageJ software. </plain></SENT>
+<SENT sid="330" pm="."><plain>Statistical analysis was carried out using GraphPad, and a 5% level was considered significant. </plain></SENT>
+<SENT sid="331" pm="."><plain>Analysis of NIK and ALDH expression in breast cancer patients were conducted using JMP and One-way Analysis of variance (ANOVA) was employed to determine significant differences. </plain></SENT>
+<SENT sid="332" pm="."><plain>Microarray data analysis was performed using bioconductor packages. </plain></SENT>
+<SENT sid="333" pm="."><plain>Data were normalized with the Robust Multi-array Average method (RMA) contained in the oligo package. </plain></SENT>
+</text></p><p><text><SENT sid="334" pm="."><plain>The Limma R package was used to detect differentially expressed60. </plain></SENT>
+<SENT sid="335" pm="."><plain>Genes with a &gt;1.8 fold change and a crude p &lt; 0.05 were considered for further analysis. </plain></SENT>
+<SENT sid="336" pm="."><plain>Ingenuity Pathway Analysis (Qiagen, USA) software was used to identify enriched networks. </plain></SENT>
+</text></p></sec></sec></SecTag><sec disp-level="1"><title><text><SENT sid="337" pm="."><plain>Additional Information </plain></SENT>
+</text></title><p><text><SENT sid="338" pm="."><plain>How to cite this article: Vazquez-Santillan, K. et al. NF-kappaB-inducing kinase regulates stem cell phenotype in breast cancer. Sci. </plain></SENT>
+<SENT sid="339" pm="."><plain>Rep. 6, 37340; doi: 10.1038/srep37340 (2016). </plain></SENT>
+</text></p><p><text><SENT sid="340" pm="."><plain>Publisher’s note: Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations. </plain></SENT>
+</text></p></sec><SecTag type="SUPPL"><sec sec-type="supplementary-material" id="S1"><title><text><SENT sid="341" pm="."><plain>Supplementary Material </plain></SENT>
+</text></title><supplementary-material id="d33e28" content-type="local-data"><caption><title><text><SENT sid="342" pm="."><plain>Supplementary Information </plain></SENT>
+</text></title></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep37340-s1.pdf"/></supplementary-material></sec></SecTag></body><back><SecTag type="ACK_FUND"><ack><p><text4fund><text><SENT sid="343" pm="."><plain>Karla Itzel Vazquez Santillan was supported by a fellowship from CONACYT (165306), and this study is part of her doctoral thesis from the Biomedical Sciences Doctorate Program, Faculty of Medicine, Universidad Nacional Autonoma de Mexico. </plain></SENT>
+<SENT sid="344" pm="."><plain>This project was partially supported by CONACYT grant CB-2009-01-132931. </plain></SENT>
+</text></text4fund></p></ack></SecTag><SecTag type="REF"><ref-list><ref id="b1"><text><SENT sid="345" pm="."><plain>Al-HajjM. &amp; ClarkeM. </plain></SENT>
+<SENT sid="346" pm="."><plain>F. Self-renewal and solid tumor stem cells. Oncogene 23, 7274–7282 (2004).15378087 </plain></SENT>
+</text></ref><ref id="b2"><text><SENT sid="347" pm="."><plain>ReyaT., MorrisonS. </plain></SENT>
+<SENT sid="348" pm="."><plain>J., ClarkeM. </plain></SENT>
+<SENT sid="349" pm="."><plain>F. &amp; WeissmanI. </plain></SENT>
+<SENT sid="350" pm="."><plain>L. Stem cells, cancer, and cancer stem cells. Nature 414, 105–111 (2001).11689955 </plain></SENT>
+</text></ref><ref id="b3"><text><SENT sid="351" pm="."><plain>Al-HajjM., WichaM. </plain></SENT>
+<SENT sid="352" pm="."><plain>S., Benito-HernandezA., MorrisonS. </plain></SENT>
+<SENT sid="353" pm="."><plain>J. &amp; ClarkeM. </plain></SENT>
+<SENT sid="354" pm="."><plain>F. Prospective identification of tumorigenic breast cancer cells. Proc Natl Acad Sci USA 100, 3983–3988 (2003).12629218 </plain></SENT>
+</text></ref><ref id="b4"><text><SENT sid="355" pm="."><plain>HinoharaK. &amp; GotohN. Inflammatory signaling pathways in self-renewing breast cancer stem cells. Curr Opin Pharmacol 10, 650–654 (2010).20817605 </plain></SENT>
+</text></ref><ref id="b5"><text><SENT sid="356" pm="."><plain>KorkayaH. et al. Regulation of mammary stem/progenitor cells by PTEN/Akt/beta-catenin signaling. PLoS Biol 7, e1000121 (2009).19492080 </plain></SENT>
+</text></ref><ref id="b6"><text><SENT sid="357" pm="."><plain>LiuS. et al. Hedgehog signaling and Bmi-1 regulate self-renewal of normal and malignant human mammary stem cells. Cancer Res 66, 6063–6071 (2006).16778178 </plain></SENT>
+</text></ref><ref id="b7"><text><SENT sid="358" pm="."><plain>StaudtL. </plain></SENT>
+<SENT sid="359" pm="."><plain>M. Oncogenic activation of NF-kappaB. Cold Spring Harb Perspect Biol 2, a000109 (2010).20516126 </plain></SENT>
+</text></ref><ref id="b8"><text><SENT sid="360" pm="."><plain>SunS. </plain></SENT>
+<SENT sid="361" pm="."><plain>C. Controlling the fate of NIK: a central stage in noncanonical NF-kappaB signaling. Sci Signal 3, pe18 (2010).20501935 </plain></SENT>
+</text></ref><ref id="b9"><text><SENT sid="362" pm="."><plain>HackerH. &amp; KarinM. Regulation and function of IKK and IKK-related kinases. Sci STKE 2006, re13 (2006).17047224 </plain></SENT>
+</text></ref><ref id="b10"><text><SENT sid="363" pm="."><plain>LingL., CaoZ. &amp; GoeddelD. </plain></SENT>
+<SENT sid="364" pm="."><plain>V. NF-kappaB-inducing kinase activates IKK-alpha by phosphorylation of Ser-176. Proc Natl Acad Sci USA 95, 3792–3797 (1998).9520446 </plain></SENT>
+</text></ref><ref id="b11"><text><SENT sid="365" pm="."><plain>ThuY. </plain></SENT>
+<SENT sid="366" pm="."><plain>M. &amp; RichmondA. NF-kappaB inducing kinase: a key regulator in the immune system and in cancer. Cytokine Growth Factor Rev 21, 213–226 (2010).20685151 </plain></SENT>
+</text></ref><ref id="b12"><text><SENT sid="367" pm="."><plain>YangC. et al. Opposing putative roles for canonical and noncanonical NFkappaB signaling on the survival, proliferation, and differentiation potential of human embryonic stem cells. Stem Cells 28, 1970–1980 (2010).20882529 </plain></SENT>
+</text></ref><ref id="b13"><text><SENT sid="368" pm="."><plain>NovackD. </plain></SENT>
+<SENT sid="369" pm="."><plain>V. et al. The IkappaB function of NF-kappaB2 p100 controls stimulated osteoclastogenesis. J Exp Med 198, 771–781 (2003).12939342 </plain></SENT>
+</text></ref><ref id="b14"><text><SENT sid="370" pm="."><plain>TakadaI., SuzawaM., MatsumotoK. &amp; KatoS. Suppression of PPAR transactivation switches cell fate of bone marrow stem cells from adipocytes into osteoblasts. Ann N Y Acad Sci 1116, 182–195 (2007).17656564 </plain></SENT>
+</text></ref><ref id="b15"><text><SENT sid="371" pm="."><plain>VairaS. et al. RelB is the NF-kappaB subunit downstream of NIK responsible for osteoclast differentiation. Proc Natl Acad Sci USA 105, 3897–3902 (2008).18322009 </plain></SENT>
+</text></ref><ref id="b16"><text><SENT sid="372" pm="."><plain>CaoY. et al. IKKalpha provides an essential link between RANK signaling and cyclin D1 expression during mammary gland development. Cell 107, 763–775 (2001).11747812 </plain></SENT>
+</text></ref><ref id="b17"><text><SENT sid="373" pm="."><plain>FataJ. </plain></SENT>
+<SENT sid="374" pm="."><plain>E. et al. The osteoclast differentiation factor osteoprotegerin-ligand is essential for mammary gland development. Cell 103, 41–50 (2000).11051546 </plain></SENT>
+</text></ref><ref id="b18"><text><SENT sid="375" pm="."><plain>Gonzalez-SuarezE. et al. RANK ligand mediates progestin-induced mammary epithelial proliferation and carcinogenesis. Nature 468, 103–107 (2010).20881963 </plain></SENT>
+</text></ref><ref id="b19"><text><SENT sid="376" pm="."><plain>YamamotoM. et al. Epigenetic alteration of the NF-kappaB-inducing kinase (NIK) gene is involved in enhanced NIK expression in basal-like breast cancer. Cancer Sci 101, 2391–2397 (2010).20735436 </plain></SENT>
+</text></ref><ref id="b20"><text><SENT sid="377" pm="."><plain>YamaguchiN. et al. Constitutive activation of nuclear factor-kappaB is preferentially involved in the proliferation of basal-like subtype breast cancer cell lines. Cancer Sci 100, 1668–1674 (2009).19538528 </plain></SENT>
+</text></ref><ref id="b21"><text><SENT sid="378" pm="."><plain>YamamotoM., TaguchiY., Ito-KurehaT., SembaK., YamaguchiN. &amp; InoueJ. NF-kappaB non-cell-autonomously regulates cancer stem cell populations in the basal-like breast cancer subtype. Nat Commun 4, 2299 (2013).23934482 </plain></SENT>
+</text></ref><ref id="b22"><text><SENT sid="379" pm="."><plain>HonethG. et al. The CD44+/CD24− phenotype is enriched in basal-like breast tumors. Breast Cancer Res 10, R53 (2008).18559090 </plain></SENT>
+</text></ref><ref id="b23"><text><SENT sid="380" pm="."><plain>ParkS. </plain></SENT>
+<SENT sid="381" pm="."><plain>Y., LeeH. </plain></SENT>
+<SENT sid="382" pm="."><plain>E., LiH., ShipitsinM., GelmanR. &amp; PolyakK. Heterogeneity for stem cell-related markers according to tumor subtype and histologic stage in breast cancer. Clin Cancer Res 16, 876–887 (2010).20103682 </plain></SENT>
+</text></ref><ref id="b24"><text><SENT sid="383" pm="."><plain>ZhangW. et al. A NIK-IKKalpha module expands ErbB2-induced tumor-initiating cells by stimulating nuclear export of p27/Kip1. Cancer Cell 23, 647–659 (2013).23602409 </plain></SENT>
+</text></ref><ref id="b25"><text><SENT sid="384" pm="."><plain>PeceS. et al. Biological and molecular heterogeneity of breast cancers correlates with their cancer stem cell content. Cell 140, 62–73 (2010).20074520 </plain></SENT>
+</text></ref><ref id="b26"><text><SENT sid="385" pm="."><plain>Charafe-JauffretE. et al. Breast cancer cell lines contain functional cancer stem cells with metastatic capacity and a distinct molecular signature. Cancer Res 69, 1302–1313 (2009).19190339 </plain></SENT>
+</text></ref><ref id="b27"><text><SENT sid="386" pm="."><plain>MartowiczA., SpizzoG., GastlG. &amp; UntergasserG. Phenotype-dependent effects of EpCAM expression on growth and invasion of human breast cancer cell lines. BMC Cancer 12, 501 (2012).23110550 </plain></SENT>
+</text></ref><ref id="b28"><text><SENT sid="387" pm="."><plain>GinestierC. et al. ALDH1 is a marker of normal and malignant human mammary stem cells and a predictor of poor clinical outcome. Cell Stem Cell 1, 555–567 (2007).18371393 </plain></SENT>
+</text></ref><ref id="b29"><text><SENT sid="388" pm="."><plain>NatarajanT. </plain></SENT>
+<SENT sid="389" pm="."><plain>G. &amp; FitzGeraldK. </plain></SENT>
+<SENT sid="390" pm="."><plain>T. Markers in normal and cancer stem cells. Cancer Biomark 3, 211–231 (2007).17917151 </plain></SENT>
+</text></ref><ref id="b30"><text><SENT sid="391" pm="."><plain>WoroniczJ. </plain></SENT>
+<SENT sid="392" pm="."><plain>D., GaoX., CaoZ., RotheM. &amp; GoeddelD. </plain></SENT>
+<SENT sid="393" pm="."><plain>V. IkappaB kinase-beta: NF-kappaB activation and complex formation with IkappaB kinase-alpha and NIK. Science 278, 866–869 (1997).9346485 </plain></SENT>
+</text></ref><ref id="b31"><text><SENT sid="394" pm="."><plain>BrabletzT., JungA., SpadernaS., HlubekF. &amp; KirchnerT. Opinion: migrating cancer stem cells - an integrated concept of malignant tumour progression. Nat Rev Cancer 5, 744–749 (2005).16148886 </plain></SENT>
+</text></ref><ref id="b32"><text><SENT sid="395" pm="."><plain>LiuH. et al. Cancer stem cells from human breast tumors are involved in spontaneous metastases in orthotopic mouse models. Proc Natl Acad Sci USA 107, 18115–18120 (2010).20921380 </plain></SENT>
+</text></ref><ref id="b33"><text><SENT sid="396" pm="."><plain>CampbellL. </plain></SENT>
+<SENT sid="397" pm="."><plain>L. &amp; PolyakK. Breast tumor heterogeneity: cancer stem cells or clonal evolution? Cell Cycle 6, 2332–2338 (2007).17786053 </plain></SENT>
+</text></ref><ref id="b34"><text><SENT sid="398" pm="."><plain>SorlieT. et al. Repeated observation of breast tumor subtypes in independent gene expression data sets. Proc Natl Acad Sci USA 100, 8418–8423 (2003).12829800 </plain></SENT>
+</text></ref><ref id="b35"><text><SENT sid="399" pm="."><plain>HerschkowitzJ. </plain></SENT>
+<SENT sid="400" pm="."><plain>I. et al. Identification of conserved gene expression features between murine mammary carcinoma models and human breast tumors. Genome Biol 8, R76 (2007).17493263 </plain></SENT>
+</text></ref><ref id="b36"><text><SENT sid="401" pm="."><plain>BiswasD. </plain></SENT>
+<SENT sid="402" pm="."><plain>K. et al. NF-kappa B activation in human breast cancer specimens and its role in cell proliferation and apoptosis. Proc Natl Acad Sci USA 101, 10137–10142 (2004).15220474 </plain></SENT>
+</text></ref><ref id="b37"><text><SENT sid="403" pm="."><plain>MerkhoferE. </plain></SENT>
+<SENT sid="404" pm="."><plain>C., CogswellP. &amp; BaldwinA. </plain></SENT>
+<SENT sid="405" pm="."><plain>S. Her2 activates NF-kappaB and induces invasion through the canonical pathway involving IKKalpha. Oncogene 29, 1238–1248 (2010).19946332 </plain></SENT>
+</text></ref><ref id="b38"><text><SENT sid="406" pm="."><plain>BiswasD. </plain></SENT>
+<SENT sid="407" pm="."><plain>K., CruzA. </plain></SENT>
+<SENT sid="408" pm="."><plain>P., GansbergerE. &amp; PardeeA. </plain></SENT>
+<SENT sid="409" pm="."><plain>B. Epidermal growth factor-induced nuclear factor kappa B activation: A major pathway of cell-cycle progression in estrogen-receptor negative breast cancer cells. Proc Natl Acad Sci USA 97, 8542–8547 (2000).10900013 </plain></SENT>
+</text></ref><ref id="b39"><text><SENT sid="410" pm="."><plain>GalangC. </plain></SENT>
+<SENT sid="411" pm="."><plain>K. et al. Oncogenic Neu/ErbB-2 increases ets, AP-1, and NF-kappaB-dependent gene expression, and inhibiting ets activation blocks Neu-mediated cellular transformation. J Biol Chem 271, 7992–7998 (1996).8626480 </plain></SENT>
+</text></ref><ref id="b40"><text><SENT sid="412" pm="."><plain>KorkayaH., PaulsonA., IovinoF. &amp; WichaM. </plain></SENT>
+<SENT sid="413" pm="."><plain>S. HER2 regulates the mammary stem/progenitor cell population driving tumorigenesis and invasion. Oncogene 27, 6120–6130 (2008).18591932 </plain></SENT>
+</text></ref><ref id="b41"><text><SENT sid="414" pm="."><plain>IthimakinS. et al. HER2 drives luminal breast cancer stem cells in the absence of HER2 amplification: implications for efficacy of adjuvant trastuzumab. Cancer Res 73, 1635–1646 (2013).23442322 </plain></SENT>
+</text></ref><ref id="b42"><text><SENT sid="415" pm="."><plain>VesunaF., LisokA., KimbleB. &amp; RamanV. Twist modulates breast cancer stem cells by transcriptional regulation of CD24 expression. Neoplasia 11, 1318–1328 (2009).20019840 </plain></SENT>
+</text></ref><ref id="b43"><text><SENT sid="416" pm="."><plain>JuJ. </plain></SENT>
+<SENT sid="417" pm="."><plain>H. et al. CD24 enhances DNA damage-induced apoptosis by modulating NF-kappaB signaling in CD44-expressing breast cancer cells. Carcinogenesis 32, 1474–1483 (2011).21798852 </plain></SENT>
+</text></ref><ref id="b44"><text><SENT sid="418" pm="."><plain>RamakrishnanP., WangW. &amp; WallachD. Receptor-specific signaling for both the alternative and the canonical NF-kappaB activation pathways by NF-kappaB-inducing kinase. Immunity 21, 477–489 (2004).15485626 </plain></SENT>
+</text></ref><ref id="b45"><text><SENT sid="419" pm="."><plain>O’MahonyA., LinX., GeleziunasR. &amp; GreeneW. </plain></SENT>
+<SENT sid="420" pm="."><plain>C. Activation of the heterodimeric IkappaB kinase alpha (IKKalpha)-IKKbeta complex is directional: IKKalpha regulates IKKbeta under both basal and stimulated conditions. Mol Cell Biol 20, 1170–1178 (2000).10648602 </plain></SENT>
+</text></ref><ref id="b46"><text><SENT sid="421" pm="."><plain>LiuM. et al. The canonical NF-kappaB pathway governs mammary tumorigenesis in transgenic mice and tumor stem cell expansion. Cancer Res 70, 10464–10473 (2010).21159656 </plain></SENT>
+</text></ref><ref id="b47"><text><SENT sid="422" pm="."><plain>ZhouJ., ZhangH., GuP., BaiJ., MargolickJ. </plain></SENT>
+<SENT sid="423" pm="."><plain>B. &amp; ZhangY. NF-kappaB pathway inhibitors preferentially inhibit breast cancer stem-like cells. Breast Cancer Res Treat 111, 419–427 (2008).17965935 </plain></SENT>
+</text></ref><ref id="b48"><text><SENT sid="424" pm="."><plain>HinoharaK. et al. ErbB receptor tyrosine kinase/NF-kappaB signaling controls mammosphere formation in human breast cancer. Proc Natl Acad Sci USA 109, 6584–6589 (2012).22492965 </plain></SENT>
+</text></ref><ref id="b49"><text><SENT sid="425" pm="."><plain>CaoY., LuoJ. </plain></SENT>
+<SENT sid="426" pm="."><plain>L. &amp; KarinM. IkappaB kinase alpha kinase activity is required for self-renewal of ErbB2/Her2-transformed mammary tumor-initiating cells. Proc Natl Acad Sci USA 104, 15852–15857 (2007).17890319 </plain></SENT>
+</text></ref><ref id="b50"><text><SENT sid="427" pm="."><plain>DhawanP. &amp; RichmondA. A novel NF-kappa B-inducing kinase-MAPK signaling pathway up-regulates NF-kappa B activity in melanoma cells. J Biol Chem 277, 7920–7928 (2002).11773061 </plain></SENT>
+</text></ref><ref id="b51"><text><SENT sid="428" pm="."><plain>GingeryA., BradleyE. </plain></SENT>
+<SENT sid="429" pm="."><plain>W., PedersonL., RuanM., HorwoodN. </plain></SENT>
+<SENT sid="430" pm="."><plain>J. &amp; OurslerM. </plain></SENT>
+<SENT sid="431" pm="."><plain>J. TGF-beta coordinately activates TAK1/MEK/AKT/NFkB and SMAD pathways to promote osteoclast survival. Exp Cell Res 314, 2725–2738 (2008).18586026 </plain></SENT>
+</text></ref><ref id="b52"><text><SENT sid="432" pm="."><plain>HanM. et al. Antagonism of miR-21 reverses epithelial-mesenchymal transition and cancer stem cell phenotype through AKT/ERK1/2 inactivation by targeting PTEN. PLoS One 7, e39520 (2012).22761812 </plain></SENT>
+</text></ref><ref id="b53"><text><SENT sid="433" pm="."><plain>ManiS. </plain></SENT>
+<SENT sid="434" pm="."><plain>A. et al. The epithelial-mesenchymal transition generates cells with properties of stem cells. Cell 133, 704–715 (2008).18485877 </plain></SENT>
+</text></ref><ref id="b54"><text><SENT sid="435" pm="."><plain>MinI. </plain></SENT>
+<SENT sid="436" pm="."><plain>M., PietramaggioriG., KimF. </plain></SENT>
+<SENT sid="437" pm="."><plain>S., PassegueE., StevensonK. </plain></SENT>
+<SENT sid="438" pm="."><plain>E. &amp; WagersA. </plain></SENT>
+<SENT sid="439" pm="."><plain>J. The transcription factor EGR1 controls both the proliferation and localization of hematopoietic stem cells. Cell Stem Cell 2, 380–391 (2008).18397757 </plain></SENT>
+</text></ref><ref id="b55"><text><SENT sid="440" pm="."><plain>MitchellA., DassC. </plain></SENT>
+<SENT sid="441" pm="."><plain>R., SunL. </plain></SENT>
+<SENT sid="442" pm="."><plain>Q. &amp; KhachigianL. </plain></SENT>
+<SENT sid="443" pm="."><plain>M. Inhibition of human breast carcinoma proliferation, migration, chemoinvasion and solid tumour growth by DNAzymes targeting the zinc finger transcription factor EGR-1. Nucleic Acids Res 32, 3065–3069 (2004).15181171 </plain></SENT>
+</text></ref><ref id="b56"><text><SENT sid="444" pm="."><plain>TarcicG. et al. EGR1 and the ERK-ERF axis drive mammary cell migration in response to EGF. FASEB J 26, 1582–1592 (2012).22198386 </plain></SENT>
+</text></ref><ref id="b57"><text><SENT sid="445" pm="."><plain>ThyssR., VirolleV., ImbertV., PeyronJ. </plain></SENT>
+<SENT sid="446" pm="."><plain>F., AberdamD. &amp; VirolleT. NF-kappaB/Egr-1/Gadd45 are sequentially activated upon UVB irradiation to mediate epidermal cell death. EMBO J 24, 128–137 (2005).15616591 </plain></SENT>
+</text></ref><ref id="b58"><text><SENT sid="447" pm="."><plain>JeonH. </plain></SENT>
+<SENT sid="448" pm="."><plain>M., Lee, S. </plain></SENT>
+<SENT sid="449" pm="."><plain>Y., JuM. </plain></SENT>
+<SENT sid="450" pm="."><plain>K., ParkH. </plain></SENT>
+<SENT sid="451" pm="."><plain>G. &amp; KhangH. </plain></SENT>
+<SENT sid="452" pm="."><plain>S. Early Growth Response 1 Induces Epithelial-to-mesenchymal Transiton via Snail. Journal of life science 23, 970–977 (2013). </plain></SENT>
+</text></ref><ref id="b59"><text><SENT sid="453" pm="."><plain>Velasco-VelazquezM. et al. CCR5 antagonist blocks metastasis of basal breast cancer cells. Cancer Res 72, 3839–3850 (2012).22637726 </plain></SENT>
+</text></ref><ref id="b60"><text><SENT sid="454" pm="."><plain>Smyth GK. Linear models and empirical bayes methods for assessing differential expression in microarray experiments. Stat Appl Genet Mol Biol 3, Article3 (2004).16646809 </plain></SENT>
+</text></ref></ref-list></SecTag><fn-group><SecTag type="ACK_FUND"><fn><p><text4fund><text><SENT sid="455" pm="."><plain>Author Contributions K.V.S. carried out the experiments, analyzed data and manuscript writing. </plain></SENT>
+<SENT sid="456" pm="."><plain>J.M.Z. </plain></SENT>
+<SENT sid="457" pm="."><plain>Data analysis and interpretation and manuscript writing. </plain></SENT>
+<SENT sid="458" pm="."><plain>L.M.G., L.J.H., G.M.R., J.G.C. and C.G.T. collection and assembly of data. </plain></SENT>
+<SENT sid="459" pm="."><plain>P.P.S., J.T., V.R. and F.A.M. </plain></SENT>
+<SENT sid="460" pm="."><plain>Provision of study material or patients and collection of data. </plain></SENT>
+<SENT sid="461" pm="."><plain>M.V.V., P.G.L., M.P.T. </plain></SENT>
+<SENT sid="462" pm="."><plain>Provision of study material, V.M.L. </plain></SENT>
+<SENT sid="463" pm="."><plain>Conception and design, financial support, final approval of manuscript, data analysis and interpretation. </plain></SENT>
+</text></text4fund></p></fn></SecTag></fn-group></back><floats-group><SecTag type="FIG"><fig id="f1"><label>Figure 1</label><caption><title>Characterization of Breast Cancer Stem Cell (BCSC) populations in MCF7 and MDA-MB-231 cell lines.</title><p><text><SENT sid="464" pm="."><plain>(A) Fluorescence activated cell sorting (FACS) analysis of cell surface proteins showing proportions of Cancer stem cells (CD44+/CD24low/−) in breast cancer cell lines. </plain></SENT>
+<SENT sid="465" pm="."><plain>(B) FACS analysis of CD44 and ESA showing proportions of CSCs in the MDA-MB-231 (triple negative) cell line. </plain></SENT>
+<SENT sid="466" pm="."><plain>Three biological experiments were done for each cell line. </plain></SENT>
+<SENT sid="467" pm="."><plain>(C) BCSCs (CD44+/CD24low/−) and non-BCSCs (CD44−/CD24+) populations isolated from MCF7 were tested for their clonogenic potential in soft agar assays (4,000 seeded cells). </plain></SENT>
+<SENT sid="468" pm="."><plain>BCSCs showed increased clonogenic ability (n = 3, error bars are +/− s.e.m, *p &lt; 0.05). </plain></SENT>
+<SENT sid="469" pm="."><plain>(D) To confirm the clonogenic potential of MDA-MB-231 BCSCs (ESA+), limited dilution assays were performed. </plain></SENT>
+<SENT sid="470" pm="."><plain>CD44+/ESA+ or CD44−/ESA− cells colony numbers grown at low cell density. </plain></SENT>
+<SENT sid="471" pm="."><plain>(n = 3, error bars are +/− s.e.m, *p &lt; 0.05). </plain></SENT>
+<SENT sid="472" pm="."><plain>(E) Cancer stem cell markers (NANOG, OCT4, SOX2, ALDH1A1, ALDH8A1, and ALDH1A3) expression was analyzed by Real time PCR (RT-qPCR) in MCF7 BCSC and non-BCSC populations. </plain></SENT>
+<SENT sid="473" pm="."><plain>MCF7 BCSCs showed higher expression levels of CSC markers. </plain></SENT>
+<SENT sid="474" pm="."><plain>(n = 3, error bars are +/− s.e.m, *p &lt; 0.05). </plain></SENT>
+<SENT sid="475" pm="."><plain>(F) Real Time-PCR analysis of CSC markers showed that CD44+/ESA+ cells expressed higher levels of SOX2, OCT4, NANOG and ALDH181. </plain></SENT>
+<SENT sid="476" pm="."><plain>(n = 2, error bars are +/− s.e.m). </plain></SENT>
+</text></p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep37340-f1"/></fig></SecTag><SecTag type="FIG"><fig id="f2"><label>Figure 2</label><caption><title>Nuclear factor-kappa B-inducing kinase (NIK) role in the regulation of Cancer stem cell (CSC) population of MCF7 and MDA-MB-231.</title><p><text><SENT sid="477" pm="."><plain>(A,B) Breast cancer stem cell (BCSC) populations derived from MCF7 and MDA-MB-_231 are enriched in NIK. </plain></SENT>
+<SENT sid="478" pm="."><plain>RT-qPCR analysis demonstrated that NIK is mainly expressed in the BCSC population of MCF7 (A) (n = 3, error bars are +/− s.e.m) and MDAMB231 (B) (n = 2, error bars are +/− s.e.m) cell lines. </plain></SENT>
+<SENT sid="479" pm="."><plain>To knockdown NIK, two short hairpin RNA (shRNA) were used in MCF7 (C) and MDA-MB231 (D) cell lines. </plain></SENT>
+<SENT sid="480" pm="."><plain>(n = 3, error bars are +/− s.e.m, *P &lt; 0.05). </plain></SENT>
+<SENT sid="481" pm="."><plain>(E) The impact of NIK expression over CSC markers levels was evaluated after stable inhibition of NIK in two independent MCF7 replicates. </plain></SENT>
+<SENT sid="482" pm="."><plain>Real Time PCR analysis shows that NIK depletion affects the expression of CSC markers (SOX2, OCT4, ALDH1A3, ALDH8A1). </plain></SENT>
+<SENT sid="483" pm="."><plain>(n = 2, error bars are +/− s.e.m). </plain></SENT>
+<SENT sid="484" pm="."><plain>(F) Effect of NIK inhibition in two independent MDA-MB-231 stable transfected cells lines with shNIK1 or shNIK2. </plain></SENT>
+<SENT sid="485" pm="."><plain>RT-qPCR analysis of markers expression after stable NIK inhibition in MDA-MB-231 cells. </plain></SENT>
+<SENT sid="486" pm="."><plain>All Real Time PCR were normalized to TBP. </plain></SENT>
+<SENT sid="487" pm="."><plain>The level of CSC markers or NIK was designated to 1 for MCF7 or MDA-MB-231 control cells (shLuc). </plain></SENT>
+<SENT sid="488" pm="."><plain>(n = 2, error bars are +/− s.e.m). </plain></SENT>
+</text></p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep37340-f2"/></fig></SecTag><SecTag type="FIG"><fig id="f3"><label>Figure 3</label><caption><title>Nuclear factor-kappa-inducing kinase (NIK) deficiency impaired tumorigenic and clonogenic potential.</title><p><text><SENT sid="489" pm="."><plain>(A,B) Frequency of CSCs in MCF7 (A) and MDA-MB-231 (B) depleted NIK cells compared to shLuc cells. </plain></SENT>
+<SENT sid="490" pm="."><plain>(n = 3, error bars are s.e.m., *p &lt; 0.05). </plain></SENT>
+<SENT sid="491" pm="."><plain>(C,D) Flow cytometry analysis of CD44 (C) and CD24 (D) cell surface markers in NIK-deficient stable MCF7 cells. </plain></SENT>
+<SENT sid="492" pm="."><plain>(E,F) Flow cytometry analysis of CD44 (E) and ESA (F) cell surface markers in NIK-deficient stable MDA-MB-231 cells and control cells respectively. </plain></SENT>
+<SENT sid="493" pm="."><plain>Images represent an example of three independent experiments. </plain></SENT>
+<SENT sid="494" pm="."><plain>(G) Soft agar clonogenic assays (4,000 seeded cells) reveals that stable NIK-deficient cells exhibit a reduced clonogenic ability of MCF7 cells. </plain></SENT>
+<SENT sid="495" pm="."><plain>(n = 3, error bars are s.e.m, *p &lt; 0.05. </plain></SENT>
+<SENT sid="496" pm="."><plain>(H) Limited dilution assays showing colonies from three NIK depleted MDA-MB-231 cell lines grown at low cell density. </plain></SENT>
+<SENT sid="497" pm="."><plain>(n = 3, error bars are s.e.m, *p &lt; 0.05). </plain></SENT>
+<SENT sid="498" pm="."><plain>(I) Number of spheres formed by three stable NIK-deficient MCF7 cell lines. </plain></SENT>
+<SENT sid="499" pm="."><plain>(n = 3, error bars are s.e.m. *p &lt; 0.05) (J) ELDA analysis showing cancer stem cell frequency in MDA-MB-231 deficient-NIK cells and MDA-MB-231 control cells xenotransplanted in nude mice. </plain></SENT>
+<SENT sid="500" pm="."><plain>A total of 24 mice were xenotransplanted with 5000 (n = 5), 25000 (n = 6), 100000 (n = 8) or 250000 (n = 5) cells. </plain></SENT>
+<SENT sid="501" pm="."><plain>MDA-MB-231 stable deficient-NIK cells were inoculated into the right flanks and MDA-MB-231 control cells in the left flank. </plain></SENT>
+<SENT sid="502" pm="."><plain>Tumors were monitored by bioluminescence. </plain></SENT>
+<SENT sid="503" pm="."><plain>The frequency of cancer stem cells was calculated using ELDA software. </plain></SENT>
+</text></p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep37340-f3"/></fig></SecTag><SecTag type="FIG"><fig id="f4"><label>Figure 4</label><caption><title>Forced expression of Nuclear factor-kappa B-inducing kinase (NIK) increases the Cancer stem cell fraction and increases tumorigenic and clonogenic potential.</title><p><text><SENT sid="504" pm="."><plain>(A) RT-qPCR analysis showing increased NIK expression in relation to MCF7 control cells. </plain></SENT>
+<SENT sid="505" pm="."><plain>(n = 3, error bars are s.e.m, *p &lt; 0.05). </plain></SENT>
+<SENT sid="506" pm="."><plain>(B) Expression of CSC markers in three stable NIK-overexpressing MCF7 cells. </plain></SENT>
+<SENT sid="507" pm="."><plain>Levels of CSC markers were assessed by RT-qPCR assays and normalized to TBP. </plain></SENT>
+<SENT sid="508" pm="."><plain>(n = 3, error bars are s.e.m., *p &lt; 0.05). </plain></SENT>
+<SENT sid="509" pm="."><plain>(C) Frequency of CSCs in MCF7 control and MCF7 over-expressing cells (n = 3, error bars are s.e.m., *p &lt; 0.05). </plain></SENT>
+<SENT sid="510" pm="."><plain>Results showed that forced expression of NIK increases the CSC fraction. </plain></SENT>
+<SENT sid="511" pm="."><plain>(D,E) Flow cytometry analysis of CD44 (D) or CD24 (E) in MCF7 overexpressing NIK and MCF7 control cells. </plain></SENT>
+<SENT sid="512" pm="."><plain>Images represent an example of three independent experiments. </plain></SENT>
+<SENT sid="513" pm="."><plain>(F) Clonogenic assays showed that forced expression of NIK increase clonogenic ability. </plain></SENT>
+<SENT sid="514" pm="."><plain>Experiments were performed in three independent stable cell clones. </plain></SENT>
+<SENT sid="515" pm="."><plain>(n = 3, error bars are s.e.m., *p &lt; 0.05). </plain></SENT>
+<SENT sid="516" pm="."><plain>(G) Quantification of mammosphere number derived from MCF7 mock cells (MCF7-Mock) and NIK-overexpressing MCF7 cells (MCF7-NIK+) in both first and second passages. </plain></SENT>
+<SENT sid="517" pm="."><plain>For mammosphere assay, 2.5 × 105 cells/ml of each cell line were seeded. </plain></SENT>
+<SENT sid="518" pm="."><plain>(n = 3, error bars are s.e.m., *p &lt; 0.05). </plain></SENT>
+<SENT sid="519" pm="."><plain>(H) A total of 8 mice were xenotransplanted with 100000 (n = 4) and 10000 (n = 4) MCF7 overexpressing cells or MCF7 control cells. </plain></SENT>
+<SENT sid="520" pm="."><plain>MCF7 stable overexpressing-NIK cells were inoculated into the right flanks and MCF7 control cells in the left flank. </plain></SENT>
+<SENT sid="521" pm="."><plain>Tumors were monitored each week during 120 days. </plain></SENT>
+<SENT sid="522" pm="."><plain>The frequency of cancer stem cells was calculated using ELDA software. </plain></SENT>
+</text></p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep37340-f4"/></fig></SecTag><SecTag type="FIG"><fig id="f5"><label>Figure 5</label><caption><title>Nuclear factor-kappa B-inducing kinase (NIK) overexpression induces activation of canonical and non-canonical molecules</title><p><text><SENT sid="523" pm="."><plain>. </plain></SENT>
+<SENT sid="524" pm="."><plain>(A) Reporter gene assay showing the effects of NIK overexpression over NF-κB activity under basal conditions. </plain></SENT>
+<SENT sid="525" pm="."><plain>Assays were performed in MCF7 cells transiently transfected with control or NIK expression vector. </plain></SENT>
+<SENT sid="526" pm="."><plain>(n = 3, error bars are s.e.m.). </plain></SENT>
+<SENT sid="527" pm="."><plain>(B) Reporter gene assay showing the effects of NIK depletion on NF-κB activity. </plain></SENT>
+<SENT sid="528" pm="."><plain>Assays were performed in an MCF7 stable cell line bearing an NF-κB reporter vector. </plain></SENT>
+<SENT sid="529" pm="."><plain>Stable cells were transiently transfected to inhibit NIK. </plain></SENT>
+<SENT sid="530" pm="."><plain>NF-κB activity was calculated as fold difference between control and NIK-silenced cells. </plain></SENT>
+<SENT sid="531" pm="."><plain>(n = 4, error bars are +/− s.e.m. *p &lt; 0.05). </plain></SENT>
+<SENT sid="532" pm="."><plain>(C) Western blot of NF-κB molecules in MCF7 enriched NIK and in MCF7 control cells. </plain></SENT>
+<SENT sid="533" pm="."><plain>GAPDH was used as a loading control. </plain></SENT>
+<SENT sid="534" pm="."><plain>(D) Densitometric scans from three independent assays were quantified, normalized to GAPDH and calculated as fold difference. </plain></SENT>
+<SENT sid="535" pm="."><plain>(E–J) Immunofluorescence analysis of p52 (E), RelB (F), p50 (G), p65 (H), phospho-P52 (I) and phosphor-P65 (J) in MCF7 cells transiently overexpressing NIK and MCF7 control cells. </plain></SENT>
+<SENT sid="536" pm="."><plain>Nuclear factor kappa B (NF-κB) proteins were stained with Cy3-conjugated secondary antibody and nuclei were stained with 4′-6-Diamidino-2-phenolindole (DAPI). </plain></SENT>
+<SENT sid="537" pm="."><plain>Photographs are representative of three independent experiments. </plain></SENT>
+<SENT sid="538" pm="."><plain>Images for immunofluorescence staining were taken using an x 63 oil lens. </plain></SENT>
+</text></p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep37340-f5"/></fig></SecTag><SecTag type="FIG"><fig id="f6"><label>Figure 6</label><caption><title>NIK is expressed mainly in the Human epithelial growth factor receptor (HER2) subtype.</title><p><text><SENT sid="539" pm="."><plain>(A) Pie chart showing the percentage of HER2, Luminal, and Triple Negative breast cancer samples (n = 191). </plain></SENT>
+<SENT sid="540" pm="."><plain>(B) Percentage of cells expressing NIK in HER2, Luminal, and Triple Negative breast tumors. </plain></SENT>
+<SENT sid="541" pm="."><plain>NIK expression is higher in HER2 breast tumors (p = 0.01). </plain></SENT>
+<SENT sid="542" pm="."><plain>(C) Percentage of cells expressing NIK in tumors with different expression levels of HER2 (0 = absent; 1 = weak; 2 = moderate; 3 = strong). </plain></SENT>
+<SENT sid="543" pm="."><plain>NIK expression is higher in tumors with strong expression of HER2 (p = 0.005). </plain></SENT>
+<SENT sid="544" pm="."><plain>(D) Pie chart showing the percentage of Grades I, II, and III breast cancer tissues (n = 191). </plain></SENT>
+<SENT sid="545" pm="."><plain>(E) Percentage of cells expressing NIK in Grade I, II and III tumors. </plain></SENT>
+<SENT sid="546" pm="."><plain>NIK expression levels increase in Grade III tumor (p = 0.07). </plain></SENT>
+</text></p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep37340-f6"/></fig></SecTag><SecTag type="FIG"><fig id="f7"><label>Figure 7</label><caption><title>Immunohistochemistry analysis of NIK and Aldehyde dehydrogenase (ALDH) expression in breast carcinomas (<italic>n</italic> = 191).</title><p><text><SENT sid="547" pm="."><plain>(A) Percentage of Nuclear factor-kappa B-inducing kinase (NIK)-positive breast tissues. </plain></SENT>
+<SENT sid="548" pm="."><plain>(B) Percentage of ALDH positive breast tissues. </plain></SENT>
+<SENT sid="549" pm="."><plain>(C) Venn diagram showing breast cancer tissues expressing both NIK and ALDH protein. </plain></SENT>
+<SENT sid="550" pm="."><plain>(D–H) Immunohistochemistry of NIK and Aldehyde dehydrogenase (ALDH) expression. </plain></SENT>
+<SENT sid="551" pm="."><plain>NIK-positive cells are brown based on DAB chromogen, and ALDH-positive cells are pink based on Fast Red chromogen. </plain></SENT>
+<SENT sid="552" pm="."><plain>Nuclei are stained with hematoxylin (blue). </plain></SENT>
+<SENT sid="553" pm="."><plain>The second column represents an enlargement of the area denoted by box in the adjacent left panel showing fine cellular details of immunohistochemistry. </plain></SENT>
+<SENT sid="554" pm="."><plain>(D) Graph showing percentage of tissues having cellular colocalization in Breast Cancer samples expressing both NIK and ALDH. </plain></SENT>
+<SENT sid="555" pm="."><plain>(E) Representation of breast tumors (n = 93) expressing ALDH and NIK in the same cells. </plain></SENT>
+<SENT sid="556" pm="."><plain>(F) Immunohistochemistry of breast tumors showing NIK and ALDH expression in different cells (n = 10). </plain></SENT>
+</text></p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep37340-f7"/></fig></SecTag><SecTag type="FIG"><fig id="f8"><label>Figure 8</label><caption><p><text><SENT sid="557" pm="."><plain>(A) Principal component analysis of gene expression profiles for high NIK-expressing MCF7 cells, low NIK-expressing MCF7 cells and MCF7 control cells. </plain></SENT>
+<SENT sid="558" pm="."><plain>(B) Clustering diagram of samples and differentially expressed genes in MCF7 cells overexpressing NIK and NIK-deficient MCF7 cells. </plain></SENT>
+<SENT sid="559" pm="."><plain>Log-Fold Changes of differentially expressed genes are depicted in a heat map, scaling from low (green) to high (red). </plain></SENT>
+<SENT sid="560" pm="."><plain>Experiments were performed in three independent transiently-transfected MCF7 cell lines (C). </plain></SENT>
+<SENT sid="561" pm="."><plain>Graph showing the fold change of stem cells-associated genes in high NIK-expressing cells and (D) low NIK-expressing cells. </plain></SENT>
+<SENT sid="562" pm="."><plain>(E) RT-qPCR analysis of EGR1, TCN1, DUSP6, GDF15, CSPG4 and MAP2K6 in MCF7 overexpressing-NIK cells, MCF7 control cells, NIK-deficient MCF7 cells (shNIK1 and shNIK2) and MCF7 control cells (shLuc). </plain></SENT>
+<SENT sid="563" pm="."><plain>All RT-qPCR were normalized to TBP. </plain></SENT>
+<SENT sid="564" pm="."><plain>(n = 3, error bars are +/− s.d, p &lt; 0.05). </plain></SENT>
+<SENT sid="565" pm="."><plain>(G) IPA network of top gene networks from NIK-overexpressing cells. </plain></SENT>
+<SENT sid="566" pm="."><plain>(H) IPA network of top gene networks from NIK-depleted cells. </plain></SENT>
+<SENT sid="567" pm="."><plain>Note that ERK1/2 is a central node in both networks. </plain></SENT>
+<SENT sid="568" pm="."><plain>Red color indicates induced genes and green color represents suppressed genes. </plain></SENT>
+</text></p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep37340-f8"/></fig></SecTag><SecTag type="FIG"><fig id="f9"><label>Figure 9</label><caption><title>NIK regulates target genes through ERK pathway.</title><p><text><SENT sid="569" pm="."><plain>(A) Western Blot analysis of phospho-ERK1/2 in MCF7 transiently expressing NIK, control vector or NIK knock-down cells. </plain></SENT>
+<SENT sid="570" pm="."><plain>(n = 3, error bars are s.d., p* &lt; 0.03). </plain></SENT>
+<SENT sid="571" pm="."><plain>(B) Relative expression of target genes in MCF7 cells treated with 30 uM FR180204 or an equivalent amount of DMSO during 24 hrs. </plain></SENT>
+<SENT sid="572" pm="."><plain>The lower image represents the effect of FR180204 on ERK1/2 inhibition. </plain></SENT>
+<SENT sid="573" pm="."><plain>(n = 3, error bars are s.d., *p &lt; 0.05) (C) Relative expression of target genes in MCF7 transiently overexpressing NIK cells cultured with 30 μM FR180204 or DMSO for 24 hrs. </plain></SENT>
+<SENT sid="574" pm="."><plain>(n = 2, error bars are s.e.m) (D) Frequency of CSCs in MCF7 control and MCF7 over-expressing cells cultured with 30 uM FR180204 or DMSO during 24 hr. </plain></SENT>
+<SENT sid="575" pm="."><plain>(n = 3, error bars are s.d., *p &lt; 0.04). </plain></SENT>
+</text></p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep37340-f9"/></fig></SecTag></floats-group></article>
